@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>15681146</compressCowSize>
+<cowsize>642084864</cowsize>
+<payloadOffset>899</payloadOffset>
+<fileHash>Uy3AboKq6eqzWEzHtkU7XXC+KagFLArDddu7gMZBvVw=</fileHash>
+<fileSize>8063</fileSize>
+<metadataHash>/0+iuJot5KUtt8ATD56TlQZx1MqiWSSTRwbOJ6EXuaM=</metadataHash>
+<metadataSize>4536</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_DNP-N09_claro_la_R1.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_DNP-N09_claro_la_R1.zip</spath>
+<dpath>update_preload_DNP-N09_claro_la_R1.zip</dpath>
+<operation>c</operation>
+<sha256>5245E3A7AA9EA0E22BFCFAEC8484BC682D96969D2518241EC12649A02EFAE12C</sha256>
+<size>15370</size>
+</file>
+</files>
+</root>

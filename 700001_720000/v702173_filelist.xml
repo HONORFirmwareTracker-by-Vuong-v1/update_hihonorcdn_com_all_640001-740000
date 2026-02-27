@@ -1,0 +1,14 @@
+<root>
+	<packageName>com.hihonor.visionengine</packageName>
+	<pluginName>cameraalgowrap</pluginName>
+	<versionCode>90100029</versionCode>
+	<packageType>increment</packageType>
+	<files>
+		<file>
+			<spath>update_plugin.zip</spath>
+			<dpath>update_plugin.zip</dpath>
+			<sha256>19d5449fae6f6e160f082df035bd0acdfd83fc5950de952b535d09b530f211d4</sha256>
+			<size>5490</size>
+		</file>
+	</files>
+</root>

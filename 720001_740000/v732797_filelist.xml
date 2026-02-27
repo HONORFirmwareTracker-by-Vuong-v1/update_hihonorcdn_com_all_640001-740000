@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>723374080</cowsize>
+<payloadOffset>908</payloadOffset>
+<fileHash>U68Iz/G8j2oBw4n+lzX9HPnn5AwYs5oST8ugqPx1Pvg=</fileHash>
+<fileSize>21681</fileSize>
+<metadataHash>HwVhEGTIoYbqwY4A37zYXgzQDAmsYrXVaW16ZqxHScc=</metadataHash>
+<metadataSize>18237</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_CRT-L32_def_spcseas_R2.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_CRT-L32_def_spcseas_R2.zip</spath>
+<dpath>update_preload_CRT-L32_def_spcseas_R2.zip</dpath>
+<operation>c</operation>
+<sha256>3913D11C581BE79B9E21478EE49AB552570639A0B76F14AF23D69C563061CC49</sha256>
+<size>28994</size>
+</file>
+</files>
+</root>

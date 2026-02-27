@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2166366208</cowsize>
+<payloadOffset>940</payloadOffset>
+<fileHash>bQQ8FIonWaqICf0NHN8ccDoWE7Qm+u1M5914DrInC38=</fileHash>
+<fileSize>960721030</fileSize>
+<metadataHash>yL1ivbZw1FTf8WiIGtKbwY5bB1OI56Adxef8gqTCg1w=</metadataHash>
+<metadataSize>12648</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_PTP-N59_porsche_normal_R3.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_PTP-N59_porsche_normal_R3.zip</spath>
+<dpath>update_preload_PTP-N59_porsche_normal_R3.zip</dpath>
+<operation>c</operation>
+<sha256>B2524C5D3A8B03C46CD775C6D727CCCB688C53A7D41C50548D86AA23798A700B</sha256>
+<size>960728381</size>
+</file>
+</files>
+</root>

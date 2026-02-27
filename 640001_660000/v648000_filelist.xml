@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>89718329</compressCowSize>
+<cowsize>2166366208</cowsize>
+<payloadOffset>933</payloadOffset>
+<fileHash>4pR/V1Pq+XV8CeMIpM/lB/Y4tCx/J3R4sBbV/MAymyU=</fileHash>
+<fileSize>55063161</fileSize>
+<metadataHash>VjP/ZrJ50iAqrTKqrABpv+nmX0RSFybN+pa8uas9J5A=</metadataHash>
+<metadataSize>184387</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_PTP-N49_def_la_R200.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_PTP-N49_def_la_R200.zip</spath>
+<dpath>update_preload_PTP-N49_def_la_R200.zip</dpath>
+<operation>c</operation>
+<sha256>954037048DD1AB4CE119BDDE7CD154090406361B27646FD81B93CCAE34524F32</sha256>
+<size>55070504</size>
+</file>
+</files>
+</root>

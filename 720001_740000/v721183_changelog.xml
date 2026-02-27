@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<isApp>false</isApp>
+	<hasModem>false</hasModem>
+	<component name="TCPU" version="20.0.0.40(SP2C233)" level="1"/>
+	<default-language name="en-us">1033</default-language>
+
+	<language name="zh-cn" code="2052">
+		<features>
+		<feature name="IDS_CHANGELOG_UPDATE_LOG_TITLE" type="title">更新内容</feature>
+		<feature name="IDS_CHANGELOG_UPDATE_LOG_CONTENT_119">1. 优化管家稳定性。
+2. 修复部分已知体验问题。</feature>
+        </features>
+	</language>
+	<language name="en-us" code="1033">
+		<features>
+		<feature name="IDS_CHANGELOG_UPDATE_LOG_TITLE" type="title">Update</feature>
+		<feature name="IDS_CHANGELOG_UPDATE_LOG_CONTENT_119">Fixed some known issues.</feature>
+        </features>
+	</language>
+</root>

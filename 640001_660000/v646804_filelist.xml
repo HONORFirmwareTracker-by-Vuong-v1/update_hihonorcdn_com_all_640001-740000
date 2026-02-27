@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>120133259</compressCowSize>
+<cowsize>1214742528</cowsize>
+<payloadOffset>932</payloadOffset>
+<fileHash>/y0dBrts/V+lQvor/RTGTo1huGYnaxduneMR7Dlp8OA=</fileHash>
+<fileSize>77627583</fileSize>
+<metadataHash>Z27cvE7Yt1Qqd/ESgfP3x3oWDwF7Lrj8p5JetIFIXbw=</metadataHash>
+<metadataSize>43197</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_FCP-N49_def_la_R3.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_FCP-N49_def_la_R3.zip</spath>
+<dpath>update_preload_FCP-N49_def_la_R3.zip</dpath>
+<operation>c</operation>
+<sha256>FFA6CB8EE86DFD063A165E5BE0562EFFF287543E7ECDA269ECA54D809E72F421</sha256>
+<size>77634920</size>
+</file>
+</files>
+</root>

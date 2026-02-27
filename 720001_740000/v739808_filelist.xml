@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>43958272</cowsize>
+<payloadOffset>907</payloadOffset>
+<fileHash>qqYcVwmIc7xQN5FdlY1BaaL4o4Jz2qH0MKQCNCquSf4=</fileHash>
+<fileSize>15237</fileSize>
+<metadataHash>0F9QEMZfYo007ygD+a/L9UJuEOc/XP/O6xyY+Y0r22A=</metadataHash>
+<metadataSize>1178</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_MEP-AN00_all_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_MEP-AN00_all_cn.zip</spath>
+<dpath>update_cust_MEP-AN00_all_cn.zip</dpath>
+<operation>c</operation>
+<sha256>04FDD3D919179A511A130E888FB0237F7AEA5500AA942C720FA86B409E8B4D27</sha256>
+<size>22536</size>
+</file>
+</files>
+</root>

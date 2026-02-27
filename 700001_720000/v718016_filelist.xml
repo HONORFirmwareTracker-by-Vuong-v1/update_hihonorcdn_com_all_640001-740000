@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<cowsize>348737536</cowsize>
+<payloadOffset>852</payloadOffset>
+<fileHash>i17t/F8czbwE4s6nmBVwK2YA3pmhRv7Rlajmm7t+9yM=</fileHash>
+<fileSize>43418</fileSize>
+<metadataHash>/KJiWgW8Tu7FsqBnK/KfOmzfU2TOSCY/lQD7J59AJJk=</metadataHash>
+<metadataSize>15828</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<preAdjustFeature>false</preAdjustFeature>
+<vendorInfo name="cust" package="update_cust_DIO-TN00_cmcc_cn.zip" precut_size="0" subpath=""/>
+<GROUP version="NA"/>
+<GBC version="NA"/>
+<files>
+<file>
+<spath>update_cust_DIO-TN00_cmcc_cn.zip</spath>
+<dpath>update_cust_DIO-TN00_cmcc_cn.zip</dpath>
+<operation>c</operation>
+<sha256>CAA2A71183323009D3A033789AF629A7C80448F27F5B23E7C4BD92D3C1A63F8A</sha256>
+<size>50666</size>
+</file>
+</files>
+</root>

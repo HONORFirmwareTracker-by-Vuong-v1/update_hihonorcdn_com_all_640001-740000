@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>311920373</compressCowSize>
+<cowsize>1332695040</cowsize>
+<payloadOffset>941</payloadOffset>
+<fileHash>r3Gr1dn4diAQPYyW/kQBBIZOAgbEDHw8HNx51tsMow0=</fileHash>
+<fileSize>228097521</fileSize>
+<metadataHash>Tihf0OXRpKv8GKQ7z1wJr2ASgdIrHKa5UsFS7VbJEas=</metadataHash>
+<metadataSize>832807</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_CLE-AN00_demo_cn_R101.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_CLE-AN00_demo_cn_R101.zip</spath>
+<dpath>update_preload_CLE-AN00_demo_cn_R101.zip</dpath>
+<operation>c</operation>
+<sha256>EA497846FE20ECC02F163A439E3E5B8D8773263DDB9280A7DACA77AB29FE867E</sha256>
+<size>228104876</size>
+</file>
+</files>
+</root>

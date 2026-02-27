@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1383178240</cowsize>
+<payloadOffset>924</payloadOffset>
+<fileHash>ZVXwP6jLr6JsCGRAeh7n0KiZvLWAj6irLJ9TqScTG1Y=</fileHash>
+<fileSize>8281918</fileSize>
+<metadataHash>bRK9/h5DkYAEMVb6vfTgGTahdwRLrOmarrgcIbw4N+s=</metadataHash>
+<metadataSize>17843</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_ALT-N33E_def_la_R201.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_ALT-N33E_def_la_R201.zip</spath>
+<dpath>update_preload_ALT-N33E_def_la_R201.zip</dpath>
+<operation>c</operation>
+<sha256>3EAF53114DCE823EA34FEE4812F6E2696F848D735870552D62B129D264A7E48F</sha256>
+<size>8289247</size>
+</file>
+</files>
+</root>

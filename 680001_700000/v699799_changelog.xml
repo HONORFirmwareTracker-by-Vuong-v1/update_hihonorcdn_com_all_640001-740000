@@ -1,0 +1,186 @@
+<root>
+    <component name="TCPU" version="请自行修改"></component>
+    <default-language name="en-us">1033</default-language>
+    <language code="2052" name="zh-cn">
+                <features module="" type="header">
+            <feature>亲爱的用户，本次更新主要针对系统进行了优化，推荐您进行更新</feature>
+        </features>
+        <features module="PC 级 WPS Office">
+             <feature>•  新增 WPS 灵犀功能</feature>
+             <feature>•  新增字体导入功能，长按桌面图标进入即可</feature>
+             <feature>•  优化安全机制 (需要您重新登录 WPS 账号)</feature>
+        </features>
+        <features module="PC 模式">
+             <feature>•  优化 PC 模式使用体验</feature>
+        </features>
+        <features module="系统">
+             <feature>•  新增 WLAN 断开连接、密码显示功能。体验路径：设置 > WLAN > 点击已连接的 WLAN，可断开 WLAN 或者查看密码</feature>
+        </features>
+        <features module="游戏">
+             <feature>•  优化部分游戏的游玩体验</feature>
+        </features>
+        <features module="稳定性">
+             <feature>•  提升系统稳定性</feature>
+        </features>
+        <features module="安全补丁">
+             <feature>•  合入安卓 2025 年 11 月安全补丁，增强系统安全性。有关荣耀软件安全更新内容的信息，请访问荣耀官方网站 https://www.honor.com/cn/support/bulletin/2025/11</feature>
+        </features>
+         <features module="更新注意事项" type="end">
+             <feature>1. 本次更新不会删除您的用户数据，但仍建议您在更新前做好数据备份
+2. 更多精彩功能介绍，请访问“玩机技巧”应用
+3. 如果您在使用过程中遇到任何问题，请访问“我的荣耀”应用或访问荣耀官方服务网站 https://www.honor.com/cn/contact-us 寻求支持</feature>
+         </features>
+    </language>
+            <language code="1033" name="en-us">
+                <features module="" type="header">
+            <feature>Dear user, this update mainly enhances the system performance. Update to enjoy the improvements</feature>
+        </features>
+        <features module="PC-level WPS Office">
+             <feature>• Includes WPS AI features</feature>
+             <feature>• Long press the home screen icon to access the new font import feature</feature>
+             <feature>• Enhances the security mechanism (you need to log in to your WPS account again)</feature>
+        </features>
+        <features module="PC mode">
+             <feature>• Optimizes the user experience in PC mode</feature>
+        </features>
+        <features module="System">
+             <feature>• Supports disconnecting from WLAN and viewing the password. Go to Settings > WLAN, tap the connected WLAN, then you can disconnect it or view the password</feature>
+        </features>
+        <features module="Games">
+             <feature>• Improves the gameplay experience of some games</feature>
+        </features>
+        <features module="Stability">
+             <feature>• Improves the system stability</feature>
+        </features>
+        <features module="Security patch">
+             <feature>• Android security patch (Nov 2025) has been incorporated for system security. For more information about Honor Security updates, please visit our website https://www.honor.com/global/support/bulletin/2025/11</feature>
+        </features>
+         <features module="Notes" type="end">
+             <feature>1. Installing this update will not affect your personal data, but it is still recommended to back up your data before updating
+2. Discover more information on product features in Tips
+3. If you encounter any issue during use, please get support by going to My Honor or visiting our website: https://www.honor.com/cn/contact-us</feature>
+         </features>
+    </language>
+            <language code="1105" name="bo-cn">
+                <features module="" type="header">
+            <feature>སྙིང་ཉེ་བའི་སྤྱོད་མཁན་ལགས། ཐེངས་འདིའི་གསར་སྒྱུར་ནི་གཙོ་བོ་རྒྱུད་ཁོངས་ལ་དམིགས་ནས་ལེགས་སྒྱུར་བྱས་ཡོད། ཁྱེད་ལ་གསར་སྒྱུར་བྱ་རྒྱུའི་འོས་སྦྱོར་བྱེད།</feature>
+        </features>
+        <features module="PC རིམ་པའི་ WPS Office">
+             <feature>• WPS ཀུན་རྟོགས་རྩོལ་ནུས།</feature>
+             <feature>• ཡིག་གཟུགས་འདྲེན་འཇུག་རྩོལ་ནུས་གསར་སྣོན་བྱས་ཡོད། ཅོག་ངོས་རིས་རྟགས་ཡུན་རིང་གནོན་ན་མྱུར་དུ་འཛུལ་བ་ཙམ་གྱིས་ཆོག</feature>
+             <feature>• བདེ་འཇགས་ལམ་ལུགས་ལེགས་སྒྱུར་བྱེད། (ཁྱེད་ཀྱིས་ཡང་བསྐྱར་ WPS ཐོ་ཨང་ཐོ་འཇུག་བྱེད་དགོས།)</feature>
+        </features>
+        <features module="PC རྣམ་པ།">
+             <feature>• PC རྣམ་པའི་བེད་སྤྱོད་ཉམས་ལེན་ལེགས་སྒྱུར་བྱས་ཡོད།</feature>
+        </features>
+        <features module="རྒྱུད་ཁོངས།">
+             <feature>• WLAN སྦྲེལ་ལམ་གཅོད་པ་དང་གསང་གྲངས་མངོན་སྟོན་རྩོལ་ནུས་གསར་སྣོན་བྱས་ཡོད། ཉམས་ལེན་བརྒྱུད་ལམ། སྒྲིག་འགོད་ནས་ WLAN དེ་ནས་འབྲེལ་མཐུད་བྱས་ཟིན་པའི་ WLAN ལ་བརྡབས་ནས་ WLAN གཅོད་པའམ་གསང་གྲངས་ལ་ལྟ་ཞིབ་བྱ་ཆོག</feature>
+        </features>
+        <features module="རོལ་རྩེད།">
+             <feature>• རོལ་རྩེད་ཁག་ཅིག་གི་རྩེད་མོའི་ཉམས་ལེན་ལེགས་སྒྱུར་བྱས་ཡོད།</feature>
+        </features>
+        <features module="བརྟན་འཇགས་རང་བཞིན།">
+             <feature>• རྒྱུད་ཁོངས་ཀྱི་བརྟན་འཇགས་རང་བཞིན་མཐོར་འདེགས་བཏང་ཡོད།</feature>
+        </features>
+        <features module="བདེ་འཇགས་ལྷན་པ།">
+             <feature>• ཨན་སྒྲོའི་ 2025 ལོའི་ཟླ་བ་ 11 པའི་བདེ་འཇགས་ལྷན་པ་འདྲེས་འཇུག་བྱས་ཏེ། རྒྱུད་ཁོངས་ཀྱི་བདེ་འཇགས་རང་བཞིན་སྟོབས་སྒྱུར་གཏོང་། རུང་ཡོའོ་མཉེན་ཆས་ཀྱི་བདེ་འཇགས་གསར་སྒྱུར་ནང་དོན་སྐོར་གྱི་ཆ་འཕྲིན་ལ། རུང་ཡོའོ་གཞུང་ཕྱོགས་དྲ་ཚིགས་ https://www.honor.com/cn/support/bulletin/2025/11 ལ་ལྟ་སྤྱོད་བྱེད་རོགས།</feature>
+        </features>
+         <features module="གསར་སྒྱུར་གྱི་དོ་སྣང་དོན་ཚན།" type="end">
+             <feature>1. ཐེངས་འདིའི་གསར་སྒྱུར་གྱིས་ཁྱེད་ཀྱི་སྤྱོད་མཁན་གཞི་གྲངས་སུབ་མི་སྲིད། འོན་ཀྱང་ཁྱེད་ཀྱིས་གསར་སྒྱུར་བྱེད་སྔོན་གཞི་གྲངས་གྲབས་ཉར་བྱས་ན་ལེགས།
+2. དེ་ལས་མང་བའི་རྩོལ་ནུས་ལེགས་པོའི་ངོ་སྤྲོད་ཐད་ཁ་པར་རྩེ་བའི་ལག་རྩལ་གྱི་ཉེར་སྤྱོད་ལ་ལྟ་སྤྱོད་བྱ་རོགས།
+3. གལ་ཏེ་ཁྱེད་ཀྱིས་བེད་སྤྱོད་བྱེད་པའི་གོ་རིམ་ཁྲོད་གནད་དོན་གང་རུང་ལ་འཕྲད་ཚེ། ངའི་རུང་ཡོའོ་ཉེར་སྤྱོད་ལ་ལྟ་སྤྱོད་བྱེད་པའམ ཡང་ན་རུང་ཡོའོ་གཞུང་ཕྱོགས་ཀྱི་ཞབས་ཞུའི་དྲ་ཚིགས་ https://www.honor.com/cn/contact-us ལ་ལྟ་སྤྱོད་བྱས་ཏེ་རྒྱབ་སྐྱོར་ཐོབ་ཐབས་བྱ་རོགས།</feature>
+         </features>
+    </language>
+            <language code="3076" name="zh-hk">
+                <features module="" type="header">
+            <feature>親愛的用戶，本次更新主要針對系統進行了優化，建議您進行更新</feature>
+        </features>
+        <features module="PC 級 WPS Office">
+             <feature>• 新增 WPS 靈犀功能</feature>
+             <feature>• 新增字體匯入功能，長按主屏幕圖標進入即可</feature>
+             <feature>• 優化安全機制（需要您重新登入 WPS 帳戶）</feature>
+        </features>
+        <features module="PC 模式">
+             <feature>• 優化 PC 模式使用體驗</feature>
+        </features>
+        <features module="系統">
+             <feature>• 新增 WLAN 中斷連線和密碼顯示功能。體驗路徑：設定 > WLAN > 輕觸已連線的 WLAN，可中斷 WLAN 連線或者檢視密碼</feature>
+        </features>
+        <features module="遊戲">
+             <feature>• 優化部分遊戲的遊玩體驗</feature>
+        </features>
+        <features module="穩定性">
+             <feature>• 提升系統穩定性</feature>
+        </features>
+        <features module="安全性修補程式">
+             <feature>• 整合 Android 2025年11月的安全性修補程式，增強系統安全性。如需了解有關榮耀軟件安全更新內容的資訊，請瀏覽榮耀官方網站 https://www.honor.com/cn/support/bulletin/2025/11</feature>
+        </features>
+         <features module="更新注意事項" type="end">
+             <feature>1. 本次更新不會刪除您的用戶數據，但仍建議您在更新前做好數據備份
+2. 更多精彩功能介紹，請瀏覽「玩機技巧」應用程式
+3. 如果您在使用過程中遇到任何問題，請瀏覽「我的榮耀」應用程式或瀏覽榮耀官方服務網站 https://www.honor.com/cn/contact-us 尋求支援</feature>
+         </features>
+    </language>
+            <language code="1028" name="zh-tw">
+                <features module="" type="header">
+            <feature>親愛的使用者，本次更新主要針對系統進行了最佳化，建議您進行更新</feature>
+        </features>
+        <features module="PC 級 WPS Office">
+             <feature>• 新增 WPS 靈犀功能</feature>
+             <feature>• 新增字體匯入功能，長按桌面圖示進入即可</feature>
+             <feature>• 最佳化安全機制（您需要重新登入 WPS 帳號）</feature>
+        </features>
+        <features module="PC 模式">
+             <feature>• 最佳化 PC 模式使用體驗</feature>
+        </features>
+        <features module="系統">
+             <feature>• 新增 WLAN 中斷連線、密碼顯示功能。體驗路徑：設定 > WLAN > 輕觸已連線的 WLAN，可中斷 WLAN 連線或者查看密碼</feature>
+        </features>
+        <features module="遊戲">
+             <feature>• 最佳化部分遊戲的遊玩體驗</feature>
+        </features>
+        <features module="穩定性">
+             <feature>• 提升系統穩定性</feature>
+        </features>
+        <features module="安全性修補程式">
+             <feature>• 整合 Android 2025 年 11 月的安全性修補程式，增強系統安全性。如需有關榮耀軟體安全更新內容的資訊，請造訪榮耀官方網站 https://www.honor.com/cn/support/bulletin/2025/11</feature>
+        </features>
+         <features module="更新注意事項" type="end">
+             <feature>1. 本次更新不會刪除您的使用者資料，但仍建議您在更新前做好資料備份
+2. 如需更多精彩功能介紹，請查看「玩機技巧」應用程式
+3. 若您在使用過程中遇到任何問題，請查看「我的榮耀」應用程式，或造訪榮耀官方服務網站 https://www.honor.com/cn/contact-us 尋求支援</feature>
+         </features>
+    </language>
+            <language code="1152" name="ug-cn">
+                <features module="" type="header">
+            <feature>ھۆرمەتلىك ئىشلەتكۈچى، بۇ قېتىملىق يېڭىلاشتا ئاساسلىقى سىستېمىغا قارىتا ئەلالاشتۇرۇش ئېلىپ بېرىلدى، يېڭىلاش تەۋسىيە قىلىنىدۇ</feature>
+        </features>
+        <features module="‏كومپيۇتېر دەرىجىلىك WPS Office">
+             <feature>‏• ‏WPS لىڭشى ئىقتىدارى يېڭىدىن قوشۇلدى</feature>
+             <feature>‏• خەت شەكلى كىرگۈزۈش ئىقتىدارى يېڭىدىن قوشۇلدى، ئۈستەليۈزىدىكى سىنبەلگىنى ئۇزۇن بېسىپ كىرسىڭىزلا بولىدۇ</feature>
+             <feature>‏• بىخەتەرلىك مېخانىزمى ياخشىلاندى (WPS ھېسابىغا قايتىدىن كىرىشىڭىز كېرەك)</feature>
+        </features>
+        <features module="‏PC ھالىتى">
+             <feature>‏• PC ھالىتىنى ئىشلىتىش تەسىراتى ئەلالاشتۇرۇلدى</feature>
+        </features>
+        <features module="‏‏سىستېما">
+             <feature>‏• ‏WLAN ئۇلىنىشىنى ئۈزۈش ۋە مەخپىي نومۇرنى كۆرسىتىش ئىقتىدارلىرى يېڭىدىن قوشۇلدى. تەسىرات ئېلىش يولى: تەڭشەك > WLAN > ئۇلانغان WLAN نى چېكىش، WLAN نى ئۈزگىلى ياكى مەخپىي نومۇرىنى كۆرگىلى بولىدۇ</feature>
+        </features>
+        <features module="‏ئويۇن">
+             <feature>‏• بىر قىسىم ئويۇنلارنى ئويناش تەسىراتى ياخشىلاندى</feature>
+        </features>
+        <features module="تۇراقلىق">
+             <feature>‏• سىستېمىنىڭ مۇقىملىقى يۇقىرى كۆتۈرۈلدى</feature>
+        </features>
+        <features module="‏‏بىخەتەرلىك يامىقى">
+             <feature>‏• ئاندرويدنىڭ 2025-يىل 11-ئايلىق بىخەتەرلىك يامىقى قوشۇلغان بولۇپ، سىستېما بىخەتەرلىكى كۈچەيتىلدى. روڭياۋ يۇمشاق دېتالىنىڭ بىخەتەرلىك يېڭىلاش مەزمۇنىغا ئالاقىدار ئۇچۇرلار ئۈچۈن روڭياۋ ئورگان تەرەپ تور بېكىتى https://www.honor.com/cn/support/bulletin/2025/11 نى زىيارەت قىلىڭ.</feature>
+        </features>
+         <features module="‏يېڭىلاش بىلدۈرگۈسى" type="end">
+             <feature>‏1. بۇ قېتىملىق يېڭىلاش ئىشلەتكۈچى مەلۇماتىڭىزنى ئۆچۈرمەيدۇ، لېكىن يېڭىلاشتىن بۇرۇن يەنىلا مەلۇماتنى زاپاسلاشنى تەۋسىيە قىلىمىز
+‏2. تېخىمۇ كۆپ سەرخىل ئىقتىدارلارنى «ئىشلىتىش كۆرسەتمىسى» ئەپىنى زىيارەت قىلىپ كۆرۈڭ
+‏3. ئەگەر ئىشلىتىش جەريانىدا ھەرقانداق مەسىلىگە يولۇقسىڭىز، «روڭياۋىم» ئەپى ياكى روڭياۋ ئورگان تەرەپ تور بېتى https://www.honor.com/cn/contact-us نى زىيارەت قىلىپ ياردەم سوراڭ</feature>
+         </features>
+    </language>
+            <imgs>
+            </imgs>
+</root>

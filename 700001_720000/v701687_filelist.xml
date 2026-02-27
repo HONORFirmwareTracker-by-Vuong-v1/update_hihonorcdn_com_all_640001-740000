@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1854582784</cowsize>
+<payloadOffset>932</payloadOffset>
+<fileHash>NkW5q1tVRlzlKi2/ZXCmzKjIzem1HNeDX1bhUSI40VQ=</fileHash>
+<fileSize>12175249</fileSize>
+<metadataHash>7sprP8OyRHAJFRt3SmTfpFHiEWqwPWsRbUyI7sfGPI4=</metadataHash>
+<metadataSize>38894</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_PTP-N49_def_meafnaf_R3.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_PTP-N49_def_meafnaf_R3.zip</spath>
+<dpath>update_preload_PTP-N49_def_meafnaf_R3.zip</dpath>
+<operation>c</operation>
+<sha256>4B4387A5DD96DFCEC261F6CA1F1D963F4F5B189A3BF22F81393BB50CDE8F28EB</sha256>
+<size>12182584</size>
+</file>
+</files>
+</root>

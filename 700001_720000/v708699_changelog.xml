@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <component name="TCPU" version="请自行修改"/>
+    <default-language name="en-us">1033</default-language>
+    <language code="2052" name="zh-cn">
+                <features module="" type="header">
+            <feature>亲爱的用户，本次更新主要针对系统进行了优化，推荐您进行更新</feature>
+        </features>
+        <features module="应用">
+             <feature>•  浏览器换新，全面提升 AI 智能体、搜索、网页浏览、交互视觉等体验</feature>
+        <feature title="游戏">•  新增和平精英、王者荣耀闲时更新功能，在夜间充电条件下，连接 Wi-Fi，将自动开启游戏更新。</feature></features>
+        <features module="安全补丁">
+             <feature>•  合入安卓 2025 年 12 月安全补丁，增强系统安全性。有关荣耀软件安全更新内容的信息，请访问荣耀官方网站 https://www.honor.com/cn/support/bulletin/2025/12</feature>
+        </features>
+         
+    <features module="媒体" id="1">
+             <feature title="相机">•  支持动态照片，为您带来更有趣的拍摄体验。</feature>
+         </features><features module="系统" id="3">
+             <feature title="收藏空间">•  新增图片收藏显示设置。您可根据自身需求，设置图片同时显示在图库和收藏空间或仅显示在收藏空间。体验路径：收藏空间右上角三个点 &gt; 设置 &gt; 存储/显示设置 &gt; 图片收藏。</feature>
+             <feature title="稳定性">•  提升系统稳定性，让您的手机运行更稳定。</feature>
+             <feature title="性能">•  优化系统性能，让您的系统更流畅。</feature>
+         <feature title="系统应用">•  新增微信、QQ 三方应用通话录音功能。体验路径：设置 &gt; 辅助功能 &gt; 第三方应用通话录音。</feature><feature title="资源库">•  新增资源库功能，根据应用功能自动分类、智能推荐已安装应用，通过易于浏览的视图，更轻松地打开所需应用，在桌面内任意位置上滑即可体验。</feature><feature title="智慧多窗">•  分屏场景下，支持按应用进行选择截屏。</feature></features><features module="安全" id="4">
+             <feature title="安全补丁">•  合入安卓 2025 年 5 月安全补丁，增强系统安全性。有关荣耀软件安全更新内容的信息，请访问荣耀官方网站 https://www.honor.com/cn/support/bulletin/2025/5</feature>
+         <feature title="安全补丁">•  合入安卓 2025 年 3 月安全补丁，增强系统安全性。有关荣耀软件安全更新内容的信息，请访问荣耀官方网站 https://www.honor.com/cn/support/bulletin/2025/3</feature></features><features module="更新注意事项" type="end">
+             <feature>1. 本次更新不会删除您的用户数据，但仍建议您在更新前做好数据备份
+2. 更多精彩功能介绍，请访问“玩机技巧”应用
+3. 如果您在使用过程中遇到任何问题，请访问“我的荣耀”应用或访问荣耀官方服务网站 https://www.honor.com/cn/contact-us 寻求支持</feature>
+         </features></language>
+            <language code="1033" name="en-us">
+                <features module="" type="header">
+            <feature>Dear user, this update mainly enhances the system performance. Update to enjoy the improvements</feature>
+        </features>
+        <features module="Apps">
+             <feature>• The refreshed Browser greatly improves the user experience of AI agent, search, web browsing, and interactive visuals</feature>
+        <feature title="Games">• Game for Peace and Honor of Kings now include Auto-update feature. During charging at night, if connected to Wi-Fi, game updates will automatically start.</feature></features>
+        <features module="Security patch">
+             <feature>• Android security patch (Dec 2025) has been incorporated for system security. For more information about Honor Security updates, please visit our website https://www.honor.com/global/support/bulletin/2025/12</feature>
+        </features>
+         
+    <features module="Media" id="1">
+             <feature title="Camera">• You can enable MOVING PHOTO to enrich your photography experience.</feature>
+         </features><features module="System" id="3">
+             <feature title="Favorites Space">• Favorites Space now includes display settings for favorited images. You can select Show in both Gallery and Favorites Space or Show in Favorites Space only, based on your needs. Try it out by going to: Favorites Space &gt; Three dots in the upper right corner &gt; Settings &gt; Storage/display settings &gt; Favorited images.</feature>
+             <feature title="Stability">• Improves the system stability to make your device run more stably.</feature>
+             <feature title="Performance">• Enhances the system performance for smoother use.</feature>
+         <feature title="System apps">• Call recording is available in third-party apps like WeChat and QQ. Try it out by going to: Settings &gt; Accessibility features &gt; App call recording.</feature><feature title="Resource Library">• Library automatically categorizes apps by their functions, and intelligently suggests installed apps. Additionally, it facilitates opening required apps through a user-friendly interface. You can experience it by swiping up anywhere on the Home screen.</feature><feature title="Multi-Window">• You can take screenshots of individual apps in split-screen mode.</feature></features><features module="Security" id="4">
+             <feature title="Security patch">• Android security patch (May 2025) has been incorporated for system security. For more information about Honor Security updates, please visit our website https://www.honor.com/global/support/bulletin/2025/5</feature>
+         <feature title="Security patch">• Android security patch (Mar 2025) has been incorporated for system security. For more information about HONOR Security updates, please visit our website https://www.honor.com/global/support/bulletin/2025/3</feature></features><features module="Notes" type="end">
+             <feature>1. Installing this update will not affect your personal data, but it is still recommended to back up your data before updating
+2. Discover more information on product features in Tips
+3. If you encounter any issue during use, please get support by going to My Honor or visiting our website: https://www.honor.com/cn/contact-us</feature>
+         </features></language>
+            <imgs>
+            </imgs>
+</root>

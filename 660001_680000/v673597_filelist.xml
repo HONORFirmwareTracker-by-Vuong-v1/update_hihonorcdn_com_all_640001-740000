@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1269698560</cowsize>
+<payloadOffset>940</payloadOffset>
+<fileHash>yMM7Pd7Uj85iYhPIi0XnVk8KiKox69mG5b/9AHIZZnE=</fileHash>
+<fileSize>197153214</fileSize>
+<metadataHash>LNTCTYwp57yu3KQh0YyrXPLMx99lbLQ7DwHNTMCq8Fc=</metadataHash>
+<metadataSize>21515</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_NIC-L13_telcel_mx.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_NIC-L13_telcel_mx.zip</spath>
+<dpath>update_cust_NIC-L13_telcel_mx.zip</dpath>
+<operation>c</operation>
+<sha256>8E351E32A58F06CD703B90236B24108111E2860319855D76DB62C1BD0DB3A1EF</sha256>
+<size>197160554</size>
+</file>
+</files>
+</root>

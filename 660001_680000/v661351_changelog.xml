@@ -1,0 +1,80 @@
+<root>
+    <component name="TCPU" version="请自行修改"/>
+    <default-language name="en-us">1033</default-language>
+    <language name="zh-cn" code="2052">
+                <features module="" type="header" >
+            <feature>亲爱的用户，本次更新主要针对系统进行了优化，推荐您进行更新</feature>
+        </features>
+        <features  module="界面焕新">
+             <feature>•  设置、联系人、时钟等界面全面升级，带来更舒适的美感体验</feature>
+        </features>
+        <features  module="性能">
+             <feature>•  新增抢购功能，抢票快人一步</feature>
+             <feature>•  优化应用启动响应速度</feature>
+             <feature>•  化应用启动退出动效流畅性</feature>
+             <feature>•  优化控制中心、通知消息滑动、音量条拉伸等场景动效体验</feature>
+        </features>
+        <features  module="锁屏">
+             <feature>•  新增支持长按锁屏空白区域进入编辑</feature>
+        </features>
+        <features  module="相机">
+             <feature>•  影像菜单界面优化。体验路径：相机 > 上滑底部箭头调出影像菜单</feature>
+        </features>
+        <features  module="荣耀车联">
+             <feature>•  优化 CarLife &amp; ICCE 连接方式下旋钮车机使用 QQ 音乐部分问题</feature>
+             <feature>•  修复 CarLife 连接协议通话后导航和音频延迟问题</feature>
+             <feature>•  修复 CarLife 连接方式前台有应用投屏时，手机不息屏问题</feature>
+             <feature>•  修复 ICCE 连接方式概率通话无声问题</feature>
+        </features>
+        <features  module="稳定性">
+             <feature>•  优化系统稳定性，提高用户整机使用体验</feature>
+        </features>
+         <features module="更新注意事项" type="end">
+             <feature>1. 新版本下载及安装过程会消耗部分电量及轻微发热，属于正常现象
+2. 版本安装后重启期间会做部分系统优化，预计花费 1~3 分钟，请耐心等待
+3. 升级完成后部分系统优化会在后台自动进行，系统会在后台自动优化，出现少量耗电，轻微发热是正常现象，1 天内即可恢复
+4. 因部分第三方应用与 Android 16 不兼容，更新后可能会出现第三方应用无法正常使用的情况 (如闪退、卡顿、耗电等)。建议您在应用市场尝试将该应用更新至最新版本，若仍无法解决问题，请您耐心等待应用更新信息，并及时更新
+5. 本次更新不会删除您的用户数据，但仍建议您在更新前做好数据备份
+6. 如果您在使用过程中遇到任何问题，请访问“我的荣耀”应用或访问荣耀官方服务网站 https://www.honor.com/cn/contact-us 寻求支持</feature>
+         </features>
+    </language>
+    <language name="en-us" code="1033">
+                <features module="" type="header">
+            <feature>Dear user, this update mainly enhances the system performance. Update to enjoy the improvements</feature>
+        </features>
+        <features module="Refreshed interface">
+             <feature>• Settings, Contacts and Clock interfaces have been completely upgraded to provide a more comfortable visual experience</feature>
+        </features>
+        <features module="Performance">
+             <feature>• Purchase acceleration helps you get tickets faster than others</feature>
+             <feature>• Improves the response speed to ensure faster app launches</feature>
+             <feature>• Enhances the animation smoothness for launching or exiting apps</feature>
+             <feature>• Optimizes the user experience of animations in scenarios like Control Center, swiping through notifications, and adjusting the volume bar</feature>
+        </features>
+        <features module="Lock screen">
+             <feature>• Long press the blank area of the lock screen to start editing</feature>
+        </features>
+        <features module="Camera">
+             <feature>• Optimizes the imaging menu interface. To access the imaging menu, go to Camera and swipe up the bottom arrow</feature>
+        </features>
+        <features module="Honor CarConnect">
+             <feature>• Fixes some issues when using the car's rotary knob to operate QQ Music under CarLife &amp; ICCE connection</feature>
+             <feature>• Fixes the issue of navigation and audio delay after a call when connected via CarLife</feature>
+             <feature>• Resolves the issue where the phone screen stays on while an app is being mirrored in the foreground via CarLife connection</feature>
+             <feature>• Fixes the occasional issue of no sound during calls when connected via ICCE</feature>
+        </features>
+        <features module="Stability">
+             <feature>• Improves the system stability to optimize the user experience</feature>
+        </features>
+         <features module="Notes" type="end">
+             <feature>1. The download and installation process of the new version will consume some battery power and cause slight heating, which is normal
+2. During the restart after the installation, some system optimizations will be performed, expected to take 1~3 minutes. Please be patient
+3. After the upgrade is completed, some system optimizations will automatically proceed in the background. During this period, the device may experience increased power consumption and slight heating, which is a normal phenomenon. It will return to its usual state within one day
+4. Some third-party apps are not compatible with Android 16 and may malfunction after the update (such as crash, lag, abnormal power consumption). Please update your apps to the latest version in App Market. If the problems persist, please wait for the upcoming app updates and update in a timely manner
+5. This update will not affect your personal data, but it is recommended to back up your data before updating
+6. If you encounter any issues during use, please get support by going to My Honor or visiting our website: https://www.honor.com/cn/contact-us</feature>
+         </features>
+    </language>
+            <imgs>
+           </imgs>
+</root>

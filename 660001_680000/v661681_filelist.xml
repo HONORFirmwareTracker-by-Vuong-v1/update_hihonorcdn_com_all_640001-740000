@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2166304768</cowsize>
+<payloadOffset>932</payloadOffset>
+<fileHash>WVzxC39ZT2sDGrtXn9qNmpJ1QbUDJXdoYQ1pyXwUCvM=</fileHash>
+<fileSize>81298748</fileSize>
+<metadataHash>Xyx3NZiOBgNUozE2C40uKrpsgH6WsS3Gc7VKA9UvwM8=</metadataHash>
+<metadataSize>33477</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_GFY-L43_def_la_R5.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_GFY-L43_def_la_R5.zip</spath>
+<dpath>update_preload_GFY-L43_def_la_R5.zip</dpath>
+<operation>c</operation>
+<sha256>015FC873F4516A9844847D86CD8CF1404F7E09E530519A06E4FB7A17CDA56C31</sha256>
+<size>81306089</size>
+</file>
+</files>
+</root>

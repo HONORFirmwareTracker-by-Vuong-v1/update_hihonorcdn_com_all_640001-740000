@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44179456</cowsize>
+<payloadOffset>915</payloadOffset>
+<fileHash>s2XVqYCyr8SbKpyFXRgDGba/7oAsPy1Lm8mQAVwcKsU=</fileHash>
+<fileSize>666418</fileSize>
+<metadataHash>tBrQaLE8oqu8SGEMfmrusOvvkOkH31t2afkF4wHgjn4=</metadataHash>
+<metadataSize>959</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_ALT-N03E_def_la.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_ALT-N03E_def_la.zip</spath>
+<dpath>update_cust_ALT-N03E_def_la.zip</dpath>
+<operation>c</operation>
+<sha256>AB6FE5225C79D278890EFF3128A7380ACCA21A78BFB4C6BE0FA9E676179C33B9</sha256>
+<size>673720</size>
+</file>
+</files>
+</root>

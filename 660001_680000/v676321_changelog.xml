@@ -1,0 +1,62 @@
+<root>
+    <component name="TCPU" version="请自行修改"></component>
+    <default-language name="en-us">1033</default-language>
+    <language code="2052" name="zh-cn">
+                <features module="" type="header">
+            <feature>亲爱的用户，本次更新新增和平精英、王者荣耀闲时更新功能，收藏空间新增图片收藏显示设置功能，提升系统稳定性和性能体验，合入安全补丁，推荐您进行更新</feature>
+        </features>
+        <features module="游戏">
+             <feature>•  新增和平精英、王者荣耀闲时更新功能，在夜间充电条件下，连接 Wi-Fi，将自动开启游戏更新</feature>
+        </features>
+        <features module="收藏空间">
+             <feature>•  新增图片收藏显示设置。您可根据自身需求，设置图片同时显示在图库和收藏空间或仅显示在收藏空间。体验路径：收藏空间 > 存储/显示设置 > 图片收藏</feature>
+        </features>
+        <features module="桌面">
+             <feature>•  新增小游戏应用图标</feature>
+        </features>
+        <features module="稳定性">
+             <feature>•  提升系统稳定性</feature>
+        </features>
+        <features module="性能">
+             <feature>•  优化系统性能</feature>
+        </features>
+        <features module="安全补丁">
+             <feature>•  合入安卓 2025 年 10 月安全补丁，增强系统安全性。有关荣耀软件安全更新内容的信息，请访问荣耀官方网站 https://www.honor.com/cn/support/bulletin/2025/10</feature>
+        </features>
+         <features module="更新注意事项" type="end">
+             <feature>1. 本次更新不会删除您的用户数据，但仍建议您在更新前做好数据备份
+2. 更多精彩功能介绍，请访问“玩机技巧”应用
+3. 如果您在使用过程中遇到任何问题，请访问“我的荣耀”应用或访问荣耀官方服务网站 https://www.honor.com/cn/contact-us 寻求支持</feature>
+         </features>
+    </language>
+            <language code="1033" name="en-us">
+                <features module="" type="header">
+            <feature>Dear user, this update introduces Auto-update in Game for Peace and Honor of Kings. Favorites Space includes display settings for favorited images. Additionally, this release improves the system stability and performance. It also incorporates a security patch. Update to enjoy the new features and improvements</feature>
+        </features>
+        <features module="Games">
+             <feature>• Game for Peace and Honor of Kings now include Auto-update feature. During charging at night, if connected to Wi-Fi, game updates will automatically start</feature>
+        </features>
+        <features module="Favorites Space">
+             <feature>• Favorites Space now includes display settings for favorited images. You can select Show in both Gallery and Favorites Space or Show in Favorites Space only, based on your needs. Try it out by going to: Favorites Space > Storage/display settings > Favorited images</feature>
+        </features>
+        <features module="Home screen">
+             <feature>• You can access mini-games via their icons on the home screen</feature>
+        </features>
+        <features module="Stability">
+             <feature>• Improves the system stability</feature>
+        </features>
+        <features module="Performance">
+             <feature>• Improves the system performance</feature>
+        </features>
+        <features module="Security patch">
+             <feature>• Android security patch (Oct 2025) has been incorporated for system security. For more information about Honor Security updates, please visit our website https://www.honor.com/global/support/bulletin/2025/10</feature>
+        </features>
+         <features module="Notes" type="end">
+             <feature>1. Installing this update will not affect your personal data, but it is still recommended to back up your data before updating
+2. Discover more information on product features in Tips
+3. If you encounter any issue during use, please get support by going to My Honor or visiting our website: https://www.honor.com/cn/contact-us</feature>
+         </features>
+    </language>
+            <imgs>
+            </imgs>
+</root>

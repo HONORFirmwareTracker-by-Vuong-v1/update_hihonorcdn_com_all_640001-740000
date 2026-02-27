@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1892356096</cowsize>
+<payloadOffset>932</payloadOffset>
+<fileHash>2B6NuxeIpHiWnIEvu1Z2xmWs/2r6ltyL0rJwNYRVTQg=</fileHash>
+<fileSize>70240326</fileSize>
+<metadataHash>vdeaE0FEPI0uhbqU3Hf8hPPuyVmnrrDq6j84kAZGuZw=</metadataHash>
+<metadataSize>40800</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_LNA-L33_def_la_R103.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_LNA-L33_def_la_R103.zip</spath>
+<dpath>update_preload_LNA-L33_def_la_R103.zip</dpath>
+<operation>c</operation>
+<sha256>D2F4D2693D431E7723ECF0696EB5A3D4289F17348EE1EAC229045334F4FE8156</sha256>
+<size>70247665</size>
+</file>
+</files>
+</root>

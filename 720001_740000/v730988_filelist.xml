@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>642097152</cowsize>
+<payloadOffset>939</payloadOffset>
+<fileHash>1BSJQg7+glxcmOvk48qINYgF022fT9sMnnE+aqYYSno=</fileHash>
+<fileSize>117171099</fileSize>
+<metadataHash>d8vVY3B3IMIEaqoN49mcBAOyEp76Ljn99IruTpUKvOU=</metadataHash>
+<metadataSize>8981</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_DNY-N39_iusacell_mx_R2.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_DNY-N39_iusacell_mx_R2.zip</spath>
+<dpath>update_preload_DNY-N39_iusacell_mx_R2.zip</dpath>
+<operation>c</operation>
+<sha256>1FB02DAE16215A6AA4F34A37A4954B77A9A499053A7AD5138ECE7F563E0D349E</sha256>
+<size>117178447</size>
+</file>
+</files>
+</root>

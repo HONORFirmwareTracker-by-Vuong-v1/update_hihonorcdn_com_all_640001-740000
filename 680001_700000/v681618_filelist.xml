@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1118527488</cowsize>
+<payloadOffset>908</payloadOffset>
+<fileHash>Yvj2/K+sskxZ1fqxbPwhpoONbm5RR1dBYvEli3N1ueE=</fileHash>
+<fileSize>40982</fileSize>
+<metadataHash>RPc0Glwb9R3McGLmaxKnzfP1mIHikM6gidImft1Epb8=</metadataHash>
+<metadataSize>36645</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_BRP-N21M_def_eea_R4.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_BRP-N21M_def_eea_R4.zip</spath>
+<dpath>update_preload_BRP-N21M_def_eea_R4.zip</dpath>
+<operation>c</operation>
+<sha256>A29CE53DAAB95B2AF8B9EA24856C6F732B6F0E12F17262A499D903CE0C7C79CB</sha256>
+<size>48297</size>
+</file>
+</files>
+</root>

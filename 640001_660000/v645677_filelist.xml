@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<cowsize>43950080</cowsize>
+<payloadOffset>859</payloadOffset>
+<fileHash>/ry3/Oxi3W8My1XZ/8BXPnj/1nD5DjDr+PBGEq4rRSg=</fileHash>
+<fileSize>131943</fileSize>
+<metadataHash>BotRoK9CK66vEKAyRYEgj5vX2Z81reh2fwsIwiLjEQY=</metadataHash>
+<metadataSize>1593</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<preAdjustFeature>false</preAdjustFeature>
+<vendorInfo name="cust" package="update_cust_KOZ-AL00CM_all_cn.zip" precut_size="0" subpath=""/>
+<GROUP version="NA"/>
+<GBC version="NA"/>
+<files>
+<file>
+<spath>update_cust_KOZ-AL00CM_all_cn.zip</spath>
+<dpath>update_cust_KOZ-AL00CM_all_cn.zip</dpath>
+<operation>c</operation>
+<sha256>1D53395C16169F94F6031B547439B9F92790BAA7E7E1A77F4941B9113194E3C9</sha256>
+<size>139203</size>
+</file>
+</files>
+</root>

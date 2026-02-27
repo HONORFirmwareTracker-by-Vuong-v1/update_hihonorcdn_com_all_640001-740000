@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <component name="TCPU" version="针对风险检测阈值更新推送修改后的云化参数"/>
+    <default-language name="en-us">1033</default-language>
+    <language name="zh-cn" code="2052">
+        <features module="" type="header" backgroud="">
+            <feature>本次更新如下参数文件，将提升系统的用户体验，建议您立即更新。</feature>
+        </features>
+        <features module="AI 换脸检测参数">
+            <feature>优化了 AI 换脸检测部分场景的检测体验。</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="en-us" code="1033">
+        <features module="" type="header" backgroud="">
+            <feature>This recommended update includes the following parameter files, which will improve the user experience of the system.</feature>
+        </features>
+        <features module="AI deepfake detection parameter">
+            <feature>Optimized the AI deepfake detection experience in some scenarios.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+</root>

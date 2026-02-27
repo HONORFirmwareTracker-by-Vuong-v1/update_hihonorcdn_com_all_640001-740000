@@ -1,0 +1,14 @@
+<root>
+	<packageName>com.hihonor.visionengine</packageName>
+	<pluginName>videosegment</pluginName>
+	<versionCode>100112012</versionCode>
+	<packageType>increment</packageType>
+	<files>
+		<file>
+			<spath>update_plugin.zip</spath>
+			<dpath>update_plugin.zip</dpath>
+			<sha256>77c1073e6969c822423441f291777601690e2499fc1abfa39dbb2d434112d0f6</sha256>
+			<size>69824103</size>
+		</file>
+	</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<cowsize>43786240</cowsize>
+<payloadOffset>843</payloadOffset>
+<fileHash>aetgHanOcOhIGMhmccux1LWkZ16ZUPOMlFQnQJ9+F6E=</fileHash>
+<fileSize>3927</fileSize>
+<metadataHash>s01KPMy51QSvIw6ML65Jq+7pTjrnBNU/BWxO4hD4wWg=</metadataHash>
+<metadataSize>1466</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<preAdjustFeature>false</preAdjustFeature>
+<vendorInfo name="cust" package="update_cust_RKY-AN00_all_cn.zip" precut_size="0" subpath=""/>
+<GROUP version="NA"/>
+<GBC version="NA"/>
+<files>
+<file>
+<spath>update_cust_RKY-AN00_all_cn.zip</spath>
+<dpath>update_cust_RKY-AN00_all_cn.zip</dpath>
+<operation>c</operation>
+<sha256>C7CB8646386D01B49C49EFCC060197CB2A97140E8F7BA13B4E7AC9115C848680</sha256>
+<size>11164</size>
+</file>
+</files>
+</root>

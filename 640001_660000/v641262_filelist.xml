@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2166366208</cowsize>
+<payloadOffset>940</payloadOffset>
+<fileHash>Nu1A5JyRfao+zmeteL6wMjuRP5y6Kzd1PGljq0Eam98=</fileHash>
+<fileSize>381699951</fileSize>
+<metadataHash>ISck74Js5ltBhpoOf3Cf1Xc6gubKqSHhY16xORmww0Y=</metadataHash>
+<metadataSize>29690</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_LGN-L41_def_eea_R3.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_LGN-L41_def_eea_R3.zip</spath>
+<dpath>update_preload_LGN-L41_def_eea_R3.zip</dpath>
+<operation>c</operation>
+<sha256>E7EB0248EA8A431196D5A07613F25A4E5058A76367698B0D3AC37FA7BED56C1C</sha256>
+<size>381707302</size>
+</file>
+</files>
+</root>

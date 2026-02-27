@@ -1,0 +1,1111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <component name="TCPU" version="请自行修改"/>
+    <default-language name="en-us">1033</default-language>
+        <language name="en-us" code="1033">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>This update includes the following resource files, which will enhance the user experience of the system performance. Update to enjoy the improvements.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Multilingual speech-to-text translation model">
+            <!-- 正文 -->
+            <feature>Releases the multilingual translation model to provide translation capabilities across languages.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature> 
+        </features>
+    </language>
+    <language name="am-et" code="1118">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>ይህ ዝማኔ የሚከተሉትን የመርጃ ፋይሎች ያካትታል፣ ይህም የስርዓቱ አፈጻጸም የተጠቃሚ ተሞክሮውን ያሻሽላል። በማሻሻያዎቹ ለመደሰት ያዘምኑ።</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="ባለብዙ ቋንቋ የንግግር-ወደ-ጽሑፍ ትርጉም ሞዴል">
+            <!-- 正文 -->
+            <feature>በተለያዩ ቋንቋዎች የትርጉም ችሎታዎችን ለማቅረብ የብዙ ቋንቋዎች የትርጉም ሞዴል ይለቅቃል።</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="ar-eg" code="3073">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>يتضمن هذا التحديث ملفات الموارد التالية، والتي من شأنها تحسين تجربة المستخدم فيما يتعلق بأداء النظام. للاستمتاع بالتحسينات، ما عليك سوى التحديث.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="نموذج الترجمة متعددة اللغات في تحويل الكلام إلى نص">
+            <!-- 正文 -->
+            <feature>إصدار نموذج الترجمة متعددة اللغات لتوفير إمكانيات الترجمة عبر اللغات.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="as-in" code="1101">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>এই আপডেটত নিম্নোক্ত সম্পদৰ ফাইলসমূহ অন্তৰ্ভুক্ত আছে, যিয়ে ছিষ্টেমৰ কাৰ্যদক্ষতাৰ ব্যৱহাৰকাৰীৰ অভিজ্ঞতা বঢ়াব। উন্নতিসমূহৰ আনন্দ ল\'বলৈ আপডেট কৰক।</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="বহুভাষিক কথনৰ-পৰা-পাঠৰ অনুবাদ মডেল">
+            <!-- 正文 -->
+            <feature>বিভিন্ন ভাষাত অনুবাদৰ সক্ষমতা প্ৰদান কৰিবলৈ বহুভাষিক অনুবাদ মডেল মুকলি কৰে।</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="az-az" code="1068">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Bu yeniləmə sistem performansı ilə bağlı istifadəçi təcrübəsini artıracaq aşağıdakı resurs fayllarını ehtiva edir. Təkmilləşdirmələrdən faydalanmaq üçün yeniləyin.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Çoxdilli nitqdən mətnə tərcümə modeli">
+            <!-- 正文 -->
+            <feature>Dillər arasında tərcümə imkanlarını təmin etmək üçün çoxdilli tərcümə modelini buraxır.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="jv-id" code="1033">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Panganyaran iki ngatutake file sumber daya ing ngisor iki, sing bakal ningkatake pangalaman pangguna kinerja sistem. Anyarake kanggo ngrasakake pangapikan kasebut.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Model pertalan omongan-dadi-teks akeh basa">
+            <!-- 正文 -->
+            <feature>Ngeculake model pertalan akeh basa kanggo nyedhiyakake kabisan pertalan lintas-basa.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="sr-rs" code="2074">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Ovo ažuriranje uključuje sledeće datoteke sa resursima, što će poboljšati korisničko iskustvo performansi sistema. Ažurirajte kako biste uživali u poboljšanjima.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Višejezični model prevođenja govora u tekst">
+            <!-- 正文 -->
+            <feature>Objavljuje višejezični model prevođenja radi pružanja mogućnosti prevoda na različite jezike.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="be-by" code="1059">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Гэта абнаўленне ўключае наступныя файлы рэсурсаў, якія палепшаць працу сістэмы. Абнавіце, каб карыстацца паляпшэннямі.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Мадэль перакладу на розныя мовы пасля пераўтварэння маўлення ў тэкст">
+            <!-- 正文 -->
+            <feature>Гэта абнаўленне прадстаўляе мадэль перакладу паміж рознымі мовамі.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="bg-bg" code="1026">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Тази актуализация включва следните ресурсни файлове, които ще подобрят работата на потребителите с работата на системата. Актуализирайте, за да се насладите на подобренията.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Модел на многоезичен превод на реч към текст">
+            <!-- 正文 -->
+            <feature>Издава модела за многоезичен превод, за да осигури възможности за превод на различни езици.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="bn-bd" code="2117">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>এই আপডেটে নিম্নলিখিত রিসোর্স ফাইলগুলি অন্তর্ভুক্ত আছে, যা সিস্টেমের কর্মক্ষমতার ক্ষেত্রে ব্যবহারকারীর অভিজ্ঞতা উন্নত করবে। উন্নতি উপভোগ করতে আপডেট করুন।</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="বহুভাষিক স্পীচ থেকে টেক্সট অনুবাদের মডেল">
+            <!-- 正文 -->
+            <feature>বিভিন্ন ভাষা জুড়ে অনুবাদের ক্ষমতা প্রদানের জন্য বহুভাষিক অনুবাদের মডেলঋলিজ করে।</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="bs-ba" code="5146">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Ovo ažuriranje uključuje sljedeće datoteke sa resursima, što će poboljšati korisničko iskustvo performansi sistema. Ažurirajte da uživate u poboljšanjima.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Višejezični model prevođenja govora u tekst">
+            <!-- 正文 -->
+            <feature>Objavljuje višejezični model prevođenja radi pružanja mogućnosti prijevoda na različitim jezicima.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="ca-es" code="1027">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Aquesta actualització inclou els següents fitxers de recursos, que milloraran l\'experiència d\'usuari pel que fa al rendiment del sistema. Instal·leu l\'actualització per gaudir de les millores.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Model de traducció de veu a text multilingüe">
+            <!-- 正文 -->
+            <feature>Presenta el model de traducció multilingüe per proporcionar capacitats de traducció entre idiomes.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="cs-cz" code="1029">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Tato aktualizace obsahuje následující soubory zdrojů, které obohatí uživatelský zážitek z výkonu systému. Aktualizujte, abyste si mohli užít vylepšení.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Model vícejazyčného překladu řeči na text">
+            <!-- 正文 -->
+            <feature>Uvolňuje model vícejazyčného překladu, který poskytuje možnosti překladu mezi různými jazyky.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="da-dk" code="1030">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Denne opdatering omfatter følgende ressourcefiler, som vil forbedre brugeroplevelsen af systemydelsen. Opdater for at nyde godt af forbedringerne.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Flersproget tale-til-tekst-oversættelsesmodel">
+            <!-- 正文 -->
+            <feature>Udgiver den flersprogede oversættelsesmodel for at levere oversættelsesfunktioner på tværs af sprog.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="de-de" code="1031">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Diese Aktualisierung enthält die folgenden Ressourcendateien, die das Benutzererlebnis der Systemleistung verbessern. Nehmen Sie die Aktualisierung vor, um in den Genuss der Verbesserungen zu kommen.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Mehrsprachiges Speech-to-Text-Übersetzungsmodell">
+            <!-- 正文 -->
+            <feature>Veröffentlicht das mehrsprachige Übersetzungsmodell, um Übersetzungsfunktionen in verschiedenen Sprachen bereitzustellen.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="el-gr" code="1032">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Αυτή η ενημέρωση περιλαμβάνει τα ακόλουθα αρχεία πόρων, τα οποία θα βελτιώσουν την εμπειρία χρήστη της απόδοσης του συστήματος. Πραγματοποιήστε ενημέρωση για να απολαύσετε τις βελτιώσεις.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Πολύγλωσσο μοντέλο μετάφρασης της μετατροπής ομιλίας σε κείμενο">
+            <!-- 正文 -->
+            <feature>Κυκλοφορεί το πολύγλωσσο μοντέλο μετάφρασης για να παρέχει δυνατότητες μετάφρασης σε όλες τις γλώσσες.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="en-gb" code="2057">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>This update includes the following resource files, which will enhance the user experience of the system performance. Update to enjoy the improvements.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Multilingual speech-to-text translation model">
+            <!-- 正文 -->
+            <feature>Releases the multilingual translation model to provide translation capabilities across languages.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="es-es" code="1034">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Esta actualización incluye los siguientes archivos de recursos, que mejorarán la experiencia del usuario del rendimiento del sistema. Actualice para disfrutar de las mejoras.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Modelo de traducción de voz a texto multilingüe">
+            <!-- 正文 -->
+            <feature>Lanza el modelo de traducción multilingüe para proporcionar capacidades de traducción en todos los idiomas.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="es-us" code="21514">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Esta actualización incluye los siguientes archivos de recursos, que mejorarán la experiencia del usuario en cuanto a rendimiento del sistema. Actualice para disfrutar de las mejoras.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Modelo de traducción multilingüe de voz a texto">
+            <!-- 正文 -->
+            <feature>Se lanza el modelo de traducción multilingüe para ofrecer capacidades de traducción en distintos idiomas.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="et-ee" code="1061">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>See värskendus sisaldab järgmisi ressursifaile, mis parandavad süsteemi jõudlusega seotud kasutajakogemust. Värskendage täiustuste nautimiseks.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Mitmekeelne kõne tekstiks tõlkimise mudel">
+            <!-- 正文 -->
+            <feature>Mitmekeelse tõlkemudeli väljalase, et pakkuda tõlkimisvõimalusi erinevate keelte vahel.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="eu-es" code="1069">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Sistema-errendimenduaren erabiltzaile-esperientzia hobetuko dituzten baliabide-fitxategi hauek ditu eguneratzeak. Eguneratu eta gozatu hobekuntzez.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Audioa testu gisa itzultzeko eredu eleanitza">
+            <!-- 正文 -->
+            <feature>Itzulpen-eredu eleanitza argitaratu da, hizkuntza desberdinetan itzuli ahal izateko.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="fa-ir" code="1065">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>این به‌روزرسانی شامل فایل‌های منابع زیر است که تجربه کاربر از عملکرد سیستم را بهبود می‌بخشد. برای بهره‌مندی از بهبودها، به‌روزرسانی کنید.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="مدل ترجمه چندزبانه گفتار به متن">
+            <!-- 正文 -->
+            <feature>مدل ترجمه چندزبانه را برای فراهم کردن قابلیت‌های ترجمه زبان‌های مختلف به یکدیگر عرضه می‌کند.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="fi-fi" code="1035">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Tämä päivitys sisältää seuraavat resurssitiedostot, jotka parantavat järjestelmän käyttökokemusta. Päivitä, niin pääset nauttimaan parannuksista.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Monikielinen puhe tekstiksi -käännösmalli">
+            <!-- 正文 -->
+            <feature>Sisältää monikielisen käännösmallin, joka tarjoaa käännösominaisuuksia eri kielillä.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="fr-fr" code="1036">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Cette mise à jour comprend les fichiers de ressources suivants, qui amélioreront l\'expérience utilisateur des performances du système. Effectuez la mise à jour pour profiter des améliorations.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Modèle de traduction de transcription multilingue">
+            <!-- 正文 -->
+            <feature>Publie le modèle de traduction multilingue pour fournir des capacités de traduction dans plusieurs langues.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="gl-es" code="1110">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Esta actualización inclúe os seguintes ficheiros de recursos, que mellorarán a experiencia do usuario co rendemento do sistema. Realice a actualización para gozar das melloras.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Modelo de tradución de voz a texto multilingüe">
+            <!-- 正文 -->
+            <feature>Pon á súa disposición o modelo de tradución multilingüe para fornecerlle a capacidade de realizar traducións entre distintos idiomas.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="gu-in" code="1095">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>આ અપડેટમાં નીચેની સંસાધન ફાઇલો શામેલ છે, જે સિસ્ટમ પ્રદર્શનના વપરાશકર્તા અનુભવને વધારશે. સુધારાઓનો આનંદ માણવા માટે અપડેટ કરો.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="બહુભાષી સ્પીચ-ટુ-ટેક્સ્ટ અનુવાદ મોડેલ">
+            <!-- 正文 -->
+            <feature>વિવિધ ભાષાઓમાં અનુવાદ ક્ષમતાઓ પ્રદાન કરવા માટે બહુભાષી અનુવાદ મોડેલ પ્રકાશિત કરે છે.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="hi-in" code="1081">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>इस अद्यतन में निम्न संसाधन फ़ाइलें शामिल हैं जिनसे सिस्टम प्रदर्शन से जुड़े उपयोगकर्ता अनुभव को बेहतर बनाया जाएगा। सुधारों का फ़ायदा उठाने के लिए अद्यतन करें।</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="बहुभाषी वाक्-से-पाठ अनुवाद मॉडल">
+            <!-- 正文 -->
+            <feature>कई भाषाओं में अनुवाद क्षमताएँ देने के लिए बहुभाषी अनुवाद मॉडल रिलीज़ किया जाता है।</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="hr-hr" code="1050">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Ovo ažuriranje uključuje datoteke resursa navedene u nastavku koje će poboljšati korisničko iskustvo upotrebe performansi sustava. Ažurirajte kako biste uživali u poboljšanjima.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Višejezični model prevođenja i pretvaranja govora u tekst">
+            <!-- 正文 -->
+            <feature>Izdanje uključuje model višejezičnog prevođenja za pružanje mogućnosti prevođenja na više jezika.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="hu-hu" code="1038">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Ez a frissítés tartalmazza a következő erőforrásfájlokat, amelyek javítják a rendszerteljesítmény felhasználói élményét. Frissítsen, hogy Ön is élvezze a fejlesztések előnyeit.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Többnyelvű beszédet szöveggé alakító fordítási modell">
+            <!-- 正文 -->
+            <feature>Kiadja a többnyelvű fordítási modellt, hogy fordítási lehetőségeket biztosítson több nyelven.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="in-id" code="1057">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Pembaruan ini menyertakan file sumber daya berikut yang akan menyempurnakan pengalaman pengguna sistem kinerja. Instal pembaruan untuk menikmati berbagai peningkatan.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Model terjemahan ucapan ke teks multibahasa">
+            <!-- 正文 -->
+            <feature>Merilis model terjemahan multibahasa untuk menyediakan kemampuan penerjemahan untuk seluruh bahasa.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="it-it" code="1040">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Questo aggiornamento include i seguenti file di risorse, che miglioreranno l\'esperienza utente in relazione alle prestazioni del sistema. Esegui l\'aggiornamento per usufruire dei miglioramenti.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Modello di traduzione con riconoscimento vocale multilingue">
+            <!-- 正文 -->
+            <feature>Viene rilasciato il modello di traduzione multilingue per fornire funzionalità di traduzione in più lingue.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="iw-il" code="1037">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>עדכון זה כולל את קובצי המשאבים הבאים, שישפרו את חוויית המשתמש מביצועי המערכת. עדכן כדי ליהנות מהשיפורים.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="מודל תרגום דיבור לטקסט רב לשוני">
+            <!-- 正文 -->
+            <feature>משיק את מודל התרגום הרב לשוני כדי לספק יכולות תרגום בין שפות.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="ja-jp" code="1041">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>今回の更新には、以下のリソースファイルが含まれ、これによってシステムパフォーマンスのユーザー体験が向上します。更新して、改善をお楽しみください。</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="多言語の音声文字起こし翻訳モデル">
+            <!-- 正文 -->
+            <feature>多言語翻訳モデルがリリースされ、言語間での翻訳機能が提供されます。</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="ka-ge" code="1079">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>ეს განახლება მოიცავს შემდეგ რესურს-ფაილებს, რომლებიც გააუმჯობესებს სისტემის მუშაობას. განაახლეთ, რომ ისარგებლოთ გაუმჯობესებებით.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="მეტყველების ტექსტად თარგმნის მრავალენოვანი მოდელი">
+            <!-- 正文 -->
+            <feature>გთავაზობთ მრავალენოვანი თარგმნის მოდელს, რათა უზრუნველყოს თარგმნის შესაძლებლობები სხვადასხვა ენებზე.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="kk-kz" code="1087">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Бұл жаңарту жүйе өнімділігінің пайдаланушы тәжірибесін жақсартатын келесі ресурс файлдарын қамтиды. Жақсартуларды пайдалану үшін жаңартыңыз.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Көптілді сөзді мәтінге аудару моделі">
+            <!-- 正文 -->
+            <feature>Тілдерге аудару мүмкіндіктерін қамтамасыз ету үшін көптілді аудару моделін шығарады.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="km-kh" code="1107">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>បច្ចុប្បន្នភាពនេះរួមបញ្ចូលឯកសារធនធានដូចខាងក្រោម ដែលនឹងបង្កើនបទពិសោធអ្នកប្រើប្រតិបត្តិការប្រព័ន្ធ។ ធ្វើបច្ចុប្បន្នភាព ដើម្បីរីករាយជាមួយនឹងការកែលម្អ។</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="គំរូបកប្រែសំដីទៅជាអត្ថបទច្រើនភាសា">
+            <!-- 正文 -->
+            <feature>ចេញផ្សាយគំរូបកប្រែច្រើនភាសា ដើម្បីផ្ដល់សមត្ថភាពបកប្រែជាភាសានានា។</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="kn-in" code="1099">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>ಈ ನವೀಕರಣವು ಈ ಕೆಳಗಿನ ಸಂಪನ್ಮೂಲ ಫೈಲ್‌ಗಳನ್ನು ಒಳಗೊಂಡಿದೆ, ಇದು ಸಿಸ್ಟಂ ಕಾರ್ಯಕ್ಷಮತೆಯ ಬಳಕೆದಾರರ ಅನುಭವವನ್ನು ವರ್ಧಿಸುತ್ತದೆ. ಸುಧಾರಣೆಗಳನ್ನು ಆನಂದಿಸಲು ನವೀಕರಿಸಿ.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="ಬಹುಭಾಷಾ ಮಾತಿನಿಂದ-ಪಠ್ಯದ ಅನುವಾದ ಮಾದರಿ">
+            <!-- 正文 -->
+            <feature>ಭಾಷೆಗಳಾದ್ಯಂತ ಅನುವಾದ ಸಾಮರ್ಥ್ಯಗಳನ್ನು ಒದಗಿಸಲು ಬಹುಭಾಷಾ ಅನುವಾದ ಮಾದರಿಯನ್ನು ಬಿಡುಗಡೆ ಮಾಡುತ್ತದೆ.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="ko-kr" code="1042">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>다음 리소스 파일이 이 업데이트에 포함되어 있어 시스템 성능의 사용자 경험을 강화할 수 있습니다. 업데이트하고 개선된 기능을 즐겨보십시오.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="다국어 음성 텍스트 변환 번역 모델">
+            <!-- 正文 -->
+            <feature>여러 언어에 걸친 번역 기능을 제공하기 위해 다국어 번역 모델을 릴리스합니다.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="lo-la" code="1108">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>ການ​ອັບ​ເດດ​ນີ້​​ລວມ​ມີ​ໄຟ​ລ໌​ຕົ້ນ​ສະ​ບັບ​ຕໍ່​ໄປ​​ນີ້, ເຊິ່ງ​ຈະ​ຍົກ​ລະ​ດັບ​ປະ​​ສົບ​ການ​ຜູ້​ໃຊ້​ປະ​ສິດ​ທິ​ພາບລະ​ບົບ. ອັບ​ເດດ​ເພື່ອ​ມ່ວ​ນ​ຊື່​ນກັບ​ການ​ປັບ​ປຸງ.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="ໂມ​ເດ​ລ​ການ​ແ​ປ​ພາ​ສາການ​ປ່ຽນ​ຄຳ​ເວົ້າ​ເປັນ​ຂໍ້​ຄວາມ​ຫຼາຍ​ພາ​ສາ">
+            <!-- 正文 -->
+            <feature>ເປີດ​ຕົວ​ໂມ​ເດ​ລ​ການ​ແປ​ພາ​ສາຫຼາຍ​ພາ​ສາ ເພື່ອ​ໃຫ້​ຄວາມ​ສາ​ມາດ​ໃນ​ການ​ແປ​ພາ​ສາ​ຂ້າ​ມ​ພາ​ສາ.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="lt-lt" code="1063">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Į šį atnaujinimą įtraukti šie išteklių failai, kurie pagerins naudotojo patirtį naudojantis sistema. Naujinkite ir mėgaukitės patobulinimais.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Daugiakalbis kalbos vertimo tekstu modelis">
+            <!-- 正文 -->
+            <feature>Išleidžia daugiakalbį vertimo modelį, kad būtų galima versti iš įvairių kalbų.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="lv-lv" code="1062">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Ar šo atjauninājumu ir ietverti tālāk norādītie resursu faili, kas uzlabos sistēmas veiktspējas lietotāja pieredzi. Atjauniniet, lai izbaudītu uzlabojumus.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Daudzvalodu runas pārveides tekstā tulkošanas modelis">
+            <!-- 正文 -->
+            <feature>Izlaiž daudzvalodu tulkošanas modeli, lai nodrošinātu tulkošanas iespējas dažādās valodās.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="mai-in" code="1033">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>एहि अपडेट मे निम्न संसाधन फाइल सम्मिलित अछि, जे सिस्टम प्रदर्शन केर उपयोगकर्ता अनुभव केँ वर्धित करत। सुधार सभक आनंद लेबाक लेल अपडेट करू।</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="बहुभाषी स्पीच-टू-टेक्‍स्‍ट अनुवाद मॉडल">
+            <!-- 正文 -->
+            <feature>विभिन्न भाषा सभ मे अनुवाद क्षमता सभ प्रदान करबाक लेल बहुभाषी अनुवाद मॉडल रिलीज करैत अछि।</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="mi-nz" code="1153">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Kei roto i tēnei whakahōutanga ko ngā kōnae rauemi e whai ake nei, hei whakarei ake i te wheako kaiwhakamahi o te mahinga pūnaha. Whakahōu kia ngahau ngā whakapainga.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Tauira whakamāoritanga kōrero-ki-kuputuhi reomaha">
+            <!-- 正文 -->
+            <feature>Ka tuku i te tauira whakamāoritanga reomaha hei whakarato i ngā āheinga whakamāoritanga puta noa i ngā reo.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="mk-mk" code="1071">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Ова ажурирање ги вклучува следниве датотеки со ресурси, што ќе го подобрат корисничкото искуство со перформансите на системот. Ажурирајте за да уживате во подобрувањата.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Повеќејазичен модел за преведување говор во текст">
+            <!-- 正文 -->
+            <feature>Објавува повеќејазичен модел за преведување за да обезбеди способности за преведување на повеќе јазици.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="ml-in" code="1100">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>ഈ അപ്‌ഡേറ്റിൽ ഇനിപ്പറയുന്ന ഉറവിട ഫയലുകൾ ഉൾപ്പെടുന്നു, ഇത് സിസ്റ്റം പ്രകടനത്തിന്റെ ഉപയോക്തൃ അനുഭവം മെച്ചപ്പെടുത്തും. മെച്ചപ്പെടുത്തലുകൾ ആസ്വദിക്കാൻ അപ്‌ഡേറ്റ് ചെയ്യുക.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="ബഹുഭാഷാ സ്‌പീച്ച്-ടു-ടെക്‌സ്‌റ്റ് വിവർത്തന മോഡൽ">
+            <!-- 正文 -->
+            <feature>ഭാഷകൾ തമ്മിലുള്ള വിവർത്തന ക്ഷമതകൾ നൽകാൻ ബഹുഭാഷാ വിവർത്തന മോഡൽ റിലീസ് ചെയ്യുന്നു.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="mn-mn" code="1104">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Энэ шинэчлэлтээр системийн гүйцэтгэлийн хэрэглэгчийн туршлагыг сайжруулах дараах эх үүсвэрийн файлыг багтаав. Шинэчлээд сайжруулалтыг ашиглаарай.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Олон хэл дээрх яриаг бичвэр болгон орчуулах загвар">
+            <!-- 正文 -->
+            <feature>Янз бүрийн хэлээр орчуулах чадавхаар хангах олон хэлээр орчуулах загвар гаргалаа.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="mr-in" code="1102">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>या अद्यतनामध्ये खालील संसाधन फाइल्स समाविष्ट आहेत, ज्यामुळे सिस्टम कार्यप्रदर्शनाचा वापरकर्ता अनुभव वाढेल. सुधारणांचा आनंद घेण्यासाठी अद्यतनित करा.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="बहुभाषिक स्पीच-टू-टेक्स्ट भाषांतर मॉडेल">
+            <!-- 正文 -->
+            <feature>सर्व भाषांमध्ये भाषांतर क्षमता प्रदान करण्यासाठी बहुभाषिक भाषांतर मॉडेल जारी करते.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="ms-my" code="1086">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Kemas kini ini termasuk fail sumber berikut, yang akan menambah baik pengalaman pengguna terhadap prestasi sistem. Kemas kini untuk menikmati penambahbaikan ini.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Model terjemahan pertuturan kepada teks berbilang bahasa">
+            <!-- 正文 -->
+            <feature>Melancarkan model terjemahan berbilang bahasa untuk menyediakan keupayaan terjemahan merentas bahasa.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="my-mm" code="1109">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>ဤအပ်ဒိတ်တွင် ဖော်ပြပါ ရင်းမြစ်ဖိုင်များ ပါဝင်ပြီး ၎င်းတို့က စနစ်စွမ်းဆောင်ရည်ကို သုံးစွဲရသည့် အတွေ့အကြုံအား မြှင့်တင်ပေးပါမည်။ ပိုကောင်းအောင်မြှင့်တင်ထားမှုများကို သုံးစွဲရန် အပ်ဒိတ်လုပ်ပါ။</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="ဘာသာစကားမျိုးစုံဖြင့် စကားပြောမှ စာသားသို့ ဘာသာပြန်ဆိုသည့်မော်ဒယ်">
+            <!-- 正文 -->
+            <feature>ဘာသာစကားများစွာကို ဘာသာပြန်နိုင်သည့်စွမ်းရည်များ ပံ့ပိုးပေးရန် ဘာသာစကားမျိုးစုံ ဘာသာပြန်မော်ဒယ်ကို ထုတ်လုပ်ပေးသည်။</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="my-zg" code="1109">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>ဤအပ္ဒိတ္တြင္ ေဖာ္ျပပါ ရင္းျမစ္ဖိုင္မ်ား ပါဝင္ၿပီး ၎တို႔က စနစ္စြမ္းေဆာင္ရည္ကို သုံးစြဲရသည့္ အေတြ႕အႀကဳံအား ျမႇင့္တင္ေပးပါမည္။ ပိုေကာင္းေအာင္ျမႇင့္တင္ထားမႈမ်ားကို သုံးစြဲရန္ အပ္ဒိတ္လုပ္ပါ။</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="ဘာသာစကားမ်ိဳးစုံျဖင့္ စကားေျပာမွ စာသားသို႔ ဘာသာျပန္ဆိုသည့္ေမာ္ဒယ္">
+            <!-- 正文 -->
+            <feature>ဘာသာစကားမ်ားစြာကို ဘာသာျပန္ႏိုင္သည့္စြမ္းရည္မ်ား ပံ့ပိုးေပးရန္ ဘာသာစကားမ်ိဳးစုံ ဘာသာျပန္ေမာ္ဒယ္ကို ထုတ္လုပ္ေပးသည္။</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="nb-no" code="1044">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Denne oppdateringen inkluderer følgene ressursfiler, som vil forbedre brukeropplevelsen av systemytelsen. Oppdater for å nyte forbedringene.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Flerspråklig tale-til-tekst oversettelsesmodell">
+            <!-- 正文 -->
+            <feature>Frigi flerspråklig oversettelesmodell for å forsyne oversettelsesevner på tvers av språk.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="ne-np" code="1121">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>यो अपडेटमा निम्न स्रोत फाइलहरू समावेश गरिएका छन् र यसले प्रणालीको कार्यसम्पादनको प्रयोगकर्ता अनुभव सुधार गर्ने छ । सुधार गरिएका सुविधाहरूको आनन्द लिन अपडेट गर्नुहोस् ।</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="स्पिच-टु-टेक्स्ट अनुवादको बहुभाषी मोडेल">
+            <!-- 正文 -->
+            <feature>विभिन्न भाषाका बिचमा अनुवाद गर्ने सुविधा प्रदान गर्न अनुवादको बहुभाषी मोडेल रिलिज गर्छ ।</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="nl-nl" code="1043">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Deze update bevat de volgende bronbestanden, die de gebruikerservaring van de systeemprestaties zullen verbeteren. Werk bij om van de verbeteringen te genieten.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Meertalig spraak-naar-tekst-vertaalmodel">
+            <!-- 正文 -->
+            <feature>Geeft het meertalige vertaalmodel vrij om vertaalmogelijkheden in verschillende talen te bieden.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="or-in" code="1096">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>ଏହି ଅପଡେଟ୍‌ରେ ନିମ୍ନଲିଖିତ ରିସୋର୍ସ ଫାଇଲ୍‌ଗୁଡ଼ିକ ଅନ୍ତର୍ଭୁକ୍ତ, ଯାହା ସିଷ୍ଟମ୍ କାର୍ଯ୍ୟଦକ୍ଷତାର ଉପଯୋଗକର୍ତ୍ତାଗଣଙ୍କ ଅନୁଭୂତିକୁ ବୃଦ୍ଧି କରିବ। ଉନ୍ନତିଗୁଡ଼ିକୁ ଉପଭୋଗ କରିବା ପାଇଁ ଅପଡେଟ୍ କରନ୍ତୁ।</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="ବହୁଭାଷୀ ସ୍ପିଚ୍‌-ରୁ-ଟେକ୍ସଟ୍ ଅନୁବାଦ ମଡେଲ୍">
+            <!-- 正文 -->
+            <feature>ବିଭିନ୍ନ ଭାଷାରେ ଅନୁବାଦ କ୍ଷମତା ପ୍ରଦାନ କରିବା ପାଇଁ ବହୁଭାଷୀ ଅନୁବାଦ ମଡେଲ୍ ରିଲିଜ୍‌ କରେ।</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="pa-in" code="1094">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>ਇਸ ਅੱਪਡੇਟ ਵਿੱਚ ਹੇਠ ਲਿਖੀਆਂ ਸਰੋਤ ਫ਼ਾਈਲਾਂ ਸ਼ਾਮਲ ਹਨ, ਜੋ ਸਿਸਟਮ ਦੀ ਕਾਰਗੁਜ਼ਾਰੀ ਦੇ ਵਰਤੋਂਕਾਰ ਅਨੁਭਵ ਨੂੰ ਵਧਾਉਣਗੀਆਂ। ਸੁਧਾਰਾਂ ਦਾ ਅਨੰਦ ਲੈਣ ਲਈ ਅੱਪਡੇਟ ਕਰੋ।</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="ਬਹੁਭਾਸ਼ਾਈ ਬੋਲੀ-ਤੋਂ-ਟੈਕਸਟ ਅਨੁਵਾਦ ਮਾਡਲ">
+            <!-- 正文 -->
+            <feature>ਭਾਸ਼ਾਵਾਂ ਵਿੱਚ ਅਨੁਵਾਦ ਸਮਰੱਥਾਵਾਂ ਪ੍ਰਦਾਨ ਕਰਨ ਲਈ ਬਹੁਭਾਸ਼ਾਈ ਅਨੁਵਾਦ ਮਾਡਲ ਜਾਰੀ ਕੀਤਾ ਗਿਆ ਹੈ।</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="pl-pl" code="1045">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Ta aktualizacja obejmuje następujące pliki zasobów, które poprawią komfort korzystania związany z wydajnością systemu. Zainstaluj tę aktualizację, aby korzystać z ulepszeń.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Wielojęzyczny model tłumaczenia mowy na tekst">
+            <!-- 正文 -->
+            <feature>Udostępniono wielojęzyczny model tłumaczeń umożliwiający tłumaczenie między różnymi językami.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="pt-br" code="1046">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Esta atualização inclui os seguintes arquivos de recurso, que aprimorarão a experiência do usuário com o desempenho do sistema. Atualize para usufruir das melhorias.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Modelo de tradução multilíngue de conversão de fala em texto">
+            <!-- 正文 -->
+            <feature>Apresenta o modelo de tradução multilíngue para fornecer capacidades de tradução em diferentes idiomas.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="pt-pt" code="2070">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Esta atualização inclui os seguintes ficheiros de recursos, que irão melhorar a experiência do utilizador no desempenho do sistema. Atualize para usufruir das melhorias.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Modelo de tradução multilingue de voz para texto">
+            <!-- 正文 -->
+            <feature>Lança o modelo de tradução multilingue para fornecer capacidades de tradução entre idiomas.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="ro-ro" code="1048">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Această actualizare include următoarele fișiere de resurse, care vor îmbunătăți experiența de utilizare în ceea ce privește performanța sistemului. Actualizați pentru a vă bucura de îmbunătățiri.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Model multilingv de traducere voce-text">
+            <!-- 正文 -->
+            <feature>Lansează modelul de traducere multilingvă pentru a oferi capabilități de traducere în mai multe limbi.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="ru-ru" code="1049">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>В это обновление включены следующие файлы ресурсов, которые помогут улучшить производительность системы. Установите обновление и пользуйтесь улучшениями.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Многоязыковая модель перевода для преобразования речи в текст">
+            <!-- 正文 -->
+            <feature>Реализует многоязыковую модель перевода на разные языки.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="si-lk" code="1115">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>මෙම යාවත්කාලයට පද්ධති කාර්යසාධනයේ පරිශීලක අත්දැකීම උසස් කරනු ඇති පහත මූලාශ්‍ර ගොනු ඇතුළත් වේ. වැඩිදියුණු කිරීම් අත්විඳීමට යාවත්කාල කරන්න.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="බහුභාෂා කථනය-පෙළ-වෙත පරිවර්තන ආකෘතිය">
+            <!-- 正文 -->
+            <feature>භාෂා හරහා පරිවර්තන හැකියාවන් සැපයීම සඳහා බහුභාෂා පරිවර්තන ආකෘතිය නිකුත් කරයි.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="sk-sk" code="1051">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Táto aktualizácia obsahuje nasledujúce zdrojové súbory, ktoré zlepšia používateľskú skúsenosť s výkonom systému. Aktualizujte, aby ste si užili zlepšenia.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Viacjazyčný model prekladu s prevodom reči na text">
+            <!-- 正文 -->
+            <feature>Sprístupňuje viacjazyčný model prekladu, ktorý poskytuje možnosti prekladu medzi jazykmi.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="sl-si" code="1060">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Ta posodobitev vključuje naslednje datoteke z viri, ki bodo izboljšale uporabniško izkušnjo z učinkovitostjo delovanja sistema. Posodobite in uživajte v izboljšavah.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Večjezični model prevajanja pretvorbe govora v besedilo">
+            <!-- 正文 -->
+            <feature>Izdaja večjezičnega modela prevajanja za zagotavljanje funkcij prevajanja v več jezikih.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="sv-se" code="1053">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Den här uppdateringen innehåller följande resursfiler, som kommer att förbättra användarupplevelsen av systemets prestanda. Uppdatera för att ta del av förbättringarna.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Flerspråkig översättningsmodell för tal till text">
+            <!-- 正文 -->
+            <feature>Släpper den flerspråkiga översättningsmodellen för att tillhandahålla översättningsfunktioner mellan olika språk.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="sw-tz" code="1089">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Sasisho hili linajumuisha faili zifuatazo za nyenzo, ambazo zitaboresha huduma anayopata mtumiaji ya utendaji wa mfumo. Sasisha ili ufurahie maboresho.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Modeli ya tafsiri ya lugha nyingi ya usemi hadi maandishi">
+            <!-- 正文 -->
+            <feature>Hutoa modeli ya tafsiri ya lugha nyingi ili kutoa uwezo wa tafsiri kati ya lugha.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="ta-in" code="1097">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>இந்தப் புதுப்பிப்பு சிஸ்டம் செயல்திறனின் பயனர் அனுபவத்தை மேம்படுத்தும் பின்வரும் ஆதாரக் கோப்புகளைக் கொண்டுள்ளது. மேம்பாடுகளைப் பெற, புதுப்பிக்கவும்.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="பன்மொழிப் பேச்சிலிருந்து உரை மொழிபெயர்ப்பு மாடல்">
+            <!-- 正文 -->
+            <feature>மொழிகளுக்கு இடையே மொழிபெயர்ப்புத் திறன்களை வழங்க, பன்மொழி மொழிபெயர்ப்பு மாடலை வெளியிடுகிறது.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="te-in" code="1098">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>ఈ అప్‌డేట్‌లో క్రింది వనరు ఫైల్స్ ఉంటాయి, ఇవి సిస్టమ్ పనితీరు యొక్క వినియోగదారు అనుభవాన్ని మెరుగుపరుస్తుంది. మెరుగుదలలను ఆనందించడానికి అప్‌డేట్ చేయండి.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="బహుళ భాష స్పీచ్-నుండి-టెక్స్ట్ అనువాదం మోడల్">
+            <!-- 正文 -->
+            <feature>భాషలవ్యాప్తంగా అనువాదం సామర్థ్యాలను అందించడానికి బహుళ భాషా అనువాదం మోడల్‌ను విడుదల చేస్తుంది.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="th-th" code="1054">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>การอัปเดตครั้งนี้ประกอบไปด้วยไฟล์ทรัพยากรต่อไปนี้ ซึ่งจะปรับปรุงประสบการณ์การใช้งานของผู้ใช้ที่มีต่อประสิทธิภาพของระบบ อัปเดตเลยเพื่อใช้การปรับปรุงต่างๆ</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="โมเดลการแปลภาษาในการแปลงคำพูดเป็นข้อความหลายภาษา">
+            <!-- 正文 -->
+            <feature>เผยแพร่โมเดลการแปลภาษาหลายภาษาเพื่อให้บริการความสามารถในการแปลภาษาต่างๆ</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="tl-ph" code="1124">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Kasama sa update na ito ang mga sumusunod na file ng mapagkukunan, na magpapaganda sa karanasan ng user sa performance ng system. I-update para i-enjoy ang mga pagpapahusay.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Multilingual speech-to-text translation model">
+            <!-- 正文 -->
+            <feature>Nire-release ang multilingual translation model para magbigay ng mga kakayahan sa pagsasalin sa mga wika.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="tr-tr" code="1055">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Bu güncelleme, aşağıdaki sistem performansının kullanıcı deneyimini artıracak kaynak dosyalarını içerir. İyileştirmelerden faydalanmak için güncellemeyi gerçekleştirin.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Çok dilli konuşma-metin çeviri modeli">
+            <!-- 正文 -->
+            <feature>Diller arası çeviri olanakları sunmak için çok dilli çeviri modelini yayınlar.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="uk-ua" code="1058">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Це оновлення містить зазначені нижче файли ресурсів, які покращують взаємодію з користувачем і продуктивність системи. Установіть оновлення, щоб користуватися вдосконаленнями.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Багатомовна модель перекладу з перетворенням мовлення на текст">
+            <!-- 正文 -->
+            <feature>Випущено багатомовну модель перекладу, яка допомагає виконувати переклад різними мовами.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="ur-pk" code="1056">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>اس اپ ڈیٹ میں وسائل کی درج ذیل فائلز شامل ہیں، جو سسٹم کی کارکردگی کے صارف کے تجربے کو بہتر بنائیں گی۔ بہتریوں سے لطف اندوز ہونے کے لیے اپ ڈیٹ کریں۔</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="کثیر لسانی اسپیچ ٹو ٹیکسٹ کے ترجمے کا ماڈل">
+            <!-- 正文 -->
+            <feature>تمام زبانوں میں ترجمہ کی صلاحیتیں فراہم کرنے کے لیے کثیر لسانی ترجمے کا ماڈل جاری کرتا ہے۔</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="ug-cn" code="1152">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>‏بۇ قېتىملىق يېڭىلاش تۆۋەندىكى مەنبە ھۆججەتلەرنى يېڭىلاپ، سىستېمىنىڭ ئىشلەتكۈچى تەسىراتىنى يۇقىرى كۆتۈرىدۇ، دەرھال يېڭىلاش تەۋسىيە قىلىنىدۇ.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="‏كۆپ خىل تىل ئاۋاز تەرجىمە مودېلى">
+            <!-- 正文 -->
+            <feature>‏كۆپ خىل تىل تەرجىمە مودېلى ئېلان قىلىنغان بولۇپ، كۆپ خىل تىل تەرجىمە ئىقتىدارى بىلەن تەمىنلەيدۇ.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="uz-uz" code="2115">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Bu tavsiya etiladigan yangilanish tizim unumdorligini oshiradigan quyidagi resurs fayllarini oʻz ichiga oladi. Takomillashtirishlardan foydalanish uchun yangilang.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Bir nechta tilli nutqni matnga aylantirish tarjima modeli">
+            <!-- 正文 -->
+            <feature>Bir nechta tilli tarjima qilish imkoniyatlarini taʼminlash uchun bir nechta tilli tarjima modelini chiqaradi.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="vi-vn" code="1066">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Bản cập nhật này bao gồm các tệp tin tài nguyên sau, giúp nâng cao trải nghiệm người dùng về hiệu năng hệ thống. Hãy cập nhật để tận hưởng các cải tiến.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Mô hình dịch lời nói thành văn bản đa ngôn ngữ">
+            <!-- 正文 -->
+            <feature>Phát hành mô hình dịch đa ngôn ngữ để cung cấp khả năng dịch giữa nhiều ngôn ngữ.</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="zh-cn" code="2052">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>本次更新如下资源文件，将提升系统的用户体验，建议您立即更新。</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="多语言语音翻译模型">
+            <!-- 正文 -->
+            <feature>发布多语言翻译模型，提供多语言翻译能力。</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="zh-hk" code="3076">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>本次更新了以下資源檔案，將提升系統的用戶體驗，建議您立即更新。</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="多語言語音翻譯模型">
+            <!-- 正文 -->
+            <feature>發佈多語言翻譯模型，提供多語言翻譯能力。</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="zh-tw" code="1028">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>本次更新以下資源檔案，將提升系統的使用者經驗，建議您立即更新。</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="多語言語音翻譯模型">
+            <!-- 正文 -->
+            <feature>發佈多語言翻譯模型，提供多語言翻譯功能。</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+    <language name="bo-cn" code="1105">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>ཐེངས་འདིར་གཤམ་གསལ་གྱི་ཐོན་ཁུངས་ཡིག་ཆ་གསར་སྒྱུར་བྱས་ནས། རྒྱུད་ཁོངས་ཀྱི་སྤྱོད་མཁན་གྱི་ཉམས་ལེན་མཐོར་འདེགས་གཏོང་། ཁྱེད་ཀྱིས་མྱུར་དུ་གསར་སྒྱུར་བྱས་ན་ལེགས།</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="སྐད་རིགས་མང་པོའི་སྒྲ་གདངས་ཡིག་སྒྱུར་མ་དཔེ།">
+            <!-- 正文 -->
+            <feature>སྐད་རིགས་མང་པོའི་སྒྲ་གདངས་ཡིག་སྒྱུར་མ་དཔེ་ཁྱབ་སྤེལ་བྱས། སྐད་རིགས་མང་པོའི་ཡིག་སྒྱུར་བྱེད་ནུས་མཁོ་འདོན་བྱེད།</feature>
+        </features>
+        <features module="" type="end">
+            <feature>zh-CN,en-GB,de-DE,fr-FR,es-ES,it-IT,ar-SA,ms-MY,ru-RU,tr-TR,es-MX</feature>
+        </features>
+    </language>
+</root>

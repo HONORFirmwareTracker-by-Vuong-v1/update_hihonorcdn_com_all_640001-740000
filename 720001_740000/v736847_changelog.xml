@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component name="TCPU" version=""/>
+<default-language name="zh-cn">1033</default-language>
+<language name="zh-cn" code="2052">
+<features module="" type="header">
+<feature></feature>
+</features>
+<features module="影像机">
+<feature>新增眼动翻页双翻页模式。</feature>
+<feature>优化暗光场景变焦流畅性。</feature>
+<feature>修复后置长焦慢动作视频防抖差问题。</feature>
+<feature>优化广角室内AE算法。</feature>
+<feature>修复后置主摄纯色场景偏色问题。</feature>
+</features>
+<features module="系统">
+<feature>优化VoWiFi功能默认开启逻辑，提升网络连接稳定性。</feature>
+<feature>优化触控点击精度异常问题。</feature>
+<feature>修复飞行模式待机功耗异常增加问题。</feature>
+</features>
+        <features module="更新注意事项：" type="end">
+            <feature>1. 本次更新不会删除您的用户数据，但仍建议您在更新前做好数据备份。
+2. 更多精彩功能介绍，请访问“玩机技巧”应用。
+3. 如果您在使用过程中遇到任何问题，请访问“我的荣耀”应用或访问荣耀官方服务网站 https://www.honor.com/cn/contact-us 寻求支持。</feature>
+        </features>
+
+</language>
+
+</root>

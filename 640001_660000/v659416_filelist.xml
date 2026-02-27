@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1171324928</cowsize>
+<payloadOffset>940</payloadOffset>
+<fileHash>q6vGctcy4y65FPJHn2nOkRJOMyetEf+tZYEqVElK1mk=</fileHash>
+<fileSize>343881257</fileSize>
+<metadataHash>B7tUSBK3dO4AGnZuOjw3sMpCtXr5Z/CIgOTd1FA3pC0=</metadataHash>
+<metadataSize>37465</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_DNY-N39_iusacell_mx.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_DNY-N39_iusacell_mx.zip</spath>
+<dpath>update_cust_DNY-N39_iusacell_mx.zip</dpath>
+<operation>c</operation>
+<sha256>D8D78ACD77D93452C772A18AABD4216B4CF03B05BF080FEA20C353115367B5B9</sha256>
+<size>343888589</size>
+</file>
+</files>
+</root>

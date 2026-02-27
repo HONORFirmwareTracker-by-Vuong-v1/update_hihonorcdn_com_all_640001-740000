@@ -1,0 +1,1111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <component name="TCPU" version="请自行修改"/>
+    <default-language name="en-us">1033</default-language>
+        <language name="en-us" code="1033">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>This update includes the following parameters to enhance the user experience. Update now to enjoy the improvements.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Stability parameters">
+            <!-- 正文 -->
+            <feature>Improves the system stability.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="am-et" code="1118">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>ይህ ዝማኔ የተጠቃሚውን ተሞክሮ ለማሻሻል የሚከተሉትን መለኪያዎች ያካትታል። በማሻሻያዎቹ ለመደሰት አሁን ያዘምኑ።</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="የእርጋታ መለኪያዎች">
+            <!-- 正文 -->
+            <feature>የስርዓቱን እርጋታ ያሻሽላል።</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="ar-eg" code="3073">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>يتضمن هذا التحديث المعلمات التالية لتحسين تجربة المستخدم. للاستمتاع بالتحسينات، ما عليك سوى التحديث الآن.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="معلمات الاستقرار">
+            <!-- 正文 -->
+            <feature>يحسّن استقرار النظام.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="as-in" code="1101">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>এই আপডেটটোৱে ব্যৱহাৰকাৰীৰ অভিজ্ঞতা উন্নত কৰিবলৈ নিম্নোক্ত পেৰামিটাৰসমূহ অন্তৰ্ভুক্ত কৰে। উন্নতিসমূহৰ আনন্দ ল'বলৈ এতিয়াই আপডেট কৰক।</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="স্থিৰতাৰ পেৰামিটাৰসমূহ">
+            <!-- 正文 -->
+            <feature>ছিষ্টেমৰ স্থিৰতা উন্নত কৰে।</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="az-az" code="1068">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Bu yeniləmə istifadəçi təcrübəsini yaxşılaşdırmaq üçün aşağıdakı parametrləri ehtiva edir. Təkmilləşdirmələrdən zövq almaq üçün indi yeniləyin.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Sabitlik parametrləri">
+            <!-- 正文 -->
+            <feature>Sistemin sabitliyini yaxşılaşdırır.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="jv-id" code="1033">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Panganyaran iki ngatutake parameter ing ngisor iki kanggo ningkatake pangalaman pangguna. Anyarake saiki kanggo ngrasakake pangapikan kasebut.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Parameter stabilitas">
+            <!-- 正文 -->
+            <feature>Ngapikake stabilitas sistem.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="sr-rs" code="2074">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Ovo ažuriranje uključuje sledeće parametre radi poboljšanja korisničkog iskustva. Ažurirajte sada da uživate u poboljšanjima.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Parametri stabilnosti">
+            <!-- 正文 -->
+            <feature>Poboljšava stabilnost sistema.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="be-by" code="1059">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Гэта абнаўленне ўключае наступныя параметры, якія паляпшаюць досвед выкарыстання. Устанавіце абнаўленне, каб карыстацца паляпшэннямі.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Параметры ўстойлівасці">
+            <!-- 正文 -->
+            <feature>Павышана ўстойлівасць сістэмы.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="bg-bg" code="1026">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Тази актуализация включва следните параметри за подобряване на потребителското изживяване. Актуализирайте сега, за да се насладите на подобренията.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Параметри на стабилността">
+            <!-- 正文 -->
+            <feature>Подобрява стабилността на системата.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="bn-bd" code="2117">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>এই আপডেটে ব্যবহারকারীর অভিজ্ঞতা উন্নত করার জন্য নিম্নলিখিত প্যারামিটারগুলি অন্তর্ভুক্ত আছে। উন্নতিগুলি উপভোগ করতে এখনই আপডেট করুন।</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="স্থিতিশীলতা প্যারামিটার">
+            <!-- 正文 -->
+            <feature>সিস্টেমের স্থিতিশীলতা উন্নত করে।</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="bs-ba" code="5146">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Ovo ažuriranje uključuje sljedeće parametre radi poboljšanja korisničkog iskustva. Ažurirajte sada da uživate u poboljšanjima.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Parametri stabilnosti">
+            <!-- 正文 -->
+            <feature>Poboljšava stabilnost sistema.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="ca-es" code="1027">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Aquesta actualització inclou els paràmetres següents per millorar l\'experiència d\'usuari. Instal·leu l\'actualització ara per gaudir de les millores.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Paràmetres d\'estabilitat">
+            <!-- 正文 -->
+            <feature>Millora l\'estabilitat del sistema.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="cs-cz" code="1029">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Tato aktualizace obsahuje následující parametry, které zlepšují uživatelský zážitek. Aktualizujte nyní a užijte si vylepšení.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Parametry stability">
+            <!-- 正文 -->
+            <feature>Vylepšuje stabilitu systému.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="da-dk" code="1030">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Denne opdatering indeholder følgende parametre for at forbedre brugeroplevelsen. Opdater nu for at nyde forbedringerne.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Stabilitetsparametre">
+            <!-- 正文 -->
+            <feature>Forbedrer systemets stabilitet.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="de-de" code="1031">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Diese Aktualisierung enthält die folgenden Parameter zur Verbesserung des Benutzererlebnisses. Nehmen Sie jetzt die Aktualisierung vor, um in den Genuss der Verbesserungen zu kommen.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Stabilitätsparameter">
+            <!-- 正文 -->
+            <feature>Verbessert die Systemstabilität.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="el-gr" code="1032">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Αυτή η ενημέρωση περιλαμβάνει τις ακόλουθες παραμέτρους για τη βελτίωση της εμπειρίας χρήστη. Πραγματοποιήστε ενημέρωση τώρα για να απολαύσετε τις βελτιώσεις.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Παράμετροι σταθερότητας">
+            <!-- 正文 -->
+            <feature>Βελτιώνει τη σταθερότητα του συστήματος.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="en-gb" code="2057">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>This update includes the following parameters to enhance the user experience. Update now to enjoy the improvements.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Stability parameters">
+            <!-- 正文 -->
+            <feature>Improves the system stability.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="es-es" code="1034">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Esta actualización incluye los siguientes parámetros para mejorar la experiencia del usuario. Actualice ahora para disfrutar de las mejoras.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Parámetros de estabilidad">
+            <!-- 正文 -->
+            <feature>Se ha mejorado la estabilidad del sistema.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="es-us" code="21514">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Esta actualización incluye los siguientes parámetros para mejorar la experiencia del usuario. Actualice ahora para disfrutar de las mejoras.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Parámetros de estabilidad">
+            <!-- 正文 -->
+            <feature>Mejora la estabilidad del sistema.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="et-ee" code="1061">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>See värskendus sisaldab järgmisi parameetreid kasutajakogemuse parandamiseks. Värskendage kohe, et nautida täiustusi.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Stabiilsusparameetrid">
+            <!-- 正文 -->
+            <feature>Parandab süsteemi stabiilsust.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="eu-es" code="1069">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Eguneratze honek erabiltzaile-esperientzia hobetzeko parametro hauek ditu. Eguneratu orain hobekuntzez gozatzeko.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Egonkortasun-parametroak">
+            <!-- 正文 -->
+            <feature>Sistemaren egonkortasuna hobetu da.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="fa-ir" code="1065">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>این به‌روزرسانی شامل پارامترهای زیر برای بهبود تجربه کاربری است. همین حالا به‌روزرسانی کنید تا از این بهبودها بهره‌مند شوید.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="پارامترهای پایداری">
+            <!-- 正文 -->
+            <feature>پایداری سیستم را بهبود می‌بخشد.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="fi-fi" code="1035">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Tämä päivitys sisältää seuraavat käyttökokemusta parantavat parametrit. Päivitä nyt ja nauti parannuksista.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Vakausparametrit">
+            <!-- 正文 -->
+            <feature>Parantaa järjestelmän vakautta.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="fr-fr" code="1036">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Cette mise à jour comprend les paramètres suivants pour améliorer l\'expérience utilisateur. Effectuez la mise à jour maintenant pour profiter des améliorations.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Paramètres de stabilité">
+            <!-- 正文 -->
+            <feature>Améliore la stabilité du système.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="gl-es" code="1110">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Esta aplicación inclúe os seguintes parámetros para mellorar a experiencia do usuario. Actualice xa para gozar das melloras.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Parámetros de estabilidade">
+            <!-- 正文 -->
+            <feature>Mellora a estabilidade do sistema.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="gu-in" code="1095">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>આ અપડેટમાં વપરાશકર્તા અનુભવને વધારવા માટે નીચેનાં પરિમાણો સામેલ છે. સુધારાઓનો આનંદ માણવા માટે હમણાં જ અપડેટ કરો.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="સ્થિરતાનાં પરિમાણો">
+            <!-- 正文 -->
+            <feature>સિસ્ટમની સ્થિરતામાં સુધારો કરે છે.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="hi-in" code="1081">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>इस अद्यतन में उपयोगकर्ता अनुभव को बेहतर बनाने के लिए निम्न पैरामीटर शामिल किए गए हैं। सुधारों का फ़ायदा उठाने के लिए अभी अद्यतन करें।</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="स्थिरता पैरामीटर">
+            <!-- 正文 -->
+            <feature>सिस्टम स्थिरता में सुधार किया जाता है।</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="hr-hr" code="1050">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Ovo ažuriranje uključuje parametre za poboljšanje korisničkog iskustva navedene u nastavku. Ažurirajte odmah kako biste uživali u poboljšanjima.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Parametri stabilnosti">
+            <!-- 正文 -->
+            <feature>Poboljšava se stabilnost sustava.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="hu-hu" code="1038">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Ez a frissítés a következő paramétereket tartalmazza a felhasználói élmény javítása érdekében. Frissítsen most, és élvezze a továbbfejlesztéseket.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Stabilitási paraméterek">
+            <!-- 正文 -->
+            <feature>Javítja a rendszer stabilitását.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="in-id" code="1057">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Pembaruan ini menyertakan parameter berikut untuk meningkatkan pengalaman pengguna. Instal pembaruan untuk menikmati berbagai peningkatan.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Parameter stabilitas">
+            <!-- 正文 -->
+            <feature>Meningkatkan stabilitas sistem.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="it-it" code="1040">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Questo aggiornamento include i seguenti parametri per migliorare l\'esperienza utente. Esegui l\'aggiornamento ora per usufruire dei miglioramenti.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Parametri di stabilità">
+            <!-- 正文 -->
+            <feature>Viene migliorata la stabilità del sistema.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="iw-il" code="1037">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>עדכון זה כולל את הפרמטרים הבאים לשיפור חוויית המשתמש. עדכן עכשיו כדי ליהנות מהשיפורים.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="פרמטרים של יציבות">
+            <!-- 正文 -->
+            <feature>משפר את יציבות המערכת.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="ja-jp" code="1041">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>今回の更新にはユーザー体験を向上させるための以下のパラメータが含まれます。今すぐ更新して改善点をお楽しみください。</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="安定性パラメータ">
+            <!-- 正文 -->
+            <feature>システムの安定性が向上します。</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="ka-ge" code="1079">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>მომხმარებლის გამოცდილების გასაუმჯობესებლად ეს განახლება მოიცავს შემდეგ პარამეტრებს. განაახლეთ ახლავე, რომ ისარგებლოთ გაუმჯობესებებით.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="სტაბილურობის პარამეტრები">
+            <!-- 正文 -->
+            <feature>აუმჯობესებს სისტემის სტაბილურობას.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="kk-kz" code="1087">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Бұл жаңарту пайдаланушы тәжірибесін жақсарту үшін келесі параметрлерді қамтиды. Жақсартуларды пайдалану үшін қазір жаңартыңыз.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Тұрақтылық параметрлері">
+            <!-- 正文 -->
+            <feature>Жүйе тұрақтылығын жақсартады.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="km-kh" code="1107">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>បច្ចុប្បន្នភាពនេះរួមបញ្ចូលប៉ារ៉ាម៉ែត្រខាងក្រោមដើម្បីបង្កើនបទពិសោធអ្នកប្រើ។ ធ្វើបច្ចុប្បន្នភាពឥឡូវនេះ ដើម្បីរីករាយនឹងការកែលម្អ។</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="ប៉ារ៉ាម៉ែត្រស្ថិរភាព">
+            <!-- 正文 -->
+            <feature>កែលម្អស្ថិរភាពប្រព័ន្ធ។</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="kn-in" code="1099">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>ಬಳಕೆದಾರರ ಅನುಭವವನ್ನು ವರ್ಧಿಸಲು ಈ ನವೀಕರಣವು ಈ ಕೆಳಗಿನ ನಿಯತಾಂಕಗಳನ್ನು ಒಳಗೊಂಡಿದೆ. ಸುಧಾರಣೆಗಳನ್ನು ಆನಂದಿಸಲು ಈಗಲೇ ನವೀಕರಿಸಿ.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="ಸ್ಥಿರತೆಯ ನಿಯತಾಂಕಗಳು">
+            <!-- 正文 -->
+            <feature>ಸಿಸ್ಟಂ ಸ್ಥಿರತೆಯನ್ನು ಸುಧಾರಿಸುತ್ತದೆ.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="ko-kr" code="1042">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>이번 업데이트에는 사용자 경험을 개선하기 위한 다음 매개변수가 포함되어 있습니다. 지금 업데이트하고 개선된 기능을 즐겨보십시오.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="안정성 매개변수">
+            <!-- 正文 -->
+            <feature>시스템 안정성을 개선합니다.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="lo-la" code="1108">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>ການ​ອັບ​ເດດ​ນີ້​ລ​ວມ​ມີ​​ພາ​ຣາ​ມີ​ເຕີ​ຕໍ່​ໄປ​ນີ້​ເພື່ອ​ຍົກ​ລະ​ດັບ​ປະ​ສົບ​ການ​ຜູ້​ໃຊ້. ອັບ​ເດດຕອນ​ນີ້​ເພື່ອ​ມ່ວ​ນ​ຊື່​ນກັບ​ການ​ປັບ​ປຸງ.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="ພາ​ຣາ​ມີ​ເຕີ​ຄວາມ​ສະ​ຖຽນ">
+            <!-- 正文 -->
+            <feature>ປັບປຸງຄວາມສະຖຽນຂອງລະບົບ.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="lt-lt" code="1063">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Į šį naujinį įtraukti tolesni parametrai, kuriais siekiama pagerinti naudotojo patirtį. Atnaujinkite dabar ir mėgaukitės patobulinimais.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Stabilumo parametrai">
+            <!-- 正文 -->
+            <feature>Pagerinamas sistemos stabilumas.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="lv-lv" code="1062">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Šajā atjauninājumā ir iekļauti tālāk norādītie parametri, lai uzlabotu lietošanas iespējas. Atjauniniet tagad, lai izbaudītu uzlabojumus.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Stabilitātes parametri">
+            <!-- 正文 -->
+            <feature>Uzlabo sistēmas stabilitāti.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="mai-in" code="1033">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>उपयोगकर्ता अनुभव सभ केँ वर्धित करबाक लेल, एहि अपडेट मे निम्न पैरामीटर सभ सम्मिलित अछि। सुधार सभक आनंद लेबाक लेल एखन अपडेट करू।</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="स्थिरताक पैरामीटर सभ">
+            <!-- 正文 -->
+            <feature>सिस्टमक स्थिरता मे सुधार करैत अछि।</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="mi-nz" code="1153">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Kei roto i tēnei whakahōu ngā tawhā e whai ake nei hei whakarei i te wheako kaiwhakamahi. Whakahōuhia ināianei kia pārekareka ai koe ki ngā whakapainga.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Ngā tawhā pūmautanga">
+            <!-- 正文 -->
+            <feature>Ka whakapai ake i te pūmautanga o te pūnaha.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="mk-mk" code="1071">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Ова ажурирање ги опфаќа следниве параметри за да го подобри корисничкото искуство. Ажурирајте сега за да уживате во подобрувањата.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Параметри за стабилност">
+            <!-- 正文 -->
+            <feature>Ја подобрува стабилноста на системот.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="ml-in" code="1100">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>ഉപയോക്തൃ അനുഭവം മെച്ചപ്പെടുത്താൻ, ഈ അപ്‌ഡേറ്റിൽ ഇനിപ്പറയുന്ന പാരാമീറ്ററുകൾ ഉൾപ്പെടുന്നു. മെച്ചപ്പെടുത്തലുകൾ ആസ്വദിക്കാൻ ഇപ്പോൾ അപ്‌ഡേറ്റ് ചെയ്യുക.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="സ്ഥിരതാ പാരാമീറ്ററുകൾ">
+            <!-- 正文 -->
+            <feature>സിസ്റ്റം സ്ഥിരത മെച്ചപ്പെടുത്തുന്നു.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="mn-mn" code="1104">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Энэ шинэчлэлтээр хэрэглэгчийн туршлагыг сайжруулахын тулд дараах параметрүүдийг багтаав. Одоо шинэчлээд, сайжирсан хэрэглээг мэдрээрэй.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Тогтвортой байдлын параметр">
+            <!-- 正文 -->
+            <feature>Системийн тогтвортой байдлыг сайжруулна.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="mr-in" code="1102">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>या अद्यतनामध्ये वापरकर्त्याचा अनुभव वाढवण्यासाठी खालील पॅरामीटर्स समाविष्ट आहेत. सुधारणांचा आनंद घेण्यासाठी आता अद्यतनित करा.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="स्थिरता पॅरामीटर्स">
+            <!-- 正文 -->
+            <feature>सिस्टम स्थिरता सुधारते.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="ms-my" code="1086">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Kemas kini ini menyertakan parameter berikut untuk meningkatkan pengalaman pengguna. Kemas kini sekarang untuk menikmati penambahbaikan tersebut.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Parameter kestabilan">
+            <!-- 正文 -->
+            <feature>Meningkatkan kestabilan sistem.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="my-mm" code="1109">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>ဤအပ်ဒိတ်တွင် သုံးစွဲသူ အတွေ့အကြုံကို မြှင့်တင်ပေးမည့် ဖော်ပြပါ သတ်မှတ်ချက်များ ပါဝင်သည်။ တိုးမြှင့်မှုများကို သုံးစွဲရန် ယခု အပ်ဒိတ်လုပ်ပါ။</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="ကိုက်ညီမှု သတ်မှတ်ချက်များ">
+            <!-- 正文 -->
+            <feature>စနစ် ပိုမိုတည်ငြိမ်စေရန် မြှင့်တင်ပေးသည်။</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="my-zg" code="1109">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>ဤအပ္ဒိတ္တြင္ သုံးစြဲသူ အေတြ႕အႀကဳံကို ျမႇင့္တင္ေပးမည့္ ေဖာ္ျပပါ သတ္မွတ္ခ်က္မ်ား ပါဝင္သည္။ တိုးျမႇင့္မႈမ်ားကို သုံးစြဲရန္ ယခု အပ္ဒိတ္လုပ္ပါ။</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="ကိုက္ညီမႈ သတ္မွတ္ခ်က္မ်ား">
+            <!-- 正文 -->
+            <feature>စနစ္ ပိုမိုတည္ၿငိမ္ေစရန္ ျမႇင့္တင္ေပးသည္။</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="nb-no" code="1044">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Denne oppdateringen inkluderer følgende parametre for å forbedre brukeropplevelsen. Oppdater nå for å få forbedringene.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Stabilitetsparametre">
+            <!-- 正文 -->
+            <feature>Gjør systemet mer stabilt.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="ne-np" code="1121">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>यो अपडेटले प्रयोगकर्ता अनुभव सुधार गर्न निम्न प्यारामिटरहरू समावेश गरेको छ । सुधार गरिएका सुविधाहरूको आनन्द लिन अहिले नै अपडेट गर्नुहोस् ।</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="स्थिरतासम्बन्धी प्यारामिटरहरू">
+            <!-- 正文 -->
+            <feature>प्रणालीको स्थिरता सुधार गर्छ ।</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="nl-nl" code="1043">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Deze update bevat de volgende parameters om de gebruikerservaring te verbeteren. Werk nu bij om van de verbeteringen te genieten.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Stabiliteitsparameters">
+            <!-- 正文 -->
+            <feature>Verbetert de stabiliteit van het systeem.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="or-in" code="1096">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>ଏହି ଅପଡେଟ୍‌ରେ ଉପଭୋକ୍ତା ଅନୁଭୂତିକୁ ବଢ଼ାଇବା ପାଇଁ ନିମ୍ନଲିଖିତ ପାରାମିଟରଗୁଡ଼ିକ ଅନ୍ତର୍ଭୁକ୍ତ କରାଯାଇଛି। ବିକାଶଗୁଡ଼ିକ ଉପଭୋଗ କରିବାକୁ ବର୍ତ୍ତମାନ ଅପଡେଟ୍ କରନ୍ତୁ।</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="ସ୍ଥିରତା ପାରାମିଟର୍‌">
+            <!-- 正文 -->
+            <feature>ସିଷ୍ଟମ୍‌ ସ୍ଥିରତା ବଢାଏ।</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="pa-in" code="1094">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>ਇਸ ਅੱਪਡੇਟ ਵਿੱਚ ਵਰਤੋਂਕਾਰ ਅਨੁਭਵ ਨੂੰ ਬਿਹਤਰ ਬਣਾਉਣ ਲਈ ਹੇਠਾਂ ਦਿੱਤੇ ਮਾਪਦੰਡ ਸ਼ਾਮਲ ਹਨ। ਸੁਧਾਰਾਂ ਦਾ ਆਨੰਦ ਲੈਣ ਲਈ ਹੁਣੇ ਅੱਪਡੇਟ ਕਰੋ।</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="ਸਥਿਰਤਾ ਮਾਪਦੰਡ">
+            <!-- 正文 -->
+            <feature>ਸਿਸਟਮ ਦੀ ਸਥਿਰਤਾ ਵਿੱਚ ਸੁਧਾਰ ਕੀਤਾ ਗਿਆ ਹੈ।</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="pl-pl" code="1045">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Ta aktualizacja obejmuje następujące parametry poprawiające komfort użytkowania. Zaktualizuj teraz, aby korzystać z ulepszeń.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Parametry stabilności">
+            <!-- 正文 -->
+            <feature>Poprawiono stabilność systemu.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="pt-br" code="1046">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Esta atualização inclui os seguintes parâmetros para aprimorar a experiência do usuário. Atualize agora para aproveitas as melhorias.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Parâmetros de estabilidade">
+            <!-- 正文 -->
+            <feature>Melhora a estabilidade do sistema.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="pt-pt" code="2070">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Esta atualização inclui os seguintes parâmetros para melhorar a experiência do utilizador. Atualize agora para aproveitar as melhorias.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Parâmetros de estabilidade">
+            <!-- 正文 -->
+            <feature>Melhora a estabilidade do sistema.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="ro-ro" code="1048">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Această actualizare include următorii parametri pentru a îmbunătăți experiența de utilizare. Actualizați acum pentru a beneficia de îmbunătățiri.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Parametri de stabilitate">
+            <!-- 正文 -->
+            <feature>Îmbunătățește stabilitatea sistemului.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="ru-ru" code="1049">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Это обновление включает в себя следующие параметры для улучшения пользовательского опыта. Установите обновление, чтобы почувствовать улучшения.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Параметры стабильности">
+            <!-- 正文 -->
+            <feature>Повышает стабильность системы.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="si-lk" code="1115">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>පරිශීලක අත්දැකීම වැඩිදියුණු කිරීමට මෙම යාවත්කාලයේ පහත පරාමිති ඇතුළත් වේ. වැඩිදියුණු කිරීම් අත්විඳීමට දැන් යාවත්කාල කරන්න.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="ස්ථායිතා පරාමිති">
+            <!-- 正文 -->
+            <feature>පද්ධතියේ ස්ථායිතාව වැඩිදියුණු කරයි.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="sk-sk" code="1051">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Táto aktualizácia obsahuje nasledujúce parametre na zlepšenie používateľskej skúsenosti. Aktualizujte teraz, aby ste si užili zlepšenia.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Parametre stability">
+            <!-- 正文 -->
+            <feature>Zlepšuje stabilitu systému.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="sl-si" code="1060">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Ta posodobitev vključuje naslednje parametre za izboljšanje uporabniške izkušnje. Če želite izkusiti izboljšave, izvedite posodobitev zdaj.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Parametri stabilnosti">
+            <!-- 正文 -->
+            <feature>Izboljšuje stabilnost sistema.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="sv-se" code="1053">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Den här uppdateringen innehåller följande parametrar för att förbättra användarupplevelsen. Uppdatera nu för att ta del av förbättringarna.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Parametrar för stabilitet">
+            <!-- 正文 -->
+            <feature>Förbättrar systemets stabilitet.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="sw-tz" code="1089">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Sasisho hili linajumuisha vigezo vifuatavyo ili kuboresha huduma anayopata mtumiaji. Sasisha sasa ili ufurahie maboresho.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Vigezo vya uthabiti">
+            <!-- 正文 -->
+            <feature>Linaboresha uthabiti wa mfumo.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="ta-in" code="1097">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>பயனர் அனுபவத்தை மேம்படுத்த, இந்தப் புதுப்பிப்பில் பின்வரும் அளவுருக்கள் சேர்க்கப்பட்டுள்ளன. மேம்பாடுகளைப் பெற, இப்போதே புதுப்பிக்கவும்.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="நிலைத்தன்மை அளவுருக்கள்">
+            <!-- 正文 -->
+            <feature>சிஸ்டம் நிலைத்தன்மையை மேம்படுத்துகிறது.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="te-in" code="1098">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>ఈ అప్‌డేట్ వినియోగదారు అనుభవాన్ని మెరుగుపరచడానికి క్రింది పారామీటర్‌లను కలిగి ఉంటుంది. మెరుగుదలలను ఆనందించడానికి ఇప్పుడు అప్‌‌డేట్ చేయండి.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="స్థిరత్వం పారామీటర్‌లు">
+            <!-- 正文 -->
+            <feature>సిస్టమ్ స్థిరత్వాన్ని మెరుగుపరుస్తుంది.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="th-th" code="1054">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>การอัปเดตครั้งนี้รวมพารามิเตอร์ต่อไปนี้เพื่อปรับปรุงการใช้งานของผู้ใช้ อัปเดตตอนนี้เลยเพื่อใช้การปรับปรุงต่างๆ</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="พารามิเตอร์ด้านความเสถียร">
+            <!-- 正文 -->
+            <feature>ปรับปรุงความเสถียรของระบบ</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="tl-ph" code="1124">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Kasama sa update na ito ang mga sumusunod na parameter para pagandahin ang karanasan ng user. I-update ngayon para i-enjoy ang mga pagpapahusay.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Mga parameter sa stability">
+            <!-- 正文 -->
+            <feature>Pinapahusay ang stability ng system.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="tr-tr" code="1055">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Bu güncelleme, kullanıcı deneyimini geliştirmek için aşağıdaki parametreleri içerir. İyileştirmelerden yararlanmak için şimdi güncelleyin.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Kararlılık parametreleri">
+            <!-- 正文 -->
+            <feature>Sistem kararlılığını artırır.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="uk-ua" code="1058">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Це оновлення містить наведені нижче параметри для покращення взаємодії з користувачем. Установіть це оновлення, щоб користуватися покращеннями.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Параметри стабільності">
+            <!-- 正文 -->
+            <feature>Покращує стабільність роботи системи.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="ur-pk" code="1056">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>اس اپ ڈیٹ میں صارف کے تجربے کی بہتری کے لیے درج ذیل پیرامیٹرز شامل ہیں۔ بہتریوں سے لطف اندوز ہونے کے لیے ابھی اپ ڈیٹ کریں۔</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="استحکام کے پیرامیٹرز">
+            <!-- 正文 -->
+            <feature>سسٹم کے استحکام کو بہتر بناتی ہے۔</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="ug-cn" code="1152">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>بۇ قېتىم تۆۋەندىكى پارامېتىرلار يېڭىلانغان بولۇپ، سىستېمىنىڭ ئىشلەتكۈچى تەسىراتىنى يۇقىرى كۆتۈرىدۇ، دەرھال يېڭىلاش تەۋسىيە قىلىنىدۇ.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="تۇراقلىق پارامېتىرى">
+            <!-- 正文 -->
+            <feature>سىستېما تۇراقلىقىنى يۇقىرى كۆتۈرىدۇ.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="uz-uz" code="2115">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Bu yangilanish foydalanuvchi taassurotini yaxshilash uchun quyidagi parametrlarni oʻz ichiga oladi. Takomillashtirishlardan foydalanish uchun hoziroq yangilang.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Barqarorlik parametrlari">
+            <!-- 正文 -->
+            <feature>Tizim barqarorligini yaxshilaydi.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="vi-vn" code="1066">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Bản cập nhật này bao gồm các thông số sau để nâng cao trải nghiệm người dùng. Hãy cập nhật ngay để tận hưởng những cải tiến.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Thông số độ ổn định">
+            <!-- 正文 -->
+            <feature>Cải thiện độ ổn định của hệ thống.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="zh-cn" code="2052">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>本次更新如下参数，将提升系统的用户体验，建议您立即更新。</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="稳定性参数">
+            <!-- 正文 -->
+            <feature>提升系统稳定性。</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="zh-hk" code="3076">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>本次更新以下參數，將提升系統的用戶體驗，建議您立即更新。</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="穩定性參數">
+            <!-- 正文 -->
+            <feature>提升系統穩定性。</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="zh-tw" code="1028">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>本次更新以下參數，將提升系統的使用者經驗，建議您立即更新。</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="穩定性參數">
+            <!-- 正文 -->
+            <feature>提升系統穩定性。</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="bo-cn" code="1105">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>ཐེངས་འདིར་གཤམ་གསལ་གྱི་ཞུགས་གྲངས་གསར་སྒྱུར་བྱས་ཡོད། རྒྱུད་ཁོངས་ཀྱི་སྤྱོད་མཁན་གྱི་ཉམས་ལེན་མཐོར་འདེགས་བཏང་ཡོད། ཁྱེད་ཀྱིས་མྱུར་དུ་གསར་སྒྱུར་བྱས་ན་ལེགས།</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="བརྟན་འཇགས་རང་བཞིན་གྱི་ཞུགས་གྲངས།">
+            <!-- 正文 -->
+            <feature>རྒྱུད་ཁོངས་ཀྱི་བརྟན་འཇགས་རང་བཞིན་མཐོར་འདེགས་བཏང་ཡོད།</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+</root>

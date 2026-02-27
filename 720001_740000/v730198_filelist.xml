@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>247766598</compressCowSize>
+<cowsize>1214750720</cowsize>
+<payloadOffset>940</payloadOffset>
+<fileHash>4s3cWdyVLW2kZTnAQ+Z74WmA/th2mkIpMvD7jfoiUgE=</fileHash>
+<fileSize>183890991</fileSize>
+<metadataHash>NvY17Rbw0C3rgLPhGRSKPsPDHxKEa7XIcPVzFYJlO4A=</metadataHash>
+<metadataSize>58733</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_BVL-N49_def_tr_R2.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_BVL-N49_def_tr_R2.zip</spath>
+<dpath>update_preload_BVL-N49_def_tr_R2.zip</dpath>
+<operation>c</operation>
+<sha256>93F90737253B946A39AED2C70254C34DA1F6A3C7511097FAF489851D83E1E481</sha256>
+<size>183898341</size>
+</file>
+</files>
+</root>

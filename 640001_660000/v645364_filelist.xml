@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>221801589</compressCowSize>
+<cowsize>2166366208</cowsize>
+<payloadOffset>940</payloadOffset>
+<fileHash>wPJLzBHrlwCYhEq7A0E3h6rrfFNkgDpVyytAajMwZkQ=</fileHash>
+<fileSize>164586290</fileSize>
+<metadataHash>4nlMAebTtex9PiE3LHRdLpvVV9ltro1MeRibyLvQynM=</metadataHash>
+<metadataSize>65973</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_PTP-N49_def_spcseas_R3.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_PTP-N49_def_spcseas_R3.zip</spath>
+<dpath>update_preload_PTP-N49_def_spcseas_R3.zip</dpath>
+<operation>c</operation>
+<sha256>7D8F7E4CA30631AE0C189B76ED1BF10C03B454AA7E85C3463B6FC0370BD7F370</sha256>
+<size>164593638</size>
+</file>
+</files>
+</root>

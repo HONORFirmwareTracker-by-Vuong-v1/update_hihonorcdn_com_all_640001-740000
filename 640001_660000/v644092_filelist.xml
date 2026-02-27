@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1189486592</cowsize>
+<payloadOffset>932</payloadOffset>
+<fileHash>YIcwBA5+bs2JlXKVFOjImgW3drQ8+zpb6jzH3OHLtMo=</fileHash>
+<fileSize>80123261</fileSize>
+<metadataHash>4HFOwPLaYEUmdLSmsQ7qv0Ml8bAxvbHwETrE/6CdxUE=</metadataHash>
+<metadataSize>22084</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_BRP-N23_iusacell_mx.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_BRP-N23_iusacell_mx.zip</spath>
+<dpath>update_cust_BRP-N23_iusacell_mx.zip</dpath>
+<operation>c</operation>
+<sha256>F883031DA07AFB82202D17D9B66435FCFA462BBB1140B36F73293A6A17B12496</sha256>
+<size>80130589</size>
+</file>
+</files>
+</root>

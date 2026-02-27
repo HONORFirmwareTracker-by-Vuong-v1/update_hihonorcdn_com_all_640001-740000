@@ -1,0 +1,14 @@
+<root>
+	<packageName>com.hihonor.android.launcher</packageName>
+	<pluginName>yoyo</pluginName>
+	<versionCode>15050305</versionCode>
+	<packageType>increment</packageType>
+	<files>
+		<file>
+			<spath>update_plugin.zip</spath>
+			<dpath>update_plugin.zip</dpath>
+			<sha256>e0a972a42f9219c8b238a58426c15cff8d1725d7474d1b294a856d584a55576e</sha256>
+			<size>278047</size>
+		</file>
+	</files>
+</root>

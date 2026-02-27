@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2166358016</cowsize>
+<payloadOffset>940</payloadOffset>
+<fileHash>w1VouFjPDQYqFdGZ8J1Ys19iXZN/0WR9kUwYqQ4W3gY=</fileHash>
+<fileSize>120703629</fileSize>
+<metadataHash>jeB209zu9CaqRe+7h1wbydIDam8K5bf5Yr7Vjr+h9to=</metadataHash>
+<metadataSize>36077</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_NIC-L41_def_eea_R2.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_NIC-L41_def_eea_R2.zip</spath>
+<dpath>update_preload_NIC-L41_def_eea_R2.zip</dpath>
+<operation>c</operation>
+<sha256>C3134B54486FE45D7ADFBE0F7C2EDC0B59AEE986665AE235B6ADE1E4003AADF4</sha256>
+<size>120710975</size>
+</file>
+</files>
+</root>

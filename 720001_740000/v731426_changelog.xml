@@ -1,0 +1,126 @@
+<root>
+    <component name="TCPU" version="请自行修改"></component>
+    <default-language name="en-us">1033</default-language>
+    <language code="2052" name="zh-cn">
+                <features module="" type="header">
+            <feature>亲爱的用户，本次更新主要针对系统进行了优化，推荐您进行更新</feature>
+        </features>
+        <features module="游戏">
+             <feature>•  优化部分游戏场景下性能功耗表现，提升游戏续航，带来更流畅的游戏体验</feature>
+        </features>
+        <features module="相机">
+             <feature>•  优化相机前置摄像头的色彩表现，使自拍画面自然真实，提升拍照时的视觉效果</feature>
+             <feature>•  相机算法库升级，强化图像处理能力，提升照片清晰度与细节表现，打造更优质的拍照体验</feature>
+        </features>
+        <features module="稳定性">
+             <feature>•  提升系统稳定性，优化部分三方应用闪退和无响应问题，让您的手机运行更稳定</feature>
+        </features>
+         <features module="更新注意事项" type="end">
+             <feature>1. 本次更新不会删除您的用户数据，但仍建议您在更新前做好数据备份
+2. 更多精彩功能介绍，请访问“玩机技巧”应用
+3. 如果您在使用过程中遇到任何问题，请访问“我的荣耀”应用或访问荣耀官方服务网站 https://www.honor.com/cn/contact-us 寻求支持</feature>
+         </features>
+    </language>
+            <language code="1033" name="en-us">
+                <features module="" type="header">
+            <feature>Dear user, this update mainly enhances the system performance. Update to enjoy the improvements</feature>
+        </features>
+        <features module="Games">
+             <feature>• Optimizes performance and power consumption in some gaming scenarios to enhance battery life and deliver a smoother gaming experience</feature>
+        </features>
+        <features module="Camera">
+             <feature>• Improves the color accuracy of the front camera to make selfies look natural and authentic, enhancing the visual effect when taking photos</feature>
+             <feature>• Upgrades the camera algorithm library to enhance image processing, producing clearer photos with richer details for a better photography experience</feature>
+        </features>
+        <features module="Stability">
+             <feature>• Enhances system stability and fixes the issues that caused some third-party apps to crash or become unresponsive, making your device run more stably</feature>
+        </features>
+         <features module="Notes" type="end">
+             <feature>1. Installing this update will not affect your personal data, but it is still recommended to back up your data before updating
+2. Discover more information on product features in Tips
+3. If you encounter any issue during use, please get support by going to My Honor or visiting our website: https://www.honor.com/cn/contact-us</feature>
+         </features>
+    </language>
+            <language code="1105" name="bo-cn">
+                <features module="" type="header">
+            <feature>སྙིང་ཉེ་བའི་སྤྱོད་མཁན་ལགས། ཐེངས་འདིའི་གསར་སྒྱུར་ནི་གཙོ་བོ་རྒྱུད་ཁོངས་ལ་དམིགས་ནས་ལེགས་སྒྱུར་བྱས་ཡོད། ཁྱེད་ལ་གསར་སྒྱུར་བྱ་རྒྱུའི་འོས་སྦྱོར་བྱེད།</feature>
+        </features>
+        <features module="རོལ་རྩེད།">
+             <feature>• རོལ་རྩེད་ཁ་ཤས་ཀྱི་བཟོ་ལྗོངས་འོག་གི་གཤིས་ནུས་ཟད་གྲོན་གྱི་མངོན་ཚུལ་ལེགས་སྒྱུར་བྱས་ཏེ། རོལ་རྩེད་ཀྱི་བསྟུད་མར་རྩེད་པའི་རང་བཞིན་མཐོར་འདེགས་བཏང་ནས་དེ་བས་ཐོགས་ཐུག་མེད་པའི་ཉམས་ལེན་འདོན་སྤྲོད་བྱེད།</feature>
+        </features>
+        <features module="པར་ཆས།">
+             <feature>• པར་ཆས་ཀྱི་སྔོན་བཀོད་བརྙན་མིག་གི་ཚོན་མདངས་མངོན་ཚུལ་ལེགས་སྒྱུར་བཏང་སྟེ། རང་པར་ལེན་པའི་དཔེ་རིས་བཅོས་མིན་རང་བྱུང་ཡིན་པར་བྱེད་ལ། པར་ལེན་དུས་ཀྱི་མཐོང་ཚོར་ནུས་པ་མཐོར་འདེགས་སུ་གཏོང་།</feature>
+             <feature>• པར་ཆས་ཀྱི་བརྩི་ཐབས་མཛོད་རིམ་སྤོར་དང་། པར་རིས་ཀྱི་ཐག་གཅོད་ནུས་པ་ཇེ་དྲག་ཏུ་གཏོང་བ། འདྲ་པར་གྱི་གསལ་ཚད་དང་ཞིབ་ཆའི་མངོན་ཚུལ་མཐོར་འདེགས་བཏང་སྟེ། དེ་བས་སྤུས་ལེགས་ཀྱི་པར་ལེན་པའི་ཉམས་ལེན་གསར་སྐྲུན་བྱེད།</feature>
+        </features>
+        <features module="བརྟན་འཇགས་རང་བཞིན།">
+             <feature>• རྒྱུད་ཁོངས་ཀྱི་བརྟན་འཇགས་རང་བཞིན་མཐོར་འདེགས་བཏང་ཡོད། ཕྱོགས་གསུམ་པའི་ཉེར་སྤྱོད་མྱུར་ལོག་དང་ཚུར་ལན་མེད་པའི་གནད་དོན་ལེགས་སྒྱུར་བྱས་ཡོད། ཁྱེད་ཀྱི་ལག་ཁྱེར་ཁ་པར་གྱི་འཁོར་སྐྱོད་སྔར་ལས་བརྟན་འཇགས་སུ་གཏོང་།</feature>
+        </features>
+         <features module="གསར་སྒྱུར་གྱི་དོ་སྣང་དོན་ཚན།" type="end">
+             <feature>1. ཐེངས་འདིའི་གསར་སྒྱུར་གྱིས་ཁྱེད་ཀྱི་སྤྱོད་མཁན་གཞི་གྲངས་སུབ་མི་སྲིད། འོན་ཀྱང་ཁྱེད་ཀྱིས་གསར་སྒྱུར་བྱེད་སྔོན་གཞི་གྲངས་གྲབས་ཉར་བྱས་ན་ལེགས།
+2. དེ་ལས་མང་བའི་རྩོལ་ནུས་ལེགས་པོའི་ངོ་སྤྲོད་ཐད་ཁ་པར་རྩེ་བའི་ལག་རྩལ་གྱི་ཉེར་སྤྱོད་ལ་ལྟ་སྤྱོད་བྱ་རོགས།
+3. གལ་ཏེ་ཁྱེད་ཀྱིས་བེད་སྤྱོད་བྱེད་པའི་གོ་རིམ་ཁྲོད་གནད་དོན་གང་རུང་ལ་འཕྲད་ཚེ། ངའི་རུང་ཡོའོ་ཉེར་སྤྱོད་ལ་ལྟ་སྤྱོད་བྱེད་པའམ ཡང་ན་རུང་ཡོའོ་གཞུང་ཕྱོགས་ཀྱི་ཞབས་ཞུའི་དྲ་ཚིགས་ https://www.honor.com/cn/contact-us ལ་ལྟ་སྤྱོད་བྱས་ཏེ་རྒྱབ་སྐྱོར་ཐོབ་ཐབས་བྱ་རོགས།</feature>
+         </features>
+    </language>
+            <language code="3076" name="zh-hk">
+                <features module="" type="header">
+            <feature>親愛的用戶，本次更新主要針對系統進行了優化，建議您進行更新</feature>
+        </features>
+        <features module="遊戲">
+             <feature>• 優化部分遊戲場景下性能功耗表現，提升遊戲續航，帶來更流暢的遊戲體驗</feature>
+        </features>
+        <features module="相機">
+             <feature>• 優化相機前置相機的色彩表現，使自拍畫面自然真實，提升拍攝時的視覺效果</feature>
+             <feature>• 相機演算法庫升級，強化圖像處理能力，提升相片清晰度與細節表現，打造更優質的拍攝體驗</feature>
+        </features>
+        <features module="穩定性">
+             <feature>• 提升系統穩定性，優化部分第三方應用程式無預警關閉和無回應問題，讓您的手機運行更穩定</feature>
+        </features>
+         <features module="更新注意事項" type="end">
+             <feature>1. 本次更新不會刪除您的用戶數據，但仍建議您在更新前做好數據備份
+2. 更多精彩功能介紹，請瀏覽「玩機技巧」應用程式
+3. 如果您在使用過程中遇到任何問題，請瀏覽「我的榮耀」應用程式或瀏覽榮耀官方服務網站 https://www.honor.com/cn/contact-us 尋求支援</feature>
+         </features>
+    </language>
+            <language code="1028" name="zh-tw">
+                <features module="" type="header">
+            <feature>親愛的使用者，本次更新主要針對系統進行了最佳化，建議您進行更新</feature>
+        </features>
+        <features module="遊戲">
+             <feature>• 最佳化部分遊戲場景下的效能功耗表現，提升遊戲續航，帶來更流暢的遊戲體驗</feature>
+        </features>
+        <features module="相機">
+             <feature>• 最佳化相機前置鏡頭的色彩表現，使自拍畫面自然真實，提升拍照時的視覺效果</feature>
+             <feature>• 相機演算法資料庫升級，強化影像處理能力，提升相片清晰度與細節表現，打造更優質的拍照體驗</feature>
+        </features>
+        <features module="穩定性">
+             <feature>• 提升系統穩定性，最佳化部分第三方應用程式閃退和無回應問題，讓您的手機執行更穩定</feature>
+        </features>
+         <features module="更新注意事項" type="end">
+             <feature>1. 本次更新不會刪除您的使用者資料，但仍建議您在更新前做好資料備份
+2. 如需更多精彩功能介紹，請查看「玩機技巧」應用程式
+3. 若您在使用過程中遇到任何問題，請查看「我的榮耀」應用程式，或造訪榮耀官方服務網站 https://www.honor.com/cn/contact-us 尋求支援</feature>
+         </features>
+    </language>
+            <language code="1152" name="ug-cn">
+                <features module="" type="header">
+            <feature>ھۆرمەتلىك ئىشلەتكۈچى، بۇ قېتىملىق يېڭىلاشتا ئاساسلىقى سىستېمىغا قارىتا ئەلالاشتۇرۇش ئېلىپ بېرىلدى، يېڭىلاش تەۋسىيە قىلىنىدۇ</feature>
+        </features>
+        <features module="‏ئويۇن">
+             <feature>‏• قىسمەن ئويۇن كۆرۈنۈشلىرىدىكى ئىقتىدار سەرپىيات ئىپادىسى ئەلالاشتۇرۇلدى، ئويۇننىڭ داۋاملىق يۈرۈشىنى ئاشۇرۇپ، تېخىمۇ راۋان ئويۇن تەسىراتى ئېلىپ كېلىدۇ</feature>
+        </features>
+        <features module="‏‏كامېرا">
+             <feature>‏• ئالدى كامېرانىڭ رەڭ ئىپادىلىشى ئەلالاشتۇرۇلدى، ئۆزتارتىم كۆرۈنۈشى تېخىمۇ چىن بولۇپ، تارتقان رەسىمنىڭ كۆرۈش ئۈنۈمى ئۆستۈرۈلدى</feature>
+             <feature>‏• كامېرا ھېسابلاش ئۇسۇلى ئامبىرىنىڭ دەرىجىسى ئۆستۈرۈلدى، تېخىمۇ سۈپەتلىك رەسىمگە تارتىش تەسىراتىنى يارىتىش ئۈچۈن، سۈرەت بىر تەرەپ قىلىش ئىقتىدارى كۈچەيتىلىپ، رەسىم سۈزۈكلۈكى ۋە ئىنچىكە ھالقىلارنى ئىپادىلىشى يۇقىرى كۆتۈرۈلدى</feature>
+        </features>
+        <features module="‏‏مۇقىملىق">
+             <feature>‏‏• سىستېما مۇقىملىقى يۇقىرى كۆتۈرۈلدى، بىر قىسىم ئۈچىنچى تەرەپ ئەپلىرىنىڭ تۇيۇقسىز چېكىنىش ۋە ئىنكاس بولماسلىق مەسىلىسى ھەل قىلىندى، يانفونىڭىزنىڭ يۈرۈشۈشى تېخىمۇ تۇراقلاشتى</feature>
+        </features>
+         <features module="‏يېڭىلاش بىلدۈرگۈسى" type="end">
+             <feature>‏1. بۇ قېتىملىق يېڭىلاش ئىشلەتكۈچى مەلۇماتىڭىزنى ئۆچۈرمەيدۇ، لېكىن يېڭىلاشتىن بۇرۇن يەنىلا مەلۇماتنى زاپاسلاشنى تەۋسىيە قىلىمىز
+‏2. تېخىمۇ كۆپ سەرخىل ئىقتىدارلارنى «ئىشلىتىش كۆرسەتمىسى» ئەپىنى زىيارەت قىلىپ كۆرۈڭ
+‏3. ئەگەر ئىشلىتىش جەريانىدا ھەرقانداق مەسىلىگە يولۇقسىڭىز، «روڭياۋىم» ئەپى ياكى روڭياۋ ئورگان تەرەپ تور بېتى https://www.honor.com/cn/contact-us نى زىيارەت قىلىپ ياردەم سوراڭ</feature>
+         </features>
+    </language>
+            <imgs>
+            </imgs>
+</root>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <component name="TCPU" version="请自行修改"/>
+    <default-language name="en-us">1033</default-language>
+    <language name="zh-cn" code="2052">
+                <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>本次更新如下参数，将提升系统的用户体验，建议您立即更新。</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="应用分屏参数">
+            <!-- 正文 -->
+            <feature>优化应用分屏显示效果。</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="en-us" code="1033">
+                <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>This update includes the following parameters, which will enhance the system's user experience. It is recommended that you update immediately.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Apply split-screen parameters">
+            <!-- 正文 -->
+            <feature>Optimize the split-screen display effect of the application.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+</root>

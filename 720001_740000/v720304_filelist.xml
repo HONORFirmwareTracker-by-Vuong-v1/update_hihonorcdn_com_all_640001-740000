@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>443261690</compressCowSize>
+<cowsize>1484234752</cowsize>
+<payloadOffset>940</payloadOffset>
+<fileHash>2buIhq4favNDLOY/GvC6iRtbx9ZVghOk4Uf7+XTpkB4=</fileHash>
+<fileSize>327636830</fileSize>
+<metadataHash>D8sVacMHa8I6PCmlfUBrTQiljW+Jr2Z6dUupCJcst/M=</metadataHash>
+<metadataSize>68522</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_DNP-N09_telcel_mx.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_DNP-N09_telcel_mx.zip</spath>
+<dpath>update_cust_DNP-N09_telcel_mx.zip</dpath>
+<operation>c</operation>
+<sha256>F843786619DA9863B0FBEBC36384559D0CA4FD0789304DA445EE26867AD4D9E8</sha256>
+<size>327644166</size>
+</file>
+</files>
+</root>

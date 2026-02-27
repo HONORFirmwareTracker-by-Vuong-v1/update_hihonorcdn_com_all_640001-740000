@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>484832546</compressCowSize>
+<cowsize>2166366208</cowsize>
+<payloadOffset>940</payloadOffset>
+<fileHash>IibreUcz1J/ROp4YG8KickAFL+EzfwrdYzQe0tum+Ic=</fileHash>
+<fileSize>378940376</fileSize>
+<metadataHash>rP6sXOaD4Qw8U7zxdKzygM4FJEeq6n17D9UPgYY22B0=</metadataHash>
+<metadataSize>92994</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_MBH-N49_def_meafnaf_R5.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_MBH-N49_def_meafnaf_R5.zip</spath>
+<dpath>update_preload_MBH-N49_def_meafnaf_R5.zip</dpath>
+<operation>c</operation>
+<sha256>3E70F2D292AE519DB96064252F2C4548C9460A694D298E4BEE1734166688A5F2</sha256>
+<size>378947721</size>
+</file>
+</files>
+</root>

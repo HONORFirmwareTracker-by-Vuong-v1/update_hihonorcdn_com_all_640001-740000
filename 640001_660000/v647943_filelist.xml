@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2166358016</cowsize>
+<payloadOffset>940</payloadOffset>
+<fileHash>ggPlxHsg595BXf5a7qBAYfTv3byflGRGcv3QR04NHrk=</fileHash>
+<fileSize>219676123</fileSize>
+<metadataHash>1JK0zqM/P45HeVjEZlyMxjlt0RqukckLHAuc4k+Q4JQ=</metadataHash>
+<metadataSize>29852</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_MTN-N21_def_spcseas_R2.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_MTN-N21_def_spcseas_R2.zip</spath>
+<dpath>update_preload_MTN-N21_def_spcseas_R2.zip</dpath>
+<operation>c</operation>
+<sha256>10A62DDE214BA3B10092FC3D4DCC73B53EABF5BB54D7BEE4DBA0EA30E6A55179</sha256>
+<size>219683471</size>
+</file>
+</files>
+</root>

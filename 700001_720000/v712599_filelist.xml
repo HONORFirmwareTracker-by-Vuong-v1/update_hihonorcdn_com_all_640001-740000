@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>2</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2166366208</cowsize>
+<payloadOffset>940</payloadOffset>
+<fileHash>NO6abyFpOUFURqqDbxTkE8h/7LtxoqVXqIAY1cPxod4=</fileHash>
+<fileSize>975838285</fileSize>
+<metadataHash>SflwpOKctJPz+x9LBOZt9RojPdD9rs8TDoViyg/v7hE=</metadataHash>
+<metadataSize>46290</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_MAA-AN00_all_cn_R8.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_MAA-AN00_all_cn_R8.zip</spath>
+<dpath>update_preload_MAA-AN00_all_cn_R8.zip</dpath>
+<operation>c</operation>
+<sha256>D28EC2D687EF2DFA423654CCDD13571143B4F75D101140E70DF1CBD78D66B05C</sha256>
+<size>975845634</size>
+</file>
+</files>
+</root>

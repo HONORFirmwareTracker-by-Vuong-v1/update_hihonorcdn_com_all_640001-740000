@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1559109632</cowsize>
+<payloadOffset>940</payloadOffset>
+<fileHash>aqQGCBrYvvpm2juBXQ70YvcPEa2oEz8sLHmqHrJ9mCs=</fileHash>
+<fileSize>126118512</fileSize>
+<metadataHash>Ch5Gi59iDvkO/EdcToJy5N06DRQYIXvraWEcoWFINfQ=</metadataHash>
+<metadataSize>42255</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_ELN2-W00_all_cn_R102.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_ELN2-W00_all_cn_R102.zip</spath>
+<dpath>update_preload_ELN2-W00_all_cn_R102.zip</dpath>
+<operation>c</operation>
+<sha256>299B287D64870678B1D5E49D42A9EAABB042B383EFBBB836B049A6EA06AA2C04</sha256>
+<size>126125862</size>
+</file>
+</files>
+</root>

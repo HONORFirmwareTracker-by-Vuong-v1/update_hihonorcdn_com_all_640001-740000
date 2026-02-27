@@ -1,0 +1,2206 @@
+<root>
+    <component name="TCPU" version="请自行修改"></component>
+    <default-language name="en-us">1033</default-language>
+    <language code="2052" name="zh-cn">
+                <features module="" type="header">
+            <feature>亲爱的用户，本次更新主要针对系统进行了优化，推荐您进行更新</feature>
+        </features>
+        <features module="通话翻译">
+             <feature>•  新增支持通话翻译功能。体验路径：设置 > 荣耀 AI > 通话翻译</feature>
+        </features>
+        <features module="相机">
+             <feature>•  优化部分场景的拍摄效果</feature>
+        </features>
+        <features module="通信">
+             <feature>•  优化部分场景通信体验。</feature>
+        </features>
+        <features module="稳定性">
+             <feature>•  提升系统稳定性</feature>
+        </features>
+        <features module="安全补丁">
+             <feature>•  合入安卓 2025 年 12 月安全补丁，增强系统安全性。有关荣耀软件安全更新内容的信息，请访问荣耀官方网站 https://www.honor.com/cn/support/bulletin/2025/12</feature>
+        </features>
+         <features module="更新注意事项" type="end">
+             <feature>1. 本次更新不会删除您的用户数据，但仍建议您在更新前做好数据备份
+2. 更多精彩功能介绍，请访问“玩机技巧”应用
+3. 更新过程中，如果遇到任何问题，请拨打荣耀品牌服务热线或至荣耀品牌客户服务中心寻求支持</feature>
+         </features>
+    </language>
+            <language code="1033" name="en-us">
+                <features module="" type="header">
+            <feature>Dear user, this update mainly enhances the system performance. Update to enjoy the improvements</feature>
+        </features>
+        <features module="Call translation">
+             <feature>• Call translation is now available. Try it out by going to: Settings > Honor AI > Call Translation</feature>
+        </features>
+        <features module="Camera">
+             <feature>• Optimizes the Camera's shooting effect in some scenes</feature>
+        </features>
+        <features module="Communication">
+             <feature>• Optimizes the communication experience in some scenarios.</feature>
+        </features>
+        <features module="Stability">
+             <feature>• Improves the system stability</feature>
+        </features>
+        <features module="Security patch">
+             <feature>• Android security patch (Dec 2025) has been incorporated for system security. For more information about Honor Security updates, please visit our website https://www.honor.com/global/support/bulletin/2025/12</feature>
+        </features>
+         <features module="Notes" type="end">
+             <feature>1. Installing this update will not affect your personal data, but it is still recommended to back up your data before updating
+2. Discover more information on product features in Tips
+3. If you encounter any issues during the update, you can get our help by calling Honor service hotline or visiting Honor customer service center</feature>
+         </features>
+    </language>
+            <language code="1118" name="am-ET">
+                <features module="" type="header">
+            <feature>ውድ ተጠቃሚ፣ ይህ ዝማኔ በዋነኛነት የስርዓቱን አፈጻጸም ያሻሽላል። በማሻሻያዎቹ ለመደሰት ያዘምኑ</feature>
+        </features>
+        <features module="የጥሪ ትርጉም">
+             <feature>• የጥሪ ትርጉም አሁን ይገኛል። ወደዚህ በመሄድ ይሞክሩት፦ ቅንብሮች > Honor አአይ > የጥሪ ትርጉም</feature>
+        </features>
+        <features module="ካሜራ">
+             <feature>• በአንዳንድ ትዕይንቶች ላይ የካሜራውን የቀረፃ ተጽዕኖን ያተባል</feature>
+        </features>
+        <features module="ግንኙነት">
+             <feature>• በአንዳንድ ሁኔታዎች ላይ የተግባቦት ተሞክሮን ያተባል።</feature>
+        </features>
+        <features module="መረጋጋት">
+             <feature>• የስርዓቱን እርጋታ ያሻሽላል</feature>
+        </features>
+        <features module="የደህንነት መጠገኛ">
+             <feature>• የአንድሮይድ የደህንነት መጠገኛ (ዲሴምበር 2025) ለስርዓት ደህንነት ተካትቷል። ስለHonor ደህንነት ዝማኔዎች ተጨማሪ መረጃ ለማግኘት እባክዎ የእኛን ድረ-ገጽ https://www.honor.com/global/support/bulletin/2025/12 ይጎብኙ</feature>
+        </features>
+         <features module="ማስታወሻዎች" type="end">
+             <feature>1. ይህን ዝማኔ መጫን በእርስዎ የግል ውሂብ ላይ ተጽዕኖ አያሳርፍም፣ ነገር ግን አሁንም ከማዘመንዎ በፊት የውሂብዎን መጠባበቂያ ማስቀመጥ ይመከራል
+2. በጠቃሚ ምክሮች ውስጥ ስለምርት ባህሪያት ተጨማሪ መረጃ ያግኙ
+3. በዝማኔው ጊዜ ማናቸውም ችግሮች ካጋጠሙዎት ወደ የHonor አገልግሎት ቀጥታ መስመር በመደወል ወይም የHonor ደንበኛ አገልግሎት ማዕከልን በመጎብኘት የእኛን እርዳታ ማግኘት ይችላሉ</feature>
+         </features>
+    </language>
+            <language code="3073" name="ar-eg">
+                <features module="" type="header">
+            <feature>عزيزنا المستخدم، يحسّن هذا التحديث أداء النظام بشكل أساسي. للاستمتاع بالتحسينات، ما عليك سوى التحديث</feature>
+        </features>
+        <features module="ترجمة المكالمات">
+             <feature>• تتوفر الآن ميزة ترجمة المكالمات. جرّب هذه الميزة بالانتقال إلى: الإعدادات > ‏Honor AI > ترجمة المكالمات</feature>
+        </features>
+        <features module="الكاميرا">
+             <feature>• يحسّن تأثير التصوير بالكاميرا في بعض المشاهد</feature>
+        </features>
+        <features module="التواصل">
+             <feature>• تحسين تجربة الاتصال في بعض السيناريوهات.</feature>
+        </features>
+        <features module="الاستقرار">
+             <feature>• يحسّن استقرار النظام</feature>
+        </features>
+        <features module="تصحيح الأمان">
+             <feature>• تم تضمين تصحيح أمان أندرويد (ديسمبر 2025) لأمان النظام. لمزيد من المعلومات حول تحديثات الأمان في Honor، يرجى زيارة موقعنا على الويب https://www.honor.com/ae-ar/support/bulletin/2025/12</feature>
+        </features>
+         <features module="ملاحظات" type="end">
+             <feature>1. لن يؤثر تثبيت هذا التحديث على بياناتك الشخصية، ولكن لا يزال من المستحسن إنشاء نسخة احتياطية لبياناتك قبل التحديث
+2. اكتشف المزيد من المعلومات حول ميزات المنتج في تطبيق التلميحات
+3. إذا واجهت أي مشاكل أثناء التحديث، فيمكنك الحصول على مساعدتنا عن طريق الاتصال بالخط الساخن لخدمة عملاء Honor أو زيارة مركز خدمة عملاء Honor</feature>
+         </features>
+    </language>
+            <language code="1101" name="as-IN">
+                <features module="" type="header">
+            <feature>মৰমৰ ব্যৱহাৰকাৰী, এই আপডেটটোৱে মূলতঃ ছিষ্টেমৰ কাৰ্যদক্ষতা উন্নত কৰে। উন্নতিসমূহৰ আনন্দ ল'বলৈ আপডেট কৰক</feature>
+        </features>
+        <features module="কলৰ অনুবাদ">
+             <feature>• এতিয়া কলৰ অনুবাদ উপলব্ধ। ইয়ালৈ গৈ ইয়াক ব্যৱহাৰ কৰি চাওক: ছেটিংছ > Honor AI > কলৰ অনুবাদ</feature>
+        </features>
+        <features module="কেমেৰা">
+             <feature>• কিছুমান দৃশ্যত কেমেৰাৰ শ্বুটিঙৰ প্ৰভাৱ অনুকূলন কৰে</feature>
+        </features>
+        <features module="যোগাযোগ">
+             <feature>• কিছুমান পৰিস্থিতিত যোগাযোগৰ অভিজ্ঞতা অনুকূলন কৰক।</feature>
+        </features>
+        <features module="স্থিৰতা">
+             <feature>• ছিষ্টেমৰ স্থিৰতা উন্নত কৰে</feature>
+        </features>
+        <features module="নিৰাপত্তাৰ পেচ">
+             <feature>• ছিষ্টেমৰ নিৰাপত্তাৰ বাবে Android নিৰাপত্তাৰ পেচ (ডিচেম্বৰ 2025) অন্তৰ্ভুক্ত কৰা হৈছে। Honor নিৰাপত্তা আপডেটৰ বিষয়ে অধিক তথ্যৰ বাবে, অনুগ্ৰহ কৰি আমাৰ ৱেবছাইট দৰ্শন কৰক: https://www.honor.com/global/support/bulletin/2025/12</feature>
+        </features>
+         <features module="টোকাসমূহ" type="end">
+             <feature>1. এই আপডেটটো ইনষ্টল কৰিলে আপোনাৰ ব্যক্তিগত ডাটাত প্ৰভাৱ নপৰিব, কিন্তু আপডেট কৰাৰ পূৰ্বে আপোনাৰ ডাটাৰ বেক আপ ল'বলৈ এতিয়াও পৰামৰ্শ দিয়া হয়
+2. আভাসত প্ৰ'ডাক্টৰ ফিচাৰসমূহৰ ওপৰত অধিক তথ্য অনুসন্ধান কৰক
+3. আপুনি আপডেটৰ সময়ত কোনো সমস্যাৰ সন্মুখীন হ'লে, আপুনি Honor সেৱা হটলাইনত কল কৰি বা Honor গ্ৰাহক সেৱা কেন্দ্ৰলৈ গৈ সহায় লাভ কৰিব পাৰে</feature>
+         </features>
+    </language>
+            <language code="1068" name="az-az">
+                <features module="" type="header">
+            <feature>Hörmətli istifadəçi, bu yeniləmə əsasən sistemin performansını artırır. Təkmilləşdirmələrdən yararlanmaq üçün yeniləyin</feature>
+        </features>
+        <features module="Zəng tərcüməsi">
+             <feature>• Zəng Tərcüməsi artıq əlçatandır. Bura keçməklə sınayın: Parametrlər > Honor AI > Zəng Tərcüməsi</feature>
+        </features>
+        <features module="Kamera">
+             <feature>• Bəzi hallarda Kameranın çəkiliş effektini optimallaşdırır</feature>
+        </features>
+        <features module="Kommunikasiya">
+             <feature>• Bəzi ssenarilərdə ünsiyyət təcrübəsini optimallaşdırır.</feature>
+        </features>
+        <features module="Stabillik">
+             <feature>• Sistemin sabitliyini yaxşılaşdırır</feature>
+        </features>
+        <features module="Təhlükəsizlik paketi">
+             <feature>• Sistem təhlükəsizliyi üçün Android təhlükəsizlik paketi (dekabr 2025-ci il) daxil edilib. Honor Təhlükəsizlik yeniləmələri haqqında ətraflı məlumat üçün veb-saytımıza daxil olun: https://www.honor.com/global/support/bulletin/2025/12</feature>
+        </features>
+         <features module="Qeydlər" type="end">
+             <feature>1. Bu yeniləmənin quraşdırılması şəxsi məlumatlarınıza təsir etməyəcək, lakin yenə də yeniləməmişdən əvvəl verilənlərin ehtiyat nüsxəsini çıxarmaq tövsiyə olunur
+2. İpuclarında məhsul xüsusiyyətləri haqqında daha çox məlumat əldə edin
+3. Yeniləmə zamanı hər hansı problemlə qarşılaşsanız, Honor xidmət qaynar xəttinə zəng etməklə və ya Honor müştəri xidməti mərkəzinə yaxınlaşaraq yardım ala bilərsiniz</feature>
+         </features>
+    </language>
+            <language code="1033" name="jv-id">
+                <features module="" type="header">
+            <feature>Katur pangguna, panganyaran iki utamane ningkatake kinerja sistem. Anyarake kanggo ngrasakake pangapikane</feature>
+        </features>
+        <features module="Pertalan telpon">
+             <feature>• Pertalan telpon saiki sumadhiya. Coba kanthi mbukak: Setelan > Honor AI > Pertalan Telpon</feature>
+        </features>
+        <features module="Kamera">
+             <feature>• Ngoptimalake efek ngrekam Kamera ing sawetara adegan</feature>
+        </features>
+        <features module="Komunikasi">
+             <feature>• Ngoptimalake pangalaman komunikasi ing sawetara skenario.</feature>
+        </features>
+        <features module="Stabilitas">
+             <feature>• Ngapikake stabilitas sistem</feature>
+        </features>
+        <features module="Patch keamanan">
+             <feature>• Patch keamanan Android (Des 2025) wis digabungake kanggo keamanan sistem. Kanggo mangerteni informasi sing luwih jangkep babagan panganyaran Keamanan Honor, bukak situs web kita https://www.honor.com/global/support/bulletin/2025/12</feature>
+        </features>
+         <features module="Cathetan" type="end">
+             <feature>1. Nginstal panganyaran iki ora bakal mengaruhi data pribadi sampeyan, nanging nggawe serep data dhisik tetep disaranake sadurunge nganyarake
+2. Temokake informasi liyane babagan fitur prodhuk ing Tips
+3. Yen ana masalah sajrone panganyaran, sampeyan bisa entuk bantuan kita kanthi nelpon hotline layanan Honor utawa nekani pusat layanan pelanggan Honor</feature>
+         </features>
+    </language>
+            <language code="2074" name="sr-rs">
+                <features module="" type="header">
+            <feature>Poštovani korisniče, ovim ažuriranjem se unapređuju performanse sistema. Ažurirajte da biste uživali u unapređenjima</feature>
+        </features>
+        <features module="Prevod poziva">
+             <feature>• Sada je dostupan Prevod Poziva. Isprobajte ga odlaskom u opciju: Podešavanja > Honor AI > Prevod Poziva</feature>
+        </features>
+        <features module="Kamera">
+             <feature>• Optimizuje efekat snimanja Kamere u nekim scenama</feature>
+        </features>
+        <features module="Komunikacija">
+             <feature>• Optimizuje iskustvo komunikacije u određenim scenarijima.</feature>
+        </features>
+        <features module="Stabilnost">
+             <feature>• Poboljšava stabilnost sistema</feature>
+        </features>
+        <features module="Bezbednosna zakrpa">
+             <feature>• Integrisana je bezbednosna zakrpa za Android (decembar 2025.) za bezbednost sistema. Za još informacija o bezbednosnim ažuriranjima koja sprovodi kompanija Honor, posetite naš veb-sajt https://www.honor.com/rs/support/bulletin/2025/12</feature>
+        </features>
+         <features module="Zabeleške" type="end">
+             <feature>1. Instaliranje ovog ažuriranja neće uticati na vaše lične podatke, ali se ipak preporučuje da napravite rezervnu kopiju podataka pre ažuriranja
+2. Otkrijte više informacija o karakteristikama proizvoda u odeljku Saveti
+3. Ako naiđete na bilo kakve probleme tokom ažuriranja, možete dobiti našu pomoć pozivom dežurne linije kompanije Honor ili posetom centru za korisničku podršku kompanije Honor</feature>
+         </features>
+    </language>
+            <language code="1059" name="be-by">
+                <features module="" type="header">
+            <feature>Паважаны карыстальнік, гэта абнаўленне ў асноўным паляпшае прадукцыйнасць сістэмы. Каб палепшыць уражанні ад выкарыстання, устанавіце абнаўленне</feature>
+        </features>
+        <features module="Пераклад выкліку">
+             <feature>• Пераклад выклікаў цяпер даступны. Каб паспрабаваць, прайдзіце ў меню: Налады > Honor AI > Пераклад выклікаў</feature>
+        </features>
+        <features module="Камера">
+             <feature>• У некаторых сцэнах аптымізаваны эфекты здымкі камерай</feature>
+        </features>
+        <features module="Сувязь">
+             <feature>• У некаторых сцэнарыях аптымізаваны функцыі сувязі.</feature>
+        </features>
+        <features module="Устойлівасць">
+             <feature>• Павышана стабільнасць сістэмы</feature>
+        </features>
+        <features module="Выпраўленне сістэмы бяспекі">
+             <feature>• Для павышэння бяспекі сістэмы ўключана выпраўленне функцый бяспекі Android (снежань 2025 г.). Больш інфармацыі аб абнаўленні сістэмы бяспекі Honor можна знайсці на нашым афіцыйным вэб-сайце: https://www.honor.com/by/support/bulletin/2025/12</feature>
+        </features>
+         <features module="Нататкі" type="end">
+             <feature>1. Устаноўка гэтага абнаўлення не закране вашы асабістыя даныя. Тым не менш рэкамендуецца стварыць рэзервовую копію даных перад абнаўленнем
+2. Больш падрабязная інфармацыя аб характарыстыках прадукту даступная ў Падказках
+3. Калі вы сутыкняцеся з праблемамі падчас абнаўлення, вы можаце атрымаць нашу дапамогу, патэлефанаваўшы на гарачую лінію службы падтрымкі кліентаў Honor або наведаўшы цэнтр абслугоўвання кліентаў Honor</feature>
+         </features>
+    </language>
+            <language code="1026" name="bg-bg">
+                <features module="" type="header">
+            <feature>Уважаеми потребители, тази актуализация подобрява основно ефективността на системата. Актуализирайте, за да се насладите на подобренията</feature>
+        </features>
+        <features module="Превод на обаждане">
+             <feature>• „Превод на обаждане“ вече е наличен. Изпробвайте като отидете на: „Настройки > Honor AI > Превод на обаждане“</feature>
+        </features>
+        <features module="Камера">
+             <feature>• Оптимизира изживяването при снимане с „Камера“ в някои ситуации</feature>
+        </features>
+        <features module="Комуникация">
+             <feature>• Оптимизирано е преживяването с комуникациите в някои ситуации.</feature>
+        </features>
+        <features module="Стабилност">
+             <feature>• Подобрява стабилността на системата</feature>
+        </features>
+        <features module="Корекция за сигурност">
+             <feature>• Корекцията за сигурност на Android (декември 2025 г.) е включена за защита на системата. За още информация относно актуализациите за сигурност на Honor посетете нашия уебсайт https://www.honor.com/bg/support/bulletin/2025/12</feature>
+        </features>
+         <features module="Бележки" type="end">
+             <feature>1. Инсталирането на тази актуализация няма да се отрази на вашите лични данни, но все пак е препоръчително да архивирате данните си преди актуализиране
+2. Открийте повече информация за характеристиките на продукта в „Съвети“
+3. Ако срещнете проблеми по време на актуализацията, можете да получите нашата помощ, като се обадите на горещата линия за обслужване на Honor или посетите сервизен център на клиенти на Honor</feature>
+         </features>
+    </language>
+            <language code="2117" name="bn-bd">
+                <features module="" type="header">
+            <feature>প্রিয় ব্যবহারকারী, এই আপডেটটি মূলত সিস্টেমের কর্মক্ষমতা বাড়ায়। উন্নতি উপভোগ করতে আপডেট করুন</feature>
+        </features>
+        <features module="কল অনুবাদ">
+             <feature>• এখন কল অনুবাদের সুবিধা পাওয়া যায়। এখানে গিয়ে এটি ব্যবহার করে দেখুন: সেটিংস > Honor AI > কল অনুবাদ</feature>
+        </features>
+        <features module="ক্যামেরা">
+             <feature>• কিছু দৃশ্যে ক্যামেরার শুটিং এফেক্ট অপ্টিমাইজ করে</feature>
+        </features>
+        <features module="যোগাযোগ">
+             <feature>• কিছু পরিস্থিতিতে যোগাযোগের অভিজ্ঞতা অপ্টিমাইজ করুন।</feature>
+        </features>
+        <features module="স্থিতিশীলতা">
+             <feature>• সিস্টেমের স্থিতিশীলতা উন্নত করে</feature>
+        </features>
+        <features module="নিরাপত্তা প্যাচ">
+             <feature>• সিস্টেমের নিরাপত্তার জন্য Android নিরাপত্তা প্যাচ (ডিসেম্বর 2025) অন্তর্ভুক্ত করা হয়েছে। Honor-এর নিরাপত্তা আপডেটগুলি সম্পর্কে আরো তথ্যের জন্য, আমাদের ওয়েবসাইট দেখুন https://www.honor.com/global/support/bulletin/2025/12</feature>
+        </features>
+         <features module="নোট" type="end">
+             <feature>1. এই আপডেটটি ইনস্টল করলে তা আপনার ব্যক্তিগত ডেটাকে প্রভাবিত করবে না, তবুও আপডেট করার আগে আপনার ডেটা ব্যাক আপ করার পরামর্শ দেওয়া হয়
+2. পরামর্শ-এ পণ্যের ফিচাতগুলি সম্পর্কে আরো তথ্য জানুন
+3. আপডেট হওয়ার সময় আপনি কোনো সমস্যার সম্মুখীন হলে Honor সেবা হটলাইনে কল করে বা Honor গ্রাহক সেবা কেন্দ্রে গিয়ে আমাদের সহায়তা পেতে পারেন</feature>
+         </features>
+    </language>
+            <language code="1105" name="bo-cn">
+                <features module="" type="header">
+            <feature>སྙིང་ཉེ་བའི་སྤྱོད་མཁན་ལགས། ཐེངས་འདིའི་གསར་སྒྱུར་ནི་གཙོ་བོ་རྒྱུད་ཁོངས་ལ་དམིགས་ནས་ལེགས་སྒྱུར་བྱས་ཡོད། ཁྱེད་ལ་གསར་སྒྱུར་བྱ་རྒྱུའི་འོས་སྦྱོར་བྱེད།</feature>
+        </features>
+        <features module="ཁ་པར་གཏོང་ལེན་གྱི་ཡིག་སྒྱུར།">
+             <feature>• ཁ་པར་གཏོང་ལེན་གྱི་ཡིག་སྒྱུར་རྩོལ་ནུས་ལ་རྒྱབ་སྐྱོར་གསར་སྣོན་བྱས་ཡོད། ཉམས་ལེན་བརྒྱུད་ལམ། སྒྲིག་འགོད་ནས་རུང་ཡོའོ་ AI དེ་ནས་ཁ་པར་གཏོང་ལེན་གྱི་ཡིག་སྒྱུར།</feature>
+        </features>
+        <features module="པར་ཆས།">
+             <feature>• བཟོ་ལྗོངས་ཁག་ཅིག་གི་བརྙན་ལེན་ཁྱད་ནུས་ལེགས་སྒྱུར་བྱེད།</feature>
+        </features>
+        <features module="འཕྲིན་སྐྱེལ།">
+             <feature>• བཟོ་ལྗོངས་ཁག་ཅིག་གི་འཕྲིན་གཏོང་ཉམས་ལེན་ལེགས་སྒྱུར་བྱས་ཡོད།</feature>
+        </features>
+        <features module="བརྟན་འཇགས་རང་བཞིན།">
+             <feature>• རྒྱུད་ཁོངས་ཀྱི་བརྟན་འཇགས་རང་བཞིན་མཐོར་འདེགས་བཏང་ཡོད།</feature>
+        </features>
+        <features module="བདེ་འཇགས་ལྷན་པ།">
+             <feature>• ཨན་སྒྲོའི་ 2025 ལོའི་ཟླ་བ་ 12 པའི་བདེ་འཇགས་ལྷན་པ་འདྲེས་འཇུག་བྱས་ཏེ། རྒྱུད་ཁོངས་ཀྱི་བདེ་འཇགས་རང་བཞིན་སྟོབས་སྒྱུར་གཏོང་། རུང་ཡོའོ་མཉེན་ཆས་ཀྱི་བདེ་འཇགས་གསར་སྒྱུར་ནང་དོན་སྐོར་གྱི་ཆ་འཕྲིན་ལ། རུང་ཡོའོ་གཞུང་ཕྱོགས་དྲ་ཚིགས་ https://www.honor.com/cn/support/bulletin/2025/12 ལ་ལྟ་སྤྱོད་བྱེད་རོགས།</feature>
+        </features>
+         <features module="གསར་སྒྱུར་གྱི་དོ་སྣང་དོན་ཚན།" type="end">
+             <feature>1. ཐེངས་འདིའི་གསར་སྒྱུར་གྱིས་ཁྱེད་ཀྱི་སྤྱོད་མཁན་གཞི་གྲངས་སུབ་མི་སྲིད། འོན་ཀྱང་ཁྱེད་ཀྱིས་གསར་སྒྱུར་བྱེད་སྔོན་གཞི་གྲངས་གྲབས་ཉར་བྱས་ན་ལེགས།
+2. དེ་ལས་མང་བའི་རྩོལ་ནུས་ལེགས་པོའི་ངོ་སྤྲོད་ཐད་ཁ་པར་རྩེ་བའི་ལག་རྩལ་གྱི་ཉེར་སྤྱོད་ལ་ལྟ་སྤྱོད་བྱ་རོགས།
+3. གསར་སྒྱུར་བྱེད་པའི་བརྒྱུད་རིམ་ཁྲོད་དུ། གནད་དོན་གང་རུང་འཕྲད་ཚེ། རུང་ཡོའོ་ཚོང་རྟགས་ཞབས་ཞུའི་ཁ་པར་ལ་ཁ་པར་གཏོང་བའམ། ཡང་ན་རུང་ཡོའོ་ཚོང་རྟགས་མཁོ་མཁན་ཞབས་ཞུའི་ལྟེ་གནས་སུ་ཕེབས་ནས་རྒྱབ་སྐྱོར་འཚོལ་རོགས།</feature>
+         </features>
+    </language>
+            <language code="5146" name="bs-ba">
+                <features module="" type="header">
+            <feature>Poštovani korisniče, ovo ažuriranje uglavnom poboljšava performanse sistema. Ažurirajte da uživate u poboljšanjima</feature>
+        </features>
+        <features module="Prijevod poziva">
+             <feature>• Sada je dostupan Prijevod Poziva. Isprobajte ga odlaskom u opciju: Postavke > Honor AI > Prijevod Poziva</feature>
+        </features>
+        <features module="Fotoaparat">
+             <feature>• Optimizira efekat snimanja Fotoaparata u nekim scenama</feature>
+        </features>
+        <features module="Komunikacija">
+             <feature>• Optimizira iskustvo komunikacije u određenim scenarijima.</feature>
+        </features>
+        <features module="Stabilnost">
+             <feature>• Poboljšava stabilnost sistema</feature>
+        </features>
+        <features module="Sigurnosna zakrpa">
+             <feature>• Ugrađena je sigurnosna zakrpa za Android (decembar 2025.) radi sigurnosti sistema. Više informacija o Honor sigurnosnim ažuriranjima potražite na našoj web lokaciji https://www.honor.com/global/support/bulletin/2025/12</feature>
+        </features>
+         <features module="Bilješke" type="end">
+             <feature>1. Instaliranje ovog ažuriranja ne utiče na lične podatke, ali se i dalje preporučuje da napravite rezervnu kopiju podataka prije ažuriranja
+2. Otkrijte više informacija o funkcijama proizvoda u Savjetima
+3. Ako naiđete na bilo kakve probleme tokom ažuriranja, možete zatražiti našu pomoć tako što ćete pozvati Honor dežurnu liniju korisničke podrške ili posjetiti Honor servisni centar za korisnike</feature>
+         </features>
+    </language>
+            <language code="1027" name="ca-es">
+                <features module="" type="header">
+            <feature>Benvolgut usuari, aquesta actualització millora principalment el rendiment del sistema. Actualitzeu-la per gaudir de les millores</feature>
+        </features>
+        <features module="Traducció de trucades">
+             <feature>• Traducció de trucades ja està disponible. Proveu-la anant a: Configuració > Honor AI > Traducció de Trucades</feature>
+        </features>
+        <features module="Càmera">
+             <feature>• Optimitza l'efecte de captura de la Càmera en algunes situacions</feature>
+        </features>
+        <features module="Comunicació">
+             <feature>• Optimitza l'experiència de comunicació en algunes situacions.</feature>
+        </features>
+        <features module="Estabilitat">
+             <feature>• Millora l'estabilitat del sistema</feature>
+        </features>
+        <features module="Pedaç de seguretat">
+             <feature>S'ha incorporat el pedaç de seguretat d'Android (desembre del 2025) per garantir la seguretat del sistema. Per obtenir més informació sobre les actualitzacions de seguretat d'Honor, consulteu el nostre lloc web https://www.honor.com/global/support/bulletin/2025/12</feature>
+        </features>
+         <features module="Notes" type="end">
+             <feature>1. El fet d'instal·lar aquesta actualització no afectarà les vostres dades personals, però es recomana fer una còpia de seguretat de les dades abans d'iniciar l'actualització
+2. Descobriu més informació sobre les funcions del producte a Suggeriments
+3. Si trobeu algun problema durant l'actualització, per obtenir la nostra ajuda truqueu a la Línia directa d'atenció al client d'Honor o visiteu el Centre d'atenció al client d'Honor</feature>
+         </features>
+    </language>
+            <language code="1029" name="cs-cz">
+                <features module="" type="header">
+            <feature>Vážený uživateli, tato aktualizace především zvyšuje výkon systému. Aktualizujte, abyste si mohli užít vylepšení</feature>
+        </features>
+        <features module="Překlad hovoru">
+             <feature>• Nyní je k dispozici Překlad hovoru. Vyzkoušejte ho v nabídce Nastavení > Honor AI > Překlad hovoru</feature>
+        </features>
+        <features module="Fotoaparát">
+             <feature>• Optimalizuje fotografování pomocí Fotoaparátu v některých scénách</feature>
+        </features>
+        <features module="Komunikace">
+             <feature>• Optimalizace komunikace v některých situacích.</feature>
+        </features>
+        <features module="Stabilita">
+             <feature>• Vylepšuje stabilitu systému.</feature>
+        </features>
+        <features module="Oprava zabezpečení">
+             <feature>• Do systému byla začleněna bezpečnostní oprava (prosinec 2025) pro systém Android pro zajištění bezpečnosti systému. Více informací o bezpečnostních aktualizacích Honor najdete na našem webu https://www.honor.com/cz/support/bulletin/2025/12</feature>
+        </features>
+         <features module="Poznámky" type="end">
+             <feature>1. Instalace této aktualizace neovlivní vaše osobní data, ale přesto doporučujeme před aktualizací zálohovat data.
+2. Další informace o funkcích produktu najdete v aplikaci Tipy.
+3. Pokud během aktualizace narazíte na nějaké problémy, zavolejte na informační linku Honor nebo navštivte Centrum služeb zákazníkům Honor.</feature>
+         </features>
+    </language>
+            <language code="1030" name="da-dk">
+                <features module="" type="header">
+            <feature>Kære bruger. Denne opdatering forbedrer hovedsageligt systemets ydeevne. Opdater for at drage nytte af forbedringerne</feature>
+        </features>
+        <features module="Oversættelse af opkald">
+             <feature>• Opkaldsoversættelse er nu tilgængelig. Prøv det ved at gå til: Indstillinger > Honor AI > Oversættelse af opkald</feature>
+        </features>
+        <features module="Kamera">
+             <feature>• Optimerer kameraets optageeffekt i visse scener</feature>
+        </features>
+        <features module="Kommunikation">
+             <feature>• Optimer kommunikationsoplevelsen i visse scenarier.</feature>
+        </features>
+        <features module="Stabilitet">
+             <feature>• Forbedrer systemstabiliteten</feature>
+        </features>
+        <features module="Sikkerhedspatch">
+             <feature>• Android sikkerhedspatch (dec 2025) er blevet inkluderet for øget systemsikkerhed. Du kan få flere oplysninger om Honor-sikkerhedsopdateringer på vores websted https://www.honor.com/global/support/bulletin/2025/12</feature>
+        </features>
+         <features module="Noter" type="end">
+             <feature>1. Installation af denne opdatering påvirker ikke dine personlige data, men vi anbefaler alligevel, at du sikkerhedskopierer dine data inden opdateringen
+2. Få flere oplysninger om produktfunktioner i Tips
+3. Hvis du oplever problemer under opdateringen, kan du få hjælp ved at ringe til Honors servicehotline eller besøge Honors kundeservicecenter</feature>
+         </features>
+    </language>
+            <language code="1031" name="de-de">
+                <features module="" type="header">
+            <feature>Sehr geehrter Nutzer, diese Aktualisierung verbessert hauptsächlich die Systemleistung. Nehmen Sie die Aktualisierung vor, um in den Genuss der Verbesserungen zu kommen</feature>
+        </features>
+        <features module="Anrufübersetzung">
+             <feature>• Anrufübersetzung ist jetzt verfügbar. Probieren Sie es aus, gehen Sie zu: Einstellungen > Honor AI > Anrufübersetzung</feature>
+        </features>
+        <features module="Kamera">
+             <feature>• Optimiert den Aufnahmeeffekt der Kamera in einigen Szenen</feature>
+        </features>
+        <features module="Kommunikation">
+             <feature>• Optimieren Sie die Kommunikation in einigen Szenarien.</feature>
+        </features>
+        <features module="Stabilität">
+             <feature>• Verbessert die Systemstabilität</feature>
+        </features>
+        <features module="Sicherheitspatch">
+             <feature>• Der Android Sicherheitspatch (Dez. 2025) für Systemsicherheit wurde integriert. Weitere Informationen über die Honor Sicherheitsaktualisierungen finden Sie auf unserer Website: https://www.honor.com/de/support/bulletin/2025/12</feature>
+        </features>
+         <features module="Notizen" type="end">
+             <feature>1. Die Installation dieses Updates hat keine Auswirkungen auf Ihre persönlichen Daten, es wird jedoch empfohlen, vor der Aktualisierung eine Sicherungskopie Ihrer Daten zu erstellen
+2. Entdecken Sie weitere Informationen zu den Produktfunktionen in Tipps
+3. Wenn bei der Aktualisierung Probleme auftreten, rufen Sie die Honor-Service-Hotline an oder besuchen Sie ein Honor-Kunden-Service-Center, um Unterstützung zu erhalten</feature>
+         </features>
+    </language>
+            <language code="1032" name="el-gr">
+                <features module="" type="header">
+            <feature>Αγαπητέ χρήστη, αυτή η ενημέρωση βελτιώνει κυρίως την απόδοση του συστήματος. Πραγματοποιήστε ενημέρωση για να απολαύσετε τις βελτιώσεις</feature>
+        </features>
+        <features module="Μετάφραση κλήσης">
+             <feature>• Η Μετάφραση κλήσης είναι πλέον διαθέσιμη. Δοκιμάστε τη μεταβαίνοντας στις εξής επιλογές: Ρυθμίσεις > Honor AI > Μετάφραση κλήσης</feature>
+        </features>
+        <features module="Κάμερα">
+             <feature>• Βελτιστοποιεί το αποτέλεσμα λήψης της Κάμερας σε ορισμένες σκηνές</feature>
+        </features>
+        <features module="Επικοινωνία">
+             <feature>• Βελτιστοποιήστε την εμπειρία επικοινωνίας σε ορισμένα σενάρια.</feature>
+        </features>
+        <features module="Σταθερότητα">
+             <feature>• Βελτιώνει τη σταθερότητα του συστήματος</feature>
+        </features>
+        <features module="Ενημέρωση κώδικα ασφάλειας">
+             <feature>• Η ενημέρωση κώδικα ασφαλείας Android (Δεκέμβριος 2025) ενσωματώθηκε για την ασφάλεια του συστήματος. Για περισσότερες πληροφορίες σχετικά με τις ενημερώσεις της Ασφάλειας Honor, επισκεφθείτε τον ιστότοπό μας https://www.honor.com/gr/support/bulletin/2025/12</feature>
+        </features>
+         <features module="Σημειώσεις" type="end">
+             <feature>1. Η εγκατάσταση αυτής της ενημέρωσης δεν θα επηρεάσει τα προσωπικά δεδομένα σας, αλλά ακόμη και έτσι συνιστάται η δημιουργία αντιγράφων ασφαλείας των δεδομένων σας πριν από την ενημέρωση
+2. Ανακαλύψτε περισσότερες πληροφορίες σχετικά με τις δυνατότητες του προϊόντος στις Συμβουλές
+3. Αν αντιμετωπίσετε προβλήματα κατά την ενημέρωση, μπορείτε να λάβετε τη βοήθειά μας καλώντας την ανοιχτή τηλεφωνική γραμμή εξυπηρέτησης της Honor ή με επίσκεψη σε ένα κέντρο εξυπηρέτησης πελατών της Honor</feature>
+         </features>
+    </language>
+            <language code="2057" name="en-GB">
+                <features module="" type="header">
+            <feature>Dear user, this update mainly enhances the system performance. Update to enjoy the improvements</feature>
+        </features>
+        <features module="Call translation">
+             <feature>• Call translation is now available. Try it out by going to: Settings > Honor AI > Call Translation</feature>
+        </features>
+        <features module="Camera">
+             <feature>• Optimises the Camera's shooting effect in some scenes</feature>
+        </features>
+        <features module="Communication">
+             <feature>• Optimises the communication experience in some scenarios.</feature>
+        </features>
+        <features module="Stability">
+             <feature>• Improves the system stability</feature>
+        </features>
+        <features module="Security patch">
+             <feature>• Android security patch (Dec 2025) has been incorporated for system security. For more information about Honor Security updates, please visit our website https://www.honor.com/uk/support/bulletin/2025/12</feature>
+        </features>
+         <features module="Notes" type="end">
+             <feature>1. Installing this update will not affect your personal data, but it is still recommended to back up your data before updating
+2. Discover more information on product features in Tips
+3. If you encounter any issues during the update, you can get our help by calling Honor service hotline or visiting Honor customer service centre</feature>
+         </features>
+    </language>
+            <language code="1034" name="es-es">
+                <features module="" type="header">
+            <feature>Estimado/a usuario/a, esta actualización mejora principalmente el rendimiento del sistema. Actualice para disfrutar de las mejoras</feature>
+        </features>
+        <features module="Traducción de llamadas">
+             <feature>• Traducción de llamadas ya está disponible. Pruébela en: Ajustes > Honor AI > Traducción de Llamadas</feature>
+        </features>
+        <features module="Cámara">
+             <feature>• Optimiza el efecto de disparo de Cámara en determinadas escenas</feature>
+        </features>
+        <features module="Comunicación">
+             <feature>• Se ha optimizado la experiencia de comunicación en algunos escenarios.</feature>
+        </features>
+        <features module="Estabilidad">
+             <feature>• Mejora la estabilidad del sistema</feature>
+        </features>
+        <features module="Parche de seguridad">
+             <feature>• Se ha incorporado el parche de seguridad de Android (diciembre de 2025) para la seguridad del sistema Para obtener más información sobre las actualizaciones de seguridad de Honor, visite nuestro sitio web: https://www.honor.com/es/support/bulletin/2025/12</feature>
+        </features>
+         <features module="Notas" type="end">
+             <feature>1. La instalación de esta actualización no afectará a sus datos personales, pero se recomienda hacer una copia de seguridad de sus datos antes de actualizar
+2. Descubra más información sobre las características de los productos en Sugerencias
+3. Si tiene algún problema durante la actualización, puede obtener nuestra ayuda si llama a la línea de atención al cliente de Honor o si visita el centro de servicios al cliente de Honor</feature>
+         </features>
+    </language>
+            <language code="21514" name="es-us">
+                <features module="" type="header">
+            <feature>Estimado usuario, esta actualización mejora principalmente el rendimiento del sistema. Actualice para disfrutar de las mejoras</feature>
+        </features>
+        <features module="Traducción de llamadas">
+             <feature>• Ya está disponible la traducción de llamadas. Puede probar esta función en: Ajustes > Honor AI > Traducción de llamadas</feature>
+        </features>
+        <features module="Cámara">
+             <feature>• Optimiza el efecto de disparo de la Cámara en algunas escenas</feature>
+        </features>
+        <features module="Comunicación">
+             <feature>• Se optimizó la experiencia de comunicación en determinadas situaciones.</feature>
+        </features>
+        <features module="Estabilidad">
+             <feature>• Mejora la estabilidad del sistema</feature>
+        </features>
+        <features module="Parche de seguridad">
+             <feature>• Se incorporó el parche de seguridad de Android (diciembre de 2025) para mejorar la seguridad del sistema. Para obtener más información sobre las actualizaciones de seguridad de Honor, visite nuestro sitio web https://www.honor.com/latam/support/bulletin/2025/12</feature>
+        </features>
+         <features module="Notas" type="end">
+             <feature>1. La instalación de esta actualización no afectará sus datos personales, pero se recomienda hacer una copia de respaldo de sus datos antes de actualizar
+2. Descubra más información sobre las funciones del producto en Sugerencias
+3. Si tiene problemas durante la actualización, puede llamar a la línea de atención al cliente de Honor o visitar el centro de servicios al cliente de Honor para recibir asistencia</feature>
+         </features>
+    </language>
+            <language code="1061" name="et-ee">
+                <features module="" type="header">
+            <feature>Hea kasutaja! See värskendus parandab peamiselt süsteemi jõudlust. Värskendage täiustuste nautimiseks</feature>
+        </features>
+        <features module="Kõne tõlge">
+             <feature>• Kõne tõlge on nüüd saadaval. Proovige seda, avades Sätted > Honor AI > Kõne Tõlge</feature>
+        </features>
+        <features module="Kaamera">
+             <feature>•Optimeerib mõnes olukorras Kaamera jäädvustamisefekti</feature>
+        </features>
+        <features module="Kommunikatsioon">
+             <feature>• Optimeerib kommunikatsioonikogemust teatud stsenaariumides.</feature>
+        </features>
+        <features module="Stabiilsus">
+             <feature>• Parandab süsteemi stabiilsust</feature>
+        </features>
+        <features module="Turvapaik">
+             <feature>• Süsteemi turvalisuse tagamiseks rakendati Androidi turvapaik (detsember 2025). Lisateavet Honori turvavärskenduste kohta leiate meie veebisaidilt https://www.honor.com/global/support/bulletin/2025/12</feature>
+        </features>
+         <features module="Märkused" type="end">
+             <feature>1. Selle värskenduse installimine ei mõjuta teie isiklikke andmeid, aga soovitame ikkagi enne värskendamist andmed varundada
+2. Toote funktsioonide kohta leiate lisateavet rakendusest Tips
+3. Kui teil tekib värskendamise ajal probleeme, saate meilt abi, helistades Honori klienditoe infoliinile või külastades Honori klienditeeninduskeskust</feature>
+         </features>
+    </language>
+            <language code="1069" name="eu-es">
+                <features module="" type="header">
+            <feature>Erabiltzaile agurgarria: eguneratze honek sistemaren errendimendua hobetzen du nagusiki. Eguneratu hobekuntzez gozatzeko</feature>
+        </features>
+        <features module="Deiaren itzulpena">
+             <feature>• Deiaren itzulpena erabilgarri dago orain. Probatzeko, joan hona: Ezarpenak > Honor AI > Deiaren Itzulpena</feature>
+        </features>
+        <features module="Kamera">
+             <feature>• Kameraren argazkiak ateratzeko efektua optimizatu da zenbait ingurunetan</feature>
+        </features>
+        <features module="Komunikazioa">
+             <feature>• Zenbait ingurunetan optimizatu da komunikazio-esperientzia.</feature>
+        </features>
+        <features module="Egonkortasuna">
+             <feature>• Sistemaren egonkortasuna hobetu da</feature>
+        </features>
+        <features module="Segurtasun-adabakia">
+             <feature>• Android-en segurtasun-adabakia (2025eko abendua) gehitu da sistemaren segurtasuna bermatzeko. Honor Segurtasun-eguneratzeei buruzko informazio gehiago lortzeko, ikusi gure gunea: https://www.honor.com/global/support/bulletin/2025/12</feature>
+        </features>
+         <features module="Oharrak" type="end">
+             <feature>1. Eguneratze hau instalatzeak ez du eraginik izango datu pertsonaletan, baina, eguneratu baino lehen, datuen babeskopia egitea gomendatzen da
+2. Ezagutu produktuaren eginbideei buruzko informazio gehiago Aholkuak atalean
+3. Eguneratzean arazoren bat baduzu, gure laguntza eska dezakezu Honor-en telefonozko arreta-lineara deituz edo Honor-en bezeroaren zerbitzu-zentrora joanez</feature>
+         </features>
+    </language>
+            <language code="1065" name="fa-ir">
+                <features module="" type="header">
+            <feature>کاربر گرامی، این به‌روزرسانی به‌طور عمده عملکرد سیستم را بهبود می‌بخشد. با انجام این به‌روزرسانی، از این بهبودها بهره‌مند شوید</feature>
+        </features>
+        <features module="مترجم تماس">
+             <feature>‏• «مترجم تماس» اکنون در دسترس است. برای امتحان کردن آن به این مسیر بروید: «تنظیمات > ‏Honor AI > مترجم تماس»</feature>
+        </features>
+        <features module="دوربین">
+             <feature>‏• عملکرد تصویربرداری «دوربین» را در برخی صحنه‌ها بهینه می‌کند</feature>
+        </features>
+        <features module="ارتباط">
+             <feature>‏• تجربه برقراری ارتباط در برخی شرایط بهینه می‌شود.</feature>
+        </features>
+        <features module="پایداری">
+             <feature>‏‏• پایداری سیستم را بهبود می‌بخشد</feature>
+        </features>
+        <features module="وصلۀ امنیتی">
+             <feature>‏• برای حفظ امنیت سیستم، «وصلۀ امنیتی Android (دسامبر ۲۰۲۵)» گنجانده شده است. برای کسب اطلاعات بیشتر دربارۀ به‌روزرسانی‌های «امنیت Honor»، لطفاً به وب‌سایت ما مراجعه کنید: https://www.honor.com/global/support/bulletin/2025/12</feature>
+        </features>
+         <features module="یادداشت‌ها" type="end">
+             <feature>‏۱. نصب این به‌روزرسانی روی داده‌های شخصی شما تأثیری نخواهد داشت. بااین‌وجود، توصیه می‌شود قبل از به‌روزرسانی از داده‌های خود پشتیبان‌گیری کنید
+‏۲. اطلاعات بیشتر مربوط به قابلیت‌های محصول را در «نکات» می‌توانید بیابید
+‏۳. اگر در طول به‌روزرسانی با مشکلی مواجه شدید، می‌توانید از طریق تماس با تلفن مستقیم خدمات Honor یا مراجعه به مرکز خدمات مشتریان Honor از ما کمک بگیرید</feature>
+         </features>
+    </language>
+            <language code="1035" name="fi-fi">
+                <features module="" type="header">
+            <feature>Hyvä käyttäjä, tämä päivitys parantaa ensisijaisesti järjestelmän suorituskykyä. Päivitä, niin pääset nauttimaan parannuksista</feature>
+        </features>
+        <features module="Puhelun käännös">
+             <feature>• Puhelun käännös on nyt käytettävissä. Voit kokeilla sitä seuraavassa kohdassa: Asetukset > Honor AI > Puhelun käännös</feature>
+        </features>
+        <features module="Kamera">
+             <feature>• Optimoi Kameran kuvaustuloksen tietyissä tilanteissa</feature>
+        </features>
+        <features module="Viestintä">
+             <feature>• Optimoi viestintäkokemuksen joissakin tilanteissa.</feature>
+        </features>
+        <features module="Vakaus">
+             <feature>• Parantaa järjestelmän vakautta</feature>
+        </features>
+        <features module="Turvallisuuskorjaus">
+             <feature>• Android-turvallisuuskorjaus (joulukuu 2025) on lisätty järjestelmän turvallisuutta varten. Lisätietoja Honorin turvallisuuspäivityksistä on saatavilla verkkosivustollamme osoitteessa https://www.honor.com/fi/support/bulletin/2025/12</feature>
+        </features>
+         <features module="Muistiinpanot" type="end">
+             <feature>1. Tämän päivityksen asentaminen ei vaikuta henkilökohtaisiin tietoihisi, mutta tietojen varmuuskopiointi ennen päivittämistä on kuitenkin suositeltavaa
+2. Lisätietoja tuoteominaisuuksista on Vihjeitä-sovelluksessa
+3. Jos päivityksen aikana ilmenee ongelmia, saat apua soittamalla Honorin palvelunumeroon tai käymällä Honorin asiakaspalvelukeskuksessa</feature>
+         </features>
+    </language>
+            <language code="1036" name="fr-fr">
+                <features module="" type="header">
+            <feature>Cher utilisateur, cette mise à jour améliore principalement les performances du système. Effectuez la mise à jour pour profiter des améliorations</feature>
+        </features>
+        <features module="Traduction d'appel">
+             <feature>• Traduction d'appel est désormais disponible. Essayez cette fonctionnalité en accédant à : Paramètres > Honor AI > Traduction d'appel</feature>
+        </features>
+        <features module="Appareil photo">
+             <feature>• Optimise l'effet de prise de vue d'Appareil photo dans certaines scènes</feature>
+        </features>
+        <features module="Communication">
+             <feature>• Optimise l'expérience de communication dans certains scénarios.</feature>
+        </features>
+        <features module="Stabilité">
+             <feature>• Améliore la stabilité du système</feature>
+        </features>
+        <features module="Correctif de sécurité">
+             <feature>• Un correctif de sécurité Android (décembre 2025) a été intégré pour la sécurité du système. Pour plus d'informations sur les mises à jour de sécurité Honor, veuillez consulter notre site Web https://www.honor.com/fr/support/bulletin/2025/12</feature>
+        </features>
+         <features module="Notes" type="end">
+             <feature>1. L'installation de cette mise à jour n'affectera pas vos données personnelles, mais il est tout de même recommandé de sauvegarder vos données avant la mise à jour
+2. Découvrez plus d'informations sur les fonctionnalités du produit dans Astuces
+3. Si vous rencontrez des problèmes pendant la mise à jour, vous pouvez obtenir de l'aide en contactant la hotline de service Honor ou en vous rendant dans un centre de services clients Honor</feature>
+         </features>
+    </language>
+            <language code="1110" name="gl-es">
+                <features module="" type="header">
+            <feature>Estimado usuario, a novidade principal desta actualización é a mellora do rendemento do sistema. Realice a actualización para gozar das melloras</feature>
+        </features>
+        <features module="Tradución de chamadas">
+             <feature>• Agora está dispoñible Tradución de chamadas. Para probalo, vaia a: Configuración > IA de Honor > Tradución de chamadas</feature>
+        </features>
+        <features module="Cámara">
+             <feature>• Optimiza o efecto de captura da Cámara nalgunhas escenas</feature>
+        </features>
+        <features module="Comunicación">
+             <feature>• Optimízase a experiencia de comunicación nalgunhas situacións.</feature>
+        </features>
+        <features module="Estabilidade">
+             <feature>• Mellora a estabilidade do sistema</feature>
+        </features>
+        <features module="Parche de seguranza">
+             <feature>• Incorporárase un parche de seguranza de Android (decembro de 2025) para a seguranza do sistema. Para obter máis información sobre as actualizacións de seguranza de Honor, visite o noso sitio web https://www.honor.com/global/support/bulletin/2025/12</feature>
+        </features>
+         <features module="Notas" type="end">
+             <feature>1. Instalar esta actualización non afectará os seus datos persoais, pero recoméndase que realice unha copia de seguranza dos datos antes da actualización
+2. Descubra máis información sobre as funcionalidades do produto en Consellos
+3. Se experimenta problemas durante a actualización, pode chamar á liña directa de servizo de Honor ou ir a un centro de servizos ao cliente de Honor para que lle fornezamos axuda</feature>
+         </features>
+    </language>
+            <language code="1095" name="gu-IN">
+                <features module="" type="header">
+            <feature>પ્રિય વપરાશકર્તા, આ અપડેટ મુખ્યત્વે સિસ્ટમની કામગીરીને વધારે છે. સુધારાનો આનંદ માણવા માટે અપડેટ કરો</feature>
+        </features>
+        <features module="કૉલ અનુવાદ">
+             <feature>• કૉલ અનુવાદ હવે ઉપલબ્ધ છે. સેટિંગ્સ > Honor AI > કૉલ અનુવાદ : પર જઈને તેને અજમાવી જુઓ</feature>
+        </features>
+        <features module="કૅમેરા">
+             <feature>• કેટલિક પરિસ્થિતિઓમાં કૅમેરાના શૂટિંગ પ્રભાવને ઑપ્ટિમાઇઝ કરે છે</feature>
+        </features>
+        <features module="સંદેશાવ્યવહાર">
+             <feature>• કેટલીક પરિસ્થિતિઓમાં સંદેશાવ્યવહારનો અનુભવ ઑપ્ટિમાઇઝ કરો.</feature>
+        </features>
+        <features module="સ્થિરતા">
+             <feature>• સિસ્ટમની સ્થિરતામાં સુધારો કરે છે</feature>
+        </features>
+        <features module="સુરક્ષા પેચ">
+             <feature>• Android સુરક્ષા પેચ (ડિસેમ્બર 2025) સિસ્ટમ સુરક્ષા માટે સામેલ કરવામાં આવ્યો છે. Honor સુરક્ષા અપડેટ્સ વિશે વધુ માહિતી માટે, કૃપા કરીને અમારી વેબસાઇટ ની મુલાકાત લો https://www.honor.com/global/support/bulletin/2025/12</feature>
+        </features>
+         <features module="નોંધો" type="end">
+             <feature>1. આ અપડેટ ઇન્સ્ટોલ કરવાથી તમારા વ્યક્તિગત ડેટાને અસર થશે નહીં, પરંતુ અપડેટ કરતા પહેલાં તમારા ડેટાનો બૅકઅપ લેવાની ભલામણ કરવામાં આવે છે
+2. ટિપ્સમાં ઉત્પાદન સુવિધાઓ વિશે વધુ માહિતી મેળવો
+3. જો તમને અપડેટ દરમિયાન કોઈ સમસ્યા આવે, તો તમે Honor સેવા હોટલાઇન પર કૉલ કરીને અથવા Honor ગ્રાહક સેવા કેન્દ્રની મુલાકાત લઈને અમારી મદદ મેળવી શકો છો</feature>
+         </features>
+    </language>
+            <language code="1081" name="hi-in">
+                <features module="" type="header">
+            <feature>नमस्ते उपयोगकर्ता, इस अद्यतन से मुख्य रूप से सिस्टम प्रदर्शन को बढ़ाया जाता है। सुधारों का फ़ायदा उठाने के लिए अद्यतन करें</feature>
+        </features>
+        <features module="कॉल अनुवाद">
+             <feature>• कॉल अनुवाद अब उपलब्ध है। यहाँ जाकर इसे आज़माएँ: सेटिंग्स > Honor AI > कॉल अनुवाद</feature>
+        </features>
+        <features module="कैमरा">
+             <feature>• कुछ दृश्यों में कैमरे के शूटिंग प्रभाव को अनुकूलित किया जाता है</feature>
+        </features>
+        <features module="संचार">
+             <feature>• कुछ परिदृश्यों में संचार अनुभव को अनुकूलित किया गया है।</feature>
+        </features>
+        <features module="स्थिरता">
+             <feature>• सिस्टम स्थिरता में सुधार किया जाता है</feature>
+        </features>
+        <features module="सुरक्षा पैच">
+             <feature>• सिस्टम की सुरक्षा के लिए Android सुरक्षा पैच (दिसंबर, 2025) शामिल किया गया है। Honor सुरक्षा अद्यतनों के बारे में अधिक जानकारी के लिए, हमारी वेबसाइट पर जाएँ: https://www.honor.com/global/support/bulletin/2025/12</feature>
+        </features>
+         <features module="नोट्स" type="end">
+             <feature>1. इस अद्यतन को स्थापित करने से आपके व्यक्तिगत डेटा पर कोई प्रभाव नहीं पड़ेगा, लेकिन फिर भी अद्यतन करने से पहले अपने डेटा का बैकअप लेने की अनुशंसा की जाती है
+2. युक्तियाँ में जाकर उत्पाद की सुविधाओं के बारे में अधिक जानकारी खोजें
+3. अगर आपको अद्यतन के दौरान कोई भी समस्या होती है, तो आप Honor सेवा हॉटलाइन पर कॉल करके या Honor ग्राहक सेवा केंद्र पर जाकर हमारी सहायता पा सकते हैं</feature>
+         </features>
+    </language>
+            <language code="1050" name="hr-hr">
+                <features module="" type="header">
+            <feature>Poštovani korisniče, ovim se ažuriranjem uglavnom poboljšavaju performanse sustava. Ažurirajte kako biste uživali u poboljšanjima</feature>
+        </features>
+        <features module="Prijevod za pozive">
+             <feature>• Prijevod za pozive sada je dostupan. Isprobajte odlaskom na: Postavke > Honor AI > Prijevod za Pozive</feature>
+        </features>
+        <features module="Fotoaparat">
+             <feature>• Optimizira se efekt snimanja Fotoaparata u nekim scenama</feature>
+        </features>
+        <features module="Komunikacija">
+             <feature>• Optimizira se iskustvo komunikacije u nekim scenarijima.</feature>
+        </features>
+        <features module="Stabilnost">
+             <feature>• Poboljšava se stabilnost sustava</feature>
+        </features>
+        <features module="Sigurnosna zakrpa">
+             <feature>• Implementirana je sigurnosna zakrpa za Android (prosinac 2025.) za sigurnost sustava. Za više informacija o ažuriranjima značajke Honor Sigurnost posjetite naše web-mjesto https://www.honor.com/global/support/bulletin/2025/12</feature>
+        </features>
+         <features module="Bilješke" type="end">
+             <feature>1. Instaliranje ovog ažuriranja neće utjecati na osobne podatke, ali se svejedno preporučuje izraditi sigurnosnu kopiju podataka prije ažuriranja
+2. Idite u aplikaciju Savjeti kako biste doznali više informacija o značajkama proizvoda
+3. Ako naiđete na bilo kakve probleme tijekom ažuriranja, našu pomoć možete dobiti tako da nazovete Honor dežurnu liniju ili posjetite centar za korisničku podršku Honor</feature>
+         </features>
+    </language>
+            <language code="1038" name="hu-hu">
+                <features module="" type="header">
+            <feature>Kedves felhasználó! Ez a frissítés elsősorban a rendszerteljesítményt javítja. Végezze el a frissítést, hogy élvezhesse a továbbfejlesztéseket</feature>
+        </features>
+        <features module="Hívásfordítás">
+             <feature>• A Hívásfordító mostantól elérhető. Próbálja ki itt: Beállítások > Honor AI > Hívásfordítás</feature>
+        </features>
+        <features module="Kamera">
+             <feature>• Bizonyos helyzetekben optimalizálja a Kamera fényképezési hatását</feature>
+        </features>
+        <features module="Kommunikáció">
+             <feature>• Bizonyos helyzetekben optimalizálja a kommunikációs funkciók működését.</feature>
+        </features>
+        <features module="Stabilitás">
+             <feature>• Javítja a rendszer stabilitását</feature>
+        </features>
+        <features module="Biztonsági javítás">
+             <feature>• A rendszerbiztonság érdekében a frissítés az Android biztonsági frissítését (2025. december) is tartalmazza. A Honor biztonsági javításaival kapcsolatos további információkért keresse fel weboldalunkat: https://www.honor.com/hu/support/bulletin/2025/12</feature>
+        </features>
+         <features module="Jegyzetek" type="end">
+             <feature>1. A jelen frissítés telepítése nem lesz hatással személyes adataira, de a frissítés előtt az adatokról továbbra is ajánlott biztonsági másolatot készíteni
+2. A termékfunkciókkal kapcsolatos további információkat a Tippek alkalmazásban tekintheti meg
+3. Ha a frissítés során bármilyen problémába ütközik, forduljon hozzánk segítségért a Honor-szerviz forródrótján, vagy látogasson el a Honor ügyfélszolgálati központjába</feature>
+         </features>
+    </language>
+            <language code="1057" name="in-id">
+                <features module="" type="header">
+            <feature>Pengguna yang terhormat, pembaruan ini utamanya meningkatkan kinerja sistem. Instal pembaruan untuk menikmati berbagai peningkatan</feature>
+        </features>
+        <features module="Terjemahan panggilan">
+             <feature>• Penerjemahan panggilan kini tersedia. Cobalah dengan membuka: Pengaturan > Honor AI > Terjemahan Panggilan</feature>
+        </features>
+        <features module="Kamera">
+             <feature>• Mengoptimalkan efek pemotretan Kamera di beberapa skenario</feature>
+        </features>
+        <features module="Komunikasi">
+             <feature>• Mengoptimalkan pengalaman komunikasi dalam situasi tertentu.</feature>
+        </features>
+        <features module="Stabilitas">
+             <feature>• Meningkatkan stabilitas sistem</feature>
+        </features>
+        <features module="Penambal keamanan">
+             <feature>• Penambal keamanan Android (Des 2025) telah disertakan untuk keamanan sistem. Untuk informasi selengkapnya tentang pembaruan Keamanan Honor, kunjungi situs web kami https://www.honor.com/global/support/bulletin/2025/12</feature>
+        </features>
+         <features module="Catatan" type="end">
+             <feature>1. Menginstal pembaruan ini tidak akan memengaruhi data pribadi Anda, tetapi tetap direkomendasikan untuk mencadangkan data Anda sebelum memperbarui
+2. Pelajari informasi selengkapnya terkait fitur produk di Kiat
+3. Jika Anda mengalami masalah selama pembaruan, Anda bisa mendapatkan bantuan kami dengan menghubungi saluran siaga layanan Honor atau mengunjungi pusat layanan pelanggan Honor</feature>
+         </features>
+    </language>
+            <language code="1040" name="it-it">
+                <features module="" type="header">
+            <feature>Gentile utente, questo aggiornamento migliora principalmente le prestazioni del sistema. Esegui l'aggiornamento per usufruire dei miglioramenti</feature>
+        </features>
+        <features module="Traduzione chiamata">
+             <feature>• È ora disponibile Traduzione chiamata. Per provare la funzione, vai in: Impostazioni > Honor AI > Traduzione Chiamata</feature>
+        </features>
+        <features module="Fotocamera">
+             <feature>• Viene ottimizzato l'effetto di scatto della Fotocamera in alcune scene</feature>
+        </features>
+        <features module="Comunicazione">
+             <feature>• Viene ottimizzata l'esperienza di comunicazione in alcuni scenari.</feature>
+        </features>
+        <features module="Stabilità">
+             <feature>• Viene migliorata la stabilità del sistema</feature>
+        </features>
+        <features module="Patch di sicurezza">
+             <feature>• È stata incorporata la patch di sicurezza di Android (dicembre 2025) per garantire la sicurezza del sistema. Per ulteriori informazioni sugli aggiornamenti di sicurezza Honor, visita il sito Web all'indirizzo https://www.honor.com/it/support/bulletin/2025/12</feature>
+        </features>
+         <features module="Note" type="end">
+             <feature>1. L'installazione di questo aggiornamento non avrà effetto sulle informazioni personali, ma si consiglia comunque di effettuare un backup dei dati prima di procedere
+2. Scopri ulteriori informazioni sulle funzioni del prodotto in Suggerimenti
+3. In caso di problemi durante l'aggiornamento, puoi richiedere assistenza chiamando il servizio call center Honor o visitando un centro servizio clienti Honor</feature>
+         </features>
+    </language>
+            <language code="1037" name="iw-il">
+                <features module="" type="header">
+            <feature>משתמש יקר, עדכון זה משפר בעיקר את ביצועי המערכת. עדכן כדי ליהנות מהשיפורים</feature>
+        </features>
+        <features module="תרגום שיחות">
+             <feature>‏• 'תרגום שיחות' זמין כעת. כדי לנסות, אפשר לעבור אל: 'הגדרות' > ‏‏Honor AI > 'תרגום שיחות'</feature>
+        </features>
+        <features module="מצלמה">
+             <feature>‏• ממטב את אפקט הצילום ב'מצלמה' בסצנות מסוימות</feature>
+        </features>
+        <features module="תקשורת">
+             <feature>‏• מיטב את חוויית התקשורת בתרחישים מסוימים.</feature>
+        </features>
+        <features module="יציבות">
+             <feature>‏‏• משפר את יציבות המערכת</feature>
+        </features>
+        <features module="תיקון אבטחה">
+             <feature>‏• 'תיקון אבטחה של Android' (מדצמ' 2025) שולב למען אבטחת המערכת. למידע נוסף על עדכוני 'אבטחה של Honor', אפשר לבקר באתר האינטרנט שלנו בכתובת: https://www.honor.com/global/support/bulletin/2025/12</feature>
+        </features>
+         <features module="הערות" type="end">
+             <feature>‏1. התקנת עדכון זה לא תשפיע על הנתונים האישיים שלך, אך עדיין מומלץ לגבות את הנתונים לפני העדכון
+‏2. גלה מידע נוסף על תכונות המוצר ב'טיפים'
+‏3. אם תיתקל בבעיות כלשהן במהלך העדכון, ניתן לקבל עזרה מאיתנו באמצעות התקשרות לקו החם של השירות של Honor או ביקור במרכז שירות לקוחות של Honor</feature>
+         </features>
+    </language>
+            <language code="1041" name="ja-jp">
+                <features module="" type="header">
+            <feature>ユーザーの皆様、今回の更新では主にシステムのパフォーマンスが強化されます。更新して、改善をお楽しみください</feature>
+        </features>
+        <features module="通話翻訳">
+             <feature>• 通話翻訳を利用できるようになりました。この機能を試すには、[設定] > [Honor AI] > [通話翻訳]に移動してください</feature>
+        </features>
+        <features module="カメラ">
+             <feature>• 一部のシーンでのカメラの撮影効果が最適化されます</feature>
+        </features>
+        <features module="通信">
+             <feature>• 一部の状況において通信体験が最適化されます。</feature>
+        </features>
+        <features module="安定性">
+             <feature>• システムの安定性が改善します</feature>
+        </features>
+        <features module="セキュリティパッチ">
+             <feature>• システムセキュリティのためにAndroidセキュリティパッチ（2025年12月）が組み込まれました。Honorのセキュリティ更新の詳細については、当社のWebサイトをご覧ください：https://www.honor.com/global/support/bulletin/2025/12</feature>
+        </features>
+         <features module="メモ" type="end">
+             <feature>1. この更新をインストールしても個人情報への影響はありませんが、更新前に個人情報をバックアップしておくことをおすすめします
+2. 製品機能の詳細はヒントアプリで確認してください
+3. 更新中に問題が発生した場合は、Honorサービスコールセンターにお電話をいただくか、Honorカスタマーサービスセンターにご来店いただき、サポートを受けてください</feature>
+         </features>
+    </language>
+            <language code="1079" name="ka-ge">
+                <features module="" type="header">
+            <feature>ძვირფასო მომხმარებელო, ეს განახლება ძირითადად აუმჯობესებს სისტემის ეფექტიანობას. განაახლეთ და ისიამოვნეთ გაუმჯობესებებით</feature>
+        </features>
+        <features module="ზარის თარგმნა">
+             <feature>• ზარის თარგმნა ახლა ხელმისაწვდომია. სცადეთ მენიუდან: პარამეტრები > Honor AI > ზარის თარგმნა</feature>
+        </features>
+        <features module="კამერა">
+             <feature>• უზრუნველყოფს ზოგიერთ სცენაში კამერით გადაღების ეფექტის ოპტიმიზებას</feature>
+        </features>
+        <features module="კომუნიკაცია">
+             <feature>• კომუნიკაციის ოპტიმიზება ზოგიერთ სცენარში.</feature>
+        </features>
+        <features module="სტაბილურობა">
+             <feature>• აუმჯობესებს სისტემის სტაბილურობას</feature>
+        </features>
+        <features module="უსაფრთხოების შესწორება">
+             <feature>• სისტემის უსაფრთხოებისთვის ჩაირთო Android-ის უსაფრთხოების შესწორება (2025 წლის დეკემბერი). Honor-ის უსაფრთხოების განახლებების შესახებ დამატებითი ინფორმაციისთვის ეწვიეთ ჩვენს ვებსაიტს: https://www.honor.com/global/support/bulletin/2025/12</feature>
+        </features>
+         <features module="შენიშვნები" type="end">
+             <feature>1. ამ განახლების დაინსტალირება არ იმოქმედებს თქვენს პერსონალურ მონაცემებზე, თუმცა რეკომენდებულია განახლებამდე მონაცემების სარეზერვო ასლის შექმნა
+2. გაეცანით დამატებით ინფორმაციას რჩევებში პროდუქტის ფუნქციების შესახებ
+3. თუ განახლებისას გარკვეულ პრობლემებს წააწყდით, დახმარებისთვის დარეკეთ Honor-ის მომსახურების ცხელ ხაზზე ან ეწვიეთ Honor-ის სერვისცენტრს</feature>
+         </features>
+    </language>
+            <language code="1087" name="kk-kz">
+                <features module="" type="header">
+            <feature>Құрметті пайдаланушы, бұл жаңарту негізінен жүйе өнімділігін жақсартады. Жақсартуларды пайдалану үшін жаңартыңыз</feature>
+        </features>
+        <features module="Қоңырауды аудару">
+             <feature>• «Қоңырауды аудару» енді қолжетімді. «Параметрлер» > «Honor AI» > «Қоңырауды Аудару» тармағына өту арқылы оны қолданып көріңіз</feature>
+        </features>
+        <features module="Камера">
+             <feature>• Кейбір көріністерде Камераның түсіру әсерін оңтайландырады</feature>
+        </features>
+        <features module="Байланыс">
+             <feature>• Кейбір сценарийлерде байланыс тәжірибесін оңтайландырыңыз.</feature>
+        </features>
+        <features module="Тұрақтылық">
+             <feature>• Жүйе тұрақтылығын жақсартады</feature>
+        </features>
+        <features module="Қауіпсіздік патчы">
+             <feature>• Android қауіпсіздік патчы (желтоқсан, 2025) жүйе қауіпсіздігі үшін біріктірілген. Honor қауіпсіздік жаңартулары туралы қосымша ақпарат алу үшін біздің веб-сайтқа кіріңіз: https://www.honor.com/global/support/bulletin/2025/12</feature>
+        </features>
+         <features module="Ескертпелер" type="end">
+             <feature>1. Бұл жаңартуды орнату жеке деректеріңізге әсер етпейді, бірақ жаңарту алдында деректердің сақтық көшірмесін жасау ұсынылады
+2. «Кеңестер» қолданбасында өнім мүмкіндіктері туралы қосымша ақпаратты табыңыз
+3. Жаңарту кезінде қандай да бір мәселе орын алса, Honor қызмет көрсету орталығының байланыс желісіне қоңырау шалу не Honor тұтынушыларға қызмет көрсету орталығына бару арқылы көмегімізді ала аласыз</feature>
+         </features>
+    </language>
+            <language code="1107" name="km-kh">
+                <features module="" type="header">
+            <feature>អ្នកប្រើជាទីរាប់អាន បច្ចុប្បន្នភាពនេះធ្វើឱ្យប្រតិបត្តិការប្រព័ន្ធប្រសើរឡើងជាចម្បង។ ធ្វើបច្ចុប្បន្នភាព ដើម្បីរីករាយនឹងការកែលម្អទាំងនេះ</feature>
+        </features>
+        <features module="ការបកប្រែការហៅទូរស័ព្ទ">
+             <feature>• ការបកប្រែការហៅទូរស័ព្ទឥឡូវនេះប្រើបានហើយ។ សាកល្បងប្រើដោយចូលទៅកាន់៖ ការកំណត់ > Honor AI > ការបកប្រែការហៅទូរស័ព្ទ</feature>
+        </features>
+        <features module="កាមេរ៉ា​">
+             <feature>• បង្កើនប្រសិទ្ធភាពការថតរបស់កាមេរ៉ានៅក្នុងឈុតខ្លះ</feature>
+        </features>
+        <features module="ការធ្វើទំនាក់ទំនង">
+             <feature>• ធ្វើឱ្យបទពិសោធធ្វើទំនាក់ទំនងប្រសើរឡើង​នៅក្នុង​សេណារីយ៉ូ​មួយ​ចំនួន​។</feature>
+        </features>
+        <features module="ស្ថិរភាព">
+             <feature>• កែលម្អស្ថិរភាពប្រព័ន្ធ</feature>
+        </features>
+        <features module="បំណះសន្តិសុខ">
+             <feature>• បំណះសន្តិសុខ Android (ធ្នូ 2025) ត្រូវបាន​រួមបញ្ចូល​សម្រាប់​សន្តិសុខ​ប្រព័ន្ធ។ សម្រាប់​ព័ត៌មាន​បន្ថែម​អំពី​បច្ចុប្បន្នភាព​សន្តិសុខ Honor សូមចូលទៅ​គេហទំព័រ​របស់យើង https://www.honor.com/global/support/bulletin/2025/12</feature>
+        </features>
+         <features module="កំណត់សម្គាល់" type="end">
+             <feature>1. ការដំឡើងបច្ចុប្បន្នភាពនេះនឹងមិនប៉ះពាល់ដល់ទិន្នន័យផ្ទាល់ខ្លួនរបស់អ្នកទេ ប៉ុន្តែសូមណែនាំឱ្យបម្រុងទុកទិន្នន័យរបស់អ្នក មុននឹងធ្វើបច្ចុប្បន្នភាព
+2. ស្វែងយល់បន្ថែមអំពីលក្ខណៈពិសេសផលិតផលនៅក្នុងគន្លឹះ
+3. ប្រសិនបើអ្នកជួបប្រទះបញ្ហាណាមួយអំឡុងពេលធ្វើបច្ចុប្បន្នភាព អ្នកអាចទទួលបានជំនួយរបស់យើងដោយហៅទូរស័ព្ទទៅខ្សែទូរស័ព្ទរហ័សនៃសេវាកម្ម Honor ឬចូលទៅកាន់មជ្ឈមណ្ឌលសេវាកម្មអតិថិជន Honor</feature>
+         </features>
+    </language>
+            <language code="1099" name="kn-IN">
+                <features module="" type="header">
+            <feature>ಆತ್ಮೀಯ ಬಳಕೆದಾರರೇ, ಈ ನವೀಕರಣವು ಮುಖ್ಯವಾಗಿ ಸಿಸ್ಟಂ ಕಾರ್ಯಕ್ಷಮತೆಯನ್ನು ವರ್ಧಿಸುತ್ತದೆ. ಸುಧಾರಣೆಗಳನ್ನು ಆನಂದಿಸಲು ನವೀಕರಿಸಿ</feature>
+        </features>
+        <features module="ಕರೆ ಅನುವಾದ">
+             <feature>• ಕರೆ ಅನುವಾದ ಈಗ ಲಭ್ಯವಿದೆ. ಇಲ್ಲಿಗೆ ಹೋಗುವ ಮೂಲಕ ಅದನ್ನು ಪ್ರಯತ್ನಿಸಿ: ಸೆಟ್ಟಿಂಗ್‌ಗಳು > Honor AI > ಕರೆ ಅನುವಾದ</feature>
+        </features>
+        <features module="ಕ್ಯಾಮರಾ">
+             <feature>• ಕೆಲವು ದೃಶ್ಯಗಳಲ್ಲಿ ಕ್ಯಾಮರಾ ಶೂಟಿಂಗ್ ಎಫೆಕ್ಟ್ ಅನ್ನು ಆಪ್ಟಿಮೈಸ್ ಮಾಡುತ್ತದೆ</feature>
+        </features>
+        <features module="ಸಂವಹನ">
+             <feature>• ಕೆಲವು ಸನ್ನಿವೇಶಗಳಲ್ಲಿ ಸಂವಹನ ಅನುಭವವನ್ನು ಆಪ್ಟಿಮೈಸ್ ಮಾಡುತ್ತದೆ.</feature>
+        </features>
+        <features module="ಸ್ಥಿರತೆ">
+             <feature>• ಸಿಸ್ಟಂ ಸ್ಥಿರತೆಯನ್ನು ಸುಧಾರಿಸುತ್ತದೆ</feature>
+        </features>
+        <features module="ಭದ್ರತಾ ಪ್ಯಾಚ್">
+             <feature>• ಸಿಸ್ಟಂ ಭದ್ರತೆಗಾಗಿ Android ಭದ್ರತಾ ಪ್ಯಾಚ್ (ಡಿಸೆಂಬರ್ 2025) ಅನ್ನು ಅಳವಡಿಸಲಾಗಿದೆ. Honor ಭದ್ರತಾ ನವೀಕರಣಗಳ ಕುರಿತು ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ, ದಯವಿಟ್ಟು ನಮ್ಮ ವೆಬ್‌ಸೈಟ್‌ಗೆ ಭೇಟಿ ನೀಡಿ https://www.honor.com/global/support/bulletin/2025/12</feature>
+        </features>
+         <features module="ಟಿಪ್ಪಣಿಗಳು" type="end">
+             <feature>1. ಈ ನವೀಕರಣವನ್ನು ಸ್ಥಾಪಿಸುವುದರಿಂದ ನಿಮ್ಮ ವೈಯಕ್ತಿಕ ಡೇಟಾದ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರುವುದಿಲ್ಲ, ಆದರೂ ಸಹ ನವೀಕರಿಸುವ ಮೊದಲು ನಿಮ್ಮ ಡೇಟಾವನ್ನು ಬ್ಯಾಕ್ ಅಪ್ ಮಾಡಲು ಶಿಫಾರಸು ಮಾಡಲಾಗಿದೆ
+2. ಉತ್ಪನ್ನ ಸೌಲಭ್ಯಗಳ ಕುರಿತು ಹೆಚ್ಚಿನ ಮಾಹಿತಿಯನ್ನು ಸಲಹೆಗಳು ಎಂಬುದರಲ್ಲಿ ಕಂಡುಕೊಳ್ಳಿ
+3. ನವೀಕರಣದ ಸಮಯದಲ್ಲಿ ನಿಮಗೆ ಯಾವುದೇ ಸಮಸ್ಯೆಗಳು ಎದುರಾದರೆ, ನೀವು Honor ಸೇವಾ ಹಾಟ್‌ಲೈನ್‌ಗೆ ಕರೆ ಮಾಡುವ ಮೂಲಕ ಅಥವಾ Honor ಗ್ರಾಹಕ ಸೇವಾ ಕೇಂದ್ರಕ್ಕೆ ಭೇಟಿ ನೀಡುವ ಮೂಲಕ ನಮ್ಮ ಸಹಾಯವನ್ನು ಪಡೆಯಬಹುದು</feature>
+         </features>
+    </language>
+            <language code="1042" name="ko-kr">
+                <features module="" type="header">
+            <feature>사용자 여러분, 이번 업데이트는 주로 시스템 성능을 향상시킵니다. 업데이트하고 개선된 기능을 즐겨 보세요</feature>
+        </features>
+        <features module="통화 번역">
+             <feature>• 이제 통화 번역 기능을 사용할 수 있습니다. 설정 > Honor AI > 통화 번역으로 이동하여 사용해 보세요.</feature>
+        </features>
+        <features module="카메라">
+             <feature>• 일부 장면에서 카메라 촬영 효과가 최적화되었습니다</feature>
+        </features>
+        <features module="커뮤니케이션">
+             <feature>• 일부 시나리오에서 통신 경험이 최적화됩니다.</feature>
+        </features>
+        <features module="안정성">
+             <feature>• 시스템 안정성이 개선되었습니다</feature>
+        </features>
+        <features module="보안 패치">
+             <feature>• 시스템 보안을 위해 Android 보안 패치(2025년 12월)가 통합되었습니다. Honor 보안 업데이트에 대해 자세히 알아보려면 당사 웹사이트(https://www.honor.com/global/support/bulletin/2025/12)를 방문하세요.</feature>
+        </features>
+         <features module="공지" type="end">
+             <feature>1. 이 업데이트 설치는 개인 데이터에 영향을 미치지 않지만, 업데이트하기 전에 데이터를 백업하는 것이 좋습니다
+2. Tips에서 제품 기능에 대한 자세한 정보를 알아보세요
+3. 업데이트 중에 문제가 발생하면 Honor 서비스 핫라인으로 전화하거나 Honor 고객 서비스 센터를 방문하여 도움을 받을 수 있습니다</feature>
+         </features>
+    </language>
+            <language code="1108" name="lo-la">
+                <features module="" type="header">
+            <feature>ສະ​ບາຍ​ດີ​ຜູ້​ໃຊ້, ການ​ອັບ​ເດດ​​ນີ້​ຍົກ​ລະ​ດັບ​ປະ​ສິດ​ທິ​ພາບ​ຂອງ​ລະ​ບົບ​ເປັນຫຼັກ. ອັບ​ເດດ​ເພື່ອ​ມ່ວ​ນ​ຊື່​ນກັບ​ການ​ປັບ​ປຸງ</feature>
+        </features>
+        <features module="ການ​ແປ​ພາ​ສາ​ການ​ໂທ">
+             <feature>• ການ​ແປ​ພາ​ສາ​ການ​ໂທ​ສາ​ມາດ​ໃຊ້​ໄດ້​ແລ້ວ​ຕອນ​ນີ້. ​ລອງໃຊ້ມັນເບິ່ງ​ໄດ້​ໂດຍ​ການ​ໄປ​ທີ່: ການຕັ້ງຄ່າ > Honor AI > ການແປພາສາການໂທ</feature>
+        </features>
+        <features module="ກ້ອງຖ່າຍຮູບ">
+             <feature>• ປັບເອັບ​ເຝັກການ​ຖ່າຍ​ຮູບຂອງ​​ກ້ອງ​ຖ່າຍ​ຮູບໃນບາງ​ສາກ​ໃຫ້ເໝາະສົມ</feature>
+        </features>
+        <features module="ການສື່ສານ">
+             <feature>• ປັບປະ​ສົບ​ການໃນການ​ສື່​ສານໃນບາງສະພາບການ​ໃຫ້ເໝາະສົມ.</feature>
+        </features>
+        <features module="ຄວາມສະ​ຖຽນ">
+             <feature>• ປັບປຸງຄວາມສະຖຽນຂອງລະບົບ</feature>
+        </features>
+        <features module="ໂປ​ຣ​ແກ​ຣມ​ແກ້​ໄຂ​ຄວາມ​ປອດ​ໄພ">
+             <feature>• ໂປ​ຣ​ແກ​ຣມ​ແກ້​ໄຂ​ຄວາມ​ປອດ​ໄພ​ຂອງ Android (ທັນ​ວາ 2025) ​ໄດ້ຖືກລວມ​​ເຂົ້າ​ເປັນ​ການ​ຮັກ​ສາ​ຄວາມ​ປອດ​ໄພ​ລະ​ບົບ. ສຳລັບຂໍ້ມູນເພີ່ມເຕີມກ່ຽວກັບການອັບເດດດ້ານຄວາມປອດໄພຂອງ Honor, ກະລຸນາເຂົ້າໄປ​ທີ່ເວັບໄຊຂອງພວກເຮົາ https://www.honor.com/global/support/bulletin/2025/12</feature>
+        </features>
+         <features module="ໝາຍ​ເຫດ" type="end">
+             <feature>1. ການ​ຕິດ​ຕັ້ງ​ການ​ອັບ​ເດດ​ນີ້​ຈະ​ບໍ່​ສົ່ງ​ຜົນ​ຕໍ່​ຂໍ້​ມູນ​ສ່ວນ​ຕົວ​ຂອງ​ທ່ານ, ແຕ່​ຍັງ​ຄົງ​ຂໍ​ແນະ​ນຳ​ໃຫ້​ສຳ​ຮອງ​ຂໍ້​ມູນ​ຂອງ​ທ່ານ​ໄວ້ກ່ອນ​ການ​ອັບ​ເດດ
+2. ຄົ້ນ​ຫາ​ຂໍ້​ມູນ​ເພີ່ມ​ເຕີມ​ກ່ຽວ​ກັບ​ຄຸນ​ສົມ​ບັດ​ຜະ​ລິດ​ຕະ​ພັນ​ໃນ​​ເຄັດ​ລັບ
+3. ຖ້າທ່ານພົບບັນຫາໃດໆໃນລະຫວ່າງການອັບເດດ, ທ່ານສາມາດຂໍຄວາມຊ່ວຍເຫຼືອຈາກພວກເຮົາໄດ້ ໂດຍການໂທຫາສາຍດ່ວນ​ບໍ​ລິ​ການ Honor ຫຼື ເຂົ້າໄປທີ່ສູນບໍລິການລູກຄ້າ Honor</feature>
+         </features>
+    </language>
+            <language code="1063" name="lt-lt">
+                <features module="" type="header">
+            <feature>Gerbiamasis naudotojau, šis naujinys daugiausiai pagerina sistemos našumą. Atnaujinkite ir mėgaukitės patobulinimais.</feature>
+        </features>
+        <features module="Pokalbio vertimas">
+             <feature>• Pokalbių vertimas jau pasiekiamas. Išbandykite jį nuėję į „Nuostatos > „Honor“ DI > Pokalbio Vertimas“</feature>
+        </features>
+        <features module="Kamera">
+             <feature>• Kai kuriais atvejais optimizuojamas Kameros fotografavimo efektas</feature>
+        </features>
+        <features module="Ryšys">
+             <feature>• Optimizuokite bendravimo patirtį kai kuriose situacijose.</feature>
+        </features>
+        <features module="Stabilumas">
+             <feature>• Pagerinamas sistemos stabilumas</feature>
+        </features>
+        <features module="Saugumo pataisa">
+             <feature>• Siekiant užtikrinti sistemos saugumą, įtraukta „Android“ saugumo pataisa (2025 m. gruodžio mėn.). Jei reikia daugiau informacijos apie Honor saugumo naujinius, apsilankykite mūsų svetainėje https://www.honor.com/global/support/bulletin/2025/12</feature>
+        </features>
+         <features module="Pastabos" type="end">
+             <feature>1. Šio naujinio įdiegimas neturės įtakos jūsų asmeniniams duomenims, tačiau prieš atnaujinant rekomenduojama sukurti atsarginę duomenų kopiją
+2. Daugiau informacijos apie gaminio funkcijas rasite Patarimuose
+3. Jei naujinimo metu kiltų bet kokių problemų, galite kreiptis į mus pagalbos paskambindami „Honor priežiūros karštąja linija arba apsilankydami „Honor“ klientų aptarnavimo centre</feature>
+         </features>
+    </language>
+            <language code="1062" name="lv-lv">
+                <features module="" type="header">
+            <feature>Cien. lietotāj! Ar šo atjauninājumu galvenokārt ir uzlabota sistēmas veiktspēja. Atjauniniet, lai izbaudītu uzlabojumus</feature>
+        </features>
+        <features module="Zvanu tulkošana">
+             <feature>• Tagad ir pieejama zvanu tulkošana. Izmēģiniet to, atverot: Iestatījumi > Honor MI > Zvanu tulkošana</feature>
+        </features>
+        <features module="Kamera">
+             <feature>• Optimizē lietotnes Kamera uzņemšanas efektu dažiem scenārijiem</feature>
+        </features>
+        <features module="Sakari">
+             <feature>• Noteiktos apstākļos optimizējiet saziņas pieredzi.</feature>
+        </features>
+        <features module="Stabilitāte">
+             <feature>• Uzlabo sistēmas stabilitāti</feature>
+        </features>
+        <features module="Drošības ielāps">
+             <feature>• Sistēmas drošībai iekļauts Android drošības ielāps (2025. gada decembris). Lai iegūtu papildinformāciju par Honor drošības atjauninājumiem, lūdzu, apmeklējiet mūsu vietni https://www.honor.com/global/support/bulletin/2025/12</feature>
+        </features>
+         <features module="Piezīmes" type="end">
+             <feature>1. Šī atjauninājuma instalēšana neietekmēs jūsu personas datus, taču joprojām ir ieteicams pirms atjaunināšanas dublēt datus
+2. Lietotnē Padomi atklājiet vairāk par produkta funkcijām
+3. Ja atjaunināšanas laikā rodas problēmas, varat saņemt mūsu palīdzību, zvanot uz Honor klientu apkalpošanas dienesta tālruni vai apmeklējot Honor klientu pakalpojumu centru.</feature>
+         </features>
+    </language>
+            <language code="1033" name="mai-IN">
+                <features module="" type="header">
+            <feature>प्रिय उपयोगकर्ता, ई अपडेट मुख्य रूप सँ सिस्टमक कार्य-क्षमता केँ वर्धित करैत अछि। सुधार सभक आनंद लेबाक लेल अपडेट करू</feature>
+        </features>
+        <features module="कॉल अनुवाद">
+             <feature>• कॉल अनुवाद एखन उपलब्ध अछि। एहि मे जा कए एकरा आजमाउ: सेटिंग्स > Honor AI > कॉल अनुवाद</feature>
+        </features>
+        <features module="कैमरा">
+             <feature>• किछु दृश्य सभ मे कैमरा शूटिंग प्रभाव अनुकूलित करैत अछि</feature>
+        </features>
+        <features module="संचार">
+             <feature>• किछु परिदृश्य सभ मे संचार अनुभव अनुकूलित करैत अछि।</feature>
+        </features>
+        <features module="स्थिरता">
+             <feature>• सिस्टमक स्थिरता मे सुधार करैत अछि</feature>
+        </features>
+        <features module="सुरक्षा पैच">
+             <feature>सिस्टमक सुरक्षाक लेल Android सुरक्षा पैच (दिसंबर 2025) समाविष्ट कयल गेल अछि। Honor सुरक्षा अपडेट सभक विषय मे आओर जानकारीक लेल, कृपाकए हमरासभक वेबसाइट केँ देखू: https://www.honor.com/global/support/bulletin/2025/12</feature>
+        </features>
+         <features module="नोट्स" type="end">
+             <feature>1. एहि अपडेट केँ इंस्टॉल कयला सँ अहाँक व्यक्तिगत डेटा प्रभावित नहि होयत, मुदा तैयो अपडेट करए सँ पहिने अहाँ केँ डेटाक बैकअप लेबाक सुझाव देल जाइत अछि
+2. टिप्स मे उत्पाद विशेषता सभ पर आओर जानकारी डिस्‍कवर करू
+3. यदि अपडेट केर दरमियान अहाँ केँ कोनो समस्या अबैत अछि, त' अहाँ Honor सेवा हॉटलाइन केँ कॉल कए वा Honor सर्विस सेंटर जा कए हमरासभक मदति प्राप्त कए सकैत छी</feature>
+         </features>
+    </language>
+            <language code="1153" name="mi-NZ">
+                <features module="" type="header">
+            <feature>E te kaiwhakamahi aroha, ko tēnei whakahoutanga e whakarei ake ana i te mahinga pūnaha. Whakahōu ki te oaoa i te whakapai ake</feature>
+        </features>
+        <features module="Whakamāoritanga waea">
+             <feature>• Kua wātea ināianei te Whakamāoritanga waea. Whakamātauhia mā te haere ki: Ngā Tautuhinga > Honor AI > Whakamāoritanga Waea</feature>
+        </features>
+        <features module="Kāmera">
+             <feature>• Arotau ake i te pānga hopu a te Kāmera i ētahi tirohanga</feature>
+        </features>
+        <features module="Whakawhitiwhiti kōrero">
+             <feature>• Arotautia te wheako whakawhitiwhiti kōrero i ētahi ngā tauari.</feature>
+        </features>
+        <features module="Pūmautanga">
+             <feature>• Ka whakapai ake i te pūmautanga o te pūnaha</feature>
+        </features>
+        <features module="Āpure haumarutanga">
+             <feature>• Kua whakaurua te pūrei haumarutanga Android (Hakihea 2025) mō te haumarutanga pūnaha. Mō ētahi anō mōhiohio mō ngā whakahōutanga Haumarutanga Honor, haere koa ki tā mātou paetukutuku https://www.honor.com/global/support/bulletin/2025/12</feature>
+        </features>
+         <features module="Ngā Tuhipoka" type="end">
+             <feature>1. Mā te tāuta i tēnei whakahōutanga e kore tō raraunga whaiaro e pāngia, engari e taunaki ana kia tāruatia ō raraunga i mua i te whakahōutanga
+2. Tūhura mōhiohio ētahi anō mō ngā āhuahira o te hua i Ngā Aki
+3. Mēnā ka pāngia koe e ētahi raruraru i te wā o te whakahōutanga, ka taea e koe te tiki āwhina mā te waea atu ki te waeawera ratonga Honor, mā te toro atu rānei ki te pokapū ratonga kiritaki a Honor</feature>
+         </features>
+    </language>
+            <language code="1071" name="mk-mk">
+                <features module="" type="header">
+            <feature>Почитуван кориснику, ова ажурирање главно ги подобрува перформансите на системот. Ажурирајте за да уживате во подобрувањата</feature>
+        </features>
+        <features module="Преведување повик">
+             <feature>• Сега е достапно Преведување повик. Пробајте така што ќе отидете во: Нагодување > Honor AI > Преведување Повик</feature>
+        </features>
+        <features module="Камера">
+             <feature>• Го оптимизира ефектот при фотографирање со Камера во некои сцени</feature>
+        </features>
+        <features module="Комуникација">
+             <feature>• Оптимизирање на искуството со комуникациите во некои сценарија.</feature>
+        </features>
+        <features module="Стабилност">
+             <feature>• Ја подобрува стабилноста на системот</feature>
+        </features>
+        <features module="Безбедносна крпеница">
+             <feature>• Вградена е безбедносна крпеница за Android (декември 2025) за безбедност на системот. За повеќе информации за ажурирања на безбедноста од Honor, посетете ја нашата веб-локација https://www.honor.com/global/support/bulletin/2025/12</feature>
+        </features>
+         <features module="Белешки" type="end">
+             <feature>1. Инсталирањето на ова ажурирање нема да влијае врз вашите лични податоци, но сепак се препорачува да направите резервна копија од податоците пред да ажурирате
+2. Откријте повеќе информации за карактеристиките на производот во Совети
+3. Ако наидете на какви било проблеми при ажурирањето, може да ја добиете нашата помош со повикување на телефонскиот број на службата на Honor или посета на сервисниот центар за корисници на Honor</feature>
+         </features>
+    </language>
+            <language code="1100" name="ml-IN">
+                <features module="" type="header">
+            <feature>പ്രിയ ഉപയോക്താവേ, ഈ അപ്‌ഡേറ്റ് പ്രധാനമായും സിസ്റ്റം പ്രകടനം മെച്ചപ്പെടുത്തുന്നു. മെച്ചപ്പെടുത്തലുകൾ ആസ്വദിക്കാൻ അപ്‌ഡേറ്റ് ചെയ്യുക</feature>
+        </features>
+        <features module="കോൾ വിവർത്തനം">
+             <feature>• കോൾ വിവർത്തനം ഇപ്പോൾ ലഭ്യമാണ്. ഇതിലേക്ക് പോയി അത് പരീക്ഷിച്ച് നോക്കുക: ക്രമീകരണം > Honor AI > കോൾ വിവർത്തനം</feature>
+        </features>
+        <features module="ക്യാമറ">
+             <feature>• ഇത് ചില സാഹചര്യങ്ങളിലെ ക്യാമറയുടെ ഷൂട്ടിംഗ് ഇഫക്റ്റ് ഒപ്‌റ്റിമൈസ് ചെയ്യുന്നു</feature>
+        </features>
+        <features module="ആശയവിനിമയം">
+             <feature>• ചില സാഹചര്യങ്ങളിലെ ആശയവിനിമയ അനുഭവം ഒപ്‌റ്റിമൈസ് ചെയ്യുന്നു.</feature>
+        </features>
+        <features module="സ്ഥിരത">
+             <feature>• സിസ്റ്റം സ്ഥിരത മെച്ചപ്പെടുത്തുന്നു</feature>
+        </features>
+        <features module="സുരക്ഷാ പാച്ച്">
+             <feature>• സിസ്റ്റം സുരക്ഷയ്‌ക്കായി Android സുരക്ഷാ പാച്ച് (ഡിസംബർ 2025) ഉൾപ്പെടുത്തിയിരിക്കുന്നു. Honor സുരക്ഷാ അപ്‌ഡേറ്റുകൾ സംബന്ധിച്ച കൂടുതൽ വിവരങ്ങൾക്ക്, ഞങ്ങളുടെ വെബ്‌സൈറ്റ് സന്ദർശിക്കുക: https://www.honor.com/global/support/bulletin/2025/12</feature>
+        </features>
+         <features module="കുറിപ്പുകൾ" type="end">
+             <feature>1. ഈ അപ്‌ഡേറ്റ് ഇൻസ്റ്റാൾ ചെയ്യുന്നത് നിങ്ങളുടെ വ്യക്തിഗത ഡാറ്റയെ ബാധിക്കില്ല, എങ്കിൽപ്പോലും അപ്‌ഡേറ്റ് ചെയ്യുന്നതിന് മുമ്പായി നിങ്ങളുടെ ഡാറ്റ ബാക്കപ്പ് ചെയ്യാൻ ശുപാർശ ചെയ്യുന്നു
+2. 'നുറുങ്ങുകൾ' എന്നതിൽ ഉൽപ്പന്ന സവിശേഷതകൾ സംബന്ധിച്ച കൂടുതൽ വിവരങ്ങൾ കണ്ടെത്തുക
+3. അപ്‌ഡേറ്റിനിടെ നിങ്ങൾക്ക് എന്തെങ്കിലും പ്രശ്‌നങ്ങൾ നേരിടുകയാണെങ്കിൽ, Honor സർവീസ് ഹോട്ട്‌ലൈനിൽ വിളിക്കുകയോ Honor ഉപഭോക്തൃ സർവീസ് സെന്റർ സന്ദർശിക്കുകയോ ചെയ്‌ത് ഞങ്ങളുടെ സഹായം കരസ്ഥമാക്കാവുന്നതാണ്</feature>
+         </features>
+    </language>
+            <language code="1104" name="mn-MN">
+                <features module="" type="header">
+            <feature>Хүндэт хэрэглэгч танаа, энэ шинэчлэлтээр голчлон системийн гүйцэтгэлийг сайжрууллаа. Шинэчлээд, сайжруулсан хэрэглээг мэдрээрэй</feature>
+        </features>
+        <features module="Дуудлагын орчуулга">
+             <feature>• Дуудлагын орчуулга гарлаа. Тохиргоо > Honor AI > Дуудлагын орчуулга руу очиж туршиж үзнэ үү</feature>
+        </features>
+        <features module="Камер">
+             <feature>• Зарим тохиолдолд Камераар зураг авах хэрэглээг сайжруулсан</feature>
+        </features>
+        <features module="Харилцаа холбоо">
+             <feature>• Зарим тохиолдол дахь харилцаа холбооны туршлагыг оновчлов.</feature>
+        </features>
+        <features module="Тогтвортой байдал">
+             <feature>• Системийн тогтвортой байдлыг сайжруулсан</feature>
+        </features>
+        <features module="Хамгаалалтын нөхөөс">
+             <feature>• Системийн хамгаалалтад зориулж Андройд хамгаалалтын нөхөөсийг (2025 оны арван хоёрдугаар сар) багтаав. Honor-н хамгаалалтын шинэчлэлтийн талаар нэмэлт мэдээлэл авах бол манай дараах вебсайтад зочилно уу: https://www.honor.com/global/support/bulletin/2025/12</feature>
+        </features>
+         <features module="Тэмдэглэл" type="end">
+             <feature>1. Энэхүү шинэчлэлтийг суулгахад таны хувийн мэдээлэлд нөлөөлөхгүй ч шинэчлэхээс өмнө өгөгдлөө нөөцлөхийг зөвлөж байна
+2. Зөвлөгөө дотроос бүтээгдэхүүний онцлогийн талаар нэмэлт мэдээлэлтэй танилцана уу
+3. Шинэчлэх үед асуудал гарвал Honor-н үйлчилгээний дуудлага хүлээн авах утас руу залгах буюу Honor-н хэрэглэгчийн үйлчилгээний төвд зочилж болно</feature>
+         </features>
+    </language>
+            <language code="1102" name="mr-in">
+                <features module="" type="header">
+            <feature>प्रिय वापरकर्ता, हे अद्यतन प्रामुख्याने सिस्टम कार्यप्रदर्शन वाढवते. सुधारणांचा आनंद घेण्यासाठी अद्यतनित करा</feature>
+        </features>
+        <features module="कॉल अनुवाद">
+             <feature>• कॉल अनुवाद आता उपलब्ध आहे. येथे जाऊन ते वापरून पहा: सेटिंग्ज > Honor AI > कॉल अनुवाद</feature>
+        </features>
+        <features module="कॅमेरा">
+             <feature>• काही दृश्यांमध्ये कॅमेऱ्याचा शूटिंग प्रभाव ऑप्टिमाइझ करते</feature>
+        </features>
+        <features module="संवाद">
+             <feature>• काही परिस्थितींमध्ये संप्रेषण अनुभव ऑप्टिमाइझ करा.</feature>
+        </features>
+        <features module="स्थिरता">
+             <feature>• सिस्टम स्थिरता सुधारते</feature>
+        </features>
+        <features module="सुरक्षितता पॅच">
+             <feature>• सिस्टम सुरक्षिततेसाठी Android सुरक्षितता पॅच (डिसें 2025) समाविष्ट करण्यात आला आहे. Honor सुरक्षितता अद्यतनांबद्दल अधिक माहितीसाठी, कृपया आमच्या वेबसाइट https://www.honor.com/global/support/bulletin/2025/12 वर जा</feature>
+        </features>
+         <features module="नोट्स" type="end">
+             <feature>1. हे अद्यतन स्‍थापित केल्याने आपल्या वैयक्तिक डेटावर परिणाम होणार नाही, परंतु तरीही अद्यतनित करण्यापूर्वी आपल्या डेटाचा बॅकअप घेण्याची शिफारस केली जाते
+2. उत्पादन वैशिष्ट्यांबद्दल अधिक माहिती Tips मध्ये शोधा
+3. अद्यतनादरम्यान आपल्याला काही समस्या आल्यास, आपण Honor सेवा हॉटलाइनवर कॉल करून किंवा Honor ग्राहक सेवा केंद्रावर जाऊन आमची मदत घेऊ शकता</feature>
+         </features>
+    </language>
+            <language code="1086" name="ms-my">
+                <features module="" type="header">
+            <feature>Pengguna yang dihormati, kemas kini ini meningkatkan prestasi sistem terutamanya. Kemas kini untuk menikmati penambahbaikan tersebut</feature>
+        </features>
+        <features module="Penterjemahan panggilan">
+             <feature>• Penterjemahan panggilan kini tersedia. Cuba ciri ini dengan pergi ke: Tetapan > Honor AI > Penterjemahan Panggilan</feature>
+        </features>
+        <features module="Kamera">
+             <feature>• Mengoptimumkan kesan penangkapan Kamera dalam beberapa latar</feature>
+        </features>
+        <features module="Komunikasi">
+             <feature>• Optimumkan pengalaman komunikasi dalam sesetengah senario.</feature>
+        </features>
+        <features module="Kestabilan">
+             <feature>• Meningkatkan kestabilan sistem</feature>
+        </features>
+        <features module="Tampalan keselamatan">
+             <feature>• Tampalan keselamatan Android (Dis 2025) telah dimasukkan untuk keselamatan sistem. Untuk mendapatkan maklumat lanjut tentang kemas kini Keselamatan Honor, sila lawati laman web kami https://www.honor.com/global/support/bulletin/2025/12</feature>
+        </features>
+         <features module="Nota" type="end">
+             <feature>1. Memasang kemas kini ini tidak akan menjejaskan data peribadi anda, tetapi anda masih disyorkan agar menyandarkan data sebelum melakukan kemas kini
+2. Temui maklumat lanjut tentang ciri produk dalam Tip
+3. Jika anda menghadapi sebarang masalah semasa kemas kini, anda boleh mendapatkan bantuan kami dengan menghubungi talian penting perkhidmatan Honor atau melawati pusat khidmat pelanggan Honor</feature>
+         </features>
+    </language>
+            <language code="1109" name="my-mm">
+                <features module="" type="header">
+            <feature>လေးစားရပါသော သုံးစွဲသူ၊ ဤအပ်ဒိတ်သည် စနစ် စွမ်းဆောင်ရည်ကို အဓိက မြှင့်တင်ပေးသည်။ တိုးတက်ကောင်းမွန်အောင်လုပ်ထားသည်များကို သုံးစွဲခံစားရန် အပ်ဒိတ်လုပ်ပါ</feature>
+        </features>
+        <features module="ခေါ်ဆိုမှု ဘာသာပြန်">
+             <feature>• ခေါ်ဆိုမှု ဘာသာပြန်ကို ယခု ရနိုင်ပါပြီ။ ဖော်ပြပါအတိုင်းသွား၍ စမ်းကြည့်ပါ- ဆက်တင် > Honor AI > ခေါ်ဆိုမှု ဘာသာပြန်</feature>
+        </features>
+        <features module="ကင်မရာ">
+             <feature>• ၎င်းသည် ရှုခင်းတချို့တွင် ကင်မရာရိုက်ကူးမှု ရလဒ်ကို အကောင်းဆုံးဖြစ်စေရန် ချိန်ညှိပေးသည်</feature>
+        </features>
+        <features module="ဆက်သွယ်ရေး">
+             <feature>• အချို့အခြေအနေများတွင် ဆက်သွယ်ရေး အတွေ့အကြုံကို အကောင်းဆုံးဖြစ်စေရန် ချိန်ညှိပေးသည်။</feature>
+        </features>
+        <features module="တည်ငြိမ်မှု">
+             <feature>• စနစ် ပိုမိုတည်ငြိမ်စေရန် မြှင့်တင်ပေးသည်</feature>
+        </features>
+        <features module="လုံခြုံရေး အဆင့်မြှင့်ဆော့ဖ်ဝဲ">
+             <feature>• စနစ်လုံခြုံရေးအတွက် Android လုံခြုံရေး အဆင့်မြှင့် ဆော့ဖ်ဝဲ (ဒီဇင်ဘာ 2025) ကို ပေါင်းစပ်ထည့်သွင်းပေးထားသည်။ Honor လုံခြုံရေး အပ်ဒိတ်များအကြောင်း နောက်ထပ်အချက်အလက်များကို သိရှိရန် ကျွန်ုပ်တို့၏ ဖော်ပြပါဝက်ဘ်ဆိုဒ်သို့ သွားရောက်ကြည့်ရှုပါ- https://www.honor.com/global/support/bulletin/2025/12</feature>
+        </features>
+         <features module="မှတ်ချက်" type="end">
+             <feature>1. ဤအပ်ဒိတ်ကို ထည့်သွင်းခြင်းက သင့်ကိုယ်ရေး ဒေတာကို ထိခိုက်စေမည်မဟုတ်သော်လည်း အပ်ဒိတ်မလုပ်မီ သင့်ဒေတာကို ဘက်ခ်အပ်လုပ်ထားရန် အကြံပြုပါသည်
+2. Tips တွင် ကုန်ပစ္စည်း လုပ်ဆောင်ချက်များအကြောင်း နောက်ထပ်အချက်အလက်များကို လေ့လာပါ
+3. အပ်ဒိတ်လုပ်နေစဉ် ပြဿနာတစ်ခုခုနှင့် ကြုံရပါက Honor ဝန်ဆောင်မှု ဟော့လိုင်းသို့ ဖုန်းခေါ်၍ သို့မဟုတ် Honor ဝန်ဆောင်မှုစင်တာသို့ သွားရောက်၍ အကူအညီရယူနိုင်သည်</feature>
+         </features>
+    </language>
+            <language code="1109" name="my-zg">
+                <features module="" type="header">
+            <feature>ေလးစားရပါေသာ သုံးစြဲသူ၊ ဤအပ္ဒိတ္သည္ စနစ္ စြမ္းေဆာင္ရည္ကို အဓိက ျမႇင့္တင္ေပးသည္။ တိုးတက္ေကာင္းမြန္ေအာင္လုပ္ထားသည္မ်ားကို သုံးစြဲခံစားရန္ အပ္ဒိတ္လုပ္ပါ</feature>
+        </features>
+        <features module="ေခၚဆိုမႈ ဘာသာျပန္">
+             <feature>• ေခၚဆိုမႈ ဘာသာျပန္ကို ယခု ရႏိုင္ပါၿပီ။ ေဖာ္ျပပါအတိုင္းသြား၍ စမ္းၾကည့္ပါ- ဆက္တင္ > Honor AI > ေခၚဆိုမႈ ဘာသာျပန္</feature>
+        </features>
+        <features module="ကင္မရာ">
+             <feature>• ၎သည္ ရႈခင္းတခ်ိဳ႕တြင္ ကင္မရာ႐ိုက္ကူးမႈ ရလဒ္ကို အေကာင္းဆုံးျဖစ္ေစရန္ ခ်ိန္ညႇိေပးသည္</feature>
+        </features>
+        <features module="ဆက္သြယ္ေရး">
+             <feature>• အခ်ိဳ႕အေျခအေနမ်ားတြင္ ဆက္သြယ္ေရး အေတြ႕အႀကဳံကို အေကာင္းဆုံးျဖစ္ေစရန္ ခ်ိန္ညႇိေပးသည္။</feature>
+        </features>
+        <features module="တည္ၿငိမ္မႈ">
+             <feature>• စနစ္ ပိုမိုတည္ၿငိမ္ေစရန္ ျမႇင့္တင္ေပးသည္</feature>
+        </features>
+        <features module="လုံျခံဳေရး အဆင့္ျမႇင့္ေဆာ့ဖ္ဝဲ">
+             <feature>• စနစ္လုံၿခဳံေရးအတြက္ Android လုံၿခဳံေရး အဆင့္ျမႇင့္ ေဆာ့ဖ္ဝဲ (ဒီဇင္ဘာ 2025) ကို ေပါင္းစပ္ထည့္သြင္းေပးထားသည္။ Honor လုံၿခဳံေရး အပ္ဒိတ္မ်ားအေၾကာင္း ေနာက္ထပ္အခ်က္အလက္မ်ားကို သိရွိရန္ ကြၽႏ္ုပ္တို႔၏ ေဖာ္ျပပါဝက္ဘ္ဆိုဒ္သို႔ သြားေရာက္ၾကည့္ရႈပါ- https://www.honor.com/global/support/bulletin/2025/12</feature>
+        </features>
+         <features module="မွတ္ခ်က္" type="end">
+             <feature>1. ဤအပ္ဒိတ္ကို ထည့္သြင္းျခင္းက သင့္ကိုယ္ေရး ေဒတာကို ထိခိုက္ေစမည္မဟုတ္ေသာ္လည္း အပ္ဒိတ္မလုပ္မီ သင့္ေဒတာကို ဘက္ခ္အပ္လုပ္ထားရန္ အႀကံျပဳပါသည္
+2. Tips တြင္ ကုန္ပစၥည္း လုပ္ေဆာင္ခ်က္မ်ားအေၾကာင္း ေနာက္ထပ္အခ်က္အလက္မ်ားကို ေလ့လာပါ
+3. အပ္ဒိတ္လုပ္ေနစဥ္ ျပႆနာတစ္ခုခုႏွင့္ ႀကဳံရပါက Honor ဝန္ေဆာင္မႈ ေဟာ့လိုင္းသို႔ ဖုန္းေခၚ၍ သို႔မဟုတ္ Honor ဝန္ေဆာင္မႈစင္တာသို႔ သြားေရာက္၍ အကူအညီရယူႏိုင္သည္</feature>
+         </features>
+    </language>
+            <language code="1044" name="nb-no">
+                <features module="" type="header">
+            <feature>Kjære bruker. Denne oppdateringen forbedrer hovedsakelig systemytelsen. Oppdater for å få forbedringene</feature>
+        </features>
+        <features module="Anropsoversettelse">
+             <feature>• Anropsoversettelse er nå tilgjengelig. Prøv den ved å gå til Innstillinger > Honor AI > Anropsoversettelse</feature>
+        </features>
+        <features module="Kamera">
+             <feature>• Optimaliserer bruken av Kamera i enkelte scenarioer</feature>
+        </features>
+        <features module="Kommunikasjon">
+             <feature>• Optimer kommunikasjonsopplevelsen i visse scenarier.</feature>
+        </features>
+        <features module="Stabilitet">
+             <feature>• Gjør systemet mer stabilt</feature>
+        </features>
+        <features module="Sikkerhetsoppdatering">
+             <feature>• Android-sikkerhetsoppdatering (des 2025) er innlemmet for systemsikkerheten. For mer informasjon om sikkerhetsoppdateringer fra Honor, besøk nettstedet vårt https://www.honor.com/global/support/bulletin/2025/12</feature>
+        </features>
+         <features module="Merknader" type="end">
+             <feature>1. Installeringen av denne oppdateringen påvirker ikke personopplysningene dine, men det anbefales likevel å sikkerhetskopiere dataene dine før du oppdaterer
+2. Finn mer informasjon om produktfunksjoner i Tips
+3. Hvis det oppstår problemer under oppdateringen, kan du få hjelp ved å ringe Honors kundeservice eller gå til Honors kundeservicesenter</feature>
+         </features>
+    </language>
+            <language code="1121" name="ne-np">
+                <features module="" type="header">
+            <feature>आदरणीय प्रयोगकर्ता, यो अपडेटले मुख्य गरी प्रणालीको कार्यसम्पादन परिष्कार गर्छ । सुधार गरिएका सुविधाहरूको आनन्द लिन अपडेट गर्नुहोस्</feature>
+        </features>
+        <features module="कल अनुवाद गर्ने सुविधा">
+             <feature>• कल अनुवाद गर्ने सुविधा उपलब्ध भएको छ । यहाँ गएर यसलाई प्रयोग गरी हेर्नुहोस्: सेटिङहरू > Honor AI > कल अनुवाद गर्ने सुविधा</feature>
+        </features>
+        <features module="क्यामेरा">
+             <feature>• यसले केही परिदृश्यहरूमा क्यामेराको सुटिङको प्रभाव अप्टिमाइज गर्छ</feature>
+        </features>
+        <features module="सञ्चार">
+             <feature>• केही परिदृश्यहरूमा सञ्चारको अनुभव अप्टिमाइज गर्नुहोस् ।</feature>
+        </features>
+        <features module="स्थिरता">
+             <feature>• प्रणालीको स्थिरता सुधार गर्छ</feature>
+        </features>
+        <features module="सुरक्षा प्याच">
+             <feature>• एन्ड्रोइड सुरक्षा प्याच (डिसेम्बर 2025) प्रणाली सुरक्षाका लागि समावेश गरिएको छ । Honor सुरक्षा अपडेटहरूबारे थप जानकारीका लागि कृपया हाम्रो वेबसाइटमा जानुहोस्: https://www.honor.com/global/support/bulletin/2025/12</feature>
+        </features>
+         <features module="नोटहरू" type="end">
+             <feature>1. तपाईंले यो एप स्थापना गर्नुभयो भने तपाईंको व्यक्तिगत डाटामा कुनै प्रभाव नपर्ने भए पनि तपाईंलाई अपडेट गर्नुअघि आफ्नो डाटा ब्याकअप गर्न सिफारिस गरिन्छ
+2. सुझावहरूमा गई उत्पादनका सुविधाहरूका बारेमा थप जानकारी हेर्नुहोस्
+3. अपडेटको क्रममा तपाईंले कुनै समस्याको सामना गर्नुभयो भने तपाईं Honor सेवा हटलाइनमा कल गरेर वा Honor ग्राहक सेवा केन्द्रमा गएर हाम्रो मद्दत प्राप्त गर्न सक्नुहुन्छ ।</feature>
+         </features>
+    </language>
+            <language code="1043" name="nl-nl">
+                <features module="" type="header">
+            <feature>Beste gebruiker, deze update verbetert vooral de systeemprestaties. Werk bij om van de verbeteringen te genieten</feature>
+        </features>
+        <features module="Oproepvertaling">
+             <feature>• Oproepvertaling is nu beschikbaar. Probeer het uit via: Instellingen > Honor AI > Oproepvertaling</feature>
+        </features>
+        <features module="Camera">
+             <feature>• Optimaliseert het opname-effect van de Camera in bepaalde scènes</feature>
+        </features>
+        <features module="Communicatie">
+             <feature>• Optimaliseert de communicatie-ervaring in bepaalde scenario's.</feature>
+        </features>
+        <features module="Stabiliteit">
+             <feature>• Verbetert de systeemstabiliteit</feature>
+        </features>
+        <features module="Beveiligingspatch">
+             <feature>• Android-beveiligingspatch (december 2025) is opgenomen voor systeembeveiliging. Voor meer informatie over Honor-beveiligingsupdates kunt u terecht op onze website https://www.honor.com/global/support/bulletin/2025/12</feature>
+        </features>
+         <features module="Notities" type="end">
+             <feature>1. Het installeren van deze update heeft geen invloed op uw persoonlijke gegevens, maar het wordt nog steeds aanbevolen om een back-up van uw gegevens te maken voordat u deze update uitvoert
+2. Ontdek meer informatie over productfuncties in Tips
+3. Als u problemen ondervindt tijdens de update, kunt u onze hulp krijgen door de Honor-servicehotline te bellen of naar het Honor-klantenservicecentrum te gaan</feature>
+         </features>
+    </language>
+            <language code="1096" name="or-IN">
+                <features module="" type="header">
+            <feature>ପ୍ରିୟ ଉପଯୋଗକର୍ତ୍ତା, ଏହି ଅପଡେଟ୍‌ ମୁଖ୍ୟତଃ ସିଷ୍ଟମ୍‌ର କାର୍ଯ୍ୟଦକ୍ଷତାକୁ ବଢାଏ। ଉନ୍ନତିଗୁଡ଼ିକ ଉପଭୋଗ କରିବାକୁ ଅପଡେଟ୍ କରନ୍ତୁ</feature>
+        </features>
+        <features module="କଲ୍ ଅନୁବାଦ">
+             <feature>• କଲ୍ ଅନୁବାଦ ବର୍ତ୍ତମାନ ଉପଲବ୍ଧ। ନିମ୍ନଲିଖିତକୁ ଯାଇ ଏହାକୁ ବ୍ୟବହାର କରି ଦେଖନ୍ତୁ: ସେଟିଂସ୍ > Honor AI > କଲ୍ ଅନୁବାଦ</feature>
+        </features>
+        <features module="କ୍ୟାମେରା">
+             <feature>• କେତେକ ଦୃଶ୍ୟ କ୍ୟାମେରାର ଶୁଟିଂ ପ୍ରଭାବକୁ ଅପ୍ଟିମାଇଜ୍‌ କରେ</feature>
+        </features>
+        <features module="ଯୋଗାଯୋଗ">
+             <feature>• କିଛି ପରିଦୃଶ୍ୟରେ ଯୋଗାଯୋଗ ଅନୁଭୂତି ଅପ୍ଟିମାଇଜ୍‌ କରେ।</feature>
+        </features>
+        <features module="ସ୍ଥିରତା">
+             <feature>• ସିଷ୍ଟମ୍‌ ସ୍ଥିରତା ଉନ୍ନତ କରେ</feature>
+        </features>
+        <features module="ସୁରକ୍ଷା ପ୍ୟାଚ୍‌">
+             <feature>• Android ସୁରକ୍ଷା ପ୍ୟାଚ୍‌ (ଡିସେମ୍ବର 2025) ସିଷ୍ଟମ୍ ସୁରକ୍ଷା ପାଇଁ ଅନ୍ତର୍ଭୁକ୍ତ କରାଯାଇଛି। Honor ସୁରକ୍ଷା ଅପଡେଟ୍‌ଗୁଡ଼ିକ ବିଷୟରେ ଅଧିକ ସୂଚନା ପାଇଁ, ଦୟାକରି ଆମ ୱେବସାଇଟ୍‌ https://www.honor.com/global/support/bulletin/2025/12 ଦେଖନ୍ତୁ</feature>
+        </features>
+         <features module="ନୋଟ୍‌ଗୁଡ଼ିକ" type="end">
+             <feature>1. ଏହି ଅପଡେଟ୍ ସଂସ୍ଥାପନ କରିବା ଦ୍ୱାରା ଆପଣଙ୍କ ବ୍ୟକ୍ତିଗତ ଡାଟା ପ୍ରଭାବିତ ହେବ ନାହିଁ, ତଥାପି ଅପଡେଟ୍ କରିବା ପୂର୍ବରୁ ଆପଣଙ୍କ ଡାଟାର ବ୍ୟାକଅପ୍‌ ନେବାକୁ ସୁପାରିଶ କରାଯାଇଛି
+2. ଟିପ୍ସରେ ଉତ୍ପାଦ ବିଶେଷତାଗୁଡ଼ିକ ଉପରେ ଅଧିକ ସୂଚନା ଆବିଷ୍କାର କରନ୍ତୁ
+3. ଅପଡେଟ୍‌ କରିବା ସମୟରେ ଯଦି ଆପଣ କୌଣସି ସମସ୍ୟାର ସମ୍ମୁଖୀନ ହୁଅନ୍ତି, ଆପଣ Honor ସେବା ହଟଲାଇନ୍‌କୁ କଲ୍‌ କରି କିମ୍ବା Honor ଗ୍ରାହକ ସେବା କେନ୍ଦ୍ରକୁ ଯାଇ, ଆମ ସହାୟତା ପାଇପାରିବେ</feature>
+         </features>
+    </language>
+            <language code="1094" name="pa-IN">
+                <features module="" type="header">
+            <feature>ਪਿਆਰੇ ਵਰਤੋਂਕਾਰ, ਇਸ ਅੱਪਡੇਟ ਵਿੱਚ ਮੁੱਖ ਤੌਰ 'ਤੇ ਸਿਸਟਮ ਦੀ ਕਾਰਗੁਜ਼ਾਰੀ ਨੂੰ ਬਿਹਤਰ ਬਣਾਇਆ ਗਿਆ ਹੈ। ਸੁਧਾਰਾਂ ਦਾ ਅਨੰਦ ਲੈਣ ਲਈ ਅੱਪਡੇਟ ਕਰੋ</feature>
+        </features>
+        <features module="ਕਾਲ ਅਨੁਵਾਦ">
+             <feature>• ਕਾਲ ਅਨੁਵਾਦ ਹੁਣ ਉਪਲਬਧ ਹੈ। ਇੱਥੇ ਜਾ ਕੇ ਇਸ ਨੂੰ ਅਜ਼ਮਾਓ: ਸੈਟਿੰਗਾਂ > Honor AI > ਕਾਲ ਅਨੁਵਾਦ</feature>
+        </features>
+        <features module="ਕੈਮਰਾ">
+             <feature>• ਕੁਝ ਦ੍ਰਿਸ਼ਾਂ ਵਿੱਚ ਕੈਮਰੇ ਦੇ ਸ਼ੂਟਿੰਗ ਪ੍ਰਭਾਵ ਨੂੰ ਅਨੁਕੂਲ ਬਣਾਇਆ ਗਿਆ ਹੈ</feature>
+        </features>
+        <features module="ਸੰਚਾਰ">
+             <feature>• ਕੁਝ ਦ੍ਰਿਸ਼ਾਂ ਵਿੱਚ ਸੰਚਾਰ ਅਨੁਭਵ ਨੂੰ ਅਨੁਕੂਲ ਬਣਾਓ।</feature>
+        </features>
+        <features module="ਸਥਿਰਤਾ">
+             <feature>• ਸਿਸਟਮ ਦੀ ਸਥਿਰਤਾ ਵਿੱਚ ਸੁਧਾਰ ਕਰਦੀ ਹੈ</feature>
+        </features>
+        <features module="ਸੁਰੱਖਿਆ ਪੈਚ">
+             <feature>• ਸਿਸਟਮ ਸੁਰੱਖਿਆ ਲਈ Android ਸੁਰੱਖਿਆ ਪੈਚ (ਦਸੰ 2025) ਨੂੰ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ ਹੈ। Honor ਸੁਰੱਖਿਆ ਅੱਪਡੇਟਾਂ ਬਾਰੇ ਹੋਰ ਜਾਣਕਾਰੀ ਲਈ, ਕਿਰਪਾ ਕਰਕੇ ਸਾਡੀ ਵੈੱਬਸਾਈਟ 'ਤੇ ਜਾਓ: https://www.honor.com/global/support/bulletin/2025/12</feature>
+        </features>
+         <features module="ਨੋਟਸ" type="end">
+             <feature>1. ਇਸ ਅੱਪਡੇਟ ਨੂੰ ਇੰਸਟਾਲ ਕਰਨ ਨਾਲ ਤੁਹਾਡੇ ਨਿੱਜੀ ਡੇਟਾ 'ਤੇ ਕੋਈ ਅਸਰ ਨਹੀਂ ਪਵੇਗਾ, ਪਰ ਹਾਲੇ ਵੀ ਅੱਪਡੇਟ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਤੁਹਾਡੇ ਡੇਟਾ ਦਾ ਬੈਕ ਅੱਪ ਲੈਣ ਦੀ ਸਿਫ਼ਾਰਸ਼ ਕੀਤੀ ਜਾਂਦੀ ਹੈ
+2. ਸੁਝਾਅ ਐਪ ਵਿੱਚ ਉਤਪਾਦ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਬਾਰੇ ਹੋਰ ਜਾਣਕਾਰੀ ਦੀ ਖੋਜ ਕਰੋ
+3. ਜੇਕਰ ਤੁਹਾਨੂੰ ਅੱਪਡੇਟ ਦੌਰਾਨ ਕੋਈ ਸਮੱਸਿਆ ਆਉਂਦੀ ਹੈ, ਤਾਂ ਤੁਸੀਂ Honor ਸੇਵਾ ਹੌਟਲਾਈਨ 'ਤੇ ਕਾਲ ਕਰ ਕੇ ਜਾਂ Honor ਗਾਹਕ ਸੇਵਾ ਕੇਂਦਰ 'ਤੇ ਜਾ ਕੇ ਸਾਡੀ ਮਦਦ ਲੈ ਸਕਦੇ ਹੋ</feature>
+         </features>
+    </language>
+            <language code="1045" name="pl-pl">
+                <features module="" type="header">
+            <feature>Szanowny użytkowniku, ta aktualizacja w głównej mierze podnosi wydajność systemu. Zainstaluj ją, aby korzystać z ulepszeń</feature>
+        </features>
+        <features module="Tłumaczenie połączenia">
+             <feature>• Funkcja Tłumaczenie połączenia jest już dostępna. Wypróbuj ją, wybierając Ustawienia > Honor AI > Tłumaczenie połączenia</feature>
+        </features>
+        <features module="Aparat">
+             <feature>• Optymalizuje efekt robienia zdjęć w Aparacie w niektórych sytuacjach</feature>
+        </features>
+        <features module="Komunikacja">
+             <feature>• Zoptymalizowano jakość komunikacji w określonych sytuacjach.</feature>
+        </features>
+        <features module="Stabilność">
+             <feature>• Poprawiono stabilność systemu</feature>
+        </features>
+        <features module="Poprawka zabezpieczeń">
+             <feature>Aktualizacja zawiera Poprawkę zabezpieczeń systemu Android (grudzień 2025 r.). Więcej informacji o aktualizacjach zabezpieczeń urządzeń Honor można znaleźć w naszej witrynie internetowej: https://www.honor.com/global/support/bulletin/2025/12</feature>
+        </features>
+         <features module="Notatki" type="end">
+             <feature>1. Ta aktualizacja nie ma wpływu na Twoje dane osobowe, jednak przed jej zainstalowaniem zaleca się wykonanie kopii zapasowej danych
+2. Więcej informacji o funkcjach produktu znajdziesz w Poradach
+3. Jeśli podczas aktualizacji napotkasz jakiekolwiek problemy, możesz uzyskać pomoc, dzwoniąc na infolinię serwisu Honor lub odwiedzając punkt serwisowy Honor</feature>
+         </features>
+    </language>
+            <language code="1046" name="pt-br">
+                <features module="" type="header">
+            <feature>Prezado(a) usuário(a), essa atualização aprimora principalmente o desempenho do sistema. Atualize para aproveitar as melhorias</feature>
+        </features>
+        <features module="Tradução de chamada">
+             <feature>• A Tradução de Chamada já está disponível. Experimente acessando: Configurações > Honor AI > Tradução de Chamada</feature>
+        </features>
+        <features module="Câmera">
+             <feature>• Otimiza o efeito de captura da Câmera em algumas cenas</feature>
+        </features>
+        <features module="Comunicação">
+             <feature>Otimizar a experiência de comunicação em alguns cenários.</feature>
+        </features>
+        <features module="Estabilidade">
+             <feature>• Melhora a estabilidade do sistema</feature>
+        </features>
+        <features module="Patch de segurança">
+             <feature>• Patch de segurança do Android (dezembro de 2025) incorporado para a segurança do sistema. Para obter mais informações sobre as atualizações de segurança da Honor, visite nosso site: https://www.honor.com/global/support/bulletin/2025/12</feature>
+        </features>
+         <features module="Notas" type="end">
+             <feature>1. A instalação desta atualização não afetará os dados pessoais, mas ainda é recomendável fazer backup dos dados antes de atualizar
+2. Descubra mais informações sobre os recursos do produto em Dicas
+3. Se você encontrar algum problema durante a atualização, poderá obter nossa ajuda ligando para a Linha de atendimento de serviço da Honor ou acessando a Central de serviços ao cliente da Honor</feature>
+         </features>
+    </language>
+            <language code="2070" name="pt-pt">
+                <features module="" type="header">
+            <feature>Caro utilizador, esta atualização melhora principalmente o desempenho do sistema. Atualize para aproveitar as melhorias</feature>
+        </features>
+        <features module="Tradutor de chamadas">
+             <feature>• O Tradutor de chamadas está agora disponível. Experimente, acedendo a: Configurações > Honor AI > Tradutor de Chamadas</feature>
+        </features>
+        <features module="Câmara">
+             <feature>• Otimiza o efeito de filmagem da câmara em alguns cenários</feature>
+        </features>
+        <features module="Comunicação">
+             <feature>• Otimiza a experiência de comunicação em alguns cenários.</feature>
+        </features>
+        <features module="Estabilidade">
+             <feature>• Melhora a estabilidade do sistema</feature>
+        </features>
+        <features module="Correção de segurança">
+             <feature>• Foi incorporada uma correção de segurança do Android (dezembro de 2025) para segurança do sistema. Para mais informações sobre as atualizações de Segurança Honor, visite o nosso website https://www.honor.com/global/support/bulletin/2025/12</feature>
+        </features>
+         <features module="Notas" type="end">
+             <feature>1. Instalar esta atualização não afetará os seus dados pessoais, mas ainda assim é recomendável efetuar uma cópia de segurança dos seus dados antes de atualizar
+2. Descobrir mais informações sobre as funcionalidades do produto em Sugestões
+3. Se encontrar quaisquer problemas durante a atualização, pode obter ajuda ligando para a linha direta de assistência da Honor ou visitando o centro de apoio ao cliente da Honor</feature>
+         </features>
+    </language>
+            <language code="1048" name="ro-ro">
+                <features module="" type="header">
+            <feature>Stimate utilizator, această actualizare îmbunătățește în principal performanța sistemului. Actualizați pentru a beneficia de îmbunătățiri</feature>
+        </features>
+        <features module="Traducere apel">
+             <feature>• Acum este disponibilă funcția Translator apeluri. Încercați-o accesând: Setări > Honor AI > Traducere Apel</feature>
+        </features>
+        <features module="Cameră foto">
+             <feature>• Optimizează efectul de fotografiere din Camera foto în anumite secvențe</feature>
+        </features>
+        <features module="Comunicare">
+             <feature>• Optimizați experiența de comunicare în anumite scenarii.</feature>
+        </features>
+        <features module="Stabilitate">
+             <feature>• Îmbunătățește stabilitatea sistemului</feature>
+        </features>
+        <features module="Corecție de securitate">
+             <feature>• Corecția de securitate Android (decembrie 2025) a fost inclusă pentru securitatea sistemului. Pentru mai multe informații despre actualizările de Securitate Honor, vizitați site-ul nostru web: https://www.honor.com/ro/support/bulletin/2025/12</feature>
+        </features>
+         <features module="Notițe" type="end">
+             <feature>1. Instalarea acestei actualizări nu va afecta datele dvs. cu caracter personal, dar este totuși recomandat să faceți o copie de rezervă a datelor înainte de actualizare
+2. Descoperiți mai multe informații despre caracteristicile produsului în Sugestii
+3. Dacă întâmpinați probleme în timpul actualizării, puteți solicita ajutorul nostru apelând linia de asistență Honor sau vizitând Centrul de service pentru clienți Honor</feature>
+         </features>
+    </language>
+            <language code="1049" name="ru-ru">
+                <features module="" type="header">
+            <feature>Уважаемый пользователь! Мы выпустили это обновление, чтобы улучшить производительность системы. Установите его, чтобы оценить изменения</feature>
+        </features>
+        <features module="Перевод во время вызова">
+             <feature>• Теперь доступен «Перевод вызова». Чтобы опробовать эту функцию, выберите Настройки > Honor AI > Перевод вызова</feature>
+        </features>
+        <features module="Камера">
+             <feature>• Оптимизирована съемка камерой в некоторых сценариях</feature>
+        </features>
+        <features module="Связь">
+             <feature>• Оптимизировано качество связи в некоторых сценариях.</feature>
+        </features>
+        <features module="Стабильность">
+             <feature>• Повышает стабильность системы</feature>
+        </features>
+        <features module="Исправление безопасности">
+             <feature>• В обновление включено исправление безопасности для Android (декабрь 2025 г.). Чтобы получить подробную информацию об обновлениях безопасности Honor, посетите наш сайт: https://www.honor.com/eurasia/support/bulletin/2025/12</feature>
+        </features>
+         <features module="Заметки" type="end">
+             <feature>1. Установка этого обновления не приведет к удалению ваших персональных данных, но мы все равно рекомендуем вам создать резервную копию своих данных перед обновлением
+2. Изучите дополнительную информацию о функциях продукта в «Советах»
+3. Если во время обновления у вас возникнут проблемы, обратитесь за помощью на горячую линию службы поддержки Honor или в сервисный центр для клиентов Honor</feature>
+         </features>
+    </language>
+            <language code="1115" name="si-lk">
+                <features module="" type="header">
+            <feature>හිතවත් පරිශීලක, මෙම යාවත්කාලීන කිරීම ප්‍රධාන වශයෙන් පද්ධතියේ කාර්යසාධනය උසස් කරයි. වැඩිදියුණු කිරීම් අත්විඳීමට යාවත්කාල කරන්න</feature>
+        </features>
+        <features module="ඇමතුම් පරිවර්තනය">
+             <feature>• ඇමතුම් පරිවර්තනය දැන් ලබා ගත හැකි වේ. මෙය වෙත යාමෙන් එය උත්සාහ කරන්න: සැකසුම් > Honor AI > ඇමතුම් පරිවර්තනය</feature>
+        </features>
+        <features module="කැමරාව">
+             <feature>• සමහර සිද්ධිවල දී කැමරාවේ රූගත කිරීමේ ප්‍රයෝගය ප්‍රශස්ත කරයි</feature>
+        </features>
+        <features module="සන්නිවේදනය">
+             <feature>• සමහර අවස්ථාවල දී සන්නිවේදන අත්දැකීම ප්‍රශස්ත කරයි.</feature>
+        </features>
+        <features module="ස්ථායීතාවය">
+             <feature>• පද්ධතියේ ස්ථායිතාව වැඩිදියුණු කරයි</feature>
+        </features>
+        <features module="ආරක්ෂක පැච් එක">
+             <feature>• පද්ධති ආරක්ෂාව සඳහා Android ආරක්ෂක පැච් එක (2025 දෙසැ) යොදාගෙන ඇත. Honor ආරක්ෂක යාවත්කාල පිළිබඳ තවත් තොරතුරු සඳහා, කරුණාකර අපගේ වෙබ් අඩවිය වෙත යන්න https://www.honor.com/global/support/bulletin/2025/12</feature>
+        </features>
+         <features module="සටහන්" type="end">
+             <feature>1. මෙම යාවත්කාලය ස්ථාපනය කිරීම ඔබගේ පෞද්ගලික දත්තවලට බල නොපානු ඇති නමුත් තවමත් යාවත්කාල කිරීමට පෙර ඔබගේ දත්ත උපස්ථ කිරීමට නිර්දේශ කෙරේ
+2. ඉඟි තුළ නිෂ්පාදන විශේෂාංග පිළිබඳ තවත් තොරතුරු සොයා ගන්න
+3. යාවත්කාල කිරීමේදී ඔබට ගැටළු කිසිවක් ඇති වුවහොත්, ඔබට Honor සේවා හොට්ලයින් ඇමතීමෙන් හෝ Honor පාරිභෝගික සේවා මධ්‍යස්ථානයට පිවිසීමෙන් අපගේ උපකාර ලබා ගත හැකි වේ</feature>
+         </features>
+    </language>
+            <language code="1051" name="sk-sk">
+                <features module="" type="header">
+            <feature>Vážený používateľ, táto aktualizácia hlavne zvyšuje výkon systému. Aktualizujte, aby ste si užili zlepšenia</feature>
+        </features>
+        <features module="Preklad hovoru">
+             <feature>• K dispozícii je Preklad hovoru. Vyskúšajte to v časti: Nastavenia > Honor AI > Preklad Hovoru</feature>
+        </features>
+        <features module="Fotoaparát">
+             <feature>• Optimalizuje efekt snímania Fotoaparátu v niektorých scénach</feature>
+        </features>
+        <features module="Komunikácia">
+             <feature>• Optimalizujte komunikáciu v niektorých situáciách.</feature>
+        </features>
+        <features module="Stabilita">
+             <feature>• Zlepšuje stabilitu systému</feature>
+        </features>
+        <features module="Bezpečnostná oprava">
+             <feature>• Súčasťou zabezpečenia systému je bezpečnostná oprava systému Android (z decembra 2025). Ak potrebujete viac informácií o bezpečnostných aktualizáciách spoločnosti Honor, navštívte webovú stránku https://www.honor.com/sk/support/bulletin/2025/12</feature>
+        </features>
+         <features module="Poznámky" type="end">
+             <feature>1. Inštalácia tejto aktualizácie neovplyvní vaše osobné údaje, ale aj tak sa odporúča pred aktualizáciou si ich zálohovať
+2. Ďalšie informácie o funkciách produktu si pozrite v aplikácii Tipy
+3. Ak sa počas aktualizácie vyskytne problém, pomoc môžete získať na zákazníckej linke Honor alebo navštívením Centra služieb zákazníkom Honor</feature>
+         </features>
+    </language>
+            <language code="1060" name="sl-si">
+                <features module="" type="header">
+            <feature>Spoštovani uporabnik, ta posodobitev izboljša predvsem delovanje sistema. Posodobite, da boste lahko izkoristili izboljšave</feature>
+        </features>
+        <features module="Prevajanje klicev">
+             <feature>• Zdaj je na voljo prevajanje klicev. Preizkusite funkcijo tako, da odprete razdelek Nastavitve > Honor AI > Prevajanje klicev</feature>
+        </features>
+        <features module="Kamera">
+             <feature>• Optimizira učinek fotografiranja s kamero v nekaterih prizorih</feature>
+        </features>
+        <features module="Komunikacija">
+             <feature>• Izkušnja s komunikacijo je optimizirana v nekaterih primerih.</feature>
+        </features>
+        <features module="Stabilnost">
+             <feature>• Izboljša stabilnost sistema</feature>
+        </features>
+        <features module="Varnostni popravek">
+             <feature>• Varnostni popravki za Android (december 2025) so vključeni za varnost sistema. Za več informacij o varnostnih posodobitvah Honor obiščite spletno mesto https://www.honor.com/global/support/bulletin/2025/12</feature>
+        </features>
+         <features module="Zapiski" type="end">
+             <feature>1. Namestitev te posodobitve ne vpliva na vaše osebne podatke, vendar je kljub temu priporočljivo, da podatke pred posodobitvijo varnostno kopirate
+2. Več informacij o funkcijah izdelka je na voljo v razdelku Nasveti
+3. Če med posodabljanjem pride do težav, lahko pokličete odprto linijo za pomoč uporabnikom družbe Honor ali obiščete servisni center družbe Honor</feature>
+         </features>
+    </language>
+            <language code="1053" name="sv-se">
+                <features module="" type="header">
+            <feature>Bästa användare, den här uppdateringen förbättrar främst systemets prestanda. Uppdatera för att ta del av förbättringarna</feature>
+        </features>
+        <features module="Samtalsöversättning">
+             <feature>• Samtalsöversättning är nu tillgänglig. Prova genom att gå till: Inställningar > Honor AI > Samtalsöversättning</feature>
+        </features>
+        <features module="Kamera">
+             <feature>• Optimerar fotograferingseffekten för Kamera i vissa scener</feature>
+        </features>
+        <features module="Kommunikation">
+             <feature>• Optimerar kommunikationsupplevelsen i vissa scenarier.</feature>
+        </features>
+        <features module="Stabilitet">
+             <feature>• Förbättrar systemets stabilitet</feature>
+        </features>
+        <features module="Säkerhetskorrigering">
+             <feature>• Säkerhetskorrigering för Android (december 2025) har implementerats för systemsäkerhet. Vill du ha mer information om uppdateringar för Honor Säkerhet går du till vår webbplats https://www.honor.com/global/support/bulletin/2025/12</feature>
+        </features>
+         <features module="Noteringar" type="end">
+             <feature>1. Installation av den här uppdateringen påverkar inte dina personuppgifter, men det rekommenderas ändå att du säkerhetskopierar alla data innan du uppdaterar
+2. Upptäck mer information om produktfunktioner i Tips
+3. Om du stöter på några problem under uppdateringen kan du ringa Honors hotline för service eller besöka Honors kundtjänstcenter för att få hjälp</feature>
+         </features>
+    </language>
+            <language code="1089" name="sw-TZ">
+                <features module="" type="header">
+            <feature>Mtumiaji mpendwa, sasisho hili kwa kiasi kikubwa linaboresha utendaji wa mfumo. Sasisha ili ufurahie maboresho</feature>
+        </features>
+        <features module="Zindua tafsiri">
+             <feature>• Tafsiri ya upigaji simu sasa inapatikana. Ijaribu kwa kwenda kwenye: Mipangilio > Honor AI > Tafsiri ya Upigaji Simu</feature>
+        </features>
+        <features module="Kamera">
+             <feature>• Huboresha athari ya Kamera ya upigaji picha katika baadhi ya mandhari</feature>
+        </features>
+        <features module="Mawasiliano">
+             <feature>• Linaboresha hali ya mawasiliano katika baadhi ya miktadha.</feature>
+        </features>
+        <features module="Uthabiti">
+             <feature>• Linaboresha uthabiti wa mfumo</feature>
+        </features>
+        <features module="Rekebisho la usalama">
+             <feature>• Rekebisho la usalama wa Android (Des 2025) limejumuishwa kwa ajili ya usalama wa mfumo. Ili kupata maelezo zaidi kuhusu masasisho ya Usalama wa Honor, tafadhali tembelea tovuti yetu: https://www.honor.com/global/support/bulletin/2025/12</feature>
+        </features>
+         <features module="Madokezo" type="end">
+             <feature>1. Kusakinisha sasisho hili hakutaathiri data yako ya kibinafsi, lakini bado inapendekezwa ili kuweka hifadhi rudufu ya data yako kabla ya kusasisha
+2. Gundua maelezo zaidi kwenye vipengele vya bidhaa kwenye Vidokezo
+3. Ikiwa utakumbana na matatizo yoyote wakati wa sasisho, unaweza kupata msaada wetu kwa kupiga simu kwa nambari ya dharura ya huduma ya Honor au tembelea kituo cha huduma kwa wateja cha Honor</feature>
+         </features>
+    </language>
+            <language code="1097" name="ta-IN">
+                <features module="" type="header">
+            <feature>அன்புள்ள பயனரே, இந்தப் புதுப்பிப்பு முதன்மையாக சிஸ்டம் செயல்திறனை மேம்படுத்துகிறது. மேம்பாடுகளைப் பெற, புதுப்பிக்கவும்</feature>
+        </features>
+        <features module="அழைப்பு மொழிபெயர்ப்பு">
+             <feature>• அழைப்பு மொழிபெயர்ப்பு இப்போது கிடைக்கிறது. இதற்குச் சென்று அதை முயன்று பார்க்கவும்: அமைப்புகள் > Honor AI > அழைப்பு மொழிபெயர்ப்பு</feature>
+        </features>
+        <features module="கேமரா">
+             <feature>• சில காட்சிகளில் கேமராவின் ஷூட்டிங் விளைவை உகந்ததாக்குகிறது</feature>
+        </features>
+        <features module="தகவல்தொடர்பு">
+             <feature>• சில சூழ்நிலைகளில் தகவல்தொடர்பு அனுபவத்தை உகந்ததாக்கும்.</feature>
+        </features>
+        <features module="நிலைத்தன்மை">
+             <feature>• சிஸ்டம் நிலைத்தன்மையை மேம்படுத்துகிறது</feature>
+        </features>
+        <features module="பாதுகாப்புத் தொகுப்பு">
+             <feature>சிஸ்டம் பாதுகாப்பிற்காக Android பாதுகாப்புத் தொகுப்பு (டிச 2025) சேர்க்கப்பட்டுள்ளது. Honor பாதுகாப்புப் புதுப்பிப்புகளைப் பற்றிய மேலும் தகவல்களுக்கு, எங்கள் வலைத்தளத்தைப் பார்க்கவும்: https://www.honor.com/global/support/bulletin/2025/12</feature>
+        </features>
+         <features module="குறிப்புகள்" type="end">
+             <feature>1. இந்தப் புதுப்பிப்பை நிறுவுவது உங்கள் தனிப்பட்ட தரவைப் பாதிக்காது, எனினும் புதுப்பிப்பதற்கு முன்பு உங்கள் தரவைக் காப்புப்பிரதி எடுப்பது இன்னும் பரிந்துரைக்கப்படுகிறது
+2. உதவிக்குறிப்புகளில் தயாரிப்பு அம்சங்களைப் பற்றிய மேலும் தகவல்களைக் கண்டறிக
+3. புதுப்பிக்கும்போது ஏதேனும் சிக்கல்களைச் சந்தித்தால், Honor சேவை ஹாட்லைனை அழைப்பதன் மூலமோ அல்லது Honor வாடிக்கையாளர் சேவை மையத்தைப் பார்வையிடுவதன் மூலமோ எங்கள் உதவியைப் பெறலாம்</feature>
+         </features>
+    </language>
+            <language code="1098" name="te-IN">
+                <features module="" type="header">
+            <feature>ప్రియమైన వినియోగదారుకు, ఈ అప్‌డేట్ ప్రధానంగా సిస్టమ్ పనితీరును మెరుగుపరుస్తుంది. మెరుగుదలలను ఆనందించడానికి అప్‌డేట్ చేయండి</feature>
+        </features>
+        <features module="కాల్ అనువాదం">
+             <feature>• కాల్ అనువాదం ఇప్పుడు అందుబాటులో ఉంది. దానిని ఇక్కడికి వెళ్ళి ప్రయత్నించండి: సెట్టింగ్‌లు > Honor AI > కాల్ అనువాదం</feature>
+        </features>
+        <features module="కెమెరా">
+             <feature>• కొన్ని సీన్‌లలో కెమెరా షూటింగ్ ప్రభావాన్ని ఆప్టిమైజ్ చేస్తుంది</feature>
+        </features>
+        <features module="కమ్యూనికేషన్">
+             <feature>• కొన్ని సందర్భాల్లో కమ్యూనికేషన్ అనుభవాన్ని ఆప్టిమైజ్ చేస్తుంది.</feature>
+        </features>
+        <features module="స్థిరత్వం">
+             <feature>• సిస్టమ్ స్థిరత్వాన్ని మెరుగుపరుస్తుంది</feature>
+        </features>
+        <features module="భద్రతా ప్యాచ్">
+             <feature>• సిస్టమ్ భద్రత కోసం Android భద్రతా ప్యాచ్ (డిసెం 2025) చేర్చబడింది. Honor భద్రత అప్‌డేట్‌ల గురించి మరింత సమాచారం కోసం, దయచేసి మా వెబ్‌సైట్‌ను సందర్శించండి: https://www.honor.com/global/support/bulletin/2025/12</feature>
+        </features>
+         <features module="గమనికలు" type="end">
+             <feature>1. ఈ అప్‌డేట్ ఇన్‌స్టాల్ చేయడం వలన మీ వ్యక్తిగత డేటా ప్రభావితం కాదు, కాని అప్‌డేట్ చేయడానికి ముందు మీ డేటాను బ్యాకప్ చేయాలని ఇంకా సిఫార్సు చేయబడింది
+2. చిట్కాల్లో ఉత్పత్తి ఫీచర్లపై మరింత సమాచారాన్ని తెలుసుకోండి
+3. అప్‌డేట్ సమయంలో ఏవైనా సమస్యలను ఎదుర్కొంటే, మీరు Honor సర్వీస్ హాట్‌లైన్‌కు కాల్ చేసి లేదా Honor కస్టమర్ సర్వీస్ కేంద్రాన్ని సందర్శించి మా సహాయం పొందవచ్చు</feature>
+         </features>
+    </language>
+            <language code="1054" name="th-th">
+                <features module="" type="header">
+            <feature>เรียนผู้ใช้ การอัปเดตครั้งนี้เน้นปรับปรุงประสิทธิภาพระบบเป็นหลัก โปรดอัปเดตเพื่อใช้การปรับปรุง</feature>
+        </features>
+        <features module="การแปลการโทร">
+             <feature>• การแปลการโทรพร้อมใช้งานแล้วในขณะนี้ ลองใช้โดยไปที่: การตั้งค่า > Honor AI > การแปลการโทร</feature>
+        </features>
+        <features module="กล้องถ่ายรูป">
+             <feature>• เพิ่มประสิทธิภาพเอฟเฟ็กต์การถ่ายจากกล้องถ่ายรูปในบางสถานการณ์</feature>
+        </features>
+        <features module="การสื่อสาร">
+             <feature>• เพิ่มประสิทธิภาพประสบการณ์การสื่อสารในบางสถานการณ์</feature>
+        </features>
+        <features module="ความเสถียร">
+             <feature>• ปรับปรุงความเสถียรของระบบ</feature>
+        </features>
+        <features module="แพตช์การรักษาความปลอดภัย">
+             <feature>• มีการรวมแพตช์การรักษาความปลอดภัย Android (ธ.ค. 2025) เพื่อความปลอดภัยของระบบ ดูข้อมูลเพิ่มเติมเกี่ยวกับการอัปเดตด้านความปลอดภัยของ Honor ได้โดยไปที่เว็บไซต์ของเรา https://www.honor.com/global/support/bulletin/2025/12</feature>
+        </features>
+         <features module="โน้ต" type="end">
+             <feature>1. การติดตั้งการอัปเดตนี้จะไม่ส่งผลต่อข้อมูลส่วนตัว แต่เราขอแนะนำให้คุณสำรองข้อมูลก่อนอัปเดต
+2. ค้นพบข้อมูลเพิ่มเติมเกี่ยวกับฟีเจอร์ผลิตภัณฑ์ในเคล็ดลับ
+3. หากคุณพบปัญหาใดๆ ในระหว่างการอัปเดต คุณสามารถรับความช่วยเหลือได้โดยการโทรติดต่อสายด่วนการบริการลูกค้าของ Honor หรือไปที่ศูนย์บริการลูกค้าของ Honor</feature>
+         </features>
+    </language>
+            <language code="1124" name="tl-ph">
+                <features module="" type="header">
+            <feature>Minamahal na user, pangunahing pinapahusay ng update na ito ang performance ng system. I-update para i-enjoy ang mga pagpapahusay</feature>
+        </features>
+        <features module="Pagsasalin ng tawag">
+             <feature>• Available na ang pagsasalin ng tawag. Subukan ito sa pamamagitan ng pagpunta sa: Mga Setting > Honor AI > Pagsasalin ng Tawag</feature>
+        </features>
+        <features module="Camera">
+             <feature>• Ino-optimize ang effect sa pag-shoot ng Camera sa ilang sitwasyon</feature>
+        </features>
+        <features module="Pakikipag-ugnayan">
+             <feature>• I-optimize ang karanasan sa pakikipag-ugnayan sa ilang sitwasyon.</feature>
+        </features>
+        <features module="Stability">
+             <feature>• Pinapahusay ang stability ng system</feature>
+        </features>
+        <features module="Panseguridad na patch">
+             <feature>• Isinama ang panseguridad na patch ng Android (Dis 2025) para sa seguridad ng system. Para sa higit pang impormasyon tungkol sa mga Panseguridad na update ng Honor, bisitahin ang aming website sa https://www.honor.com/global/support/bulletin/2025/12</feature>
+        </features>
+         <features module="Mga Tala" type="end">
+             <feature>1. Hindi makakaapekto ang pag-install sa update na ito sa iyong personal na data, pero inirerekomenda pa ring i-back up ang iyong data bago mag-update
+2. Tuklasin ang higit pang impormasyon sa mga feature ng produkto sa Mga Tip
+3. Kung makaranas ka ng anumang isyu habang nag-a-update, makukuha mo ang tulong namin sa pamamagitan ng pagtawag sa hotline ng serbisyo ng Honor o pagbisita sa customer service center ng Honor</feature>
+         </features>
+    </language>
+            <language code="1055" name="tr-tr">
+                <features module="" type="header">
+            <feature>Değerli kullanıcımız, bu güncelleme ile çoğunlukla sistem performansı artırılmıştır. İyileştirmelerin tadını çıkarmak için güncelleyin</feature>
+        </features>
+        <features module="Arama tercümanı">
+             <feature>• Arama tercümanı özelliği eklendi. Şu adımları takip ederek deneyebilirsiniz: Ayarlar > Honor AI > Arama Tercümanı</feature>
+        </features>
+        <features module="Kamera">
+             <feature>• Bazı sahnelerde Kamera ile fotoğraf çekme efekti optimize edilmiştir</feature>
+        </features>
+        <features module="İletişim">
+             <feature>• Bazı durumlar için iletişim deneyimini optimize edin.</feature>
+        </features>
+        <features module="Kararlılık">
+             <feature>• Sistem kararlılığı iyileştirildi</feature>
+        </features>
+        <features module="Güvenlik yaması">
+             <feature>• Sistem güvenliği için Android güvenlik yamasını (Aralık 2025) içermektedir. Honor Güvenlik güncellemeleri ile ilgili daha fazla bilgi için lütfen web sitemizi ziyaret edin: https://www.honor.com/tr/support/bulletin/2025/12</feature>
+        </features>
+         <features module="Notlar" type="end">
+             <feature>1. Bu güncellemenin yüklenmesi kişisel verilerinizi etkilemeyecektir ancak yine de güncellemeden önce verilerinizi yedeklemeniz önerilir
+2. İpuçları bölümünden ürün özellikleri hakkında daha fazla bilgiyi keşfedin
+3. Güncelleme sırasında sorunla karşılaşırsanız Honor yardım hattını arayarak veya Honor müşteri hizmetleri merkezini ziyaret ederek yardım alabilirsiniz</feature>
+         </features>
+    </language>
+            <language code="1058" name="uk-ua">
+                <features module="" type="header">
+            <feature>Шановний користувачу! Це оновлення насамперед підвищує продуктивність системи. Установіть його, щоб відчути покращення</feature>
+        </features>
+        <features module="Переклад викликів">
+             <feature>• Тепер доступна функція "Переклад викликів". Спробуйте її тут: "Налаштування" > "Honor AI" > "Переклад викликів"</feature>
+        </features>
+        <features module="Камера">
+             <feature>• Оптимізує ефект знімання на камеру в деяких ситуаціях</feature>
+        </features>
+        <features module="Зв’язок">
+             <feature>• Оптимізація зв’язку в деяких сценаріях.</feature>
+        </features>
+        <features module="Стабільність">
+             <feature>• Покращено стабільність роботи системи</feature>
+        </features>
+        <features module="Виправлення системи безпеки">
+             <feature>• Виправлення безпеки Android від грудня 2025 року впроваджено для посилення безпеки системи. Додаткову інформацію про оновлення для системи безпеки Honor див. на нашому вебсайті https://www.honor.com/global/support/bulletin/2025/12</feature>
+        </features>
+         <features module="Нотатки" type="end">
+             <feature>1. Установлення цього оновлення не вплине на ваші особисті дані, однак рекомендовано спочатку створити їхні резервні копії
+2. Дізнайтеся більше про функції продукту в розділі "Підказки"
+3. Якщо під час оновлення у вас виникнуть будь-які проблеми, ви можете отримати нашу допомогу, зателефонувавши на гарячу лінію Honor або відвідавши центр послуг Honor</feature>
+         </features>
+    </language>
+            <language code="1056" name="ur-pk">
+                <features module="" type="header">
+            <feature>محترم صارف، یہ اپ ڈیٹ بنیادی طور پر سسٹم کی کارکردگی کو بڑھاتی ہے۔ بہتریوں سے لطف اندوز ہونے کے لیے اپ ڈیٹ کریں</feature>
+        </features>
+        <features module="کال کا ترجمہ">
+             <feature>‏• کال کا ترجمہ اب دستیاب ہے۔ یہاں جا کر اسے آزمائیں: ترتیبات > ‏Honor AI > کال کا ترجمہ</feature>
+        </features>
+        <features module="کیمرہ">
+             <feature>‏• کچھ مناظر میں کیمرے کے شوٹنگ کے اثر کو بہتر بناتا ہے</feature>
+        </features>
+        <features module="مواصلت">
+             <feature>‏• کچھ منظرناموں میں مواصلات کے تجربے کو بہتر بنائیں۔</feature>
+        </features>
+        <features module="استحکام">
+             <feature>‏‏• سسٹم کے استحکام کو بہتر بناتی ہے</feature>
+        </features>
+        <features module="سکیورٹی پیچ">
+             <feature>‏• Android سکیورٹی پیچ (دسمبر 2025) شامل کر دیا گیا ہے۔ Honor سکیورٹی اپ ڈیٹس کے بارے میں مزید معلومات کے لیے، براہ کرم ہماری ویب سائٹ ملاحظہ کریں: https://www.honor.com/global/support/bulletin/2025/12</feature>
+        </features>
+         <features module="نوٹس" type="end">
+             <feature>‏1. اس اپ ڈیٹ کو انسٹال کرنے سے آپ کا ذاتی ڈیٹا متاثر نہیں ہو گا، لیکن اپ ڈیٹ کرنے سے پہلے اب بھی اپنے ڈیٹا کا بیک اپ لینے کی تجویز دی جاتی ہے
+‏2. تجاویز میں پروڈکٹس کی خصوصیات کے بارے میں مزید معلومات دریافت کریں
+‏3. اگر اپ ڈیٹ کے دوران آپ کو کوئی مسئلہ درپیش ہوتا ہے، تو آپ Honor سروس ہاٹ لائن پر کال کر کے یا Honor کسٹمر سروس سینٹر پر جا کر ہماری مدد حاصل کر سکتے ہیں</feature>
+         </features>
+    </language>
+            <language code="2115" name="uz-uz">
+                <features module="" type="header">
+            <feature>Hurmatli foydalanuvchi, ushbu yangilanish asosan tizim unumdorligini oshiradi. Takomillashtirishlardan foydalanish uchun yangilang</feature>
+        </features>
+        <features module="Suhbat tarjimasi">
+             <feature>• Endi suhbat tarjimasidan foydalanish mumkin. Bu yerda sinang: Sozlamalar > Honor AI > Suhbat Tarjimasi</feature>
+        </features>
+        <features module="Kamera">
+             <feature>• Kameraning ayrim holatlardagi tasvirga olish effekti optimallandi</feature>
+        </features>
+        <features module="Aloqa">
+             <feature>• Ayrim holatlardagi aloqa taassurotini optimallash.</feature>
+        </features>
+        <features module="Barqarorlik">
+             <feature>• Tizim barqarorligi yaxshilandi</feature>
+        </features>
+        <features module="Xavfsizlik tuzatmasi">
+             <feature>• Tizim xavfsizligi uchun Android xavfsizlik tuzatmasi (2025-yil, dekabr) kiritildi. Honor Xavfsizlik yangilanishlari haqida batafsil axborot olish uchun veb-saytimizga tashrif buyuring: https://www.honor.com/global/support/bulletin/2025/12</feature>
+        </features>
+         <features module="Eslatmalar" type="end">
+             <feature>1. Bu yangilanishni oʻrnatish shaxsiy maʼlumotlaringizga taʼsir qilmaydi, lekin yangilashdan oldin maʼlumotlaringizni zaxiralash tavsiya etiladi
+2. Maslahatlar ilovasida mahsulot xususiyatlari bilan batafsilroq tanishing
+3. Agar yangilash paytida muammolarga duch kelsangiz, Honor xizmatining tezkor raqamiga telefon qilish yoki Honor mijozlarga xizmat markaziga tashrif buyurish orqali yordam olishingiz mumkin</feature>
+         </features>
+    </language>
+            <language code="1066" name="vi-vn">
+                <features module="" type="header">
+            <feature>Người dùng thân mến, bản cập nhật này chủ yếu nâng cao hiệu suất hệ thống. Hãy cập nhật để tận hưởng các cải tiến</feature>
+        </features>
+        <features module="Dịch cuộc gọi">
+             <feature>• Tính năng Dịch cuộc gọi hiện đã hoạt động. Hãy dùng thử bằng cách vào: Cài đặt > Honor AI > Dịch cuộc gọi</feature>
+        </features>
+        <features module="Máy ảnh">
+             <feature>• Tối ưu hóa hiệu ứng quay/chụp của Máy ảnh trong một số trường hợp</feature>
+        </features>
+        <features module="Giao tiếp">
+             <feature>• Tối ưu hóa trải nghiệm giao tiếp trong một số tình huống.</feature>
+        </features>
+        <features module="Độ ổn định">
+             <feature>• Cải thiện độ ổn định của hệ thống</feature>
+        </features>
+        <features module="Bản vá bảo mật">
+             <feature>• Bản cập nhật này tích hợp Bản vá bảo mật Android (tháng 12 năm 2025) để bảo mật hệ thống. Để biết thêm thông tin về các Bản cập nhật bảo mật của Honor, vui lòng truy cập trang web của chúng tôi: https://www.honor.com/global/support/bulletin/2025/12</feature>
+        </features>
+         <features module="Ghi chú" type="end">
+             <feature>1. Việc cài đặt bản cập nhật này sẽ không ảnh hưởng đến dữ liệu cá nhân của bạn, nhưng bạn vẫn nên sao lưu dữ liệu trước khi cập nhật
+2. Khám phá thêm thông tin về các tính năng sản phẩm trong ứng dụng Mẹo
+3. Nếu gặp bất kỳ sự cố nào trong quá trình cập nhật, bạn có thể nhận trợ giúp của chúng tôi bằng cách gọi đến đường dây nóng dịch vụ của Honor hoặc đến trung tâm dịch vụ khách hàng của Honor</feature>
+         </features>
+    </language>
+            <language code="3076" name="zh-hk">
+                <features module="" type="header">
+            <feature>親愛的用戶，本次更新主要針對系統進行了優化，建議您進行更新</feature>
+        </features>
+        <features module="通話翻譯">
+             <feature>• 新增支援通話翻譯功能。體驗路徑：設定 > 榮耀 AI > 通話翻譯</feature>
+        </features>
+        <features module="相機">
+             <feature>• 優化部分場景的拍攝效果</feature>
+        </features>
+        <features module="通訊">
+             <feature>• 優化部分場景通訊體驗。</feature>
+        </features>
+        <features module="穩定性">
+             <feature>• 提升系統穩定性</feature>
+        </features>
+        <features module="安全性修補程式">
+             <feature>• 整合 Android 2025年12月的安全性修補程式，增強系統安全性。如需了解有關榮耀軟件安全更新內容的資訊，請瀏覽榮耀官方網站 https://www.honor.com/cn/support/bulletin/2025/12</feature>
+        </features>
+         <features module="更新注意事項" type="end">
+             <feature>1. 本次更新不會刪除您的用戶數據，但仍建議您在更新前做好數據備份
+2. 更多精彩功能介紹，請瀏覽「玩機技巧」應用程式
+3. 更新過程中，如果遇到任何問題，請致電榮耀品牌服務熱線或至榮耀品牌客戶服務中心尋求支援</feature>
+         </features>
+    </language>
+            <language code="1028" name="zh-tw">
+                <features module="" type="header">
+            <feature>親愛的使用者，本次更新主要針對系統進行了最佳化，建議您進行更新</feature>
+        </features>
+        <features module="通話翻譯">
+             <feature>• 新增支援通話翻譯功能。體驗路徑：設定 > 榮耀 AI > 通話翻譯</feature>
+        </features>
+        <features module="相機">
+             <feature>• 最佳化在部分場景下的拍攝效果</feature>
+        </features>
+        <features module="通訊">
+             <feature>• 最佳化部分場景下的通訊體驗。</feature>
+        </features>
+        <features module="穩定性">
+             <feature>• 提升系統穩定性</feature>
+        </features>
+        <features module="安全性修補程式">
+             <feature>• 整合 Android 2025 年 12 月的安全性修補程式，增強系統安全性。如需有關榮耀軟體安全更新內容的資訊，請造訪榮耀官方網站 https://www.honor.com/cn/support/bulletin/2025/12</feature>
+        </features>
+         <features module="更新注意事項" type="end">
+             <feature>1. 本次更新不會刪除您的使用者資料，但仍建議您在更新前做好資料備份
+2. 如需更多精彩功能介紹，請查看「玩機技巧」應用程式
+3. 在更新過程中，若遇到任何問題，請撥打榮耀品牌服務專線或前往榮耀品牌客戶服務中心尋求支援</feature>
+         </features>
+    </language>
+            <language code="1152" name="ug-cn">
+                <features module="" type="header">
+            <feature>ھۆرمەتلىك ئىشلەتكۈچى، بۇ قېتىملىق يېڭىلاشتا ئاساسلىقى سىستېمىغا قارىتا ئەلالاشتۇرۇش ئېلىپ بېرىلدى، يېڭىلاش تەۋسىيە قىلىنىدۇ</feature>
+        </features>
+        <features module="‏چاقىرىق تەرجىمە قىلىش">
+             <feature>‏• ‏چاقىرىق تەرجىمە قىلىش ئىقتىدارى يېڭىدىن قوشۇلدى. ئىشلىتىش يولى: تەڭشەك > ‏روڭياۋ AI > ‏چاقىرىق تەرجىمە قىلىش</feature>
+        </features>
+        <features module="‏‏كامېرا">
+             <feature>‏• بىر قىسىم كۆرۈنۈشلەردىكى سۈرەتكە ئېلىش ئۈنۈمى ئەلالاشتۇرۇلدى</feature>
+        </features>
+        <features module="‏ئالاقە">
+             <feature>• بىر قىسىم كۆرۈنۈشلەردىكى ئالاقە تەسىراتى ئەلالاشتۇرۇلدى.</feature>
+        </features>
+        <features module="‏‏مۇقىملىق">
+             <feature>‏• سىستېمىنىڭ مۇقىملىقى يۇقىرى كۆتۈرۈلدى</feature>
+        </features>
+        <features module="‏‏بىخەتەرلىك يامىقى">
+             <feature>‏• ئاندرويدنىڭ 2025-يىل 12-ئايلىق بىخەتەرلىك يامىقى قوشۇلغان بولۇپ، سىستېما بىخەتەرلىكى كۈچەيتىلدى. روڭياۋ يۇمشاق دېتالىنىڭ بىخەتەرلىك يېڭىلاش مەزمۇنىغا ئالاقىدار ئۇچۇرلار ئۈچۈن روڭياۋ ئورگان تەرەپ تور بېكىتى https://www.honor.com/cn/support/bulletin/2025/12 نى زىيارەت قىلىڭ.</feature>
+        </features>
+         <features module="‏يېڭىلاش بىلدۈرگۈسى" type="end">
+             <feature>‏1. بۇ قېتىملىق يېڭىلاش ئىشلەتكۈچى مەلۇماتىڭىزنى ئۆچۈرمەيدۇ، لېكىن يېڭىلاشتىن بۇرۇن يەنىلا مەلۇماتنى زاپاسلاشنى تەۋسىيە قىلىمىز
+‏2. تېخىمۇ كۆپ سەرخىل ئىقتىدارلارنى «ئىشلىتىش كۆرسەتمىسى» ئەپىنى زىيارەت قىلىپ كۆرۈڭ
+‏3. يېڭىلاش جەريانىدا ھەرقانداق مەسىلە كۆرۈلسە، روڭياۋ ماركىسى مۇلازىمەت قىزىق لىنىيەسىگە تېلېفون قىلىڭ ياكى روڭياۋ ماركىسى خېرىدارلار مۇلازىمەت مەركىزىدىن ياردەم سوراڭ</feature>
+         </features>
+    </language>
+            <language code="1031" name="de-at">
+                <features module="" type="header">
+            <feature>Sehr geehrter Nutzer, diese Aktualisierung verbessert hauptsächlich die Systemleistung. Nehmen Sie die Aktualisierung vor, um in den Genuss der Verbesserungen zu kommen</feature>
+        </features>
+        <features module="Anrufübersetzung">
+             <feature>• Anrufübersetzung ist jetzt verfügbar. Probieren Sie es aus, gehen Sie zu: Einstellungen > Honor AI > Anrufübersetzung</feature>
+        </features>
+        <features module="Kamera">
+             <feature>• Optimiert den Aufnahmeeffekt der Kamera in einigen Szenen</feature>
+        </features>
+        <features module="Kommunikation">
+             <feature>• Optimieren Sie die Kommunikation in einigen Szenarien.</feature>
+        </features>
+        <features module="Stabilität">
+             <feature>• Verbessert die Systemstabilität</feature>
+        </features>
+        <features module="Sicherheitspatch">
+             <feature>• Der Android Sicherheitspatch (Dez. 2025) für Systemsicherheit wurde integriert. Weitere Informationen über die Honor Sicherheitsaktualisierungen finden Sie auf unserer Website: https://www.honor.com/de/support/bulletin/2025/12</feature>
+        </features>
+         <features module="Notizen" type="end">
+             <feature>1. Die Installation dieses Updates hat keine Auswirkungen auf Ihre persönlichen Daten, es wird jedoch empfohlen, vor der Aktualisierung eine Sicherungskopie Ihrer Daten zu erstellen
+2. Entdecken Sie weitere Informationen zu den Produktfunktionen in Tipps
+3. Wenn bei der Aktualisierung Probleme auftreten, rufen Sie die Honor-Service-Hotline an oder besuchen Sie ein Honor-Kunden-Service-Center, um Unterstützung zu erhalten</feature>
+         </features>
+    </language>
+            <language code="1031" name="de-ch">
+                <features module="" type="header">
+            <feature>Sehr geehrter Nutzer, diese Aktualisierung verbessert hauptsächlich die Systemleistung. Nehmen Sie die Aktualisierung vor, um in den Genuss der Verbesserungen zu kommen</feature>
+        </features>
+        <features module="Anrufübersetzung">
+             <feature>• Anrufübersetzung ist jetzt verfügbar. Probieren Sie es aus, gehen Sie zu: Einstellungen > Honor AI > Anrufübersetzung</feature>
+        </features>
+        <features module="Kamera">
+             <feature>• Optimiert den Aufnahmeeffekt der Kamera in einigen Szenen</feature>
+        </features>
+        <features module="Kommunikation">
+             <feature>• Optimieren Sie die Kommunikation in einigen Szenarien.</feature>
+        </features>
+        <features module="Stabilität">
+             <feature>• Verbessert die Systemstabilität</feature>
+        </features>
+        <features module="Sicherheitspatch">
+             <feature>• Der Android Sicherheitspatch (Dez. 2025) für Systemsicherheit wurde integriert. Weitere Informationen über die Honor Sicherheitsaktualisierungen finden Sie auf unserer Website: https://www.honor.com/de/support/bulletin/2025/12</feature>
+        </features>
+         <features module="Notizen" type="end">
+             <feature>1. Die Installation dieses Updates hat keine Auswirkungen auf Ihre persönlichen Daten, es wird jedoch empfohlen, vor der Aktualisierung eine Sicherungskopie Ihrer Daten zu erstellen
+2. Entdecken Sie weitere Informationen zu den Produktfunktionen in Tipps
+3. Wenn bei der Aktualisierung Probleme auftreten, rufen Sie die Honor-Service-Hotline an oder besuchen Sie ein Honor-Kunden-Service-Center, um Unterstützung zu erhalten</feature>
+         </features>
+    </language>
+            <language code="1036" name="fr-ch">
+                <features module="" type="header">
+            <feature>Cher utilisateur, cette mise à jour améliore principalement les performances du système. Effectuez la mise à jour pour profiter des améliorations</feature>
+        </features>
+        <features module="Traduction d'appel">
+             <feature>• Traduction d'appel est désormais disponible. Essayez cette fonctionnalité en accédant à : Paramètres > Honor AI > Traduction d'appel</feature>
+        </features>
+        <features module="Appareil photo">
+             <feature>• Optimise l'effet de prise de vue d'Appareil photo dans certaines scènes</feature>
+        </features>
+        <features module="Communication">
+             <feature>• Optimise l'expérience de communication dans certains scénarios.</feature>
+        </features>
+        <features module="Stabilité">
+             <feature>• Améliore la stabilité du système</feature>
+        </features>
+        <features module="Correctif de sécurité">
+             <feature>• Un correctif de sécurité Android (décembre 2025) a été intégré pour la sécurité du système. Pour plus d'informations sur les mises à jour de sécurité Honor, veuillez consulter notre site Web https://www.honor.com/fr/support/bulletin/2025/12</feature>
+        </features>
+         <features module="Notes" type="end">
+             <feature>1. L'installation de cette mise à jour n'affectera pas vos données personnelles, mais il est tout de même recommandé de sauvegarder vos données avant la mise à jour
+2. Découvrez plus d'informations sur les fonctionnalités du produit dans Astuces
+3. Si vous rencontrez des problèmes pendant la mise à jour, vous pouvez obtenir de l'aide en contactant la hotline de service Honor ou en vous rendant dans un centre de services clients Honor</feature>
+         </features>
+    </language>
+            <language code="1040" name="it-ch">
+                <features module="" type="header">
+            <feature>Gentile utente, questo aggiornamento migliora principalmente le prestazioni del sistema. Esegui l'aggiornamento per usufruire dei miglioramenti</feature>
+        </features>
+        <features module="Traduzione chiamata">
+             <feature>• È ora disponibile Traduzione chiamata. Per provare la funzione, vai in: Impostazioni > Honor AI > Traduzione Chiamata</feature>
+        </features>
+        <features module="Fotocamera">
+             <feature>• Viene ottimizzato l'effetto di scatto della Fotocamera in alcune scene</feature>
+        </features>
+        <features module="Comunicazione">
+             <feature>• Viene ottimizzata l'esperienza di comunicazione in alcuni scenari.</feature>
+        </features>
+        <features module="Stabilità">
+             <feature>• Viene migliorata la stabilità del sistema</feature>
+        </features>
+        <features module="Patch di sicurezza">
+             <feature>• È stata incorporata la patch di sicurezza di Android (dicembre 2025) per garantire la sicurezza del sistema. Per ulteriori informazioni sugli aggiornamenti di sicurezza Honor, visita il sito Web all'indirizzo https://www.honor.com/it/support/bulletin/2025/12</feature>
+        </features>
+         <features module="Note" type="end">
+             <feature>1. L'installazione di questo aggiornamento non avrà effetto sulle informazioni personali, ma si consiglia comunque di effettuare un backup dei dati prima di procedere
+2. Scopri ulteriori informazioni sulle funzioni del prodotto in Suggerimenti
+3. In caso di problemi durante l'aggiornamento, puoi richiedere assistenza chiamando il servizio call center Honor o visitando un centro servizio clienti Honor</feature>
+         </features>
+    </language>
+            <language code="2074" name="sr-ba">
+                <features module="" type="header">
+            <feature>Poštovani korisniče, ovim ažuriranjem se unapređuju performanse sistema. Ažurirajte da biste uživali u unapređenjima</feature>
+        </features>
+        <features module="Prevod poziva">
+             <feature>• Sada je dostupan Prevod Poziva. Isprobajte ga odlaskom u opciju: Podešavanja > Honor AI > Prevod Poziva</feature>
+        </features>
+        <features module="Kamera">
+             <feature>• Optimizuje efekat snimanja Kamere u nekim scenama</feature>
+        </features>
+        <features module="Komunikacija">
+             <feature>• Optimizuje iskustvo komunikacije u određenim scenarijima.</feature>
+        </features>
+        <features module="Stabilnost">
+             <feature>• Poboljšava stabilnost sistema</feature>
+        </features>
+        <features module="Bezbednosna zakrpa">
+             <feature>• Integrisana je bezbednosna zakrpa za Android (decembar 2025.) za bezbednost sistema. Za još informacija o bezbednosnim ažuriranjima koja sprovodi kompanija Honor, posetite naš veb-sajt https://www.honor.com/rs/support/bulletin/2025/12</feature>
+        </features>
+         <features module="Zabeleške" type="end">
+             <feature>1. Instaliranje ovog ažuriranja neće uticati na vaše lične podatke, ali se ipak preporučuje da napravite rezervnu kopiju podataka pre ažuriranja
+2. Otkrijte više informacija o karakteristikama proizvoda u odeljku Saveti
+3. Ako naiđete na bilo kakve probleme tokom ažuriranja, možete dobiti našu pomoć pozivom dežurne linije kompanije Honor ili posetom centru za korisničku podršku kompanije Honor</feature>
+         </features>
+    </language>
+            <language code="2074" name="sr-me">
+                <features module="" type="header">
+            <feature>Poštovani korisniče, ovim ažuriranjem se unapređuju performanse sistema. Ažurirajte da biste uživali u unapređenjima</feature>
+        </features>
+        <features module="Prevod poziva">
+             <feature>• Sada je dostupan Prevod Poziva. Isprobajte ga odlaskom u opciju: Podešavanja > Honor AI > Prevod Poziva</feature>
+        </features>
+        <features module="Kamera">
+             <feature>• Optimizuje efekat snimanja Kamere u nekim scenama</feature>
+        </features>
+        <features module="Komunikacija">
+             <feature>• Optimizuje iskustvo komunikacije u određenim scenarijima.</feature>
+        </features>
+        <features module="Stabilnost">
+             <feature>• Poboljšava stabilnost sistema</feature>
+        </features>
+        <features module="Bezbednosna zakrpa">
+             <feature>• Integrisana je bezbednosna zakrpa za Android (decembar 2025.) za bezbednost sistema. Za još informacija o bezbednosnim ažuriranjima koja sprovodi kompanija Honor, posetite naš veb-sajt https://www.honor.com/rs/support/bulletin/2025/12</feature>
+        </features>
+         <features module="Zabeleške" type="end">
+             <feature>1. Instaliranje ovog ažuriranja neće uticati na vaše lične podatke, ali se ipak preporučuje da napravite rezervnu kopiju podataka pre ažuriranja
+2. Otkrijte više informacija o karakteristikama proizvoda u odeljku Saveti
+3. Ako naiđete na bilo kakve probleme tokom ažuriranja, možete dobiti našu pomoć pozivom dežurne linije kompanije Honor ili posetom centru za korisničku podršku kompanije Honor</feature>
+         </features>
+    </language>
+            <language code="1057" name="id-">
+                <features module="" type="header">
+            <feature>Pengguna yang terhormat, pembaruan ini utamanya meningkatkan kinerja sistem. Instal pembaruan untuk menikmati berbagai peningkatan</feature>
+        </features>
+        <features module="Terjemahan panggilan">
+             <feature>• Penerjemahan panggilan kini tersedia. Cobalah dengan membuka: Pengaturan > Honor AI > Terjemahan Panggilan</feature>
+        </features>
+        <features module="Kamera">
+             <feature>• Mengoptimalkan efek pemotretan Kamera di beberapa skenario</feature>
+        </features>
+        <features module="Komunikasi">
+             <feature>• Mengoptimalkan pengalaman komunikasi dalam situasi tertentu.</feature>
+        </features>
+        <features module="Stabilitas">
+             <feature>• Meningkatkan stabilitas sistem</feature>
+        </features>
+        <features module="Penambal keamanan">
+             <feature>• Penambal keamanan Android (Des 2025) telah disertakan untuk keamanan sistem. Untuk informasi selengkapnya tentang pembaruan Keamanan Honor, kunjungi situs web kami https://www.honor.com/global/support/bulletin/2025/12</feature>
+        </features>
+         <features module="Catatan" type="end">
+             <feature>1. Menginstal pembaruan ini tidak akan memengaruhi data pribadi Anda, tetapi tetap direkomendasikan untuk mencadangkan data Anda sebelum memperbarui
+2. Pelajari informasi selengkapnya terkait fitur produk di Kiat
+3. Jika Anda mengalami masalah selama pembaruan, Anda bisa mendapatkan bantuan kami dengan menghubungi saluran siaga layanan Honor atau mengunjungi pusat layanan pelanggan Honor</feature>
+         </features>
+    </language>
+            <language code="1037" name="he-">
+                <features module="" type="header">
+            <feature>משתמש יקר, עדכון זה משפר בעיקר את ביצועי המערכת. עדכן כדי ליהנות מהשיפורים</feature>
+        </features>
+        <features module="תרגום שיחות">
+             <feature>‏• 'תרגום שיחות' זמין כעת. כדי לנסות, אפשר לעבור אל: 'הגדרות' > ‏‏Honor AI > 'תרגום שיחות'</feature>
+        </features>
+        <features module="מצלמה">
+             <feature>‏• ממטב את אפקט הצילום ב'מצלמה' בסצנות מסוימות</feature>
+        </features>
+        <features module="תקשורת">
+             <feature>‏• מיטב את חוויית התקשורת בתרחישים מסוימים.</feature>
+        </features>
+        <features module="יציבות">
+             <feature>‏‏• משפר את יציבות המערכת</feature>
+        </features>
+        <features module="תיקון אבטחה">
+             <feature>‏• 'תיקון אבטחה של Android' (מדצמ' 2025) שולב למען אבטחת המערכת. למידע נוסף על עדכוני 'אבטחה של Honor', אפשר לבקר באתר האינטרנט שלנו בכתובת: https://www.honor.com/global/support/bulletin/2025/12</feature>
+        </features>
+         <features module="הערות" type="end">
+             <feature>‏1. התקנת עדכון זה לא תשפיע על הנתונים האישיים שלך, אך עדיין מומלץ לגבות את הנתונים לפני העדכון
+‏2. גלה מידע נוסף על תכונות המוצר ב'טיפים'
+‏3. אם תיתקל בבעיות כלשהן במהלך העדכון, ניתן לקבל עזרה מאיתנו באמצעות התקשרות לקו החם של השירות של Honor או ביקור במרכז שירות לקוחות של Honor</feature>
+         </features>
+    </language>
+            <language code="1124" name="fil-ph">
+                <features module="" type="header">
+            <feature>Minamahal na user, pangunahing pinapahusay ng update na ito ang performance ng system. I-update para i-enjoy ang mga pagpapahusay</feature>
+        </features>
+        <features module="Pagsasalin ng tawag">
+             <feature>• Available na ang pagsasalin ng tawag. Subukan ito sa pamamagitan ng pagpunta sa: Mga Setting > Honor AI > Pagsasalin ng Tawag</feature>
+        </features>
+        <features module="Camera">
+             <feature>• Ino-optimize ang effect sa pag-shoot ng Camera sa ilang sitwasyon</feature>
+        </features>
+        <features module="Pakikipag-ugnayan">
+             <feature>• I-optimize ang karanasan sa pakikipag-ugnayan sa ilang sitwasyon.</feature>
+        </features>
+        <features module="Stability">
+             <feature>• Pinapahusay ang stability ng system</feature>
+        </features>
+        <features module="Panseguridad na patch">
+             <feature>• Isinama ang panseguridad na patch ng Android (Dis 2025) para sa seguridad ng system. Para sa higit pang impormasyon tungkol sa mga Panseguridad na update ng Honor, bisitahin ang aming website sa https://www.honor.com/global/support/bulletin/2025/12</feature>
+        </features>
+         <features module="Mga Tala" type="end">
+             <feature>1. Hindi makakaapekto ang pag-install sa update na ito sa iyong personal na data, pero inirerekomenda pa ring i-back up ang iyong data bago mag-update
+2. Tuklasin ang higit pang impormasyon sa mga feature ng produkto sa Mga Tip
+3. Kung makaranas ka ng anumang isyu habang nag-a-update, makukuha mo ang tulong namin sa pamamagitan ng pagtawag sa hotline ng serbisyo ng Honor o pagbisita sa customer service center ng Honor</feature>
+         </features>
+    </language>
+            <imgs>
+            </imgs>
+</root>

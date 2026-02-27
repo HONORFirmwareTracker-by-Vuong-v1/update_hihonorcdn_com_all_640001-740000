@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>21067288</compressCowSize>
+<cowsize>2166353920</cowsize>
+<payloadOffset>916</payloadOffset>
+<fileHash>Ehi/3U//7Jkf+2QTVZxr4GAKeDYo4iPDkuW5Jy3TwzE=</fileHash>
+<fileSize>116906</fileSize>
+<metadataHash>B9kuD1cW4P+PdG5bVarzafcJ0lCMCKvXcTCU62EqVo4=</metadataHash>
+<metadataSize>32985</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_MBH-N49_def_eea_R2.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_MBH-N49_def_eea_R2.zip</spath>
+<dpath>update_preload_MBH-N49_def_eea_R2.zip</dpath>
+<operation>c</operation>
+<sha256>5242E339E63E94F1AE42DD1DFBE06A6A2693061D8FA982900C88027B68F0F642</sha256>
+<size>124227</size>
+</file>
+</files>
+</root>

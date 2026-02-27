@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1214738432</cowsize>
+<payloadOffset>907</payloadOffset>
+<fileHash>DUhFGWe1SZ4MwVhtAvr19Nn2Hh2nmwwwTKnmD36JZUE=</fileHash>
+<fileSize>11482</fileSize>
+<metadataHash>E3RlGM6ibuE7jvDvEyAiyW4t04bqbhtIs3t1bwjttlk=</metadataHash>
+<metadataSize>7979</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_DNY-N09_def_la_R100.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_DNY-N09_def_la_R100.zip</spath>
+<dpath>update_preload_DNY-N09_def_la_R100.zip</dpath>
+<operation>c</operation>
+<sha256>3BB96241FEB2D569E53A14A3361782B4871793F8C985B592471CD21CFDC9787F</sha256>
+<size>18789</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<cowsize>43806720</cowsize>
+<payloadOffset>843</payloadOffset>
+<fileHash>7PVge7Ab0/B1ByLPU9Q3zF5iJlZlCooyKo43b303h2E=</fileHash>
+<fileSize>3953</fileSize>
+<metadataHash>y7KqD9xZeI6MRX67ouWFpCliti/B6gAjR/ZpQ4r+2To=</metadataHash>
+<metadataSize>1487</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<preAdjustFeature>false</preAdjustFeature>
+<vendorInfo name="cust" package="update_cust_DIO-AN90_all_cn.zip" precut_size="0" subpath=""/>
+<GROUP version="NA"/>
+<GBC version="NA"/>
+<files>
+<file>
+<spath>update_cust_DIO-AN90_all_cn.zip</spath>
+<dpath>update_cust_DIO-AN90_all_cn.zip</dpath>
+<operation>c</operation>
+<sha256>FEFACA20F739493EBA03EB65DA50552828BF17E8F2E711ADCB92358180953457</sha256>
+<size>11191</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>base</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>7000780800</cowsize>
+<superFreeSize>3528458240</superFreeSize>
+<payloadOffset>941</payloadOffset>
+<fileHash>6cg2QTWu7bN5CQ10Nyvl7JNUa1OgKH1qA8SXMwBxSA8=</fileHash>
+<fileSize>220621208</fileSize>
+<metadataHash>PwK+PmdCLZGSrNWg8EnQo3bVxfxJjpCmiNGHkAfaL4g=</metadataHash>
+<metadataSize>950800</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<CopyLargeModel>
+<model>
+<type>PSDM</type>
+<branch>SM8750-NPU-900M-CM</branch>
+<srcDir>/ai_model_vendor/region_comm/oversea/camera</srcDir>
+<dstDir>/data/vendor/res/PSDM</dstDir>
+<maxSize>872415232</maxSize>
+</model>
+</CopyLargeModel>
+<vendorInfo name="base" package="update_base.zip" precut_size="268435456" subpath=""/>
+<userlicense language="default" version="202003"/>
+<files>
+<file>
+<spath>update_base.zip</spath>
+<dpath>update_base.zip</dpath>
+<operation>c</operation>
+<sha256>C9B2AF663A6D955A04C410BC019504F8314683289FCE9D9709C9CA5517D1EEFB</sha256>
+<size>220628903</size>
+</file>
+</files>
+</root>

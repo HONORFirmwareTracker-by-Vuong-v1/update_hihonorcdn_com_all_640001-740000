@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1465520128</cowsize>
+<payloadOffset>940</payloadOffset>
+<fileHash>ucWCbTvSf2fODG0Q/IWkYyBQ7j02J0OiTy1ASAf0m2c=</fileHash>
+<fileSize>187751851</fileSize>
+<metadataHash>TbE/+2c+Y7iBendFXtrz+AILsAN671hOg6U8deKyYrM=</metadataHash>
+<metadataSize>23196</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_DNY-N09_telcel_mx.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_DNY-N09_telcel_mx.zip</spath>
+<dpath>update_cust_DNY-N09_telcel_mx.zip</dpath>
+<operation>c</operation>
+<sha256>3AD6920424AF125B7A8783BACF50172C21938E20AC3FB22C6F5F6E50B2736DC0</sha256>
+<size>187759183</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>642088960</cowsize>
+<payloadOffset>923</payloadOffset>
+<fileHash>fIIa9n0JelOl4vP9zIxOAuOZ+5rL69boRxCtXPjN65U=</fileHash>
+<fileSize>5266921</fileSize>
+<metadataHash>FrDtNlfiFAls0CvDhLU9E3gvbvxRhdtABPzuIjtn6ig=</metadataHash>
+<metadataSize>4910</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_DNY-N39_opr_eea_R2.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_DNY-N39_opr_eea_R2.zip</spath>
+<dpath>update_preload_DNY-N39_opr_eea_R2.zip</dpath>
+<operation>c</operation>
+<sha256>F775E59F7C9D68CCD8D66A6FD697F3A7CD2201303FB419B9721EA9F4972D4EEB</sha256>
+<size>5274250</size>
+</file>
+</files>
+</root>

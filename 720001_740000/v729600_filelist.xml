@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>41361408</cowsize>
+<payloadOffset>899</payloadOffset>
+<fileHash>BBwg7a8uaB97YB1zlqCeaWr5KFlr8pxz/KQDN9zPH2c=</fileHash>
+<fileSize>4768</fileSize>
+<metadataHash>OSuoPcAaCYeM6Uj8+7CR6FmmWbH/6VZyQM9va6mNnuM=</metadataHash>
+<metadataSize>1087</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_LNA-L32_def_meafnaf.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_LNA-L32_def_meafnaf.zip</spath>
+<dpath>update_cust_LNA-L32_def_meafnaf.zip</dpath>
+<operation>c</operation>
+<sha256>1A376408C6607BF2F4CF8459958B2388BB0C81EFF31CCFCCF80AA23BC4A3F6EB</sha256>
+<size>12061</size>
+</file>
+</files>
+</root>

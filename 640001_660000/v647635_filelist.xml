@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>596086784</cowsize>
+<payloadOffset>931</payloadOffset>
+<fileHash>oA3Y5GxE/d04ScOdBR7WHdXavLwVyZ2yyjKOYcwaGlg=</fileHash>
+<fileSize>82298396</fileSize>
+<metadataHash>mvKcZsP6EduUCa9m6s03iVzZabIZJeq9eeUadc4ZF8s=</metadataHash>
+<metadataSize>6603</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_JDY-L52_opr_meafnaf.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_JDY-L52_opr_meafnaf.zip</spath>
+<dpath>update_cust_JDY-L52_opr_meafnaf.zip</dpath>
+<operation>c</operation>
+<sha256>4022688B12B1FC5FF01A2F82816D56B0FD1B32A69506FA74515330D2210C5BD5</sha256>
+<size>82305715</size>
+</file>
+</files>
+</root>

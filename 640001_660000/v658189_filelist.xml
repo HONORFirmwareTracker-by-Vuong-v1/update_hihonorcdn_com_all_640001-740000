@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1992409088</cowsize>
+<payloadOffset>940</payloadOffset>
+<fileHash>AYOkMvHpjGQiEv1ujGNqPx6TpYL3Zm+71I3FnlK2u1w=</fileHash>
+<fileSize>395266062</fileSize>
+<metadataHash>/Mzg/O3MoHy3sfdCy8BDZeEOzwcAN6cjMsKmIp5fAkQ=</metadataHash>
+<metadataSize>32029</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_DNY-N09_claro_la.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_DNY-N09_claro_la.zip</spath>
+<dpath>update_cust_DNY-N09_claro_la.zip</dpath>
+<operation>c</operation>
+<sha256>40E5749C316592717793B1DB056371CC4DEA892BD4A6FC472D4275A6158076E2</sha256>
+<size>395273395</size>
+</file>
+</files>
+</root>

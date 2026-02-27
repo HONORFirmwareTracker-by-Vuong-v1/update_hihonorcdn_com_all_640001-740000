@@ -1,0 +1,14 @@
+<root>
+	<packageName>com.hihonor.visionengine</packageName>
+	<pluginName>visionlayout</pluginName>
+	<versionCode>100600018</versionCode>
+	<packageType>increment</packageType>
+	<files>
+		<file>
+			<spath>update_plugin.zip</spath>
+			<dpath>update_plugin.zip</dpath>
+			<sha256>b3987794f3536b6545eade68fdbfdb6f6e4f42ca7a8523133cefdbff42ba9c88</sha256>
+			<size>135743</size>
+		</file>
+	</files>
+</root>

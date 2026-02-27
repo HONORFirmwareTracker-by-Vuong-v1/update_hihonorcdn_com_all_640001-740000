@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>12931650</compressCowSize>
+<cowsize>44179456</cowsize>
+<payloadOffset>907</payloadOffset>
+<fileHash>Byxp2VqsVbhdqxcYUFcoHmz3paajyfkW/GTDOkrwe1w=</fileHash>
+<fileSize>76791</fileSize>
+<metadataHash>SSPFF6UpoGJeokBPQzxRpd7Y721xpyj7q2JY3kdX4x8=</metadataHash>
+<metadataSize>1122</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_ROL-W60_all_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_ROL-W60_all_cn.zip</spath>
+<dpath>update_cust_ROL-W60_all_cn.zip</dpath>
+<operation>c</operation>
+<sha256>EA43D0B37086B65E24616365CCCF93E0CB7C23207FB36A82759E52E3CA690F8E</sha256>
+<size>84091</size>
+</file>
+</files>
+</root>

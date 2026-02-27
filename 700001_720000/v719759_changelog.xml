@@ -1,0 +1,1111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <component name="TCPU" version="请自行修改"/>
+    <default-language name="en-us">1033</default-language>
+        <language name="en-us" code="1033">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>The resource files will be updated to enhance the user experience of the system. Update to enjoy the improvements.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Speech synthesis detection model">
+            <!-- 正文 -->
+            <feature>Uses models to identify speech synthesis risk in audio calls.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="am-et" code="1118">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>የስርዓቱን የተጠቃሚ ተሞክሮ ለማሻሻል የመርጃ ፋይሎቹ ይዘምናሉ። በማሻሻያዎቹ ለመደሰት ያዘምኑ።</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="የንግግር ሲንተሲስ ማወቂያ ሞዴል">
+            <!-- 正文 -->
+            <feature>በድምጽ ጥሪዎች ውስጥ የንግግር ሲንተሲስ ስጋትን ለይቶ ለማወቅ ሞዴሎችን ይጠቀማል።</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="ar-eg" code="3073">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>سيتم تحديث ملفات الموارد لتحسين تجربة النظام من قِبل المستخدم. للاستمتاع بالتحسينات، ما عليك سوى التحديث.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="نموذج اكتشاف تركيب الكلام">
+            <!-- 正文 -->
+            <feature>يستخدم النماذج لتحديد مخاطر تركيب الكلام في المكالمات الصوتية.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="as-in" code="1101">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>ছিষ্টেমটোৰ ব্যৱহাৰকাৰী অভিজ্ঞতা উন্নত কৰিবলৈ সম্পদ ফাইলসমূহ আপডেট কৰা হ\'ব। উন্নতকৰণসমূহ উপভোগ কৰিবলৈ আপডেট কৰক।</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="স্পিচ্চ চিন্থেছিচ চিনাক্তকৰণ মডেল">
+            <!-- 正文 -->
+            <feature>অডিঅ\' কলসমূহত স্পিচ্চ চিন্থেছিচৰ বিপদাশংকা চিনাক্ত কৰিবলৈ মডেলসমূহ ব্যৱহাৰ কৰে।</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="az-az" code="1068">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Sistem üzrə istifadəçi təcrübəsini təkmilləşdirmək üçün resurs faylları yenilənəcək. Təkmilləşdirmələrdən faydalanmaq üçün yeniləyin.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Nitq sintezinin aşkarlanması modeli">
+            <!-- 正文 -->
+            <feature>Audio zənglərdə nitq sintezi riskini müəyyənləşdirmək üçün nəzərdə tutulmuş modellərdən istifadə edir.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="jv-id" code="1033">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>File sumber daya bakal dianyarake kanggo ningkatake pangalaman pengguna ing sistem. Anyarake kanggo ngrasakake pangapikan kasebut.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Model deteksi sintesis wicara">
+            <!-- 正文 -->
+            <feature>Nggunakake model kanggo ngenali risiko sintesis wicara ing telpon audio.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="sr-rs" code="2074">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Datoteke resursa će biti ažurirane kako bi se poboljšalo korisničko iskustvo sistema. Ažurirajte da biste uživali u poboljšanjima.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Model detekcije sinteze govora">
+            <!-- 正文 -->
+            <feature>Koristi modele za identifikaciju rizika sinteze govora u audio-pozivima.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="be-by" code="1059">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Файлы рэсурсаў будуць абноўлены, каб палепшыць карыстальніцкі досвед праграмы. Абнавіце, каб атрымаць паляпшэнні.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Мадэль выяўлення сінтэзу маўлення">
+            <!-- 正文 -->
+            <feature>Выкарыстоўвае мадэлі для выяўлення рызыкі сінтэзу мовы ў аўдыявыкліках.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="bg-bg" code="1026">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Файловете с ресурси ще бъдат актуализирани, за да се подобри потребителският опит със системата. Актуализирайте, за да се насладите на подобренията.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Модел за откриване на синтез на реч">
+            <!-- 正文 -->
+            <feature>Използва модели за идентифициране на риска от синтез на реч в аудио разговори.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="bn-bd" code="2117">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>ব্যবহারকারীর সিস্টেমের অভিজ্ঞতা উন্নত করতে রিসোর্স ফাইলগুলি আপডেট করা হবে। উন্নতি উপভোগ করতে আপডেট করুন।</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="স্পিচ সিনথেসিস শনাক্তকরণ মডেল">
+            <!-- 正文 -->
+            <feature>অডিও কলে স্পিচ সিনথেসিসের ঝুঁকি শনাক্ত করতে মডেলগুলি ব্যবহার করে।</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="bs-ba" code="5146">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Datoteke resursa će biti ažurirane kako bi se poboljšalo korisničko iskustvo sistema. Ažurirajte da biste uživali u poboljšanjima.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Model otkrivanja sinteze govora">
+            <!-- 正文 -->
+            <feature>Koristi modele za identifikaciju rizika sinteze govora u audio pozivima.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="ca-es" code="1027">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Els fitxers de recursos s\'actualitzaran per millorar l\'experiència d\'usuari del sistema. Actualitzeu per gaudir de les millores.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Model de detecció de síntesi de veu">
+            <!-- 正文 -->
+            <feature>Utilitza models per identificar el risc de síntesi de veu en les trucades d\'àudio.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="cs-cz" code="1029">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Soubory zdrojů budou aktualizovány, aby se zlepšil uživatelský zážitek ze systému. Aktualizujte, abyste si mohli užít vylepšení.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Model detekce syntézy řeči">
+            <!-- 正文 -->
+            <feature>Používá modely k identifikaci rizika syntézy řeči v audiohovorech.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="da-dk" code="1030">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Ressourcefilerne vil blive opdateret for at forbedre brugeroplevelsen af systemet. Opdater for at nyde forbedringerne.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Model til registrering af talesynteser">
+            <!-- 正文 -->
+            <feature>Bruger modeller til at identificere talesynteserisiko i lydopkald.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="de-de" code="1031">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Die Ressourcendateien werden aktualisiert, um das Benutzererlebnis des Systems zu verbessern. Nehmen Sie die Aktualisierung vor, um in den Genuss der Verbesserungen zu kommen.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Modell zur Erkennung der Sprachsynthese">
+            <!-- 正文 -->
+            <feature>Verwendet Modelle, um das Risiko der Sprachsynthese bei Audioanrufen zu identifizieren.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="el-gr" code="1032">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Τα αρχεία πόρων θα ενημερωθούν για τη βελτίωση της εμπειρίας χρήστη του συστήματος. Πραγματοποιήστε ενημέρωση για να απολαύσετε τις βελτιώσεις.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Μοντέλο ανίχνευσης σύνθεσης ομιλίας">
+            <!-- 正文 -->
+            <feature>Χρησιμοποιεί μοντέλα για τον εντοπισμό κινδύνου σύνθεσης ομιλίας σε ηχητικές κλήσεις.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="en-gb" code="2057">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>The resource files will be updated to enhance the user experience of the system. Update to enjoy the improvements.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Speech synthesis detection model">
+            <!-- 正文 -->
+            <feature>Uses models to identify speech synthesis risk in audio calls.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="es-es" code="1034">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Los archivos de recursos se actualizarán para mejorar la experiencia de usuario del sistema. Actualice para disfrutar de las mejoras.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Modelo de detección de síntesis de voz">
+            <!-- 正文 -->
+            <feature>Utiliza modelos para identificar el riesgo de síntesis de voz en llamadas de audio.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="es-us" code="21514">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Se actualizarán los archivos de recursos para mejorar la experiencia de uso del sistema. Actualice para disfrutar de las mejoras.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Modelo de detección de síntesis de voz">
+            <!-- 正文 -->
+            <feature>Utiliza modelos para identificar riesgos de síntesis de voz en llamadas de audio.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="et-ee" code="1061">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Ressursifaile värskendatakse, et parandada süsteemi kasutajakogemust. Värskendage täiustuste nautimiseks.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Kõnesünteesi tuvastamise mudel">
+            <!-- 正文 -->
+            <feature>Kasutab mudeleid kõnesünteesi riski tuvastamiseks audiokõnedes.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="eu-es" code="1069">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Baliabide-fitxategiak eguneratu egingo dira, sistemaren erabiltzailearen esperientzia hobetzeko. Eguneratu hobekuntzez gozatzeko.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Hizketa sintetizatua detektatzeko eredua">
+            <!-- 正文 -->
+            <feature>Audio-deietan ahotsa sintetizatzeko arriskua identifikatzeko ereduak erabiltzen ditu.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="fa-ir" code="1065">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>‏فایل‌های منابع به‌روزرسانی می‌شوند تا تجربه کاربری سیستم بهبود یابد. برای بهره‌مندی از بهبودها، به‌روزرسانی کنید.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="‏مدل شناسایی تولید گفتار">
+            <!-- 正文 -->
+            <feature>‏از مدل‌ها برای شناسایی خطرات تولید گفتار در تماس‌های صوتی استفاده می‌کند.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="fi-fi" code="1035">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Resurssitiedostot päivitetään järjestelmän käyttökokemuksen parantamista varten. Päivitä, niin pääset nauttimaan parannuksista.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Puhesynteesin tunnistusmalli">
+            <!-- 正文 -->
+            <feature>Käyttää malleja puhesynteesiriskin tunnistamiseen äänipuheluissa.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="fr-fr" code="1036">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Les fichiers de ressources seront mis à jour pour améliorer l\'expérience utilisateur du système. Effectuez la mise à jour pour profiter des améliorations.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Modèle de détection de synthèse vocale">
+            <!-- 正文 -->
+            <feature>Utilise des modèles pour identifier le risque de synthèse vocale dans les appels audio.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="gl-es" code="1110">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Os ficheiros de recursos actualizaranse para mellorar a experiencia do usuario do sistema. Actualice para gozar das melloras.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Modelo de detección de síntese de voz">
+            <!-- 正文 -->
+            <feature>Emprega modelos para identificar o risco de síntese de voz en chamadas de audio.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="gu-in" code="1095">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>સિસ્ટમના વપરાશકર્તા અનુભવને વધારવા માટે સંસાધન ફાઇલો અપડેટ કરવામાં આવશે. સુધારાનો આનંદ માણવા માટે અપડેટ કરો.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="સ્પીચ સિન્થેસિસ ડિટેક્શન મોડેલ">
+            <!-- 正文 -->
+            <feature>ઑડિયો કૉલ્સમાં સ્પીચ સિન્થેસિસના જોખમને ઓળખવા માટે મોડેલનો ઉપયોગ કરે છે.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="hi-in" code="1081">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>सिस्टम के उपयोगकर्ता अनुभव को बेहतर बनाने के लिए संसाधन फ़ाइलों का अद्यतन किया जाएगा। सुधारों का फ़ायदा उठाने के लिए अद्यतन करें।</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="बोली संश्लेषण पहचान मॉडल">
+            <!-- 正文 -->
+            <feature>ऑडियो कॉल्स में वाक् संश्लेषण जोखिम की पहचान करने के लिए मॉडल का उपयोग किया जाता है।</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="hr-hr" code="1050">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Datoteke resursa ažurirat će se za poboljšano korisničko iskustvo upotrebe sustava. Ažurirajte kako biste uživali u poboljšanjima.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Model otkrivanja sinteze govora">
+            <!-- 正文 -->
+            <feature>Služi se modelima za identifikaciju rizika od sinteze govora u audiopozivima.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="hu-hu" code="1038">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>A forrásfájlokat frissíteni fogjuk a rendszer felhasználói élményének javítása érdekében. Frissítést, hogy élvezhesse a továbbfejlesztéseket.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Beszédszintézis-észlelési modell">
+            <!-- 正文 -->
+            <feature>Modellek segítségével azonosítja a beszédszintézis kockázatát hanghívásokban.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="in-id" code="1057">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>File sumber daya akan diperbarui untuk meningkatkan pengalaman pengguna sistem. Perbarui untuk menikmati peningkatan.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Model deteksi sintesis suara">
+            <!-- 正文 -->
+            <feature>Menggunakan model untuk mengidentifikasi risiko sintesis suara di panggilan audio.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="it-it" code="1040">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>I file di risorse verranno aggiornati per migliorare l\'esperienza utente del sistema. Esegui l\'aggiornamento per usufruire dei miglioramenti.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Modello di rilevamento della sintesi vocale">
+            <!-- 正文 -->
+            <feature>Utilizza modelli per identificare il rischio di sintesi vocale nelle chiamate audio.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="iw-il" code="1037">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>‏קובצי המשאבים יעודכנו כדי לשפר את חוויית המשתמש במערכת. עדכן כדי ליהנות מהשיפורים.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="‏מודל גילוי סינתזת דיבור">
+            <!-- 正文 -->
+            <feature>‏משתמש במודלים לזיהוי סיכון לסינתזת דיבור בשיחות שמע.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="ja-jp" code="1041">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>リソースファイルが更新され、システムのユーザー体験が向上します。更新して、改善をお楽しみください。</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="音声合成検出モデル">
+            <!-- 正文 -->
+            <feature>モデルを使用して、音声通話での音声合成リスクを特定します。</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="ka-ge" code="1079">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>რესურსის ფაილები განახლდება სისტემის მომხმარებლის გამოცდილების გასაუმჯობესებლად. განაახლეთ, რომ ისარგებლოთ გაუმჯობესებებით.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="მეტყველების სინთეზირების გამოვლენის მოდელი">
+            <!-- 正文 -->
+            <feature>იყენებს მოდელებს მეტყველების სინთეზირების რისკის დასადგენად აუდიო ზარებში.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="kk-kz" code="1087">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Жүйенің пайдаланушы тәжірибесін жақсарту үшін ресурс файлдары жаңартылады. Жақсартуларды пайдалану үшін жаңартыңыз.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Сөйлеу синтезін анықтау моделі">
+            <!-- 正文 -->
+            <feature>Аудио қоңыраулардағы сөйлеу синтезі қаупін анықтау үшін үлгілерді пайдаланады.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="km-kh" code="1107">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>ឯកសារធនធាននឹងត្រូវបានធ្វើបច្ចុប្បន្នភាព ដែលនឹងបង្កើនបទពិសោធអ្នកប្រើប្រព័ន្ធ។ ធ្វើបច្ចុប្បន្នភាពដើម្បីរីករាយនឹងការកែលម្អ។</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="គំរូការរកឃើញការសំយោគការនិយាយ">
+            <!-- 正文 -->
+            <feature>ប្រើគំរូដើម្បីកំណត់ហានិភ័យនៃការសំយោគសំដីនៅក្នុងការហៅជាសំឡេង។</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="kn-in" code="1099">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>ಸಿಸ್ಟಂನ ಬಳಕೆದಾರರ ಅನುಭವವನ್ನು ವರ್ಧಿಸಲು ಸಂಪನ್ಮೂಲ ಫೈಲ್‌ಗಳನ್ನು ನವೀಕರಿಸಲಾಗುತ್ತದೆ. ಸುಧಾರಣೆಗಳನ್ನು ಆನಂದಿಸಲು ನವೀಕರಿಸಿ.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="ಮಾತು ಸಂಶ್ಲೇಷಣೆ ಪತ್ತೆ ಮಾದರಿ">
+            <!-- 正文 -->
+            <feature>ಆಡಿಯೋ ಕರೆಗಳಲ್ಲಿ ಮಾತು ಸಂಶ್ಲೇಷಣೆಯ ಅಪಾಯವನ್ನು ಗುರುತಿಸಲು ಮಾದರಿಗಳನ್ನು ಬಳಸುತ್ತದೆ.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="ko-kr" code="1042">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>시스템의 사용자 경험을 향상시키기 위해 리소스 파일이 업데이트됩니다. 업데이트하고 개선된 기능을 즐겨 보세요.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="음성 합성 감지 모델">
+            <!-- 正文 -->
+            <feature>음성 통화에서 음성 합성 위험을 식별하기 위해 모델을 사용합니다.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="lo-la" code="1108">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>ໄຟ​ລ໌​ຊັບ​ພະ​ຍາ​ກອນ​ຈະ​ຖືກ​ອັບ​ເດດ​ເພື່ອ​ຍົກ​ລະ​ດັບ​ປະ​ສົບ​ການ​ຜູ້​ໃຊ້​ຂອງ​ລະ​ບົບ. ອັບ​ເດດ​ເພື່ອ​ມ່ວ​ນ​ຊື່​ນກັບ​ການ​ປັບ​ປຸງ.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="ໂມ​ເດ​ລ​ການກວດ​ຫາການ​ສັງ​ເຄາະສຽງ​ເວົ້າ">
+            <!-- 正文 -->
+            <feature>ໃຊ້​ໂມ​ເດ​ລ​ເພື່ອ​ລະ​ບຸ​ຄວາມ​ສ່ຽງ​ໃນການ​​ສັງເຄາະ​ສຽງ​ເວົ້າ​ໃນ​ການ​ໂທ​ສຽງ.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="lt-lt" code="1063">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Išteklių failai bus atnaujinami siekiant pagerinti sistemos naudotojų patirtį. Atnaujinkite ir mėgaukitės patobulinimais.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Kalbos sintezės aptikimo modelis">
+            <!-- 正文 -->
+            <feature>Naudojami modeliai kalbos sintezės rizikai garso pokalbiuose nustatyti.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="lv-lv" code="1062">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Resursu faili tiks atjaunināti, lai uzlabotu sistēmas lietotāja pieredzi. Atjauniniet, lai izbaudītu uzlabojumus.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Runas sintēzes noteikšanas modelis">
+            <!-- 正文 -->
+            <feature>Izmanto modeļus, lai identificētu runas sintēzes risku audio zvanos.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="mai-in" code="1033">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>सिस्टमक उपयोगकर्ता अनुभव केँ बेहतर बनयबाक लेल संसाधन फाइल सभ केँ अपडेट कयल जायत। सुधार सभक आनंद लेबाक लेल अपडेट करू।</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="स्पीच संश्लेषण पहिचान मॉडल">
+            <!-- 正文 -->
+            <feature>ऑडियो कॉल मे स्पीच संश्लेषण जोखिम केर पहिचान करबाक लेल मॉडल केर उपयोग करैत अछि।</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="mi-nz" code="1153">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Ka whakahōutia ngā kōnae rauemi hei whakarei ake i te wheako kaiwhakamahi o te pūnaha. Whakahōu kia pai ai ngā whakapainga.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Tauira kitenga kōtuinga reo ā-waha">
+            <!-- 正文 -->
+            <feature>Ka whakamahi i ngā tauira hei tāutu i te mōrea kōtuinga reo ā-waha i roto i ngā waea ororongo.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="mk-mk" code="1071">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Датотеките со ресурси ќе се ажурираат за да се подобри корисничкото искуство на системот. Ажурирајте за да уживате во подобрувањата.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Модел за откривање синтеза на говор">
+            <!-- 正文 -->
+            <feature>Користи модели за да го идентификува ризикот од синтеза на говор во аудиоповици.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="ml-in" code="1100">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>സിസ്റ്റത്തിന്റെ ഉപയോക്തൃ അനുഭവം മെച്ചപ്പെടുത്താൻ ഉറവിട ഫയലുകൾ അപ്‌ഡേറ്റ് ചെയ്യും. മെച്ചപ്പെടുത്തലുകൾ ആസ്വദിക്കാൻ അപ്‌ഡേറ്റ് ചെയ്യുക.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="സ്പീച്ച് സിന്തസിസ് കണ്ടെത്തൽ മോഡൽ">
+            <!-- 正文 -->
+            <feature>ഓഡിയോ കോളുകളിലെ സ്പീച്ച് സിന്തസിസ് അപകടസാധ്യത തിരിച്ചറിയാൻ മോഡലുകൾ ഉപയോഗിക്കുന്നു.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="mn-mn" code="1104">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Хэрэглэгчийн систем ашиглах туршлагыг сайжруулахын тулд эх үүсвэрийн файлыг шинэчилсэн. Шинэчлээд, сайжруулсан хэрэглээг мэдрээрэй.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Ярианы нийлэгжилт илрүүлэх загвар">
+            <!-- 正文 -->
+            <feature>Энгийн дуудлагаас нийлэгжүүлсэн ярианы эрсдэлийг танихын тулд загвар ашиглана.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="mr-in" code="1102">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>या अद्यतनामध्ये खालील संसाधन फाइल्स समाविष्ट आहेत, ज्यामुळे सिस्टम कार्यप्रदर्शनाचा वापरकर्ता अनुभव वाढेल. सुधारणांचा आनंद घेण्यासाठी अद्यतनित करा.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="उच्चार संश्लेषण शोध मॉडेल">
+            <!-- 正文 -->
+            <feature>ऑडिओ कॉल्समध्ये उच्चार संश्लेषण जोखीम ओळखण्यासाठी मॉडेल्स वापरते.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="ms-my" code="1086">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Fail sumber akan dikemas kini untuk meningkatkan pengalaman pengguna sistem. Kemas kini untuk menikmati penambahbaikan tersebut.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Model pengesanan sintesis pertuturan">
+            <!-- 正文 -->
+            <feature>Menggunakan model untuk mengenal pasti risiko sintesis pertuturan dalam panggilan audio.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="my-mm" code="1109">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>သုံးစွဲသူ၏ စနစ်သုံးစွဲမှုအတွေ့အကြုံကို မြှင့်တင်ရန် ရင်းမြစ်ဖိုင်များကို အပ်ဒိတ်လုပ်ပါမည်။ ပိုကောင်းအောင်မြှင့်တင်ထားမှုများကို သုံးစွဲရန် အပ်ဒိတ်လုပ်ပါ။</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="စကားသံအတုလုပ်ခြင်း ရှာဖွေစစ်ဆေးမှု မော်ဒယ်">
+            <!-- 正文 -->
+            <feature>အော်ဒီယိုခေါ်ဆိုမှုများတွင် စကားသံအတုလုပ်ခြင်း အန္တရာယ်ကို ဖော်ထုတ်ရာတွင် မော်ဒယ်များ အသုံးပြုသည်။</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="my-zg" code="1109">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>သုံးစြဲသူ၏ စနစ္သုံးစြဲမႈအေတြ႕အႀကဳံကို ျမႇင့္တင္ရန္ ရင္းျမစ္ဖိုင္မ်ားကို အပ္ဒိတ္လုပ္ပါမည္။ ပိုေကာင္းေအာင္ျမႇင့္တင္ထားမႈမ်ားကို သုံးစြဲရန္ အပ္ဒိတ္လုပ္ပါ။</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="စကားသံအတုလုပ္ျခင္း ရွာေဖြစစ္ေဆးမႈ ေမာ္ဒယ္">
+            <!-- 正文 -->
+            <feature>ေအာ္ဒီယိုေခၚဆိုမႈမ်ားတြင္ စကားသံအတုလုပ္ျခင္း အႏၲရာယ္ကို ေဖာ္ထုတ္ရာတြင္ ေမာ္ဒယ္မ်ား အသုံးျပဳသည္။</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="nb-no" code="1044">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Ressursfilene blir oppdatert for å forbedre brukeropplevelsen til systemet. Oppdater for å få forbedringene.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Talesyntesens deteksjonsmodell">
+            <!-- 正文 -->
+            <feature>Bruker modeller for å identifisere risiko for talesyntese i lydanrop.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="ne-np" code="1121">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>प्रणालीको प्रयोगकर्ता अनुभव सुधार गर्न रिसोर्स फाइलहरू अपडेट गर्ने छन् । सुधार गरिएका सुविधाहरूको आनन्द लिन अपडेट गर्नुहोस् ।</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="वाचन संश्लेषण पत्ता लगाउने मोडेल">
+            <!-- 正文 -->
+            <feature>अडियो कलमा वाचन संश्लेषणको जोखिम पहिचान गर्न मोडेलहरू प्रयोग गर्छ ।</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="nl-nl" code="1043">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>De bronbestanden worden bijgewerkt om de gebruikerservaring van het systeem te verbeteren. Werk bij om van de verbeteringen te genieten.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Spraaksynthese-detectiemodel">
+            <!-- 正文 -->
+            <feature>Gebruikt modellen om het risico van spraaksynthese in audiogesprekken te identificeren.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="or-in" code="1096">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>ରିସୋର୍ସ ଫାଇଲ୍ଗୁଡ଼ିକ ସିଷ୍ଟମ୍ର ଉପଯୋଗକର୍ତ୍ତାଗଣଙ୍କ ଅନୁଭୂତିକୁ ବୃଦ୍ଧି କରିବାକୁ ଅପଡେଟ୍ କରାଯିବ। ଉନ୍ନତିଗୁଡ଼ିକୁ ଉପଭୋଗ କରିବା ପାଇଁ ଅପଡେଟ୍ କରନ୍ତୁ।</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="ସ୍ପିଚ୍ ସିନ୍ଥେସିସ୍ ଚିହ୍ନଟକରଣ ମଡେଲ୍">
+            <!-- 正文 -->
+            <feature>ଅଡିଓ କଲଗୁଡ଼ିକରେ ସ୍ପିଚ୍ ସିନ୍ଥେସିସ୍ ବିପଦ ଚିହ୍ନଟ କରିବା ପାଇଁ ମଡେଲ୍‌ଗୁଡ଼ିକୁ ବ୍ୟବହାର କରେ।</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="pa-in" code="1094">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>ਸਿਸਟਮ ਦੇ ਵਰਤੋਂਕਾਰ ਅਨੁਭਵ ਨੂੰ ਵਧਾਉਣ ਲਈ ਸਰੋਤ ਫ਼ਾਈਲਾਂ ਨੂੰ ਅੱਪਡੇਟ ਕੀਤਾ ਜਾਵੇਗਾ। ਸੁਧਾਰਾਂ ਦਾ ਆਨੰਦ ਲੈਣ ਲਈ ਅੱਪਡੇਟ ਕਰੋ।</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="ਸਪੀਚ ਸਿੰਥੇਸਿਸ ਜਾਂਚ ਮਾਡਲ">
+            <!-- 正文 -->
+            <feature>ਆਡੀਓ ਕਾਲਾਂ ਵਿੱਚ ਸਪੀਚ ਸਿੰਥੇਸਿਸ ਜੋਖਿਮ ਦੀ ਪਛਾਣ ਕਰਨ ਲਈ ਮਾਡਲਾਂ ਦੀ ਵਰਤੋਂ ਕਰਦੀ ਹੈ।</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="pl-pl" code="1045">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Pliki zasobów zostaną zaktualizowane w celu ułatwienia korzystania z systemu. Zainstaluj tę aktualizację, aby korzystać z ulepszeń.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Model wykrywania syntezy mowy">
+            <!-- 正文 -->
+            <feature>Wykorzystuje modele do wykrywania ryzyka syntezy mowy podczas połączeń audio.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="pt-br" code="1046">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Os arquivos de recursos serão atualizados para aprimorar a experiência do usuário no sistema. Atualize para aproveitar as melhorias.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Modelo de detecção de síntese de fala">
+            <!-- 正文 -->
+            <feature>Usa modelos para identificar riscos de síntese de fala em chamadas de áudio.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="pt-pt" code="2070">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Os ficheiros de recursos serão atualizados para melhorar a experiência do utilizador do sistema. Atualize para aproveitar as melhorias.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Modelo de deteção de síntese de voz">
+            <!-- 正文 -->
+            <feature>Utiliza modelos para identificar o risco de síntese de voz em chamadas de áudio.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="ro-ro" code="1048">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Fișierele de resurse vor fi actualizate pentru a îmbunătăți experiența de utilizare a sistemului. Actualizați pentru a beneficia de îmbunătățiri.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Model de detectare a sintetizării vocii">
+            <!-- 正文 -->
+            <feature>Utilizează modele pentru a identifica riscul de sintetizare a vocii în apelurile audio.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="ru-ru" code="1049">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Файлы ресурсов будут обновлены для улучшения взаимодействия пользователя с системой. Обновите систему, чтобы воспользоваться улучшениями.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Модель обнаружения синтеза речи">
+            <!-- 正文 -->
+            <feature>Использует модели для идентификации риска синтеза речи в аудиовызовах.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="si-lk" code="1115">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>පද්ධතියේ පරිශීලක අත්දැකීම උසස් කිරීමට මූලාශ්‍ර ගොනු යාවත්කාලීන කෙරෙනු ඇත. වැඩිදියුණු කිරීම් අත්විඳීමට යාවත්කාල කරන්න.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="කථන සංස්ලේෂණය හඳුනාගැනීමේ ආකෘතිය">
+            <!-- 正文 -->
+            <feature>ශ්‍රව්‍ය ඇමතුම්වල කථන සංස්ලේෂණය අවදානම හඳුනා ගැනීමට ආකෘති භාවිත කරයි.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="sk-sk" code="1051">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Súbory zdrojov budú aktualizované, aby sa zlepšila používateľská skúsenosť so systémom. Aktualizujte, aby ste si užili zlepšenia.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Model detekcie syntézy reči">
+            <!-- 正文 -->
+            <feature>Používa modely na identifikáciu rizika syntézy reči vo zvukových hovoroch.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="sl-si" code="1060">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Datoteke z viri bodo posodobljene za izboljšanje izkušnje uporabe sistema. Posodobite, da boste lahko uživali v izboljšavah.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Model za zaznavanje sinteze govora">
+            <!-- 正文 -->
+            <feature>Uporablja modele za zaznavanje sinteze govora v zvočnih klicih.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="sv-se" code="1053">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Resursfilerna kommer att uppdateras för att förbättra användarupplevelsen av systemet. Uppdatera för att ta del av förbättringarna.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Modell för detektering av talsyntes">
+            <!-- 正文 -->
+            <feature>Använder modeller för att identifiera risker med talsyntes i ljudsamtal.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="sw-tz" code="1089">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Mafaili ya nyenzo yatasasishwa ili kuboresha huduma anayopata mtumiaji wa mfumo. Sasisha ili ufurahie maboresho.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Modeli ya utambuzi wa usemi sanisi">
+            <!-- 正文 -->
+            <feature>Hutumia modeli kutambua hatari ya usemi sanisi kwenye upigaji simu za sauti.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="ta-in" code="1097">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>சிஸ்டமின் பயனர் அனுபவத்தை மேம்படுத்த, ஆதாரக் கோப்புகள் புதுப்பிக்கப்படும். மேம்பாடுகளைப் பெற, புதுப்பிக்கவும்.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="பேச்சுத் தொகுப்புக் கண்டறிதல் மாடல்">
+            <!-- 正文 -->
+            <feature>ஆடியோ அழைப்புகளில் பேச்சுத் தொகுப்பு இடரைக் கண்டறிய மாடல்களைப் பயன்படுத்துகிறது.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="te-in" code="1098">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>సిస్టమ్ వినియోగదారు అనుభవాన్ని మెరుగుపరచడానికి వనరు ఫైల్స్ అప్‌డేట్ చేయబడతాయి. మెరుగుదలలను ఆనందించడానికి అప్‌డేట్ చేయండి.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="స్పీచ్ సింథసిస్ గుర్తింపు మోడల్">
+            <!-- 正文 -->
+            <feature>ఆడియో ఫైల్స్‌లో స్పీచ్ సింథసిస్ ప్రమాదాన్ని గుర్తించడానికి మోడల్‌లను ఉపయోగిస్తుంది.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="th-th" code="1054">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>ไฟล์ทรัพยากรจะได้รับการปรับปรุงเพื่อพัฒนาประสบการณ์การใช้งานของผู้ใช้ระบบ โปรดอัปเดตเพื่อใช้การปรับปรุงดังกล่าว</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="โมเดลการตรวจจับการสังเคราะห์เสียง">
+            <!-- 正文 -->
+            <feature>ใช้โมเดลเพื่อระบุความเสี่ยงที่จะมีการสังเคราะห์เสียงในการโทรด้วยเสียง</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="tl-ph" code="1124">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Ia-update ang mga file ng mapagkukunan para mapaganda ang karanasan ng user ng system. I-update para ma-enjoy ang mga pagpapahusay.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Modelo ng pagtukoy sa speech synthesis">
+            <!-- 正文 -->
+            <feature>Gumagamit ng mga modelo para matukoy ang panganib ng speech synthesis identify speech synthesis risk in audio calls.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="tr-tr" code="1055">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Sistemin kullanıcı deneyimini iyileştirmek için kaynak dosyaları güncellenecektir. İyileştirmelerden yararlanmak için güncelleme yapın.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Konuşma sentezi tespit modeli">
+            <!-- 正文 -->
+            <feature>Sesli aramalarda konuşma sentezi riskini belirlemek için modellerden yararlanır.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="uk-ua" code="1058">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Файли ресурсів буде оновлено для покращення взаємодії з користувачем системи. Установіть оновлення, щоб користуватися вдосконаленнями.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Модель виявлення синтезу мовлення">
+            <!-- 正文 -->
+            <feature>Використовує моделі для визначення ризику синтезу мовлення в аудіовикликах.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="ur-pk" code="1056">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>‏سسٹم کے صارف کے تجربے کو بہتر بنانے کے لیے وسائل کی فائلز کو اپ ڈیٹ کیا جائے گا۔ بہتریوں سے لطف اندوز ہونے کے لیے اپ ڈیٹ کریں۔</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="‏تقریر کی ترکیب کاری کا پتہ لگانے کا ماڈل">
+            <!-- 正文 -->
+            <feature>‏آڈیو کالز میں تقریر کی ترکیب کے خطرے کی شناخت کرنے کے لیے ماڈلز کا استعمال کرتی ہے۔</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="ug-cn" code="1152">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>‏بۇ قېتىم مەنبە ھۆججەتلەر يېڭىلانغان بولۇپ، سىستېمىنىڭ ئىشلەتكۈچى تەسىراتىنى ياخشىلايدۇ، دەرھال يېڭىلاش تەۋسىيە قىلىنىدۇ.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="‏ئاۋاز بىرىكتۈرۈشنى تەكشۈرۈش مودېلى">
+            <!-- 正文 -->
+            <feature>‏ئاۋازلىق سۆزلىشىش كۆرۈنۈشلىرىدە مودېل ئىشلىتىپ ئاۋاز بىرىكتۈرۈش خەۋپىنى بايقايدۇ.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="uz-uz" code="2115">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Tizim foydalanuvchi taassurotini yaxshilash uchun resurs fayllari yangilanadi. Takomillashtirishlardan foydalanish uchun yangilang.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Nutq sintezini aniqlash modeli">
+            <!-- 正文 -->
+            <feature>Audio chaqiruvlarda nutq sintezi xavf-xatarini aniqlash uchun modellardan foydalanadi.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="vi-vn" code="1066">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Các tệp tin tài nguyên sẽ được cập nhật để nâng cao trải nghiệm người dùng về hệ thống. Hãy cập nhật để tận hưởng các cải tiến.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Mô hình phát hiện tổng hợp giọng nói">
+            <!-- 正文 -->
+            <feature>Sử dụng các mô hình để xác định nguy cơ tổng hợp giọng nói trong các cuộc gọi thoại.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="zh-cn" code="2052">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>本次更新资源文件，将提升系统的用户体验，建议您立即更新。</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="语音合成检测模型">
+            <!-- 正文 -->
+            <feature>音频通话场景中使用模型识别语音合成风险。</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="zh-hk" code="3076">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>本次更新資源檔案，將提升系統的用戶體驗，建議您立即更新。</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="語音合成偵測模型">
+            <!-- 正文 -->
+            <feature>音訊通話場景中使用模型識別語音合成風險。</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="zh-tw" code="1028">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>本次更新資源檔案，將提升系統的使用者經驗，建議您立即更新。</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="語音合成偵測模型">
+            <!-- 正文 -->
+            <feature>在音訊通話場景中，使用模型辨識語音合成風險。</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="bo-cn" code="1105">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>ཐེངས་འདིར་ཐོན་ཁུངས་ཡིག་ཆ་གསར་སྒྱུར་བྱས་ནས། རྒྱུད་ཁོངས་ཀྱི་སྤྱོད་མཁན་གྱི་ཉམས་ལེན་མཐོར་འདེགས་གཏོང་། ཁྱེད་ཀྱིས་མྱུར་དུ་གསར་སྒྱུར་བྱས་ན་ལེགས།</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="སྐད་གདངས་འདྲེས་གྲུབ་ཞིབ་དཔྱད་ཚད་ལེན་མ་དཔེ།">
+            <!-- 正文 -->
+            <feature>སྒྲ་ཟློས་ཁ་པར་གཏོང་ལེན་གྱི་བཟོ་ལྗོངས་ཁྲོད་དུ་མ་དཔེ་བེད་སྤྱད་ནས་སྐད་གདངས་འདྲེས་གྲུབ་ཉེན་ཁ་ངོས་འཛིན་བྱེད།</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+</root>

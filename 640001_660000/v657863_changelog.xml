@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <component name="TCPU" version="请自行修改"/>
+    <default-language name="en-us">1033</default-language>
+    <language name="zh-cn" code="2052">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>本次更新主要针对业务参数优化，推荐您进行更新。</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="蜂窝通信参数">
+            <!-- 正文 -->
+            <feature>提升通话体验，解决部分场景通话质量问题。</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+	<language name="en-us" code="1033">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>This update mainly focuses on optimizing business parameters, and we recommend you to proceed with the update.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Cellular communication parameters">
+            <!-- 正文 -->
+            <feature>Enhance call experience and resolve call quality issues in certain scenarios.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+	<language name="zh-hk" code="3076">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>本次更新主要針對業務參數優化，推薦您進行更新。</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="蜂巢通信參數">
+            <!-- 正文 -->
+            <feature>提升通話體驗，解決部分場景通話質量問題。</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="zh-tw" code="1028">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>本次更新主要針對業務參數優化，推薦您進行更新。</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="蜂巢通信參數">
+            <!-- 正文 -->
+            <feature>提升通話體驗，解決部分場景通話質量問題。</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+</root>

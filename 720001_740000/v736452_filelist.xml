@@ -1,0 +1,14 @@
+<root>
+	<packageName>com.hihonor.visionengine</packageName>
+	<pluginName>glaredetection</pluginName>
+	<versionCode>100100009</versionCode>
+	<packageType>increment</packageType>
+	<files>
+		<file>
+			<spath>update_plugin.zip</spath>
+			<dpath>update_plugin.zip</dpath>
+			<sha256>da1b855995b8e2fa509049d53f05e64e667c19e66d01b418715c494566b34b62</sha256>
+			<size>3319280</size>
+		</file>
+	</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>43945984</cowsize>
+<payloadOffset>899</payloadOffset>
+<fileHash>mkAZOm1n27fBuxnQn8hzqQwkd01/c0W/w4gJZoAUJvE=</fileHash>
+<fileSize>4881</fileSize>
+<metadataHash>FawXPOqH7dNVKhj0atbodLb5BR8giLpGDhNekyNUivY=</metadataHash>
+<metadataSize>991</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_SER-AN00_all_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_SER-AN00_all_cn.zip</spath>
+<dpath>update_cust_SER-AN00_all_cn.zip</dpath>
+<operation>c</operation>
+<sha256>ACA89E6A50371FAB2777C8F0AD6A1F14C5BD55A46A8A66FFB7E62043A2ADA737</sha256>
+<size>12173</size>
+</file>
+</files>
+</root>

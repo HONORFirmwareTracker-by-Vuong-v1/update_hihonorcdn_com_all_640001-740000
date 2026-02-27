@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1189212160</cowsize>
+<payloadOffset>940</payloadOffset>
+<fileHash>+qvQSHbX3KfE5ReBPY6g0E7+68r+g9nBzHtzl8/H/FA=</fileHash>
+<fileSize>343030312</fileSize>
+<metadataHash>jUkQ3irhxSB3CNPiyoLUguUUCwJN7WxyEn7EWpYpmQo=</metadataHash>
+<metadataSize>30858</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_ALT-L33_iusacell_mx.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_ALT-L33_iusacell_mx.zip</spath>
+<dpath>update_cust_ALT-L33_iusacell_mx.zip</dpath>
+<operation>c</operation>
+<sha256>8B6ECD037BA9B866BF4780F50556602771997DBF0F69099D40AF78DA6FA282D7</sha256>
+<size>343037645</size>
+</file>
+</files>
+</root>

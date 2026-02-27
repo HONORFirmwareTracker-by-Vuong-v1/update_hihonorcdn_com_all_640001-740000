@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>866390810</compressCowSize>
+<cowsize>2275844096</cowsize>
+<payloadOffset>940</payloadOffset>
+<fileHash>DN/nX6Dmi7upHsUHlpBEfDdhazVCinFN6Q8QyHgyQAM=</fileHash>
+<fileSize>510683288</fileSize>
+<metadataHash>gBaZnHTZAMM8rIkVWHMS8rI5T/mWUSGXv+JS0/F+Xlk=</metadataHash>
+<metadataSize>55743</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_ROL-W00_all_cn_R104.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_ROL-W00_all_cn_R104.zip</spath>
+<dpath>update_preload_ROL-W00_all_cn_R104.zip</dpath>
+<operation>c</operation>
+<sha256>5D912DC5B7A85DB644A3FD32018C4A082031607064B5369A4024EBD68563DC40</sha256>
+<size>510690637</size>
+</file>
+</files>
+</root>

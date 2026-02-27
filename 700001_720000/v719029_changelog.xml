@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <component name="TCPU" version="请自行修改"/>
+    <default-language name="en-us">1033</default-language>
+    <language name="zh-cn" code="2052">
+                <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>本次更新主要针对业务参数优化，推荐您进行更新。</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="胶囊通知参数">
+            <!-- 正文 -->
+            <feature>短信验证码接入灵动胶囊。</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="en-us" code="1033">
+                <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>This update mainly focuses on optimizing business parameters, and we recommend you to proceed with the update.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Capsule notification parameters">
+            <!-- 正文 -->
+            <feature>Expand the access application for the dynamic capsule.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+</root>

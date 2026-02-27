@@ -1,0 +1,14 @@
+<root>
+	<packageName>com.hihonor.android.launcher</packageName>
+	<pluginName>yoyocardstack</pluginName>
+	<versionCode>17000110</versionCode>
+	<packageType>increment</packageType>
+	<files>
+		<file>
+			<spath>update_plugin.zip</spath>
+			<dpath>update_plugin.zip</dpath>
+			<sha256>173db7489fe9a1d21f305a3ddcc121219950c3efe545ce40dd6697b997211673</sha256>
+			<size>742</size>
+		</file>
+	</files>
+</root>

@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component name="TCPU" version="CMO内部使用，商用发布不用关注，设备不会显示"/>
+<default-language name="en-us">1033</default-language>
+<language name="zh-cn" code="2052">
+<features module="" type="header">
+<feature>亲爱的用户，本次更新新增相机主角模式功能，优化部分场景拍照效果，提升系统稳定性，推荐您进行更新。</feature>
+</features>
+<features module="【相机】">
+<feature>新增主角模式功能。
+优化部分场景拍照效果。</feature>
+</features>
+<features module="【系统】 ">
+<feature>提升系统稳定性，让您的手机运行更稳定。</feature>
+</features>
+<features module="更新注意事项：" type="end">
+<feature>1. 本次更新不会删除您的用户数据，但仍建议您在更新前做好数据备份。
+2. 更多精彩功能介绍，请访问“玩机技巧”应用。
+3. 如果您在使用过程中遇到任何问题，请访问“我的荣耀”、“荣耀俱乐部”应用或访问荣耀官方服务网站 https://www.hihonor.com/cn/contact-us 寻求支持。</feature>
+</features>
+</language>
+
+<language name="en-us" code="1033">
+<features module="" type="header">
+<feature>Dear user, this recommended update added the Solo Cut Mode feature, optimized the shooting experience for some scenarios, and improved the system stability.</feature>
+</features>
+<features module="Camera">
+<feature>Added the Solo Cut Mode feature. 
+Optimized the shooting experience for some scenarios.</feature>
+</features>
+<features module="System ">
+<feature>Improved the system stability.</feature>
+</features>
+<features module="Update Note" type="end">
+<feature>1. Installing this update will not erase your personal data. A backup beforehand is recommended. 
+2. Check out more information on product features in the Tips app.
+3. For assistance, please go to My HONOR or HONOR Club app or reach out to HONOR official website https://www.hihonor.com/cn/contact-us</feature>
+</features>
+</language>
+
+<language name="bo-cn" code="1033">
+<features module="" type="header">
+<feature>བརྩེ་བའི་སྤྱོད་མཁན་ལགས། ཐེངས་འདིའི་གསར་སྒྱུར་གྱིས་པར་ཆས་མི་སྣ་གཙོ་བོའི་རྣམ་པའི་རྩོལ་ནུས་གསར་སྣོན་བྱེད་པ་དང་བཟོ་ལྗོངས་ཁ་ཤས་འོག་གི་པར་ལེན་ཁྱད་ནུས་ལེགས་སྒྱུར་བྱེད་པ། རྒྱུད་ཁོངས་ཀྱི་བརྟན་བརླིང་རང་བཞིན་མཐོར་འདེགས་གཏོང་བ་ཡིན་པས། ཁྱེད་ལ་གསར་སྒྱུར་བྱ་རྒྱུའི་འོས་སྦྱོར་བྱེད།</feature>
+</features>
+<features module="【པར་ཆས།】">
+<feature>མི་སྣ་གཙོ་བོའི་རྣམ་པའི་རྩོལ་ནུས་གསར་དུ་སྣོན།
+བཟོ་ལྗོངས་ཁ་ཤས་ཀྱི་པར་ལེན་ཁྱད་ནུས་ལེགས་སྒྱུར་བྱེད།</feature>
+</features>
+<features module="【རྒྱུད་ཁོངས།】">
+<feature>རྒྱུད་ཁོངས་ཀྱི་བརྟན་བརླིང་རང་བཞིན་མཐོར་འདེགས་བཏང་སྟེ། ཁྱེད་ཀྱི་ལག་ཁྱེར་ཁ་པར་སྔར་ལས་བརྟན་པར་འཁོར་སྐྱོད་བྱེད་དུ་འཇུག</feature>
+</features>
+<features module="གསར་སྒྱུར་བྱེད་པར་དོ་སྣང་བྱེད་དགོས་དོན་གཤམ་གསལ་ལྟར།" type="end">
+<feature>1. ཐེངས་འདིའི་གསར་སྒྱུར་གྱིས་ཁྱེད་སྤྱོད་མཁན་གྱི་གཞི་གྲངས་སུབ་མི་སྲིད། འོན་ཀྱང་སྔར་བཞིན་ཁྱེད་ཀྱིས་གསར་སྒྱུར་མ་བྱས་གོང་དུ་གཞི་གྲངས་གྲབས་ཉར་བྱས་ན་ལེགས།
+2. དེ་ལས་མང་བའི་ངོ་མཚར་ཆེ་བའི་རྩོལ་ནུས་ཀྱི་ངོ་སྤྲོད། ཁ་པར་རྩེ་བའི་ལག་རྩལ་གྱི་ཉེར་སྤྱོད་ལ་ལྟ་སྤྱོད་བྱེད།
+3. གལ་ཏེ་ཁྱེད་ཀྱིས་བེད་སྤྱོད་བྱེད་པའི་བརྒྱུད་རིམ་ཁྲོད་དུ་གནད་དོན་གང་རུང་འཕྲད་ཚེ། ངའི་རུང་ཡོའོ་དང་རུང་ཡོའོ་སྤྲོ་སྐྱིད་ཁང་གི་ཉེར་སྤྱོད་ལ་ལྟ་སྤྱོད་བྱེད་པའམ་ཡང་ན་རུང་ཡོའོ་གཞུང་ཕྱོགས་ཞབས་ཞུའི་དྲ་ཚུགས་ https://www.hihonor.com/cn/contact-us ལ་ལྟ་སྤྱོད་བྱས་ནས་རྒྱབ་སྐྱོར་འཚོལ་ཐབས་བྱེད་རོགས།</feature>
+</features>
+</language>
+
+<language name="ug-cn" code="1033">
+<features module="" type="header">
+<feature>سۆيۈملۈك ئىشلەتكۈچى، بۇ قېتىملىق يېڭىلاشتا كامېرا باش رولچى ھالىتى ئىقتىدارى قوشۇلغان بەزى كۆرۈنۈشلەرنى سۈرەتكە تارتىش ئۈنۈمى ياخشىلىنىدۇ، سىستېما مۇقىملىقى ئاشۇرۇلىدۇ، يېڭىلىشىڭىزنى تەۋسىيە قىلىمىز.</feature>
+</features>
+<features module="‏[كامېرا]">
+<feature>باش رولچى ھالىتى ئىقتىدارى قوشۇلدى.
+بەزى كۆرۈنۈشلەرنى سۈرەتكە تارتىش ئۈنۈمى ئەلالاشتۇرۇلىدۇ.</feature>
+</features>
+<features module="‏[سىستېما]">
+<feature>سىستېما تۇراقلىقلىقىنى ئۆستۈرۈپ، يانفونىڭىزنىڭ يۈرۈشىنى تېخىمۇ تۇراقلاشتۇرۇڭ.</feature>
+</features>
+<features module="يېڭىلاشتا دىققەت قىلىشقا تېگىشلىك ئىشلار:" type="end">
+<feature>‏1. بۇ قېتىملىق يېڭىلاشتا ئىشلەتكۈچى مەلۇماتىڭىز ئۆچۈرۈلمەيدۇ، ئەمما يېڭىلاشتىن بۇرۇن مەلۇماتلارنى زاپاسلىشىڭىزنى تەۋسىيە قىلىمىز.
+‏2. تېخىمۇ كۆپ سەرخىل ئىقتىدار تونۇشتۇرۇشلىرىنى «ئىشلىتىش كۆرسەتمىسى» ئەپىگە كىرىپ كۆرۈڭ.
+‏3. ئىشلىتىش جەريانىدا ھەرقانداق مەسىلىگە ئۇچرىسىڭىز، «روڭياۋىم»، «روڭياۋ كۇلۇبى» ئەپىگە كىرىڭ ياكى روڭياۋ ئورگان مۇلازىمەت تور بېكىتى https://www.hihonor.com/cn/contact-us غا كىرىپ ياردەم سوراڭ.</feature>
+</features>
+</language>
+
+<language name="zh-hk" code="3076">
+<features module="" type="header">
+<feature>親愛的用戶，本次更新加入了相機主角模式功能，優化了部分場景的拍攝效果，提升了系統穩定性，建議您更新。</feature>
+</features>
+<features module="【相機】">
+<feature>加入主角模式功能。
+優化部分場景的拍攝效果。</feature>
+</features>
+<features module="【系統】">
+<feature>提升系統穩定性，讓您的手機運行更穩定。</feature>
+</features>
+<features module="更新注意事項：" type="end">
+<feature>1. 本次更新不會刪除您的用戶數據，但仍建議您在更新前做好數據備份。
+2. 如需更多精彩功能介紹，請瀏覽「玩機技巧」應用程式。
+3. 如果您在使用過程中遇到任何問題，請瀏覽「我的榮耀」及「榮耀俱樂部」應用程式或瀏覽榮耀官方服務網站 https://www.hihonor.com/cn/contact-us 尋求支援。</feature>
+</features>
+</language>
+
+<language name="zh-tw" code="1033">
+<features module="" type="header">
+<feature>親愛的使用者，本次更新新增相機主角模式功能，最佳化在部分場景下的拍照效果，並提升系統穩定性，建議您進行更新。</feature>
+</features>
+<features module="【相機】">
+<feature>新增主角模式功能。
+最佳化在部分場景下的拍照效果。</feature>
+</features>
+<features module="【系統】">
+<feature>提升系統穩定性，讓您的手機運作更穩定。</feature>
+</features>
+<features module="更新注意事項：" type="end">
+<feature>1. 本次更新不會刪除您的使用者資料，但仍建議您在更新前做好資料備份。
+2. 更多精彩功能介紹，請造訪「玩機技巧」應用程式。
+3. 若您在使用過程中遇到任何問題，請造訪「我的榮耀」、「榮耀俱樂部」應用程式或造訪榮耀官方服務網站 https://www.hihonor.com/cn/contact-us 尋求支援。</feature>
+</features>
+</language>
+
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>352886784</cowsize>
+<payloadOffset>908</payloadOffset>
+<fileHash>VnfuZogbD4loz+QHbZyI63sSb5BV7bgZIXo9poeYg2c=</fileHash>
+<fileSize>14343</fileSize>
+<metadataHash>hFxOQmCejZtUKPWQxKUNJu1L2v9br/h0V81CctZCZcE=</metadataHash>
+<metadataSize>10767</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_WDY-TN00_cmcc_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_WDY-TN00_cmcc_cn.zip</spath>
+<dpath>update_cust_WDY-TN00_cmcc_cn.zip</dpath>
+<operation>c</operation>
+<sha256>C12AC5CCB79A7F53CD7AB9E045081B2BA1E1A0092C5216C8C8A3679FE195999E</sha256>
+<size>21651</size>
+</file>
+</files>
+</root>

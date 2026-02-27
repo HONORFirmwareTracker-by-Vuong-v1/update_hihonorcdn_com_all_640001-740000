@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>488976384</cowsize>
+<payloadOffset>907</payloadOffset>
+<fileHash>QZllkyHFHl+jhR2y8GVnBKNlYf+AJpFtXGORTEQJrc4=</fileHash>
+<fileSize>11491</fileSize>
+<metadataHash>vXvCgtnByx+8V8TPl0ZhXvckh0CjWyRtKMwH5gs45rA=</metadataHash>
+<metadataSize>7777</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_RMO-TN00_cmcc_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_RMO-TN00_cmcc_cn.zip</spath>
+<dpath>update_cust_RMO-TN00_cmcc_cn.zip</dpath>
+<operation>c</operation>
+<sha256>C7812954A1E2FA1129344B0AFC472BFBDD6741BDD6AD9C10C3FEA9372CE2DC93</sha256>
+<size>18799</size>
+</file>
+</files>
+</root>

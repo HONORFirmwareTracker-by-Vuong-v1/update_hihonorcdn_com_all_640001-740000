@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<cowsize>371494912</cowsize>
+<payloadOffset>850</payloadOffset>
+<fileHash>Pyt/LY+K177VmSuYPysMRa5odPRjsKHp2Iy3q7SrNqQ=</fileHash>
+<fileSize>51159</fileSize>
+<metadataHash>b5mKe24djZJXmkPFSvGAMcgUCfU1SBBg5GBFVk/UyMo=</metadataHash>
+<metadataSize>15392</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<preAdjustFeature>false</preAdjustFeature>
+<vendorInfo name="cust" package="update_cust_NTX-TN00_cmcc_cn.zip" precut_size="0" subpath=""/>
+<GROUP version="NA"/>
+<GBC version="NA"/>
+<files>
+<file>
+<spath>update_cust_NTX-TN00_cmcc_cn.zip</spath>
+<dpath>update_cust_NTX-TN00_cmcc_cn.zip</dpath>
+<operation>c</operation>
+<sha256>1238C38474D21F2DF56DA3D421D43AD8F4349D7D47F06EC018559C9A536FB144</sha256>
+<size>58409</size>
+</file>
+</files>
+</root>

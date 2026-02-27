@@ -1,0 +1,249 @@
+<root>
+    <component name="TCPU" version="请自行修改"></component>
+    <default-language name="en-us">1033</default-language>
+    <language code="2052" name="zh-cn">
+                <features module="" type="header">
+            <feature>亲爱的用户，本次更新主要针对系统进行了优化，推荐您进行更新</feature>
+        </features>
+        <features module="便捷易用">
+             <feature>•  支持更多应用横屏使用</feature>
+             <feature>•  优化状态栏三方应用通知图标显示效果，提升显示一致性</feature>
+             <feature>•  优化部分应用导航条沉浸式体验</feature>
+        </features>
+        <features module="UX 焕新">
+             <feature>•  控制中心风格焕新，深色背景强化视觉层级，多彩图标让界面更生动，支持个性化调整，操作更合心意</feature>
+        </features>
+        <features module="荣耀互联">
+             <feature>•  新增全新 Cast+ 投屏，为您带来高质量、低时延的投屏体验</feature>
+             <feature>•  新增支持与 iOS 设备的 OTG 有线克隆，可支持更多数据项</feature>
+             <feature>•  新增支持与鸿蒙 NEXT 的联系人、图片、视频的换机克隆</feature>
+			 <feature>•  新增支持荣耀手机之间的一碰传，实现文件高速传输，好玩又快捷，体验路径：设置 > 更多连接 > 一碰传</feature>
+        </features>
+		<features module="安全">
+             <feature>•  合入安卓 2025 年 11 月安全补丁，增强系统安全性。有关荣耀软件安全更新内容的信息，请访问荣耀官方网站 https://www.honor.com/cn/support/bulletin/2025/11</feature>
+        </features>
+         <features module="更新注意事项" type="end">
+             <feature>1. 本次更新不会删除您的用户数据，但仍建议您在更新前做好数据备份
+2. 更多精彩功能介绍，请访问“玩机技巧”应用
+3. 更新过程中，如果遇到任何问题，请拨打荣耀品牌服务热线或至荣耀品牌客户服务中心寻求支持</feature>
+         </features>
+    </language>
+            <language code="1033" name="en-us">
+                <features module="" type="header">
+            <feature>Dear user, this update mainly enhances the system performance. Update to enjoy the improvements</feature>
+        </features>
+        <features module="Convenience">
+             <feature>• More apps support landscape orientation</feature>
+             <feature>• Improves the display of third-party app notification icons in the status bar for a more unified look</feature>
+             <feature>• Optimizes the immersive experience of the navigation bar in some apps</feature>
+        </features>
+        <features module="New interaction">
+             <feature>• The refreshed Control Center includes a dark background to improve visual hierarchy and colorful icons for a more vibrant interface. It also supports personalized adjustments for a better user experience</feature>
+        </features>
+        <features module="Honor Connect">
+             <feature>• The new Cast+ projection offers a high-quality, low-latency casting experience</feature>
+             <feature>• OTG wired cloning with iOS devices allows more data items to be transferred</feature>
+             <feature>• Device Clone supports the migration of contacts, images, and videos with HarmonyOS NEXT</feature>
+			 <feature>• OneTap enables seamless file transfer between Honor devices, combining speed with ease and fun. Try it out by going to: Settings > More connections > OneTap</feature>
+        </features>
+		<features module="Security">
+             <feature>• Android security patch (Nov 2025) has been incorporated for system security. For more information about Honor Security updates, please visit our website https://www.honor.com/global/support/bulletin/2025/11</feature>
+        </features>
+         <features module="Notes" type="end">
+             <feature>1. Installing this update will not affect your personal data, but it is still recommended to back up your data before updating
+2. Discover more information on product features in Tips
+3. If you encounter any issues during the update, you can get our help by calling Honor service hotline or visiting Honor customer service center</feature>
+         </features>
+    </language>
+            <language code="3073" name="ar-eg">
+                <features module="" type="header">
+            <feature>عزيزنا المستخدم، يحسّن هذا التحديث أداء النظام بشكل أساسي. للاستمتاع بالتحسينات، ما عليك سوى التحديث</feature>
+        </features>
+        <features module="الملاءمة">
+             <feature>• يدعم عدد أكبر من التطبيقات الاتجاه الأفقي</feature>
+             <feature>• يحسّن عرض أيقونات إشعارات تطبيقات الطرف الثالث في شريط الحالة للحصول على مظهر أكثر تناسقًا</feature>
+             <feature>• يحسّن التجربة الغامرة لشريط التنقل في بعض التطبيقات</feature>
+        </features>
+        <features module="تفاعل جديد">
+             <feature>• يتضمن مركز التحكم المحدّث خلفية داكنة لتحسين التسلسل الهرمي المرئي، وأيقونات ملونة لإضفاء المزيد من الحيوية على الواجهة. وهو يدعم أيضًا إجراء تعديلات مخصصة لتحسين تجربة المستخدم</feature>
+        </features>
+        <features module="الاتصال من Honor">
+             <feature>• توفّر تقنية العرض الجديدة Cast+ تجربة بث عالية الجودة وبزمن تأخير منخفض.</feature>
+             <feature>• يتيح الاستنساخ السلكي OTG مع أجهزة iOS نقل عدد أكبر من عناصر البيانات</feature>
+             <feature>• يدعم استنساخ الجهاز نقل جهات الاتصال والصور ومقاطع الفيديو باستخدام HarmonyOS NEXT</feature>
+			 <feature>• تسمح ميزة OneTap بنقل الملفات بسلاسة بين أجهزة Honor، مما يجمع بين السرعة والسهولة والمتعة. جرّب هذه الميزة بالانتقال إلى: الإعدادات > طرق توصيل أخرى > ‏OneTap</feature>
+        </features>
+		<features module="الأمان">
+             <feature>• تم تضمين تصحيح أمان أندرويد (نوفمبر 2025) لأمان النظام. لمزيد من المعلومات حول تحديثات الأمان في Honor، يرجى زيارة موقعنا على الويب https://www.honor.com/ae-ar/support/bulletin/2025/11</feature>
+        </features>
+         <features module="ملاحظات" type="end">
+             <feature>1. لن يؤثر تثبيت هذا التحديث على بياناتك الشخصية، ولكن لا يزال من المستحسن إنشاء نسخة احتياطية لبياناتك قبل التحديث
+2. اكتشف المزيد من المعلومات حول ميزات المنتج في تطبيق التلميحات
+3. إذا واجهت أي مشاكل أثناء التحديث، فيمكنك الحصول على مساعدتنا عن طريق الاتصال بالخط الساخن لخدمة عملاء Honor أو زيارة مركز خدمة عملاء Honor</feature>
+         </features>
+    </language>
+            <language code="2057" name="en-GB">
+                <features module="" type="header">
+            <feature>Dear user, this update mainly enhances the system performance. Update to enjoy the improvements</feature>
+        </features>
+        <features module="Convenience">
+             <feature>• More apps support landscape orientation</feature>
+             <feature>• Improves the display of third-party app notification icons in the status bar for a more unified look</feature>
+             <feature>• Optimises the immersive experience of the navigation bar in some apps</feature>
+        </features>
+        <features module="New interaction">
+             <feature>• The refreshed Control Centre includes a dark background to improve visual hierarchy and colourful icons for a more vibrant interface. It also supports personalised adjustments for a better user experience</feature>
+        </features>
+        <features module="Honor Connect">
+             <feature>• The new Cast+ projection offers a high-quality, low-latency casting experience</feature>
+             <feature>• OTG wired cloning with iOS devices allows more data items to be transferred</feature>
+             <feature>• Device Clone supports the migration of contacts, images, and videos with HarmonyOS NEXT</feature>
+			 <feature>• OneTap enables seamless file transfer between Honor devices, combining speed with ease and fun. Try it out by going to: Settings > More connections > OneTap</feature>
+        </features>
+		<features module="Security">
+             <feature>• Android security patch (Nov 2025) has been incorporated for system security. For more information about Honor Security updates, please visit our website https://www.honor.com/uk/support/bulletin/2025/11</feature>
+        </features>
+         <features module="Notes" type="end">
+             <feature>1. Installing this update will not affect your personal data, but it is still recommended to back up your data before updating
+2. Discover more information on product features in Tips
+3. If you encounter any issues during the update, you can get our help by calling Honor service hotline or visiting Honor customer service centre</feature>
+         </features>
+    </language>
+            <language code="1034" name="es-es">
+                <features module="" type="header">
+            <feature>Estimado/a usuario/a, esta actualización mejora principalmente el rendimiento del sistema. Actualice para disfrutar de las mejoras</feature>
+        </features>
+        <features module="Comodidad">
+             <feature>• Más aplicaciones admiten orientación horizontal</feature>
+             <feature>• Mejora la visualización de los iconos de notificación de aplicaciones de terceros en la barra de estado para una apariencia más unificada</feature>
+             <feature>• Optimiza la experiencia inmersiva de la barra de navegación en algunas aplicaciones</feature>
+        </features>
+        <features module="Nueva interacción">
+             <feature>• El Centro de control renovado incluye un fondo oscuro para mejorar la jerarquía visual e iconos coloridos para una interfaz más vibrante. También admite ajustes personalizados para una mejor experiencia de usuario</feature>
+        </features>
+        <features module="Honor Connect">
+             <feature>• La nueva proyección Cast+ ofrece una experiencia de transmisión de alta calidad y baja latencia</feature>
+             <feature>• La clonación por cable OTG con dispositivos iOS permite transferir más elementos de datos</feature>
+             <feature>• La función Clonación de dispositivo permite migrar contactos, imágenes y vídeos con HarmonyOS NEXT</feature>
+			 <feature>• Un toque permite la transferencia de archivos fluida entre dispositivos Honor, combinando velocidad con facilidad y diversión. Pruébela en: Ajustes > Más conexiones > OneTap</feature>
+        </features>
+		<features module="Seguridad">
+             <feature>• Se ha incorporado el parche de seguridad de Android (noviembre de 2025) para la seguridad del sistema. Para obtener más información sobre las actualizaciones de seguridad de Honor, visite nuestro sitio web: https://www.honor.com/es/support/bulletin/2025/11</feature>
+        </features>
+         <features module="Notas" type="end">
+             <feature>1. La instalación de esta actualización no afectará a sus datos personales, pero se recomienda hacer una copia de seguridad de sus datos antes de actualizar
+2. Descubra más información sobre las características de los productos en Sugerencias
+3. Si tiene algún problema durante la actualización, puede obtener nuestra ayuda si llama a la línea de atención al cliente de Honor o si visita el centro de servicios al cliente de Honor</feature>
+         </features>
+    </language>
+            <language code="21514" name="es-us">
+                <features module="" type="header">
+            <feature>Estimado usuario, esta actualización mejora principalmente el rendimiento del sistema. Actualice para disfrutar de las mejoras</feature>
+        </features>
+        <features module="Comodidad">
+             <feature>• Más aplicaciones admiten orientación horizontal</feature>
+             <feature>• Mejora la visualización de íconos de notificación de apps de terceros en la barra de estado para un aspecto más uniforme</feature>
+             <feature>• Optimiza la experiencia inmersiva de la barra de navegación en ciertas aplicaciones</feature>
+        </features>
+        <features module="Nueva interacción">
+             <feature>• El Centro de control renovado incluye fondo oscuro para mejorar la jerarquía visual e íconos coloridos para una interfaz más vibrante. También admite ajustes personalizados para mejorar la experiencia de uso</feature>
+        </features>
+        <features module="Conecta con Honor">
+             <feature>• La nueva proyección Cast+ ofrece transmisión de alta calidad y baja latencia</feature>
+             <feature>• La clonación por cable OTG con dispositivos iOS permite transferir más datos</feature>
+             <feature>• Clonación de dispositivo admite migrar contactos, imágenes y videos con HarmonyOS NEXT</feature>
+			 <feature>• OneTap permite transferir archivos sin interrupciones entre dispositivos Honor, combinando velocidad, facilidad y diversión. Puede probar esta función en: Ajustes > Más conexiones > OneTap</feature>
+        </features>
+		<features module="Seguridad">
+             <feature>• Se incorporó un parche de seguridad de Android (noviembre de 2025) para mejorar la seguridad del sistema. Para obtener más información sobre las actualizaciones de seguridad de Honor, visite nuestro sitio web https://www.honor.com/latam/support/bulletin/2025/11</feature>
+        </features>
+         <features module="Notas" type="end">
+             <feature>1. La instalación de esta actualización no afectará sus datos personales, pero se recomienda hacer una copia de respaldo de sus datos antes de actualizar
+2. Descubra más información sobre las funciones del producto en Sugerencias
+3. Si tiene problemas durante la actualización, puede llamar a la línea de atención al cliente de Honor o visitar el centro de servicios al cliente de Honor para recibir asistencia</feature>
+         </features>
+    </language>
+            <language code="1036" name="fr-fr">
+                <features module="" type="header">
+            <feature>Cher utilisateur, cette mise à jour améliore principalement les performances du système. Effectuez la mise à jour pour profiter des améliorations</feature>
+        </features>
+        <features module="Commodité">
+             <feature>• Plus d'applications prennent en charge l'orientation paysage</feature>
+             <feature>• Améliore l'affichage des icônes de notification des applications tierces dans la barre d'état pour un aspect plus unifié</feature>
+             <feature>• Optimise l'expérience immersive de la barre de navigation dans certaines applications</feature>
+        </features>
+        <features module="Nouvelle interaction">
+             <feature>• Le Centre de contrôle actualisé comprend un arrière-plan sombre pour améliorer la hiérarchie visuelle et des icônes colorées pour une interface plus dynamique. Il prend également en charge les ajustements personnalisés pour une meilleure expérience utilisateur</feature>
+        </features>
+        <features module="Honor Connect">
+             <feature>• La nouvelle projection Cast+ offre une expérience de projection de haute qualité et à faible latence</feature>
+             <feature>• Le clonage filaire OTG avec les appareils iOS permet de transférer plus d'éléments de données</feature>
+             <feature>• Device Clone prend en charge la migration des contacts, des images et des vidéos avec HarmonyOS NEXT</feature>
+			 <feature>• OneTap permet des transferts de fichiers transparents entre les appareils Honor, associant vitesse, facilité et plaisir. Essayez cette fonctionnalité en accédant à : Paramètres > Plus de paramètres de connectivité > OneTap</feature>
+        </features>
+		<features module="Sécurité">
+             <feature>• Un correctif de sécurité Android (novembre 2025) a été intégré pour la sécurité du système. Pour plus d'informations sur les mises à jour de sécurité Honor, veuillez consulter notre site Web https://www.honor.com/fr/support/bulletin/2025/11</feature>
+        </features>
+         <features module="Notes" type="end">
+             <feature>1. L'installation de cette mise à jour n'affectera pas vos données personnelles, mais il est tout de même recommandé de sauvegarder vos données avant la mise à jour
+2. Découvrez plus d'informations sur les fonctionnalités du produit dans Astuces
+3. Si vous rencontrez des problèmes pendant la mise à jour, vous pouvez obtenir de l'aide en contactant la hotline de service Honor ou en vous rendant dans un centre de services clients Honor</feature>
+         </features>
+    </language>
+            <language code="1049" name="ru-ru">
+                <features module="" type="header">
+            <feature>Уважаемый пользователь! Мы выпустили это обновление, чтобы улучшить производительность системы. Установите его, чтобы оценить изменения</feature>
+        </features>
+        <features module="Удобство">
+             <feature>• Большее количество приложений поддерживает горизонтальную ориентацию</feature>
+             <feature>• Улучшает отображение значков уведомлений сторонних приложений в строке состояния для более унифицированного вида</feature>
+             <feature>• Оптимизирует эффект погружения для панели навигации в некоторых приложениях</feature>
+        </features>
+        <features module="Новое взаимодействие">
+             <feature>• Обновленный «Центр управления» включает темный фон для улучшения визуальной иерархии и красочные иконки для более яркого интерфейса. Он также поддерживает персонализированные настройки для лучшего взаимодействия</feature>
+        </features>
+        <features module="Honor Connect">
+             <feature>• Новая проекция Cast+ поддерживает высококачественные трансляции с низкой задержкой</feature>
+             <feature>• Проводное клонирование OTG с устройствами на базе iOS поддерживает передачу большего объема данных</feature>
+             <feature>• Device Clone поддерживает перенос контактов, изображений и видео на HarmonyOS NEXT</feature>
+			 <feature>• Служба OneTap обеспечивает бесшовную передачу файлов между устройствами Honor, сочетая скорость с простотой и удовольствием. Чтобы опробовать эту функцию, перейдите в раздел Настройки > Другие соединения > OneTap</feature>
+        </features>
+		<features module="Безопасность">
+             <feature>• В обновление включено исправление безопасности для Android (ноябрь 2025 г.). Чтобы получить подробную информацию об обновлениях безопасности Honor, посетите наш сайт: https://www.honor.com/eurasia/support/bulletin/2025/11</feature>
+        </features>
+         <features module="Заметки" type="end">
+             <feature>1. Установка этого обновления не приведет к удалению ваших персональных данных, но мы все равно рекомендуем вам создать резервную копию своих данных перед обновлением
+2. Изучите дополнительную информацию о функциях продукта в «Советах»
+3. Если во время обновления у вас возникнут проблемы, обратитесь за помощью на горячую линию службы поддержки Honor или в сервисный центр для клиентов Honor</feature>
+         </features>
+    </language>
+            <language code="1036" name="fr-ch">
+                <features module="" type="header">
+            <feature>Cher utilisateur, cette mise à jour améliore principalement les performances du système. Effectuez la mise à jour pour profiter des améliorations</feature>
+        </features>
+        <features module="Commodité">
+             <feature>• Plus d'applications prennent en charge l'orientation paysage</feature>
+             <feature>• Améliore l'affichage des icônes de notification des applications tierces dans la barre d'état pour un aspect plus unifié</feature>
+             <feature>• Optimise l'expérience immersive de la barre de navigation dans certaines applications</feature>
+        </features>
+        <features module="Nouvelle interaction">
+             <feature>• Le Centre de contrôle actualisé comprend un arrière-plan sombre pour améliorer la hiérarchie visuelle et des icônes colorées pour une interface plus dynamique. Il prend également en charge les ajustements personnalisés pour une meilleure expérience utilisateur</feature>
+        </features>
+        <features module="Honor Connect">
+             <feature>• La nouvelle projection Cast+ offre une expérience de projection de haute qualité et à faible latence</feature>
+             <feature>• Le clonage filaire OTG avec les appareils iOS permet de transférer plus d'éléments de données</feature>
+             <feature>• Device Clone prend en charge la migration des contacts, des images et des vidéos avec HarmonyOS NEXT</feature>
+			 <feature>• OneTap permet des transferts de fichiers transparents entre les appareils Honor, associant vitesse, facilité et plaisir. Essayez cette fonctionnalité en accédant à : Paramètres > Plus de paramètres de connectivité > OneTap</feature>
+        </features>
+		<features module="Sécurité">
+             <feature>• Un correctif de sécurité Android (novembre 2025) a été intégré pour la sécurité du système. Pour plus d'informations sur les mises à jour de sécurité Honor, veuillez consulter notre site Web https://www.honor.com/fr/support/bulletin/2025/11</feature>
+        </features>
+         <features module="Notes" type="end">
+             <feature>1. L'installation de cette mise à jour n'affectera pas vos données personnelles, mais il est tout de même recommandé de sauvegarder vos données avant la mise à jour
+2. Découvrez plus d'informations sur les fonctionnalités du produit dans Astuces
+3. Si vous rencontrez des problèmes pendant la mise à jour, vous pouvez obtenir de l'aide en contactant la hotline de service Honor ou en vous rendant dans un centre de services clients Honor</feature>
+         </features>
+    </language>
+            <imgs>
+            </imgs>
+</root>

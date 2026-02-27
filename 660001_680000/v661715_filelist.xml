@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>845053952</cowsize>
+<payloadOffset>932</payloadOffset>
+<fileHash>hv5xRSw7g75urNIH+qgh47uHT295S7tcywTMkfQzLxw=</fileHash>
+<fileSize>30976039</fileSize>
+<metadataHash>/FME6f0KRxN0EEStztxMJjlom8vy+zZtf1cH5YkQiuo=</metadataHash>
+<metadataSize>24205</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_ALT-L03_telcel_mx.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_ALT-L03_telcel_mx.zip</spath>
+<dpath>update_cust_ALT-L03_telcel_mx.zip</dpath>
+<operation>c</operation>
+<sha256>3BBADE3B42B11503F3C175D56149AB385380EB5BECCAEB11998B198C8B655700</sha256>
+<size>30983367</size>
+</file>
+</files>
+</root>

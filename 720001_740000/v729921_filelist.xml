@@ -1,0 +1,14 @@
+<root>
+	<packageName>com.hihonor.visionengine</packageName>
+	<pluginName>imagecuration</pluginName>
+	<versionCode>100600012</versionCode>
+	<packageType>increment</packageType>
+	<files>
+		<file>
+			<spath>update_plugin.zip</spath>
+			<dpath>update_plugin.zip</dpath>
+			<sha256>733a0faf96c50c167f1f1a2c3344fe921aa363e3618b48c17ec50eb1f70d276f</sha256>
+			<size>153480</size>
+		</file>
+	</files>
+</root>

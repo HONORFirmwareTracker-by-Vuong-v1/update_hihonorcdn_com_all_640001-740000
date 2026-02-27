@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>1064281275</compressCowSize>
+<cowsize>2275844096</cowsize>
+<payloadOffset>941</payloadOffset>
+<fileHash>YNHA5rSLw5PPRwCk6h9BYPTue5Df2JGmCkg/6wWiPh0=</fileHash>
+<fileSize>909533178</fileSize>
+<metadataHash>g6jkNZZZzu55/fdF8Lsvv6RW5LOYyLL+np09WroRqG0=</metadataHash>
+<metadataSize>174502</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_PTP-AN60_all_cn_R102.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_PTP-AN60_all_cn_R102.zip</spath>
+<dpath>update_preload_PTP-AN60_all_cn_R102.zip</dpath>
+<operation>c</operation>
+<sha256>E7E96C4A071DF784E2AC11B4626AEC634F66627EAF2BDAEC32DD03F94813C2EC</sha256>
+<size>909540527</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component name="TCPU" version="CMO内部使用，商用发布不用关注，设备不会显示"/>
+<default-language name="en-us">1033</default-language>
+<language name="zh-cn" code="2052">
+<features module="" type="header">
+<feature></feature>
+</features>
+<features module="丝滑流畅">
+<feature>•  新增Turbo X性能引擎平台界面，性能优化效果看得见</feature>
+</features>
+<features module="便捷易用">
+<feature>•  充电、录屏、淘宝闪购、日程创建、YOYO记忆等接入灵动胶囊，便于查看实时状态、快捷触达</feature>
+<feature>•  新增AI截屏功能，智能学习使用场景和习惯，自动推荐所需服务，让操作更随心</feature>
+<feature>•  新增支持悬浮窗截屏，截屏后可一步选择悬浮窗区域</feature>
+<feature>•  截屏编辑后保存支持覆盖原图选项</feature>
+<feature>•  新增支持部分银行进行应用分身</feature>
+<feature>•  新增录音笔记离线转文本和翻译功能</feature>
+<feature>•  支持更多应用横屏使用</feature>
+</features>
+<features module="UX焕新">
+<feature>•  UX视觉升级焕新，打造全新OS视觉体验</feature>
+<feature>•  时钟/图库卡片场景和日程/笔记应用内场景，新增一镜到底动效，实现跨页面转场的丝滑过渡</feature>
+<feature>•  新增桌面卡片、控制中心按压位置响应效果</feature>
+</features>
+<features module="玩转桌面">
+<feature>•  媒体播控卡片新增进度条调节，可随意调整进度</feature>
+<feature>•  控制中心任意位置支持横划切换至通知中心，操作更方便</feature>
+<feature>•  控制中心新增关机按钮，关机重启更便捷</feature>
+<feature>•  优化状态栏三方应用通知图标显示效果，提升显示一致性</feature>
+<feature>•  优化部分应用导航条沉浸式体验</feature>
+</features>
+<features module="媒体创作">
+<feature>•  图库视频播放支持帧预览，快速浏览锁定指定帧</feature>
+</features>
+<features module="荣耀互联">
+<feature>•  新增与macOS、Windows互传功能，在电脑安装“荣耀超级工作台”即可互传图片、视频与文件</feature>
+<feature>•  新增支持与iOS设备的OTG有线克隆，可支持更多数据项</feature>
+<feature>•  新增支持与鸿蒙NEXT的联系人、图片、视频的换机克隆</feature>
+<feature>•  新增全新Cast+投屏，为您带来高质量、低时延的投屏体验</feature>
+<feature>•  荣耀分享或者投屏状态下可同时分享热点</feature>
+</features>
+<features module="安全守护">
+<feature>•  新增变声检测功能，可通过“任意门”圈选人脸进行AI换脸检测。体验路径：设置>安全>反诈防护>AI换脸/变声检测</feature>
+</features>
+<features module="稳定可靠">
+<feature>•  优化系统稳定性，提高用户整机使用体验</feature>
+<feature>•  优化三方头部应用长时间使用的卡顿、卡死问题，提升稳定流畅体验</feature>
+</features>
+<features module="更新注意事项" type="end">
+<feature>1. 本次更新不会删除您的用户数据，但仍建议您在更新前做好数据备份
+2. 更多精彩功能介绍，请访问“玩机技巧”应用
+3. 更新过程中，如果遇到任何问题，请拨打荣耀品牌服务热线或至荣耀品牌客户服务中心寻求支持</feature>
+</features>
+</language>
+
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>1150144072</compressCowSize>
+<cowsize>2275844096</cowsize>
+<payloadOffset>941</payloadOffset>
+<fileHash>2PDalSAssl0bznR9RrTMpS6w7ku9oXDsTDiHF4bezhM=</fileHash>
+<fileSize>992238637</fileSize>
+<metadataHash>LX8eMEN0K4apxmKdigxOnhRYAknD5JBJ5fRCv1W9EDU=</metadataHash>
+<metadataSize>166792</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_AMG-AN00_all_cn_R102.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_AMG-AN00_all_cn_R102.zip</spath>
+<dpath>update_preload_AMG-AN00_all_cn_R102.zip</dpath>
+<operation>c</operation>
+<sha256>CBD7D03A9086A2B3C16208E9250BC5A72DA4BFB5F2BDF8FB19295BC49896F239</sha256>
+<size>992245986</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1755906048</cowsize>
+<payloadOffset>932</payloadOffset>
+<fileHash>WZsxuVMkxo8JitpuLoZUpl2NWnzCYvUHzdPdthnEzfo=</fileHash>
+<fileSize>81077250</fileSize>
+<metadataHash>0MT8JuJXDhcdevdptrxoHACr+3GrQUZNDLEEFbq+OHU=</metadataHash>
+<metadataSize>41470</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_AGI-AN00_all_cn_R103.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_AGI-AN00_all_cn_R103.zip</spath>
+<dpath>update_preload_AGI-AN00_all_cn_R103.zip</dpath>
+<operation>c</operation>
+<sha256>23B25773AE5AE5B288DCDEC8105A96151A04298E9C2B52AA76315B235BE7B203</sha256>
+<size>81084589</size>
+</file>
+</files>
+</root>

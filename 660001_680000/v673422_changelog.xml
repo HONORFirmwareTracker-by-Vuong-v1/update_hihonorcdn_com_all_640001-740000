@@ -1,0 +1,874 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <component name="TCPU" version="请自行修改"/>
+    <default-language name="en-us">1033</default-language>
+  <language name="en-us" code="1033">
+    <features module="" type="header" backgroud="">
+      <feature>This update improves the user experience of Magic Portal. Update to enjoy the improvements.</feature>
+    </features>
+    <features module="More apps support Magic Portal">
+      <feature>The update allows you to drag more apps into the Magic Portal.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="am-et" code="1118">
+    <features module="" type="header" backgroud="">
+      <feature>ይህ ዝማኔ የተጠቃሚውን አስማታዊ ፖርታል ተሞክሮ ያሻሽላል። በማሻሻያዎቹ ለመደሰት ያዘምኑ።</feature>
+    </features>
+    <features module="ተጨማሪ መተግበሪያዎች አስማታዊ ፖርታል ይደግፋሉ">
+      <feature>ዝማኔው ተጨማሪ መተግበሪያዎችን ወደ አስማታዊ ፖርታል እንዲጎትቱ ያስችልዎታል።</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="ar-eg" code="3073">
+    <features module="" type="header" backgroud="">
+      <feature>يحسّن هذا التحديث تجربة المستخدم في البوابة التلقائية. للاستمتاع بالتحسينات، ما عليك سوى التحديث.</feature>
+    </features>
+    <features module="يدعم المزيد من التطبيقات البوابة التلقائية">
+      <feature>يتيح لك التحديث سحب المزيد من التطبيقات إلى البوابة التلقائية.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="as-in" code="1101">
+    <features module="" type="header" backgroud="">
+      <feature>এই আপডেটটোৱে মেজিক প\'ৰ্টেলৰ ব্যৱহাৰকাৰীৰ অভিজ্ঞতা উন্নত কৰে। উন্নতিসমূহৰ আনন্দ ল\'বলৈ আপডেট কৰক।</feature>
+    </features>
+    <features module="মেজিক প\'ৰ্টেল সমৰ্থন কৰা অধিক এপ্প্‌">
+      <feature>আপডেটটোৱে আপোনাক মেজিক প\'ৰ্টেলত অধিক এপ্প্‌ টানিবলৈ অনুমতি দিয়ে।</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="az-az" code="1068">
+    <features module="" type="header" backgroud="">
+      <feature>Bu yeniləmə Sehrli Portal ilə bağlı istifadəçi təcrübəsini yaxşılaşdırır. Təkmilləşdirmələrdən zövq almaq üçün yeniləyin.</feature>
+    </features>
+    <features module="Daha çox proqram Sehrli Portalı dəstəkləyir">
+      <feature>Yeniləmə daha çox proqramı Sehrli Portala sürükləməyə imkan verir.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="jv-id" code="1033">
+    <features module="" type="header" backgroud="">
+      <feature>Panganyaran iki ngapikake pangalaman pangguna Portal Ajaib. Anyarake kanggo ngrasakake pangapikan kasebut.</feature>
+    </features>
+    <features module="Luwih akeh apl ndhukung Portal Ajaib">
+      <feature>Panganyaran iki nggawe sampeyan bisa nyered luwih akeh apl menyang Portal Ajaib.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="sr-rs" code="2074">
+    <features module="" type="header" backgroud="">
+      <feature>Ovo ažuriranje poboljšava korisničko iskustvo Magičnog portala. Ažurirajte da biste uživali u poboljšanjima.</feature>
+    </features>
+    <features module="Više aplikacija podržava Magični portal">
+      <feature>Ovo ažuriranje vam omogućava da povučete više aplikacija u Magični portal.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="be-by" code="1059">
+    <features module="" type="header" backgroud="">
+      <feature>Гэта абнаўленне паляпшае ўражанні ад выкарыстання Magic Portal. Абнавіце, каб карыстацца паляпшэннямі.</feature>
+    </features>
+    <features module="Magic Portal цяпер працуе з большай колькасцю праграм">
+      <feature>Абнаўленне дазваляе перацягваць больш праграм у Magic Portal.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="bg-bg" code="1026">
+    <features module="" type="header" backgroud="">
+      <feature>С тази актуализация се подобрява работата на потребителите с „Магически портал“. Актуализирайте, за да се насладите на подобренията.</feature>
+    </features>
+    <features module="Повече приложения поддържат „Магически портал“">
+      <feature>Актуализацията ви позволява да плъзвате повече приложения в „Магически портал“.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="bn-bd" code="2117">
+    <features module="" type="header" backgroud="">
+      <feature>এই আপডেটটি ম্যাজিক পোর্টালের ব্যবহারকারীর অভিজ্ঞতা উন্নত করে। উন্নতি উপভোগ করতে আপডেট করুন।</feature>
+    </features>
+    <features module="আরো বেশি অ্যাপ ম্যাজিক পোর্টালকে সমর্থন করে">
+      <feature>এই আপডেটটি আপনাকে ম্যাজিক পোর্টালে আরো বেশি অ্যাপকে টেনে আনতে দেবে।</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="bs-ba" code="5146">
+    <features module="" type="header" backgroud="">
+      <feature>Ovo ažuriranje poboljšava korisničko iskustvo Magičnog portala. Ažurirajte da uživate u poboljšanjima.</feature>
+    </features>
+    <features module="Više aplikacija podržava Magični portal">
+      <feature>Ažuriranje vam omogućava da povučete više aplikacija u Magični portal.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="ca-es" code="1027">
+    <features module="" type="header" backgroud="">
+      <feature>Aquesta actualització millora l\'experiència d\'usuari de Magic Portal. Instal·leu l\'actualització per gaudir de les millores.</feature>
+    </features>
+    <features module="Magic Portal és compatible amb més aplicacions">
+      <feature>L\'actualització permet arrossegar més aplicacions al Magic Portal.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="cs-cz" code="1029">
+    <features module="" type="header" backgroud="">
+      <feature>Tato aktualizace vylepšuje uživatelský zážitek z Magic Portalu. Aktualizujte, abyste si mohli užít vylepšení.</feature>
+    </features>
+    <features module="Magic Portal podporují další aplikace">
+      <feature>Aktualizace umožňuje přetahovat do Magic Portalu více aplikací.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="da-dk" code="1030">
+    <features module="" type="header" backgroud="">
+      <feature>Denne opdatering forbedrer brugeroplevelsen for Magisk portal. Opdater for at nyde forbedringerne.</feature>
+    </features>
+    <features module="Flere apps understøtter Magisk portal">
+      <feature>Opdateringen lader dig trække flere apps ind i Magisk portal.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="de-de" code="1031">
+    <features module="" type="header" backgroud="">
+      <feature>Diese Aktualisierung verbessert das Benutzererlebnis von Magic Portal. Nehmen Sie die Aktualisierung vor, um in den Genuss der Verbesserungen zu kommen.</feature>
+    </features>
+    <features module="Weitere Apps unterstützen Magic Portal">
+      <feature>Die Aktualisierung ermöglicht es Ihnen, mehr Apps in das Magic Portal zu ziehen.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="el-gr" code="1032">
+    <features module="" type="header" backgroud="">
+      <feature>Αυτή η ενημέρωση βελτιώνει την εμπειρία χρήστη της Μαγικής πύλης. Πραγματοποιήστε ενημέρωση για να απολαύσετε τις βελτιώσεις.</feature>
+    </features>
+    <features module="Περισσότερες εφαρμογές υποστηρίζουν τη Μαγική πύλη">
+      <feature>Η ενημέρωση σάς επιτρέπει να σύρετε περισσότερες εφαρμογές στη Μαγική πύλη.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="en-gb" code="2057">
+    <features module="" type="header" backgroud="">
+      <feature>This update improves the user experience of Magic Portal. Update to enjoy the improvements.</feature>
+    </features>
+    <features module="More apps support Magic Portal">
+      <feature>The update allows you to drag more apps into the Magic Portal.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="es-es" code="1034">
+    <features module="" type="header" backgroud="">
+      <feature>Esta actualización mejora la experiencia de usuario de Portal mágico. Actualice para disfrutar de las mejoras.</feature>
+    </features>
+    <features module="Más aplicaciones son compatibles con Portal mágico">
+      <feature>La actualización permite arrastrar más aplicaciones al Portal mágico.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="es-us" code="21514">
+    <features module="" type="header" backgroud="">
+      <feature>Esta actualización mejora la experiencia de usuario de Magic Portal. Actualice para disfrutar de las mejoras.</feature>
+    </features>
+    <features module="Más aplicaciones son compatibles con Magic Portal">
+      <feature>La actualización permite arrastrar más aplicaciones a Magic Portal.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="et-ee" code="1061">
+    <features module="" type="header" backgroud="">
+      <feature>See värskendus parandab Maagilise portaali kasutajakogemust. Värskendage täiustuste nautimiseks.</feature>
+    </features>
+    <features module="Rohkem rakendusi toetavad Maagilist portaali">
+      <feature>Värskendus võimaldab teil Maagilisse portaali rohkem rakendusi lohistada.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="eu-es" code="1069">
+    <features module="" type="header" backgroud="">
+      <feature>Eguneratze honek Atari magikoaren erabiltzaile-esperientzia hobetzen du. Eguneratu hobekuntzez gozatzeko.</feature>
+    </features>
+    <features module="Atari magikoak aplikazio gehiago onartzen ditu">
+      <feature>Eguneratzeari esker, aplikazio gehiago arrasta ditzakezu Atari magikora.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="fa-ir" code="1065">
+    <features module="" type="header" backgroud="">
+      <feature>این به‌روزرسانی تجربه کاربری «درگاه جادویی» را بهبود می‌بخشد. برای بهره‌مندی از این بهبودها، به‌روزرسانی کنید.</feature>
+    </features>
+    <features module="برنامه‌های بیشتری از «درگاه جادویی» پشتیبانی می‌کنند">
+      <feature>این به‌روزرسانی امکان کشیدن برنامه‌های بیشتر به داخل «درگاه جادویی» را فراهم می‌کند.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="fi-fi" code="1035">
+    <features module="" type="header" backgroud="">
+      <feature>Tämä päivitys parantaa Magic-portaalin käyttökokemusta. Päivitä, niin pääset nauttimaan parannuksista.</feature>
+    </features>
+    <features module="Useammat sovellukset tukevat Magic-portaalia">
+      <feature>Tämä päivitys mahdollistaa useampien sovellusten vetämisen Magic-portaaliin.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="fr-fr" code="1036">
+    <features module="" type="header" backgroud="">
+      <feature>Cette mise à jour améliore l\'expérience utilisateur du Portail magique. Effectuez la mise à jour pour profiter des améliorations.</feature>
+    </features>
+    <features module="De plus en plus d\'applications prennent en charge le Portail magique">
+      <feature>La mise à jour vous permet de faire glisser davantage d\'applications dans le Portail magique.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="gl-es" code="1110">
+    <features module="" type="header" backgroud="">
+      <feature>Esta actualización mellora a experiencia do usuario en Portal máxico. Realice a actualización para gozar das melloras.</feature>
+    </features>
+    <features module="Portal máxico é compatible con máis aplicacións">
+      <feature>A actualización permítelle arrastrar máis aplicacións a Portal máxico.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="gu-in" code="1095">
+    <features module="" type="header" backgroud="">
+      <feature>આ અપડેટ મેજિક પોર્ટલના વપરાશકર્તા અનુભવને સુધારે છે. સુધારાઓનો આનંદ માણવા માટે અપડેટ કરો.</feature>
+    </features>
+    <features module="વધુ એપ્લિકેશન્સ મેજિક પોર્ટલનું સમર્થન કરે છે">
+      <feature>અપડેટ તમને મેજિક પોર્ટલમાં વધુ એપ્લિકેશન્સ ખેંચવાની અનુમતિ આપે છે.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="hi-in" code="1081">
+    <features module="" type="header" backgroud="">
+      <feature>इस अद्यतन से मैजिक पोर्टल के उपयोगकर्ता अनुभव को बेहतर बनाया जाता है। सुधारों का फ़ायदा उठाने के लिए अद्यतन करें।</feature>
+    </features>
+    <features module="अधिक ऐप्स मैजिक पोर्टल का समर्थन करते हैं">
+      <feature>इस अद्यतन से आपको मैजिक पोर्टल में अधिक ऐप्स खींचने की अनुमति मिलती है।</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="hr-hr" code="1050">
+    <features module="" type="header" backgroud="">
+      <feature>Ovo ažuriranje poboljšava korisničko iskustvo upotrebe Magičnog portala. Ažurirajte kako biste uživali u poboljšanjima.</feature>
+    </features>
+    <features module="Više aplikacija podržava Magični portal">
+      <feature>Ažuriranje omogućuje povlačenje više aplikacija u Magični portal.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="hu-hu" code="1038">
+    <features module="" type="header" backgroud="">
+      <feature>Ez a frissítés javítja a Magic Portal által kínált felhasználói élményt. Frissítsen, hogy Ön is élvezhesse a fejlesztések előnyeit.</feature>
+    </features>
+    <features module="Több alkalmazás támogatja a Magic Portalt">
+      <feature>A frissítés lehetővé teszi, hogy több alkalmazást húzzon be a Magic Portalba.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="in-id" code="1057">
+    <features module="" type="header" backgroud="">
+      <feature>Pembaruan ini meningkatkan pengalaman pengguna Portal Ajaib. Perbarui untuk menikmati peningkatannya.</feature>
+    </features>
+    <features module="Aplikasi lainnya yang mendukung Portal Ajaib">
+      <feature>Pembaruan ini memungkinkan Anda untuk menyeret lebih banyak aplikasi ke Portal Ajaib.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="it-it" code="1040">
+    <features module="" type="header" backgroud="">
+      <feature>Questo aggiornamento migliora l\'esperienza utente di Portale magico. Esegui l\'aggiornamento per usufruire dei miglioramenti.</feature>
+    </features>
+    <features module="È stato ampliato il numero delle app che supportano Portale magico">
+      <feature>L\'aggiornamento consente di trascinare più app in Portale Magico.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="iw-il" code="1037">
+    <features module="" type="header" backgroud="">
+      <feature>עדכון זה משפר את חוויית המשתמש ב\'פורטל קסם\'. עדכן כדי ליהנות מהשיפורים.</feature>
+    </features>
+    <features module="יישומים נוספים תומכים ב\'פורטל קסם\'">
+      <feature>העדכון מאפשר לגרור יישומים נוספים ל\'פורטל קסם\'.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="ja-jp" code="1041">
+    <features module="" type="header" backgroud="">
+      <feature>今回の更新で、マジックポータルのユーザー体験が改善されます。更新して改善点をお楽しみください。</feature>
+    </features>
+    <features module="マジックポータルで、さらに多くのアプリがサポートされます。">
+      <feature>更新によって、さらに多くのアプリをマジックポータルにドラッグできるようになります。</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="ka-ge" code="1079">
+    <features module="" type="header" backgroud="">
+      <feature>ეს განახლება აუმჯობესებს ჯადოსნურ პორტალთან დაკავშირებით მომხმარებლის გამოცდილებას. განაახლეთ, რომ ისარგებლოთ გაუმჯობესებებით.</feature>
+    </features>
+    <features module="ჯადოსნური პორტალის მხარდაჭერა ახლა მეტ აპს აქვს">
+      <feature>განახლება საშუალებას გაძლევთ, მეტი აპი გადაიტანოთ ჯადოსნურ პორტალში.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="kk-kz" code="1087">
+    <features module="" type="header" backgroud="">
+      <feature>Бұл жаңарту «Сиқырлы портал» пайдаланушы тәжірибесін жақсартады. Жақсартуларды пайдалану үшін жаңартыңыз.</feature>
+    </features>
+    <features module="Қосымша қолданбалар «Сиқырлы портал» қолданбасын қолдайды">
+      <feature>Жаңарту «Сиқырлы портал» қолданбасына қосымша қолданбаларды сүйреуге рұқсат етеді.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="km-kh" code="1107">
+    <features module="" type="header" backgroud="">
+      <feature>បច្ចុប្បន្នភាពនេះធ្វើឱ្យបទពិសោធអ្នកប្រើ Magic Portal ប្រសើរឡើង។ ធ្វើបច្ចុប្បន្នភាព ដើម្បីរីករាយនឹងការកែលម្អ។</feature>
+    </features>
+    <features module="កម្មវិធីកាន់តែច្រើនអាចប្រើជាមួយ Magic Portal">
+      <feature>បច្ចុប្បន្នភាពនេះអនុញ្ញាតឱ្យអ្នកចុចអូសកម្មវិធីច្រើនទៀតទៅក្នុង Magic Portal។</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="kn-in" code="1099">
+    <features module="" type="header" backgroud="">
+      <feature>ಈ ನವೀಕರಣವು ಮ್ಯಾಜಿಕ್ ಪೋರ್ಟಲ್‌ನ ಬಳಕೆದಾರ ಅನುಭವವನ್ನು ಸುಧಾರಿಸುತ್ತದೆ. ಸುಧಾರಣೆಗಳನ್ನು ಆನಂದಿಸಲು ನವೀಕರಿಸಿ.</feature>
+    </features>
+    <features module="ಮ್ಯಾಜಿಕ್ ಪೋರ್ಟಲ್ ಅನ್ನು ಹೆಚ್ಚು ಆ್ಯಪ್‌ಗಳು ಬೆಂಬಲಿಸುತ್ತವೆ">
+      <feature>ಈ ನವೀಕರಣವು ಮ್ಯಾಜಿಕ್ ಪೋರ್ಟಲ್‌ಗೆ ಹೆಚ್ಚು ಆ್ಯಪ್‌ಗಳನ್ನು ಡ್ರ್ಯಾಗ್ ಮಾಡಲು ನಿಮಗೆ ಅನುಮತಿಸುತ್ತದೆ.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="ko-kr" code="1042">
+    <features module="" type="header" backgroud="">
+      <feature>이번 업데이트는 매직 포털의 사용자 경험을 개선합니다. 업데이트하고 개선된 기능을 즐겨보십시오.</feature>
+    </features>
+    <features module="더 많은 앱에서 매직 포털 지원">
+      <feature>이번 업데이트를 통해 더 많은 앱을 매직 포털로 가져올 수 있습니다.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="lo-la" code="1108">
+    <features module="" type="header" backgroud="">
+      <feature>​ການ​ອັບ​ເດດ​ນີ້​ປັບ​ປຸງ​ປະ​ສົບ​ການ​ຜູ້​ໃຊ້​ພໍ​ຣ​ທັ​ລ​ວິ​ເສດ. ອັບ​ເດດ​ເພື່ອ​ມ່ວ​ນ​ຊື່​ນກັບ​ການ​ປັບ​ປຸງ.</feature>
+    </features>
+    <features module="ແອັບ​ເພີ່ມ​ເຕີມ​ຮອງ​ຮັບພໍ​ຣ​ທັ​ລ​ວິ​ເສດ">
+      <feature>ການ​ອັບ​ເດດ​ອະ​ນຸ​ຍາດ​ໃຫ້​ທ່ານ​ລາກ​ແອັບ​ເພີ່ມ​ເຕີມ​ເຂົ້າ​ໃນພໍ​ຣ​ທັ​ລ​ວິ​ເສດ.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="lt-lt" code="1063">
+    <features module="" type="header" backgroud="">
+      <feature>Šiuo atnaujinimu pagerinama Stebuklingojo portalo naudotojo patirtis. Atnaujinkite ir mėgaukitės patobulinimais.</feature>
+    </features>
+    <features module="Daugiau programėlių palaiko Stebuklingąjį portalą">
+      <feature>Atnaujinimas įgalina jus į Stebuklingąjį portalą nuvilkti daugiau programėlių.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="lv-lv" code="1062">
+    <features module="" type="header" backgroud="">
+      <feature>Šis atjauninājums uzlabo lietotnes Maģijas portāls lietošanas iespējas. Atjauniniet, lai izbaudītu uzlabojumus.</feature>
+    </features>
+    <features module="Vairāk lietotņu atbalsta lietotni Maģijas portāls">
+      <feature>Atjauninājums ļauj ievilkt vairāk lietotņu lietotnē Maģijas portāls.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="mai-in" code="1033">
+    <features module="" type="header" backgroud="">
+      <feature>ई अपडेट मैजिक पोर्टल केर उपयोगकर्ता अनुभव केँ बेहतर बनबैत अछि। सुधार सभक आनंद लेबाक लेल अपडेट करू।</feature>
+    </features>
+    <features module="मैजिक पोर्टल आओर एप सभ केँ सपोर्ट करैत अछि">
+      <feature>ई अपडेट अहाँ केँ मैजिक पोर्टल मे आओर एप सभ खींचबाक अनुमति दैत अछि।</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="mi-nz" code="1153">
+    <features module="" type="header" backgroud="">
+      <feature>Ko tēnei whakahōutanga e whakarei ake ana i te wheako kaiwhakamahi o te Tomokanga Tūmatarau. Whakahōutia hei pai mō ngā whakapainga.</feature>
+    </features>
+    <features module="Ka tautoko ngā taupānga ētahi anō te Tomokanga Tūmatarau">
+      <feature>Ka tukua e koe te kī ētahi anō i ngā taupānga atu ki te Tomokanga Tūmatarau.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="mk-mk" code="1071">
+    <features module="" type="header" backgroud="">
+      <feature>Ова ажурирање го подобрува корисничкото искуство со Магичен портал. Ажурирајте за да уживате во подобрувањата.</feature>
+    </features>
+    <features module="Повеќе апликации ја поддржуваат Магичен портал">
+      <feature>Ажурирањето ви овозможува да повлечете повеќе апликации во Магичен портал.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="ml-in" code="1100">
+    <features module="" type="header" backgroud="">
+      <feature>ഈ അപ്‌ഡേറ്റ് മാജിക്ക് പോർട്ടലിന്റെ ഉപയോക്തൃ അനുഭവം മെച്ചപ്പെടുത്തുന്നു. മെച്ചപ്പെടുത്തലുകൾ ആസ്വദിക്കാൻ അപ്‌ഡേറ്റ് ചെയ്യുക.</feature>
+    </features>
+    <features module="കൂടുതൽ ആപ്പുകൾ മാജിക്ക് പോർട്ടലിനെ പിന്തുണയ്‌ക്കുന്നു">
+      <feature>മാജിക്ക് പോർട്ടലിലേക്ക് കൂടുതൽ ആപ്പുകൾ ഡ്രാഗ് ചെയ്യാൻ ഈ അപ്‌ഡേറ്റ് നിങ്ങളെ അനുവദിക്കുന്നു.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="mn-mn" code="1104">
+    <features module="" type="header" backgroud="">
+      <feature>Энэ шинэчлэлтээр Шидэт порталыг хэрэглэх хэрэглэгчийн туршлагыг сайжруулна. Шинэчлээд, сайжруулсан онцлогийг ашиглаарай.</feature>
+    </features>
+    <features module="Илүү олон апликэйшн Шидэт порталыг дэмждэг боллоо">
+      <feature>Энэ шинэчлэлтээр Шидэт портал руу илүү олон апликэйшн чирэх боломжтой боллоо.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="mr-in" code="1102">
+    <features module="" type="header" backgroud="">
+      <feature>या अद्यतनामुळे मॅजिक पोर्टलचा वापरकर्ता अनुभव सुधारतो. सुधारणांचा आनंद घेण्यासाठी अद्यतनित करा.</feature>
+    </features>
+    <features module="अधिक ॲप्स मॅजिक पोर्टलला सपोर्ट करतात">
+      <feature>अद्यतन आपल्याला मॅजिक पोर्टलमध्ये अधिक ॲप्स ओढण्याची अनुमती देते.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="ms-my" code="1086">
+    <features module="" type="header" backgroud="">
+      <feature>Kemas kini ini meningkatkan pengalaman pengguna Portal Magik. Kemas kini untuk menikmati penambahbaikan.</feature>
+    </features>
+    <features module="Lebih banyak aplikasi menyokong Portal Magik">
+      <feature>Kemas kini ini membolehkan anda menyeret lebih banyak aplikasi ke dalam Portal Magik.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="my-mm" code="1109">
+    <features module="" type="header" backgroud="">
+      <feature>ဤအပ်ဒိတ်သည် Magic ပေါ်တယ်သုံးစွဲရသည့် အတွေ့အကြုံကို မြှင့်တင်ပေးသည်။ မြှင့်တင်ထားမှုများကို သုံးစွဲခံစားရန် အပ်ဒိတ်လုပ်ပါ။</feature>
+    </features>
+    <features module="နောက်ထပ်အက်ပ်များတွင် Magic ပေါ်တယ်သုံးနိုင်သည်">
+      <feature>အပ်ဒိတ်လုပ်လျှင် နောက်ထပ်အက်ပ်များကို Magic ပေါ်တယ်ထဲသို့ ဆွဲရွှေ့နိုင်သည်။</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="my-zg" code="1109">
+    <features module="" type="header" backgroud="">
+      <feature>ဤအပ္ဒိတ္သည္ Magic ေပၚတယ္သုံးစြဲရသည့္ အေတြ႕အႀကဳံကို ျမႇင့္တင္ေပးသည္။ ျမႇင့္တင္ထားမႈမ်ားကို သုံးစြဲခံစားရန္ အပ္ဒိတ္လုပ္ပါ။</feature>
+    </features>
+    <features module="ေနာက္ထပ္အက္ပ္မ်ားတြင္ Magic ေပၚတယ္သုံးႏိုင္သည္">
+      <feature>အပ္ဒိတ္လုပ္လွ်င္ ေနာက္ထပ္အက္ပ္မ်ားကို Magic ေပၚတယ္ထဲသို႔ ဆြဲေ႐ႊ႕ႏိုင္သည္။</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="nb-no" code="1044">
+    <features module="" type="header" backgroud="">
+      <feature>Denne oppdateringen forbedrer brukeropplevelsen av Magisk portal. Oppdater for å få glede av forbedringene.</feature>
+    </features>
+    <features module="Flere apper støtter Magisk portal">
+      <feature>Med oppdateringen kan du dra flere apper inn i Magisk portal.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="ne-np" code="1121">
+    <features module="" type="header" backgroud="">
+      <feature>यो अपडेटले म्याजिक पोर्टलको प्रयोगकर्ता अनुभव सुधार गर्छ । सुधार गरिएका सुविधाहरूको आनन्द लिन अपडेट गर्नुहोस् ।</feature>
+    </features>
+    <features module="अझ धेरै एपहरूमा म्याजिक पोर्टल चल्छ">
+      <feature>यो अपडेट गरेपछि तपाईं म्याजिक पोर्टलमा थप एपहरू तानेर लैजान सक्नुहुन्छ ।</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="nl-nl" code="1043">
+    <features module="" type="header" backgroud="">
+      <feature>Deze update verbetert de gebruikerservaring van Magisch portaal. Werk bij om van de verbeteringen te genieten.</feature>
+    </features>
+    <features module="Meer apps ondersteunen Magisch portaal">
+      <feature>Met de update kunt u meer apps naar Magisch portaal slepen.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="or-in" code="1096">
+    <features module="" type="header" backgroud="">
+      <feature>ଏହି ଅପଡେଟ୍‌ ମ୍ୟାଜିକ୍‌ ପୋର୍ଟାଲ୍‌ର ଉପଯୋଗକର୍ତ୍ତା ଅନୁଭୂତିରେ ବିକାଶ ଆଣିଥାଏ। ବିକାଶଗୁଡ଼ିକ ଉପଭୋଗ କରିବାକୁ ଅପଡେଟ୍ କରନ୍ତୁ।</feature>
+    </features>
+    <features module="ଆହୁରି ଅଧିକ ଆପସ୍‌ ମ୍ୟାଜିକ୍ ପୋର୍ଟାଲ୍ ସମର୍ଥନ କରେ">
+      <feature>ଏହି ଅପଡେଟ୍ ଆପଣଙ୍କୁ ମ୍ୟାଜିକ୍‌ ପୋର୍ଟାଲ୍‌ରେ ଆହୁରି ଅଧିକ ଆପସ୍‌ ଡ୍ରାଗ୍ କରିବାକୁ ଅନୁମତି ଦିଏ।</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="pa-in" code="1094">
+    <features module="" type="header" backgroud="">
+      <feature>ਇਸ ਅੱਪਡੇਟ ਵਿੱਚ ਮੈਜਿਕ ਪੋਰਟਲ ਦੇ ਵਰਤੋਂਕਾਰ ਅਨੁਭਵ ਨੂੰ ਬਿਹਤਰ ਬਣਾਇਆ ਗਿਆ ਹੈ। ਸੁਧਾਰਾਂ ਦਾ ਅਨੰਦ ਲੈਣ ਲਈ ਅੱਪਡੇਟ ਕਰੋ।</feature>
+    </features>
+    <features module="ਹੋਰ ਐਪਾਂ ਮੈਜਿਕ ਪੋਰਟਲ ਦਾ ਸਮਰਥਨ ਕਰਦੀਆਂ ਹਨ">
+      <feature>ਅੱਪਡੇਟ ਨਾਲ ਤੁਹਾਨੂੰ ਮੈਜਿਕ ਪੋਰਟਲ ਵਿੱਚ ਹੋਰ ਐਪਾਂ ਨੂੰ ਖਿੱਚਣ ਦੀ ਇਜਾਜ਼ਤ ਮਿਲਦੀ ਹੈ।</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="pl-pl" code="1045">
+    <features module="" type="header" backgroud="">
+      <feature>Ta aktualizacja poprawia komfort korzystania z Magicznego portalu. Zainstaluj tę aktualizację, aby korzystać z ulepszeń.</feature>
+    </features>
+    <features module="Więcej aplikacji obsługuje Magiczny portal">
+      <feature>Aktualizacja umożliwia przeciągnięcie większej liczby aplikacji do Magicznego portalu.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="pt-br" code="1046">
+    <features module="" type="header" backgroud="">
+      <feature>Essa atualização aprimora a experiência do usuário do Portal mágico. Atualize para aproveitar as melhorias.</feature>
+    </features>
+    <features module="Mais aplicativos são compatíveis com o Portal mágico">
+      <feature>A atualização permite que você arraste mais aplicativos para o Portal mágico.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="pt-pt" code="2070">
+    <features module="" type="header" backgroud="">
+      <feature>Esta atualização melhora a experiência do utilizador do Magic Portal. Atualize para aproveitar as melhorias.</feature>
+    </features>
+    <features module="Mais aplicações suportam o Magic Portal">
+      <feature>A atualização permite-lhe arrastar mais aplicações para o Magic Portal.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="ro-ro" code="1048">
+    <features module="" type="header" backgroud="">
+      <feature>Această actualizare îmbunătățește experiența de utilizare pentru Portal magic. Actualizați pentru a vă bucura de îmbunătățiri.</feature>
+    </features>
+    <features module="Mai multe aplicații sunt compatibile cu Portal magic">
+      <feature>Actualizarea vă permite să glisați mai multe aplicații în Portal magic.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="ru-ru" code="1049">
+    <features module="" type="header" backgroud="">
+      <feature>Это обновление улучшает использование приложения Magic Portal. Обновитесь, чтобы оценить улучшения.</feature>
+    </features>
+    <features module="Больше приложений поддерживает Magic Portal">
+      <feature>Обновление позволяет перетаскивать больше приложений в Magic Portal.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="si-lk" code="1115">
+    <features module="" type="header" backgroud="">
+      <feature>මෙම යාවත්කාලය මැජික් ද්වාරයෙහි පරිශීලක අත්දැකීම වැඩිදියුණු කරයි. වැඩිදියුණු කිරීම් අත්විඳීමට යාවත්කාල කරන්න.</feature>
+    </features>
+    <features module="මැජික් ද්වාරයට සහය දක්වන තවත් යෙදුම්">
+      <feature>යාවත්කාලය මගින් ඔබට තවත් යෙදුම් මැජික් ද්වාරයට ඇදගෙන යන්නට ඉඩ දෙයි.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="sk-sk" code="1051">
+    <features module="" type="header" backgroud="">
+      <feature>Táto aktualizácia vylepšuje používateľskú skúsenosť z aplikácie Magický portál. Aktualizujte, aby ste si užili zlepšenia.</feature>
+    </features>
+    <features module="Viac aplikácií podporuje aplikáciu Magický portál">
+      <feature>Aktualizácia vám umožňuje potiahnuť viac aplikácií do aplikácie Magický portál.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="sl-si" code="1060">
+    <features module="" type="header" backgroud="">
+      <feature>Ta posodobitev izboljšuje uporabniško izkušnjo Čarobnega portala. Izvedite posodobitev ter uživajte v novih izboljšavah.</feature>
+    </features>
+    <features module="Več aplikacij podpira Čarobni portal">
+      <feature>Ta posodobitev omogoča, da v Čarobni portal povlečete še več aplikacij.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="sv-se" code="1053">
+    <features module="" type="header" backgroud="">
+      <feature>Den här uppdateringen förbättrar användarupplevelsen av Magisk portal. Uppdatera för att ta del av förbättringarna.</feature>
+    </features>
+    <features module="Fler appar stöder Magisk portal">
+      <feature>Uppdateringen gör att du kan dra fler appar till Magisk portal.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="sw-tz" code="1089">
+    <features module="" type="header" backgroud="">
+      <feature>Sasisho hili linaboresha huduma anayopata mtumiaji wa Tovuti ya Miujiza. Sasisha ili ufurahie maboresho.</feature>
+    </features>
+    <features module="Programu zaidi zinaruhusu Tovuti ya Miujiza">
+      <feature>Sasisho hili hukuruhusu kukokota programu zaidi kwenye Tovuti ya Miujiza.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="ta-in" code="1097">
+    <features module="" type="header" backgroud="">
+      <feature>இந்தப் புதுப்பிப்பு மேஜிக் போர்டல் உடனான பயனர் அனுபவத்தை மேம்படுத்துகிறது. மேம்பாடுகளைப் பெற, புதுப்பிக்கவும்.</feature>
+    </features>
+    <features module="மேஜிக் போர்ட்டலை ஆதரிக்கும் கூடுதல் செயலிகள்">
+      <feature>மேஜிக் போர்டலுக்குள் கூடுதல் செயலிகளை இழுக்க புதுப்பிப்பு உங்களை அனுமதிக்கிறது.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="te-in" code="1098">
+    <features module="" type="header" backgroud="">
+      <feature>ఈ అప్‌డేట్ మేజిక్ పోర్టల్ యొక్క వినియోగదారు అనుభవాన్ని మెరుగుపరుస్తుంది. మెరుగుదలలను ఆస్వాదించడానికి అప్‌డేట్ చేయండి.</feature>
+    </features>
+    <features module="మేజిక్ పోర్టల్‌కు మద్దతు ఇచ్చే మరిన్ని అప్లికేషన్‌లు">
+      <feature>ఈ అప్‌డేట్ మీరు మరిన్ని అప్లికేషన్‌లను మేజిక్ పోర్టల్‌లోకి లాగడానికి అనుమతిస్తుంది.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="th-th" code="1054">
+    <features module="" type="header" backgroud="">
+      <feature>การอัปเดตนี้ปรับปรุงประสบการณ์การใช้งานของผู้ใช้เมจิกพอร์ทัล โปรดอัปเดตเพื่อใช้การปรับปรุงนี้</feature>
+    </features>
+    <features module="แอปอื่นๆ ที่รองรับเมจิกพอร์ทัล">
+      <feature>อัปเดตนี้ช่วยให้คุณสามารถลากแอปอื่นๆ เพิ่มเติมไปยังเมจิกพอร์ทัล</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="tl-ph" code="1124">
+    <features module="" type="header" backgroud="">
+      <feature>Pinapahusay ng update na ito ang karanasan ng user sa Magic Portal. I-update para i-enjoy ang mga pagpapahusay.</feature>
+    </features>
+    <features module="Sinusuportahan ng higit pang app ang Magic Portal">
+      <feature>Nagbibigay-daan sa iyo ang update na ito na mag-drag ng higit pang app sa Magic Portal.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="tr-tr" code="1055">
+    <features module="" type="header" backgroud="">
+      <feature>Bu güncelleme Sihirli Portal\'ın kullanıcı deneyimini iyileştirir. İyileştirmelerden faydalanmak için güncelleyin.</feature>
+    </features>
+    <features module="Sihirli Portal\'ı destekleyen daha fazla uygulama">
+      <feature>Güncelleme daha fazla uygulamayı Sihirli Portal\'a sürüklemenizi sağlar.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="uk-ua" code="1058">
+    <features module="" type="header" backgroud="">
+      <feature>Це оновлення покращує взаємодію користувача з Магічним порталом. Установіть оновлення та насолоджуйтеся покращеннями.</feature>
+    </features>
+    <features module="Більше додатків підтримують Магічний портал">
+      <feature>Це оновлення дає змогу перетягувати більше додатків до Магічного порталу.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="ur-pk" code="1056">
+    <features module="" type="header" backgroud="">
+      <feature>یہ اپ ڈیٹ میجک پورٹل کے صارف کے تجربے کو بہتر بناتی ہے۔ بہتریوں سے لطف اندوز ہونے کے لیے اپ ڈیٹ کریں۔</feature>
+    </features>
+    <features module="مزید ایپس میجک پورٹل میں تعاون کرتی ہیں">
+      <feature>اپ ڈیٹ آپ کو میجک پورٹل میں مزید ایپس کو گھسیٹنے کی اجازت دیتی ہے۔</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="ug-cn" code="1152">
+    <features module="" type="header" backgroud="">
+      <feature>بۇ يېڭىلاش روڭياۋ سېھىرلىك ئىشىكنىڭ ئىشلىتىش تەسىراتىنى يۇقىرى كۆتۈرىدۇ، يېڭىلاش تەۋسىيە قىلىنىدۇ.</feature>
+    </features>
+    <features module="سېھىرلىك ئىشىكنى قوللايدىغان ئەپلەر كېڭەيتىلدى">
+      <feature>بۇ قېتىملىق يېڭىلاشتا سېھىرلىك ئىشىككە سۆرەپ كىرىشكە بولىدىغان ئەپلەر دائىرىسى كېڭەيتىلدى.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="uz-uz" code="2115">
+    <features module="" type="header" backgroud="">
+      <feature>Bu yangilanishda Sehrli portal foydalanuvchi taassuroti yaxshilandi. Takomillashtirishlardan foydalanish uchun yangilang.</feature>
+    </features>
+    <features module="Sehrli portalni yanada koʻproq ilovalar dastaklaydi">
+      <feature>Bu yangilanish sizga yanada koʻproq ilovalarni Sehrli portalga tortib tashlash imkonini beradi.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="vi-vn" code="1066">
+    <features module="" type="header" backgroud="">
+      <feature>Bản cập nhật này cải thiện trải nghiệm người dùng của Magic Portal. Hãy cập nhật để tận hưởng các cải tiến.</feature>
+    </features>
+    <features module="Nhiều ứng dụng hỗ trợ Magic Portal hơn">
+      <feature>Bản cập nhật cho phép bạn kéo nhiều ứng dụng hơn vào Magic Portal.</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="zh-cn" code="2052">
+    <features module="" type="header" backgroud="">
+      <feature>本更新将提升荣耀任意门的使用体验，建议您立即更新。</feature>
+    </features>
+    <features module="扩展支持任意门的应用">
+      <feature>本更新将扩展支持拖拽到任意门的应用范围。</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="zh-hk" code="3076">
+    <features module="" type="header" backgroud="">
+      <feature>本更新將提升榮耀任意門的使用體驗，建議您立即更新。</feature>
+    </features>
+    <features module="擴展支援任意門的應用程式">
+      <feature>本更新將擴展支援拖曳到任意門的應用程式範圍。</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="zh-tw" code="1028">
+    <features module="" type="header" backgroud="">
+      <feature>本更新將提升榮耀任意門的使用體驗，建議您立即更新。</feature>
+    </features>
+    <features module="擴展支援任意門的應用程式">
+      <feature>本更新將擴展支援拖曳到任意門的應用程式範圍。</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+  <language name="bo-cn" code="1105">
+    <features module="" type="header" backgroud="">
+      <feature>ཐེངས་འདིའི་གསར་སྒྱུར་གྱིས་རུང་ཡོའོ་འདོད་འབྱུང་སྒོ་མོའི་བེད་སྤྱོད་ཉམས་ལེན་མཐོར་འདེགས་བཏང་ཡོད། ཁྱེད་ཀྱིས་མྱུར་དུ་གསར་སྒྱུར་བྱས་ན་ལེགས།</feature>
+    </features>
+    <features module="འདོད་འབྱུང་སྒོ་མོ་ལ་རྒྱབ་སྐྱོར་བྱེད་པའི་ཉེར་སྤྱོད་རྒྱ་སྐྱེད།">
+      <feature>ཐེངས་འདིའི་གསར་སྒྱུར་གྱིས་འདོད་འབྱུང་སྒོ་མོ་རུ་འདྲུད་འཐེན་ལ་རྒྱབ་སྐྱོར་བྱེད་པའི་ཉེར་སྤྱོད་ཁྱབ་ཁོངས་རྒྱ་སྐྱེད་བྱ་སྲིད།</feature>
+    </features>
+    <features module="" type="end">
+      <feature></feature>
+    </features>
+  </language>
+</root>

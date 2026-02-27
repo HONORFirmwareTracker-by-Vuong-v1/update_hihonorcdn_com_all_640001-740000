@@ -1,0 +1,14 @@
+<root>
+	<packageName>com.hihonor.visionengine</packageName>
+	<pluginName>orchestrator</pluginName>
+	<versionCode>100100021</versionCode>
+	<packageType>increment</packageType>
+	<files>
+		<file>
+			<spath>update_plugin.zip</spath>
+			<dpath>update_plugin.zip</dpath>
+			<sha256>cd112980c518a581a14864f1c1a31bf81ea8f30d19c66b603fb9635cc8518335</sha256>
+			<size>166367</size>
+		</file>
+	</files>
+</root>

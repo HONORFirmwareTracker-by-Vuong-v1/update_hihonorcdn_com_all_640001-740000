@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<cowsize>509972480</cowsize>
+<payloadOffset>850</payloadOffset>
+<fileHash>L5DgLxZYX4gIE0ZswzEBpS8dwoXFG3ro87QjaoJptcQ=</fileHash>
+<fileSize>42423</fileSize>
+<metadataHash>NUPndziBEKNQ0VSf2V9LZ49uo6yjHbfMnm9r/f6zzvI=</metadataHash>
+<metadataSize>14868</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<preAdjustFeature>false</preAdjustFeature>
+<vendorInfo name="cust" package="update_cust_TFY-TN00_cmcc_cn.zip" precut_size="0" subpath=""/>
+<GROUP version="NA"/>
+<GBC version="NA"/>
+<files>
+<file>
+<spath>update_cust_TFY-TN00_cmcc_cn.zip</spath>
+<dpath>update_cust_TFY-TN00_cmcc_cn.zip</dpath>
+<operation>c</operation>
+<sha256>D7625F07B877B8D2B97E8C6129EB0387862DA05BBD304BBF229CD7CF5B400312</sha256>
+<size>49672</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>940068864</cowsize>
+<payloadOffset>940</payloadOffset>
+<fileHash>Gf10vevjicwWOjZXuguomKkQpQpPMV5svSV0/2AEg8g=</fileHash>
+<fileSize>183068006</fileSize>
+<metadataHash>nlTund3QIPPtZ+yA2nkSQ4LmttG/dm4AtpqV7DMTNRc=</metadataHash>
+<metadataSize>21965</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_NDL2-W09S_def_meafnaf_R103.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_NDL2-W09S_def_meafnaf_R103.zip</spath>
+<dpath>update_preload_NDL2-W09S_def_meafnaf_R103.zip</dpath>
+<operation>c</operation>
+<sha256>450F649F60B7788975EEAAF969A9FFB56B01B1A6AA899EB411E6FED3C19559CB</sha256>
+<size>183075357</size>
+</file>
+</files>
+</root>

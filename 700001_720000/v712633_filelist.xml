@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44179456</cowsize>
+<payloadOffset>907</payloadOffset>
+<fileHash>/SRPZzoQOfeJmB9rhVoz29673Y16Z5gbdVJ0hyPEXiw=</fileHash>
+<fileSize>77965</fileSize>
+<metadataHash>cNe9cqlKuilpA9HePWmnJgB23XZdCaWdg8RsoH/ysYI=</metadataHash>
+<metadataSize>1278</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_MAG-AN00_all_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_MAG-AN00_all_cn.zip</spath>
+<dpath>update_cust_MAG-AN00_all_cn.zip</dpath>
+<operation>c</operation>
+<sha256>6378FCA2D1B92C1B799AA5E7A8B1960A2B862BE193763767466A9C7A43DFAF8B</sha256>
+<size>85266</size>
+</file>
+</files>
+</root>

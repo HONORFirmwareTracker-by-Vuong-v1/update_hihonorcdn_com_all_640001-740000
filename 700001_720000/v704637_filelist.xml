@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>642097152</cowsize>
+<payloadOffset>923</payloadOffset>
+<fileHash>yFfGZ25v+yo5XP3fFz+TGFnVsPGW+wdJwKbV//tes3Y=</fileHash>
+<fileSize>5267018</fileSize>
+<metadataHash>1Zq8VtJN1FS+NBeNgRi1OJcNPxPdkg04GjPDFRV/apo=</metadataHash>
+<metadataSize>4949</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_DNP-N39_opr_eea_R2.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_DNP-N39_opr_eea_R2.zip</spath>
+<dpath>update_preload_DNP-N39_opr_eea_R2.zip</dpath>
+<operation>c</operation>
+<sha256>5FE509EAE261A4CADBC27F7FD786770A3ED5551BCE26780CD43E73C0F967B1BF</sha256>
+<size>5274350</size>
+</file>
+</files>
+</root>

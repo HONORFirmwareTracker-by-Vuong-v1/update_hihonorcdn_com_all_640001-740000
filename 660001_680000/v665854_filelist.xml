@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2032955392</cowsize>
+<payloadOffset>940</payloadOffset>
+<fileHash>Hy5LuuBVflSJL5ChNrSi1Nlki5miEplS6gV/ystw2vc=</fileHash>
+<fileSize>187120856</fileSize>
+<metadataHash>rKtDUV9/0lFe3TAopH3WNuBGLw4Hl1cESoRzWr+sc/Q=</metadataHash>
+<metadataSize>48606</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_MTN-AN80_all_cn_R102.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_MTN-AN80_all_cn_R102.zip</spath>
+<dpath>update_preload_MTN-AN80_all_cn_R102.zip</dpath>
+<operation>c</operation>
+<sha256>FBF25ADBB22089000BE959440A1676660CA01F642ABCC586368F8F26FEDF8D5F</sha256>
+<size>187128203</size>
+</file>
+</files>
+</root>

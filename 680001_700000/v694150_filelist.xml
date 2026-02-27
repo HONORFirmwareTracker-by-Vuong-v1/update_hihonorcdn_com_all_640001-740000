@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1820569600</cowsize>
+<payloadOffset>940</payloadOffset>
+<fileHash>bP4vRzbG90Unf2uQ++Y681LlwWPWtBrnZuoeCPB+cu4=</fileHash>
+<fileSize>273091888</fileSize>
+<metadataHash>1VNj9yfi18jNjpUAOI8iElVg175rBIHIdj2HrVeO8ps=</metadataHash>
+<metadataSize>48854</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_NIC-AN00M_all_cn_R203.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_NIC-AN00M_all_cn_R203.zip</spath>
+<dpath>update_preload_NIC-AN00M_all_cn_R203.zip</dpath>
+<operation>c</operation>
+<sha256>30CCB188BEB14149520886B0AB57E82FA8EE4C448E62555A313755F0EF1B69CB</sha256>
+<size>273099243</size>
+</file>
+</files>
+</root>

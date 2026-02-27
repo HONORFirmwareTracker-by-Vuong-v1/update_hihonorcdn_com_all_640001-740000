@@ -1,0 +1,24 @@
+<root>
+    <component name="TCPU" version="请自行修改"></component>
+    <default-language name="en-us">1033</default-language>
+    <language code="2052" name="zh-cn">
+                <features module="" type="header">
+            <feature>本次更新主要针对系统进行了优化，推荐您进行更新。</feature>
+        </features>
+        <features module="相机">
+             <feature>优化部分场景相机拍摄效果</feature>
+        </features>
+        <features module="稳定性">
+             <feature>提升系统稳定性</feature>
+        </features>
+         <features module="更新注意事项" type="end">
+             <feature>1. 新版本下载及安装过程会消耗部分电量及轻微发热，属于正常现象
+2. 版本安装后重启期间会做部分系统优化，预计花费 1~3 分钟，请耐心等待
+3. 升级完成后部分系统优化会在后台自动进行，系统会在后台自动优化，出现少量耗电，轻微发热是正常现象，1 天内即可恢复
+4. 因部分第三方应用与 Android 16 不兼容，更新后可能会出现第三方应用无法正常使用的情况 (如闪退、卡顿、耗电等)。建议您在应用市场尝试将该应用更新至最新版本，若仍无法解决问题，请您耐心等待应用更新信息，并及时更新
+5. 本次更新不会删除您的用户数据，但仍建议您在更新前做好数据备份
+6. 如果您在使用过程中遇到任何问题，请访问“我的荣耀”应用或访问荣耀官方服务网站 https://www.honor.com/cn/contact-us 寻求支持</feature>
+         </features>
+    </language>
+
+</root>

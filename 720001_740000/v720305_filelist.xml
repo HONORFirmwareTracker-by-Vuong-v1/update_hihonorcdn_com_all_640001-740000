@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>15681139</compressCowSize>
+<cowsize>642084864</cowsize>
+<payloadOffset>899</payloadOffset>
+<fileHash>nqFI6Uil4wCOnVYAldcvtzrPfVVmR6nfbGf+QrRa64I=</fileHash>
+<fileSize>8006</fileSize>
+<metadataHash>QSMyjobYiawDtGrKrDr2ya4hE2HJGmN0GXQeYPclP50=</metadataHash>
+<metadataSize>4536</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_DNP-N09_telcel_mx_R1.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_DNP-N09_telcel_mx_R1.zip</spath>
+<dpath>update_preload_DNP-N09_telcel_mx_R1.zip</dpath>
+<operation>c</operation>
+<sha256>D0DFB5C132DC26DAC7A1C9BAEF944BEF9359EFC4534D877550865D73D8E7DD71</sha256>
+<size>15309</size>
+</file>
+</files>
+</root>

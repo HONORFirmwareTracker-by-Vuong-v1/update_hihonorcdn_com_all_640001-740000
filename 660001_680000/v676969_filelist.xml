@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>672473088</cowsize>
+<payloadOffset>908</payloadOffset>
+<fileHash>RnH2Ewou2FeSWrjHCc+wli2kmqAWwIbFQxJUDf4MSMw=</fileHash>
+<fileSize>43770</fileSize>
+<metadataHash>tWQW5lquXjOaFFjkn4x2xkej4pue/wxHjghVPz74vdM=</metadataHash>
+<metadataSize>33725</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_YLP-W00_demo_cn_R101.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_YLP-W00_demo_cn_R101.zip</spath>
+<dpath>update_preload_YLP-W00_demo_cn_R101.zip</dpath>
+<operation>c</operation>
+<sha256>5928DEAB38ABC4F5BF33FF10ED32EB28844B45F91414BD159ABB67BE9A23D9E1</sha256>
+<size>51083</size>
+</file>
+</files>
+</root>

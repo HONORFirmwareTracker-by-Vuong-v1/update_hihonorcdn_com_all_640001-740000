@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>642084864</cowsize>
+<payloadOffset>899</payloadOffset>
+<fileHash>gdumfwVTFzTWXhwLFGqlajRwozS8W3IhOQVpu2eo+LA=</fileHash>
+<fileSize>7902</fileSize>
+<metadataHash>rhyPY/a+8Xf7iWLBb2Vnw+e5i+LRcrmlRhfAFNeJ7V8=</metadataHash>
+<metadataSize>4443</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_DNY-N09_claro_la_R1.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_DNY-N09_claro_la_R1.zip</spath>
+<dpath>update_preload_DNY-N09_claro_la_R1.zip</dpath>
+<operation>c</operation>
+<sha256>7A8B3B88423E493E2B296EC12C392F490C494B90E27283328FD963E2D068DD7E</sha256>
+<size>15206</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>2</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2166366208</cowsize>
+<payloadOffset>940</payloadOffset>
+<fileHash>olcpHPA2Rxi1GJqtCWodjnRgPq3NE2pKIRQz5MSzBR0=</fileHash>
+<fileSize>885063797</fileSize>
+<metadataHash>umoZ17ytqnibYX33aORtXnEkJ00yj1YR5GA9JYuEt/k=</metadataHash>
+<metadataSize>43915</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_MAA-TN00_cmcc_cn_R5.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_MAA-TN00_cmcc_cn_R5.zip</spath>
+<dpath>update_preload_MAA-TN00_cmcc_cn_R5.zip</dpath>
+<operation>c</operation>
+<sha256>0682C160A4FD2A796E98DF3468F94649A8896D97B3D4568F278A059C71359B0A</sha256>
+<size>885071145</size>
+</file>
+</files>
+</root>

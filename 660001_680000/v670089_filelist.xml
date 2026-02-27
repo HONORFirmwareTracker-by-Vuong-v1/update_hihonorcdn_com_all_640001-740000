@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>925665275</compressCowSize>
+<cowsize>2275844096</cowsize>
+<payloadOffset>941</payloadOffset>
+<fileHash>5NDqT5u9H3k7I5oNB11H+hDWNsp8xaCzSxXIL5ipDBc=</fileHash>
+<fileSize>789985501</fileSize>
+<metadataHash>HipTKZHBUrtabRloD0WbCIjjwnZ93AIhjZrUeMo2RhU=</metadataHash>
+<metadataSize>236426</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_PPG-AN00_all_cn_R104.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_PPG-AN00_all_cn_R104.zip</spath>
+<dpath>update_preload_PPG-AN00_all_cn_R104.zip</dpath>
+<operation>c</operation>
+<sha256>FBCC4DDC4FCF400C2D4C38D4A030C814E51DACF69CFD8A48DBF7B633FC9488C3</sha256>
+<size>789992850</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,68 @@
+<root>
+    <component name="TCPU" version="请自行修改"/>
+    <default-language name="zh-cn">1033</default-language>
+    <language name="zh-cn" code="2052">
+                <features module="" type="header" >
+            <feature>亲爱的用户，本次更新主要针对系统进行了优化，推荐您进行更新</feature>
+        </features>
+        <features  module="锁屏">
+             <feature>•  新增锁屏长时钟。体验路径：设置>桌面和个性化>点击时钟即可编辑</feature>
+             <feature>•  新增视频壁纸，支持最长10秒动态效果。体验路径：设置>桌面和个性化>锁屏自定义>锁屏样式>选择照片>视频</feature>
+        </features>
+        <features  module="相机">
+             <feature>•  优化夜景/长焦清晰度</feature>
+             <feature>•  优化舞台模式效果</feature>
+             <feature>•  优化点光源场景对焦表现</feature>
+             <feature>•  优化色彩还原准确度</feature>
+             <feature>•  优化人像肤色准确度和亮度稳定性</feature>
+        </features>
+        <features  module="灵动胶囊">
+             <feature>•  新增火车出行接入胶囊，需绑定12306账号。体验路径：设置>通知和状态栏>灵动胶囊>YOYO建议服务>火车出行>绑定12306账号</feature>
+             <feature>•  新增人脸解锁接入胶囊。体验路径：设置>通知和状态栏>灵动胶囊>人脸识别</feature>
+        </features>
+        <features  module="智慧多窗">
+             <feature>•  优化Mini窗交互体验，拖拽Mini窗边角，可切换为悬浮窗与全屏</feature>
+        </features>
+        <features  module="桌面">
+             <feature>•  新增长按桌面空白区域进入编辑模式功能</feature>
+        </features>
+        <features  module="状态栏">
+             <feature>•  新增状态栏图标自定义功能，可自由选择需要显示的状态栏图标。体验路径：设置>通知和状态栏>状态栏</feature>
+        </features>
+        <features  module="蓝牙">
+             <feature>•  新增蓝牙设备自动拦截播放功能。体验路径：设置>蓝牙>点击蓝牙设备详情图标>拦截蓝牙外设自动播放指令</feature>
+        </features>
+        <features  module="声音">
+             <feature>•  新增充电提示音开关功能。设置>声音与触感>更多声音设置>充电提示音</feature>
+        </features>
+        <features  module="热点">
+             <feature>•  新增个人热点隐藏功能。体验路径：设置>移动网络>个人热点>更多共享设置>隐藏热点</feature>
+        </features>
+        <features  module="系统">
+             <feature>•  修复三键导航按键及侧滑返回桌面模糊问题</feature>
+             <feature>•  修复亮度条显示异常问题</feature>
+        </features>
+        <features  module="荣耀互联">
+             <feature>•  修复部分场景下手机与电脑文件传输失败问题</feature>
+        </features>
+        <features  module="游戏">
+             <feature>•  修复崩坏：星穹铁道显示异常问题</feature>
+        </features>
+        <features  module="性能">
+             <feature>•  优化部分场景使用卡顿问题，提升整机流畅性</feature>
+        </features>
+        <features  module="功耗">
+             <feature>•  优化部分场景续航体验</feature>
+        </features>
+        <features  module="稳定性">
+             <feature>•  提升系统稳定性</feature>
+        </features>
+         <features module="更新注意事项" type="end">
+             <feature>1. 本次更新不会删除您的用户数据，但仍建议您在更新前做好数据备份
+2. 更多精彩功能介绍，请访问“玩机技巧”应用
+3. 如果您在使用过程中遇到任何问题，请访问“我的荣耀”应用或访问荣耀官方服务网站 https://www.honor.com/cn/contact-us 寻求支持</feature>
+         </features>
+    </language>
+            <imgs>
+            </imgs>
+</root>

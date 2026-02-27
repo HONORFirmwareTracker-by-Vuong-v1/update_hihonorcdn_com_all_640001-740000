@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>343635489</compressCowSize>
+<cowsize>2391584768</cowsize>
+<payloadOffset>941</payloadOffset>
+<fileHash>jziCJ70ISY4j7UoxSx7GwlbtOcByGitnS6tpMdCZOyQ=</fileHash>
+<fileSize>286856639</fileSize>
+<metadataHash>ZwiANo2zEQbDWQ9xUR/Hpoio3O3tyOg/etUN4XQayX0=</metadataHash>
+<metadataSize>140113</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_ELP-AN00_all_cn_R103.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_ELP-AN00_all_cn_R103.zip</spath>
+<dpath>update_preload_ELP-AN00_all_cn_R103.zip</dpath>
+<operation>c</operation>
+<sha256>E43ECD2E2E327DD542D6B0D0D2557D62143083B4248C243CBAD266E22CE91641</sha256>
+<size>286863987</size>
+</file>
+</files>
+</root>

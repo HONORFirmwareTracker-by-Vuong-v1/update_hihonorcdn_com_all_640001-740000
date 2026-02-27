@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<supportPKI>0</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>res</packageSolution>
+<files>
+<file>
+<spath>update_resource.zip</spath>
+<dpath>update_resource.zip</dpath>
+<operation>c</operation>
+<sha256>276A747E704FA349DA04366F7AB4410FEE73768324D6A37A9AD1AB7D3D940B22</sha256>
+<size>6659</size>
+<installSize>2102473</installSize>
+</file>
+</files>
+</root>

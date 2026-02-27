@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>543179074</compressCowSize>
+<cowsize>1992409088</cowsize>
+<payloadOffset>941</payloadOffset>
+<fileHash>OaeeqzCKGgzW6NloDdr0//irUSh2drlRnYv2HFb9Y3M=</fileHash>
+<fileSize>373827941</fileSize>
+<metadataHash>LpZ6cIdseBxoIemMJe8cRtOVPfZXWZJl+3QuamGPnF8=</metadataHash>
+<metadataSize>121073</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_ELP-N09_claro_la.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_ELP-N09_claro_la.zip</spath>
+<dpath>update_cust_ELP-N09_claro_la.zip</dpath>
+<operation>c</operation>
+<sha256>F4E8FB924F6052120A78B025A922C62EBB89822650BB5E8282FD03B00B768F09</sha256>
+<size>373835279</size>
+</file>
+</files>
+</root>

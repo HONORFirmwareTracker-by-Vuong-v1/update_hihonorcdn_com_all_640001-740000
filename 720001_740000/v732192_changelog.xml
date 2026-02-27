@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <component name="TCPU" version="请自行修改"/>
+    <default-language name="en-us">1033</default-language>
+    <language name="zh-cn" code="2052">
+                <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>本次更新主要针对参数优化，推荐您进行更新。</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="通信协议参数">
+            <!-- 正文 -->
+            <feature>针对部分场景进行了通信稳定性优化。</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+	<language name="en-us" code="1033">
+                <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>This update is mainly optimized for parameters and is recommended for you to update.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Communication protocol parameters">
+            <!-- 正文 -->
+            <feature>Communication stability optimization has been carried out for some scenarios.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+</root>

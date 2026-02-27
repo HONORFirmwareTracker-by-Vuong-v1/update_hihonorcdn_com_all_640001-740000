@@ -1,0 +1,1111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <component name="TCPU" version="请自行修改"/>
+    <default-language name="en-us">1033</default-language>
+        <language name="en-us" code="1033">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Dear user, this update mainly enhances the system performance. Update to enjoy the improvements.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="System optimization">
+            <!-- 正文 -->
+            <feature>Optimizes the system performance to improve the user experience.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="am-et" code="1118">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>ውድ ተጠቃሚ፣ ይህ ዝማኔ በዋነኛነት የስርዓቱን አፈጻጸም ያሻሽላል። በማሻሻያዎቹ ለመደሰት ያዘምኑ።</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="ስርዓት ማትባት">
+            <!-- 正文 -->
+            <feature>የተጠቃሚ ተሞክሮውን ለማሻሻል የስርዓቱን አፈጻጸም ያተባል።</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="ar-eg" code="3073">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>عزيزنا المستخدم، يحسّن هذا التحديث أداء النظام بشكل أساسي. للاستمتاع بالتحسينات، ما عليك سوى التحديث.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="تحسين النظام">
+            <!-- 正文 -->
+            <feature>يحسّن أداء النظام لتحسين تجربة المستخدم.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="as-in" code="1101">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>মৰমৰ ব্যৱহাৰকাৰী, এই আপডেটটোৱে মূলতঃ ছিষ্টেমৰ কাৰ্যদক্ষতা উন্নত কৰে। উন্নতিসমূহৰ আনন্দ ল\'বলৈ আপডেট কৰক।</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="ছিষ্টেম অনুকূলিতকৰণ">
+            <!-- 正文 -->
+            <feature>ব্যৱহাৰকাৰীৰ অভিজ্ঞতা উন্নত কৰিবলৈ ছিষ্টেমৰ কাৰ্যদক্ষতা অনুকূলন কৰে।</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="az-az" code="1068">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Hörmətli istifadəçi, bu yeniləmə əsasən sistemin performansını artırır. Təkmilləşdirmələrdən zövq almaq üçün yeniləyin.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Sistem optimallaşdırması">
+            <!-- 正文 -->
+            <feature>İstifadəçi təcrübəsini yaxşılaşdırmaq üçün sistem performansını optimallaşdırır.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="jv-id" code="1033">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Katur pangguna, panganyaran iki utamane ningkatake kinerja sistem. Anyarake kanggo ngrasakake pangapikan kasebut.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Pangoptimalan sistem">
+            <!-- 正文 -->
+            <feature>Ngoptimalake kinerja sistem kanggo ngapikake pangalaman pengguna.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="sr-rs" code="2074">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Poštovani korisniče, ovim ažuriranjem se unapređuju performanse sistema. Ažurirajte da biste uživali u unapređenjima.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Optimizacija sistema">
+            <!-- 正文 -->
+            <feature>Optimizuje performanse sistema radi poboljšanja korisničkog iskustva.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="be-by" code="1059">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Паважаны карыстальнік, гэта абнаўленне ў асноўным паляпшае прадукцыйнасць сістэмы. Устанавіце абнаўленне, каб карыстацца паляпшэннямі.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Аптымізацыя сістэмы">
+            <!-- 正文 -->
+            <feature>Прадукцыйнасць сістэмы аптымізавана, у выніку чаго выкарыстанне функцыі палепшана.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="bg-bg" code="1026">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Уважаеми потребители, тази актуализация подобрява основно ефективността на системата. Актуализирайте, за да се насладите на подобренията.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Оптимизиране на системата">
+            <!-- 正文 -->
+            <feature>Оптимизира ефективността на системата, за да подобри изживяването на потребителите.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="bn-bd" code="2117">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>প্রিয় ব্যবহারকারী, এই আপডেটটি মূলত সিস্টেমের কর্মক্ষমতা বাড়ায়। উন্নতি উপভোগ করতে আপডেট করুন।</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="সিস্টেম অপটিমাইজেশন">
+            <!-- 正文 -->
+            <feature>ব্যবহারকারীর অভিজ্ঞতা উন্নত করার জন্য সিস্টেমের কর্মক্ষমতা অপ্টিমাইজ করে।</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="bs-ba" code="5146">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Poštovani korisniče, ovo ažuriranje uglavnom poboljšava performanse sistema. Ažurirajte ih da uživate u poboljšanjima.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Optimizacija sistema">
+            <!-- 正文 -->
+            <feature>Optimizira performanse sistema radi poboljšanja korisničkog iskustva.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="ca-es" code="1027">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Benvolgut usuari, aquesta actualització millora principalment el rendiment del sistema. Actualitzeu-la per gaudir de les millores.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Optimització del sistema">
+            <!-- 正文 -->
+            <feature>Optimitza el rendiment del sistema per millorar l\'experiència d\'usuari.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="cs-cz" code="1029">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Vážený uživateli, tato aktualizace především zvyšuje výkon systému. Aktualizujte, abyste si mohli užít vylepšení.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Optimalizace systému">
+            <!-- 正文 -->
+            <feature>Optimalizuje výkon systému za účelem zlepšení uživatelského zážitku.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="da-dk" code="1030">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Kære bruger. Denne opdatering forbedrer primært systemets ydeevne. Opdater, og oplev forbedringerne.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Systemoptimering">
+            <!-- 正文 -->
+            <feature>Optimerer systemets ydeevne for at forbedre brugeroplevelsen.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="de-de" code="1031">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Sehr geehrter Benutzer, dieses Update verbessert hauptsächlich die Systemleistung. Nehmen Sie die Aktualisierung vor, um in den Genuss der Verbesserungen zu kommen.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Systemoptimierung">
+            <!-- 正文 -->
+            <feature>Optimiert die Systemleistung, um das Benutzererlebnis zu verbessern.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="el-gr" code="1032">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Αγαπητέ χρήστη, αυτή η ενημέρωση βελτιώνει κυρίως την απόδοση του συστήματος. Πραγματοποιήστε ενημέρωση για να απολαύσετε τις βελτιώσεις.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Βελτιστοποίηση συστήματος">
+            <!-- 正文 -->
+            <feature>Βελτιστοποιεί την απόδοση του συστήματος για τη βελτίωση της εμπειρίας χρήστη.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="en-gb" code="2057">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Dear user, this update mainly enhances the system performance. Update to enjoy the improvements.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="System optimisation">
+            <!-- 正文 -->
+            <feature>Optimises the system performance to improve the user experience.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="es-es" code="1034">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Estimado usuario, esta actualización mejora principalmente el rendimiento del sistema. Actualice para disfrutar de las mejoras.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Optimización del sistema">
+            <!-- 正文 -->
+            <feature>Optimiza el rendimiento del sistema para mejorar la experiencia del usuario.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="es-us" code="21514">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Estimado usuario, esta actualización mejora principalmente el rendimiento del sistema. Actualice para disfrutar de las mejoras.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Optimización del sistema">
+            <!-- 正文 -->
+            <feature>Se optimiza el rendimiento del sistema para mejorar la experiencia de usuario.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="et-ee" code="1061">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Hea kasutaja! See värskendus parandab peamiselt süsteemi jõudlust. Värskendage täiustuste nautimiseks.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Süsteemi optimeerimine">
+            <!-- 正文 -->
+            <feature>Optimeerib süsteemi jõudlust kasutajakogemuse parandamiseks.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="eu-es" code="1069">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Erabiltzaile hori: eguneratze honek sistemaren errendimendua hobetzen du nagusiki. Eguneratu hobekuntzez gozatzeko.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Sistemaren optimizazioak">
+            <!-- 正文 -->
+            <feature>Sistemaren errendimendua optimizatzen du, erabiltzailearen esperientzia hobetzeko.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="fa-ir" code="1065">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>کاربر گرامی، این به‌روزرسانی به‌طور عمده عملکرد سیستم را بهبود می‌بخشد. با انجام این به‌روزرسانی، از این بهبودها بهره‌مند شوید.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="بهينه‌سازی سیستم">
+            <!-- 正文 -->
+            <feature>‏عملکرد سیستم را برای بهبود تجربه کاربر بهینه می‌کند.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="fi-fi" code="1035">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Hyvä käyttäjä, tämä päivitys parantaa ensisijaisesti järjestelmän suorituskykyä. Päivitä, niin pääset nauttimaan parannuksista.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Järjestelmän optimointi">
+            <!-- 正文 -->
+            <feature>Optimoi järjestelmän suorituskyvyn käyttökokemuksen parantamista varten.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="fr-fr" code="1036">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Cher utilisateur, cette mise à jour améliore principalement les performances du système. Effectuez la mise à jour pour profiter des améliorations.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Optimisation du système">
+            <!-- 正文 -->
+            <feature>Optimise les performances du système pour améliorer l\'expérience utilisateur.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="gl-es" code="1110">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Estimado usuario, esta actualización mellora o rendemento do sistema. Actualice para gozar das melloras.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Optimización do sistema">
+            <!-- 正文 -->
+            <feature>Optimiza o rendemento do sistema para mellorar a experiencia do usuario.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="gu-in" code="1095">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>પ્રિય વપરાશકર્તા, આ અપડેટ મુખ્યત્વે સિસ્ટમની કામગીરીને વધારે છે. સુધારાઓનો આનંદ માણવા માટે અપડેટ કરો.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="સિસ્ટમ ઑપ્ટિમાઇઝેશન">
+            <!-- 正文 -->
+            <feature>વપરાશકર્તા અનુભવને સુધારવા માટે સિસ્ટમ પ્રદર્શનને ઓપ્ટિમાઇઝ કરે છે.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="hi-in" code="1081">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>नमस्ते उपयोगकर्ता, इस अद्यतन से मुख्य रूप से सिस्टम प्रदर्शन को बढ़ाया जाता है। सुधारों का फ़ायदा उठाने के लिए अद्यतन करें।</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="सिस्टम अनुकूलन">
+            <!-- 正文 -->
+            <feature>उपयोगकर्ता अनुभव को बेहतर बनाने के लिए सिस्टम प्रदर्शन को अनुकूलित किया जाता है।</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="hr-hr" code="1050">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Poštovani korisniče, ovim se ažuriranjem uglavnom poboljšavaju performanse sustava. Ažurirajte kako biste uživali u poboljšanjima.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Optimizacija sustava">
+            <!-- 正文 -->
+            <feature>Optimiziraju se performanse sustava za poboljšanje korisničkog iskustva.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="hu-hu" code="1038">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Kedves felhasználó! Ez a frissítés elsősorban a rendszer teljesítményét javítja. Frissítsen a fejlesztések eléréséhez.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Rendszeroptimalizálás">
+            <!-- 正文 -->
+            <feature>A felhasználói élmény javítása érdekében optimalizálja a rendszer teljesítményét.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="in-id" code="1057">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Pengguna yang terhormat, pembaruan ini utamanya meningkatkan kinerja sistem. Instal pembaruan untuk menikmati berbagai peningkatan.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Pengoptimalan sistem">
+            <!-- 正文 -->
+            <feature>Mengoptimalkan kinerja sistem untuk meningkatkan pengalaman pengguna.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="it-it" code="1040">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Gentile utente, questo aggiornamento migliora principalmente le prestazioni del sistema. Esegui l\'aggiornamento per usufruire dei miglioramenti.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Ottimizzazione del sistema">
+            <!-- 正文 -->
+            <feature>Vengono ottimizzate le prestazioni del sistema per migliorare l\'esperienza dell\'utente.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="iw-il" code="1037">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>משתמש יקר, עדכון זה משפר בעיקר את ביצועי המערכת. עדכן כדי ליהנות מהשיפורים.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="מיטוב המערכת">
+            <!-- 正文 -->
+            <feature>‏ממטב את ביצועי המערכת כדי לשפר את חוויית המשתמש.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="ja-jp" code="1041">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>ユーザーの皆様、今回の更新では主にシステムのパフォーマンスが強化されます。更新して、改善をお楽しみください。</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="システム最適化">
+            <!-- 正文 -->
+            <feature>システムのパフォーマンスが最適化され、ユーザー体験が改善されます。</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="ka-ge" code="1079">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>ძვირფასო მომხმარებელო, ეს განახლება ძირითადად აუმჯობესებს სისტემის ეფექტურობას. განაახლეთ და ისიამოვნეთ გაუმჯობესებებით.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="სისტემის ოპტიმიზაცია">
+            <!-- 正文 -->
+            <feature>ახდენს სისტემის ეფექტურობის ოპტიმიზებას მომხმარებლის გამოცდილების გასაუმჯობესებლად.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="kk-kz" code="1087">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Құрметті пайдаланушы, бұл жаңарту негізінен жүйе өнімділігін жақсартады. Жақсартуларды пайдалану үшін жаңартыңыз.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Жүйені оңтайландыру">
+            <!-- 正文 -->
+            <feature>Пайдаланушы тәжірибесін жақсарту үшін жүйе өнімділігін оңтайландырады.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="km-kh" code="1107">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>អ្នកប្រើជាទីរាប់អាន បច្ចុប្បន្នភាពនេះធ្វើឱ្យប្រតិបត្តិការប្រព័ន្ធប្រសើរឡើងជាចម្បង។ ធ្វើបច្ចុប្បន្នភាព ដើម្បីរីករាយនឹងការកែលម្អទាំងនេះ។</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="ការធ្វើឱ្យប្រព័ន្ធប្រសើរឡើង">
+            <!-- 正文 -->
+            <feature>ធ្វើឱ្យប្រតិបត្តិការប្រព័ន្ធប្រសើរឡើង ដើម្បីធ្វើឱ្យបទពិសោធអ្នកប្រើប្រសើរឡើង។</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="kn-in" code="1099">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>ಆತ್ಮೀಯ ಬಳಕೆದಾರರೇ, ಈ ನವೀಕರಣವು ಮುಖ್ಯವಾಗಿ ಸಿಸ್ಟಂ ಕಾರ್ಯಕ್ಷಮತೆಯನ್ನು ವರ್ಧಿಸುತ್ತದೆ. ಸುಧಾರಣೆಗಳನ್ನು ಆನಂದಿಸಲು ನವೀಕರಿಸಿ.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="ಸಿಸ್ಟಂ ಆಪ್ಟಿಮೈಸೇಶನ್">
+            <!-- 正文 -->
+            <feature>ಬಳಕೆದಾರ ಅನುಭವವನ್ನು ಸುಧಾರಿಸಲು ಸಿಸ್ಟಂ ಕಾರ್ಯಕ್ಷಮತೆಯನ್ನು ಆಪ್ಟಿಮೈಸ್ ಮಾಡುತ್ತದೆ.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="ko-kr" code="1042">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>사용자 여러분, 이번 업데이트는 주로 시스템 성능을 향상시킵니다. 업데이트하고 개선된 기능을 즐겨보십시오.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="시스템 최적화">
+            <!-- 正文 -->
+            <feature>시스템 성능을 최적화하여 사용자 경험을 개선합니다.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="lo-la" code="1108">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>ສະ​ບາຍ​ດີ​ຜູ້​ໃຊ້, ການ​ອັບ​ເດດ​​ນີ້​ຍົກ​ລະ​ດັບ​ປະ​ສິດ​ທິ​ພາບ​ຂອງ​ລະ​ບົບ​ເປັນຫຼັກ. ອັບ​ເດດ​ເພື່ອ​ມ່ວ​ນ​ຊື່​ນກັບ​ການ​ປັບ​ປຸງ.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="ການ​ປັບ​​ລະ​ບົບໃຫ້​ເໝາະ​ສົມ">
+            <!-- 正文 -->
+            <feature>ປັບປະ​ສິດ​ທິ​ພາບ​ຂອງ​ລະ​ບົບ​ໃຫ້​ເໝາະ​ສົມ ເພື່ອ​ປັບ​ປຸງ​ປະ​ສົບ​ການ​ຜູ້​ໃຊ້.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="lt-lt" code="1063">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Gerbiamasis naudotojau, šis naujinys daugiausiai pagerina sistemos našumą. Atnaujinkite ir mėgaukitės patobulinimais.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Sistemos optimizavimas">
+            <!-- 正文 -->
+            <feature>Optimizuoja sistemos veikimą, kad pagerintų naudotojo patirtį.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="lv-lv" code="1062">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Cien. lietotāj! Ar šo atjauninājumu galvenokārt ir uzlabota sistēmas veiktspēja. Atjauniniet, lai izbaudītu uzlabojumus.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Sistēmas optimizācija">
+            <!-- 正文 -->
+            <feature>Optimizē sistēmas veiktspēju, lai uzlabotu lietošanas iespējas.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="mai-in" code="1033">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>प्रिय उपयोगकर्ता, ई अपडेट मुख्य रूप सँ सिस्टमक कार्य-क्षमता केँ वर्धित करैत अछि। सुधार सभक आनंद लेबाक लेल अपडेट करू।</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="सिस्टम अनुकूलन">
+            <!-- 正文 -->
+            <feature>उपयोगकर्ता अनुभव मे सुधार करबाक लेल सिस्टमक कार्य-क्षमता केँ अनुकूलित करैत अछि।</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="mi-nz" code="1153">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>E te kaiwhakamahi, ko tēnei whakahōutanga e whakarei ake ana i te mahinga pūnaha. Whakahōu kia ngahau ki ngā whakapainga.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Arotautanga pūnaha">
+            <!-- 正文 -->
+            <feature>Ka ngā arotau i te mahinga pūnaha hei whakapai ake i te wheako kaiwhakamahi.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="mk-mk" code="1071">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Почитуван кориснику, ова ажурирање главно ги подобрува перформансите на системот. Ажурирајте за да уживате во подобрувањата.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Оптимизација на системот">
+            <!-- 正文 -->
+            <feature>Ги оптимизира перформансите на системот за да се подобри корисничкото искуство.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="ml-in" code="1100">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>പ്രിയ ഉപയോക്താവേ, ഈ അപ്‌ഡേറ്റ് പ്രധാനമായും സിസ്റ്റം പ്രകടനം മെച്ചപ്പെടുത്തുന്നു. മെച്ചപ്പെടുത്തലുകൾ ആസ്വദിക്കാൻ അപ്‌ഡേറ്റ് ചെയ്യുക.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="സിസ്റ്റം ഒപ്‌റ്റിമൈസേഷൻ">
+            <!-- 正文 -->
+            <feature>ഉപയോക്തൃ അനുഭവം മെച്ചപ്പെടുത്താൻ സിസ്റ്റം പ്രകടനം ഒപ്‌റ്റിമൈസ് ചെയ്യുന്നു.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="mn-mn" code="1104">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Хүндэт хэрэглэгч танаа, энэхүү шинэчлэлтээр голчлон системийн гүйцэтгэлийг сайжруулав. Шинэчлээд сайжруулсан системийг хэрэглэж үзнэ үү.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Системийн оновчлол">
+            <!-- 正文 -->
+            <feature>Хэрэглэгчийн туршлагыг сайжруулахын тулд системийн гүйцэтгэлийг оновчилно.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="mr-in" code="1102">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>प्रिय वापरकर्ता, हे अद्यतन प्रामुख्याने सिस्टम परफॉर्मन्स वाढवते. सुधारणांचा आनंद घेण्यासाठी अद्यतनित करा.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="सिस्‍टम ऑप्टिमायझेशन">
+            <!-- 正文 -->
+            <feature>वापरकर्ता अनुभव सुधारण्यासाठी सिस्टमचा परफॉर्मन्स ऑप्टिमाइझ करते.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="ms-my" code="1086">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Pengguna yang dihormati, kemas kini ini meningkatkan prestasi sistem terutamanya. Kemas kini untuk menikmati penambahbaikan ini.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Pengoptimuman sistem">
+            <!-- 正文 -->
+            <feature>Mengoptimumkan prestasi sistem untuk meningkatkan pengalaman pengguna.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="my-mm" code="1109">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>လေးစားရပါသော သုံးစွဲသူ၊ ဤအပ်ဒိတ်သည် စနစ် စွမ်းဆောင်ရည်ကို အဓိက မြှင့်တင်ပေးသည်။ တိုးတက်ကောင်းမွန်အောင်လုပ်ထားသည်များကို သုံးစွဲခံစားရန် အပ်ဒိတ်လုပ်ပါ။</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="စနစ် အကောင်းဆုံး ချိန်ညှိမှု">
+            <!-- 正文 -->
+            <feature>သုံးစွဲရသည့် အတွေ့အကြုံ ပိုကောင်းလာစေရန် စနစ် စွမ်းဆောင်ရည်ကို အကောင်းဆုံး မြှင့်တင်ပေးသည်။</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="my-zg" code="1109">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>ေလးစားရပါေသာ သုံးစြဲသူ၊ ဤအပ္ဒိတ္သည္ စနစ္ စြမ္းေဆာင္ရည္ကို အဓိက ျမႇင့္တင္ေပးသည္။ တိုးတက္ေကာင္းမြန္ေအာင္လုပ္ထားသည္မ်ားကို သုံးစြဲခံစားရန္ အပ္ဒိတ္လုပ္ပါ။</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="စနစ္ အေကာင္းဆုံး ခ်ိန္ညိွမႈ">
+            <!-- 正文 -->
+            <feature>သုံးစြဲရသည့္ အေတြ႕အႀကဳံ ပိုေကာင္းလာေစရန္ စနစ္ စြမ္းေဆာင္ရည္ကို အေကာင္းဆုံး ျမႇင့္တင္ေပးသည္။</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="nb-no" code="1044">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Kjære bruker, denne oppdateringen forbedrer systemytelsen. Oppdater for å nyte forbedringene.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Systemoptimalisering">
+            <!-- 正文 -->
+            <feature>Optimerer systemytelsen for å forbedre brukeropplevelsen.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="ne-np" code="1121">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>आदरणीय प्रयोगकर्ता, यो अपडेटले मुख्य गरी प्रणालीको कार्यसम्पादन परिष्कार गर्छ । सुधार गरिएका सुविधाहरूको आनन्द लिन अपडेट गर्नुहोस् ।</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="प्रणालीको अप्टिमाइजेसन">
+            <!-- 正文 -->
+            <feature>प्रयोगकर्ता अनुभव सुधार गर्न प्रणालीको कार्यसम्पादन अप्टिमाइज गर्छ ।</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="nl-nl" code="1043">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Beste gebruiker, deze update verbetert vooral de systeemprestaties. Werk bij om van de verbeteringen te genieten.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Systeemoptimalisatie">
+            <!-- 正文 -->
+            <feature>Optimaliseert de systeemprestaties om de gebruikerservaring te verbeteren.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="or-in" code="1096">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>ପ୍ରିୟ ଉପଯୋଗକର୍ତ୍ତା, ଏହି ଅପଡେଟ୍‌ ମୁଖ୍ୟତଃ ସିଷ୍ଟମ୍‌ର କାର୍ଯ୍ୟଦକ୍ଷତାକୁ ବଢାଏ। ବିକାଶଗୁଡ଼ିକ ଉପଭୋଗ କରିବାକୁ ଅପଡେଟ୍ କରନ୍ତୁ।</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="ସିଷ୍ଟମ୍ ଅପ୍ଟିମାଇଜେସନ୍">
+            <!-- 正文 -->
+            <feature>ଉପଯୋଗକର୍ତ୍ତା ଅନୁଭୂତି ବଢାଇବାକୁ ସିଷ୍ଟମ୍‌ର କାର୍ଯ୍ୟଦକ୍ଷତାକୁ ବଢାଏ।</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="pa-in" code="1094">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>ਪਿਆਰੇ ਵਰਤੋਂਕਾਰ, ਇਸ ਅੱਪਡੇਟ ਵਿੱਚ ਮੁੱਖ ਤੌਰ \'ਤੇ ਸਿਸਟਮ ਦੀ ਕਾਰਗੁਜ਼ਾਰੀ ਨੂੰ ਬਿਹਤਰ ਬਣਾਇਆ ਗਿਆ ਹੈ। ਸੁਧਾਰਾਂ ਦਾ ਅਨੰਦ ਲੈਣ ਲਈ ਅੱਪਡੇਟ ਕਰੋ।</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="ਸਿਸਟਮ ਅਨੁਕੂਲਣ">
+            <!-- 正文 -->
+            <feature>ਵਰਤੋਂਕਾਰ ਅਨੁਭਵ ਨੂੰ ਬਿਹਤਰ ਬਣਾਉਣ ਲਈ ਸਿਸਟਮ ਦੀ ਕਾਰਗੁਜ਼ਾਰੀ ਨੂੰ ਅਨੁਕੂਲ ਬਣਾਉਂਦਾ ਹੈ।</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="pl-pl" code="1045">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Ta aktualizacja głównie poprawia wydajność systemu. Zainstaluj ją, aby korzystać z ulepszeń.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Optymalizacja systemu">
+            <!-- 正文 -->
+            <feature>Optymalizuje wydajność systemu w celu zwiększenia komfortu użytkowania.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="pt-br" code="1046">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Prezado(a) usuário(a), essa atualização aprimora principalmente o desempenho do sistema. Atualize para aproveitar as melhorias.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Otimização do sistema">
+            <!-- 正文 -->
+            <feature>Otimiza o desempenho do sistema para melhorar a experiência de usuário.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="pt-pt" code="2070">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Caro utilizador, esta atualização melhora principalmente o desempenho do sistema. Atualize para desfrutar das melhorias.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Otimização do sistema">
+            <!-- 正文 -->
+            <feature>Otimiza o desempenho do sistema para melhorar a experiência do utilizador.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="ro-ro" code="1048">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Stimate utilizator, această actualizare sporește în principal performanța sistemului. Actualizați pentru a vă bucura de îmbunătățiri.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Optimizare sistem">
+            <!-- 正文 -->
+            <feature>Optimizează performanța sistemului pentru a îmbunătăți experiența de utilizare.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="ru-ru" code="1049">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Уважаемый пользователь! Мы выпустили это обновление, чтобы улучшить производительность системы. Установите его, чтобы воспользоваться изменениями.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Оптимизация системы">
+            <!-- 正文 -->
+            <feature>Оптимизирована производительность системы для удобства работы пользователей.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="si-lk" code="1115">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>හිතවත් පරිශීලක, මෙම යාවත්කාලීන කිරීම ප්‍රධාන වශයෙන් පද්ධතියේ කාර්යසාධනය උසස් කරයි. වැඩිදියුණු කිරීම් අත්විඳීමට යාවත්කාලීන කරන්න.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="පද්ධති ප්‍රශස්තකරණය">
+            <!-- 正文 -->
+            <feature>පරිශීලක අත්දැකීම වැඩිදියුණු කිරීමට පද්ධති කාර්යසාධනය ප්‍රශස්ත කරයි.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="sk-sk" code="1051">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Vážený používateľ, táto aktualizácia hlavne zvyšuje výkon systému. Aktualizujte, aby ste si užili zlepšenia.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Optimalizácia systému">
+            <!-- 正文 -->
+            <feature>Optimalizuje výkon systému na zlepšenie používateľskej skúsenosti.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="sl-si" code="1060">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Spoštovani uporabnik, ta posodobitev izboljšuje predvsem zmogljivost sistema. Posodobite in uživajte v izboljšavah.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Optimizacija sistema">
+            <!-- 正文 -->
+            <feature>Učinkovitost delovanja sistema je optimizirana za boljšo uporabniško izkušnjo.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="sv-se" code="1053">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Bästa användare, den här uppdateringen förbättrar främst systemets prestanda. Uppdatera för att ta del av förbättringarna.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Systemoptimering">
+            <!-- 正文 -->
+            <feature>Optimerar systemets prestanda så att användarupplevelsen förbättras.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="sw-tz" code="1089">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Mtumiaji mpendwa, sasisho hili kwa kiasi kikubwa linaboresha utendaji wa mfumo. Sasisha ili ufurahie maboresho.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Uboreshaji wa mfumo">
+            <!-- 正文 -->
+            <feature>Linaboresha utendaji wa mfumo ili kuboresha huduma anayopata mtumiaji.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="ta-in" code="1097">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>அன்புள்ள பயனரே, இந்தப் புதுப்பிப்பு முதன்மையாகச் சிஸ்டம் செயல்திறனை மேம்படுத்துகிறது. மேம்பாடுகளைப் பெற புதுப்பிக்கவும்.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="சிஸ்டம் உகந்ததாக்கம்">
+            <!-- 正文 -->
+            <feature>பயனர் அனுபவத்தை மேம்படுத்த, சிஸ்டம் செயல்திறனை உகந்ததாக்குகிறது.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="te-in" code="1098">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>ప్రియమైన వినియోగదారుకు, ఈ అప్‌డేట్ ప్రధానంగా సిస్టమ్ పనితీరును మెరుగుపరుస్తుంది. మెరుగుదలలను ఆనందించడానికి అప్‌డేట్ చేయండి.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="సిస్టమ్ ఆప్టిమైజేషన్">
+            <!-- 正文 -->
+            <feature>వినియోగదారు అనుభవాన్ని మెరుగుపరచడానికి సిస్టమ్ పనితీరును ఆప్టిమైజ్ చేస్తుంది.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="th-th" code="1054">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>เรียนผู้ใช้ การอัปเดตครั้งนี้เน้นปรับปรุงประสิทธิภาพของระบบเป็นหลัก โปรดอัปเดตเพื่อใช้การปรับปรุงต่างๆ</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="การเพิ่มประสิทธิภาพระบบ">
+            <!-- 正文 -->
+            <feature>ปรับปรุงประสิทธิภาพของระบบเพื่อพัฒนาประสบการณ์ของผู้ใช้</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="tl-ph" code="1124">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Minamahal na user, pangunahing pinapahusay ng update na ito ang performance ng system. I-update para i-enjoy ang mga pagpapahusay.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Pag-optimize ng system">
+            <!-- 正文 -->
+            <feature>Ino-optimize ang performance ng system para mapaganda ang karanasan ng user.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="tr-tr" code="1055">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Değerli kullanıcımız, bu güncelleme ile çoğunlukla sistem performansı iyileştirilecektir. İyileştirmelerden faydalanmak için güncellemeyi gerçekleştirin.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Sistem optimizasyonu">
+            <!-- 正文 -->
+            <feature>Kullanıcı deneyimini iyileştirmek için sistem performansını optimize eder.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="uk-ua" code="1058">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Шановні користувачі, це оновлення насамперед підвищує продуктивність системи. Установіть його, щоб відчути покращення.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Оптимізація системи">
+            <!-- 正文 -->
+            <feature>Оптимізується продуктивність системи й покращується взаємодія з користувачем.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="ur-pk" code="1056">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>محترم صارف، یہ اپ ڈیٹ بنیادی طور پر سسٹم کی کارکردگی کو بڑھاتی ہے۔ بہتریوں سے لطف اندوز ہونے کے لیے اپ ڈیٹ کریں۔</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="سسٹم کی احسن کاری">
+            <!-- 正文 -->
+            <feature>‏صارف کے تجربے کو بہتر بنانے کے لیے سسٹم کی کارکردگی کو بہتر بناتی ہے۔</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="ug-cn" code="1152">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>‏ھۆرمەتلىك ئىشلەتكۈچى، بۇ قېتىملىق يېڭىلاشتا ئاساسلىقى سىستېمىغا قارىتا ئەلالاشتۇرۇش ئېلىپ بېرىلدى، يېڭىلاش تەۋسىيە قىلىنىدۇ.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="‏سىستېما ئەلالاشتۇرۇش">
+            <!-- 正文 -->
+            <feature>سىستېما ئەلالاشتۇرۇلۇپ، ئىشلىتىش تەسىراتى ئۆستۈرۈلدى.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="uz-uz" code="2115">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Hurmatli foydalanuvchi, ushbu yangilanish asosan tizim unumdorligini oshiradi. Takomillashtirishlardan foydalanish uchun yangilang.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Tizimni optimallash">
+            <!-- 正文 -->
+            <feature>Foydalanuvchi taassurotini yaxshilash uchun tizim unumdorligi optimallandi.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="vi-vn" code="1066">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>Người dùng thân mến, bản cập nhật này chủ yếu nâng cao hiệu suất hệ thống. Hãy cập nhật để tận hưởng các cải tiến.</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="Tối ưu hóa hệ thống">
+            <!-- 正文 -->
+            <feature>Tối ưu hóa hiệu suất hệ thống để cải thiện trải nghiệm người dùng.</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="zh-cn" code="2052">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>亲爱的用户，本次更新主要进行系统优化，推荐您更新。</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="系统优化">
+            <!-- 正文 -->
+            <feature> 优化系统，提升使用体验。</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="zh-hk" code="3076">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>親愛的用戶，本次更新主要針對系統進行了優化，建議您更新。</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="系統優化">
+            <!-- 正文 -->
+            <feature>優化系統，提升使用體驗。</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="zh-tw" code="1028">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>親愛的使用者，本次更新主要針對系統進行最佳化，建議您進行更新。</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="系統最佳化">
+            <!-- 正文 -->
+            <feature>最佳化系統，提升使用體驗。</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+    <language name="bo-cn" code="1105">
+        <features module="" type="header" backgroud="">
+            <!-- 引导语 -->
+            <feature>སྙིང་ཉེ་བའི་སྤྱོད་མཁན་ལགས། ཐེངས་འདིའི་གསར་སྒྱུར་ནི་གཙོ་བོ་རྒྱུད་ཁོངས་ལ་དམིགས་ནས་ལེགས་སྒྱུར་བྱས་ཡོད། ཁྱེད་ལ་གསར་སྒྱུར་བྱ་རྒྱུའི་འོས་སྦྱོར་བྱེད།</feature>
+        </features>
+        <!-- 标题 -->
+        <features module="རྒྱུད་ཁོངས་ལེགས་སྒྱུར།">
+            <!-- 正文 -->
+            <feature>རྒྱུད་ཁོངས་ལེགས་སྒྱུར་བྱས། བེད་སྤྱོད་ཀྱི་ཉམས་ལེན་མཐོར་གདེགས་བཏང་ཡོད།</feature>
+        </features>
+        <features module="" type="end">
+            <feature></feature>
+        </features>
+    </language>
+</root>
